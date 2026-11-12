@@ -1,0 +1,16 @@
+Metric,Step_9_Reported,Independently_Calculated,Difference,Verdict
+PP Spell 100% Capped Balls,3177.0,3177.0,0.0,PASS
+PP Mean Spell Workload (%),37.97,37.97,0.0,PASS
+PP Mean Innings Workload (%),21.74,21.74,0.0,PASS
+PP Experimental High Pressure Balls,9240.0,9240.0,0.0,PASS
+Middle Spell 100% Capped Balls,8877.0,8877.0,0.0,PASS
+Middle Mean Spell Workload (%),40.76,40.76,0.0,PASS
+Middle Mean Innings Workload (%),41.57,41.57,0.0,PASS
+Middle Experimental High Pressure Balls,7834.0,7834.0,0.0,PASS
+Death Spell 100% Capped Balls,1697.0,1697.0,0.0,PASS
+Death Mean Spell Workload (%),33.68,33.68,0.0,PASS
+Death Mean Innings Workload (%),72.35,72.35,0.0,PASS
+Death Experimental High Pressure Balls,2980.0,2980.0,0.0,PASS
+Overall Spell Workload 100% Capped Balls,13751.0,13751.0,0.0,PASS
+Overall Innings Workload 100% Capped Balls,1.0,1.0,0.0,PASS
+Bowler-Level High Pressure Ball Delta Match,589.0,589.0,0.0,PASS

@@ -1,0 +1,7 @@
+Metric,Step_9_Reported,Independently_Calculated,Difference,Verdict
+Model 4 Tier 1 Batter Count,188,188,0,PASS
+Model 4 Tier 1 Bowler Count,165,165,0,PASS
+Model 4 Batter New Entrants,73,73,0,PASS
+Model 4 Batter Dropouts,1,1,0,PASS
+Model 4 Bowler New Entrants,52,52,0,PASS
+Model 4 Bowler Dropouts,0,0,0,PASS

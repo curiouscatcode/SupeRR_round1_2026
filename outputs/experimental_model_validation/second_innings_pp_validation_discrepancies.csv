@@ -1,0 +1,8 @@
+Metric,Step_9_Reported,Independently_Calculated,Difference,Verdict
+Controlled Simulation Scenarios Evaluated,630,630,0,PASS
+Total Second-Innings PP Deliveries,29597,29597,0,PASS
+Steep Chase Deliveries (RRR >= 10),9415,9415,0,PASS
+Steep Chase Classified as Low/Mod (Baseline),6591,6591,0,PASS
+Steep Chase Reclassified to High Pressure (V1),1831,1831,0,PASS
+Modest Chase Classified as High Pressure (V1),0,0,0,PASS
+Overall Second-Innings PP HP Balls (V1),5132,5132,0,PASS

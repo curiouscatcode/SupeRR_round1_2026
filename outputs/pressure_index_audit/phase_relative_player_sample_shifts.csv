@@ -1,0 +1,1406 @@
+player_id,player_name,total_balls,pp_bf,mo_bf,do_bf,base_hp_balls,rel_hp_balls,delta_hp_balls,pct_change,pp_share,do_share,role,player_type,pp_lb,mo_lb,do_lb
+8,Mahendra Singh Dhoni,462,5.0,107.0,350.0,194,182,-12,-6.2,1.1,75.8,Finisher / Death,Batter,,,
+23,Piyush Chawla,37,0.0,11.0,26.0,27,27,0,0.0,0.0,70.3,Finisher / Death,Batter,,,
+28,Ishant Sharma,8,0.0,0.0,8.0,8,8,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+47,Virat Kohli,2445,1110.0,1090.0,245.0,47,124,77,163.8,45.4,10.0,Opener / Top Order,Batter,,,
+88,Faf du Plessis,1268,701.0,487.0,80.0,21,88,67,319.0,55.3,6.3,Opener / Top Order,Batter,,,
+109,Wriddhiman Saha,622,463.0,146.0,13.0,18,52,34,188.9,74.4,2.1,Opener / Top Order,Batter,,,
+126,Rohit Sharma,1585,1052.0,485.0,48.0,48,167,119,247.9,66.4,3.0,Opener / Top Order,Batter,,,
+142,Shikhar Dhawan,757,403.0,280.0,74.0,6,25,19,316.7,53.2,9.8,Opener / Top Order,Batter,,,
+143,Dinesh Karthik,637,16.0,192.0,429.0,131,162,31,23.7,2.5,67.3,Finisher / Death,Batter,,,
+147,Pradeep Sangwan,5,0.0,0.0,5.0,5,4,-1,-20.0,0.0,100.0,Finisher / Death,Batter,,,
+152,Ravindra Jadeja,938,65.0,406.0,467.0,151,209,58,38.4,6.9,49.8,Finisher / Death,Batter,,,
+158,Amit Mishra,30,0.0,13.0,17.0,6,5,-1,-16.7,0.0,56.7,Finisher / Death,Batter,,,
+161,Dwayne Bravo,24,0.0,16.0,8.0,13,16,3,23.1,0.0,33.3,Middle Order,Batter,,,
+167,Ajinkya Rahane,1006,546.0,450.0,10.0,44,106,62,140.9,54.3,1.0,Opener / Top Order,Batter,,,
+169,Robin Uthappa,171,111.0,45.0,15.0,3,9,6,200.0,64.9,8.8,Opener / Top Order,Batter,,,
+198,Manish Pandey,371,89.0,246.0,36.0,38,84,46,121.1,24.0,9.7,Middle Order,Batter,,,
+220,David Warner,1117,612.0,444.0,61.0,44,133,89,202.3,54.8,5.5,Opener / Top Order,Batter,,,
+223,Steven Smith,160,53.0,73.0,34.0,8,21,13,162.5,33.1,21.2,Middle Order,Batter,,,
+232,Tom Cooper,22,5.0,17.0,0.0,0,5,5,500.0,22.7,0.0,Middle Order,Batter,,,
+250,Aaron Finch,318,201.0,108.0,9.0,7,28,21,300.0,63.2,2.8,Opener / Top Order,Batter,,,
+274,Martin Guptill,158,103.0,55.0,0.0,6,11,5,83.3,65.2,0.0,Opener / Top Order,Batter,,,
+278,Tim Southee,51,0.0,10.0,41.0,41,38,-3,-7.3,0.0,80.4,Finisher / Death,Batter,,,
+286,Kane Richardson,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+295,Wayne Parnell,70,8.0,34.0,28.0,27,29,2,7.4,11.4,40.0,Finisher / Death,Batter,,,
+305,Ravichandran Ashwin,317,47.0,172.0,98.0,79,110,31,39.2,14.8,30.9,Middle Order,Batter,,,
+332,Angelo Mathews,150,6.0,66.0,78.0,12,19,7,58.3,4.0,52.0,Finisher / Death,Batter,,,
+344,Sheldon Jackson,26,0.0,9.0,17.0,4,6,2,50.0,0.0,65.4,Finisher / Death,Batter,,,
+360,Bhuvneshwar Kumar,156,0.0,31.0,125.0,120,115,-5,-4.2,0.0,80.1,Finisher / Death,Batter,,,
+393,Kedar Jadhav,10,0.0,3.0,7.0,3,3,0,0.0,0.0,70.0,Finisher / Death,Batter,,,
+395,Karn Sharma,20,0.0,3.0,17.0,19,18,-1,-5.3,0.0,85.0,Finisher / Death,Batter,,,
+403,Umesh Yadav,90,0.0,11.0,79.0,52,45,-7,-13.5,0.0,87.8,Finisher / Death,Batter,,,
+418,Richard Berrington,80,30.0,50.0,0.0,9,20,11,122.2,37.5,0.0,Middle Order,Batter,,,
+443,Paul Stirling,499,401.0,98.0,0.0,17,55,38,223.5,80.4,0.0,Opener / Top Order,Batter,,,
+470,Mohammad Amir,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+478,Eoin Morgan,41,11.0,23.0,7.0,6,12,6,100.0,26.8,17.1,Middle Order,Batter,,,
+479,Adil Rashid,119,0.0,26.0,93.0,84,78,-6,-7.1,0.0,78.2,Finisher / Death,Batter,,,
+492,Andre Fletcher,39,15.0,24.0,0.0,3,12,9,300.0,38.5,0.0,Middle Order,Batter,,,
+494,Kieron Pollard,212,0.0,81.0,131.0,69,71,2,2.9,0.0,61.8,Finisher / Death,Batter,,,
+499,Shakib Al Hasan,275,41.0,148.0,86.0,20,65,45,225.0,14.9,31.3,Middle Order,Batter,,,
+505,Mushfiqur Rahim,9,2.0,7.0,0.0,2,3,1,50.0,22.2,0.0,Middle Order,Batter,,,
+507,Mohammad Mahmudullah,249,21.0,172.0,56.0,44,78,34,77.3,8.4,22.5,Middle Order,Batter,,,
+535,Ambati Rayudu,329,50.0,204.0,75.0,16,50,34,212.5,15.2,22.8,Middle Order,Batter,,,
+722,Liam Dawson,48,0.0,23.0,25.0,12,19,7,58.3,0.0,52.1,Finisher / Death,Batter,,,
+728,Dawid Malan,438,191.0,211.0,36.0,17,32,15,88.2,43.6,8.2,Middle Order,Batter,,,
+757,Sybrand Engelbrecht,10,2.0,3.0,5.0,1,5,4,400.0,20.0,50.0,Finisher / Death,Batter,,,
+768,Reeza Hendricks,776,392.0,334.0,50.0,43,107,64,148.8,50.5,6.4,Opener / Top Order,Batter,,,
+772,Rilee Rossouw,410,127.0,220.0,63.0,38,72,34,89.5,31.0,15.4,Middle Order,Batter,,,
+773,Shadley Van Schalkwyk,14,0.0,5.0,9.0,8,10,2,25.0,0.0,64.3,Finisher / Death,Batter,,,
+778,Darren Bravo,28,8.0,12.0,8.0,11,16,5,45.5,28.6,28.6,Middle Order,Batter,,,
+781,Sunil Narine,508,312.0,147.0,49.0,62,98,36,58.1,61.4,9.6,Opener / Top Order,Batter,,,
+786,Chris Jordan,129,0.0,36.0,93.0,83,77,-6,-7.2,0.0,72.1,Finisher / Death,Batter,,,
+796,Matthew Wade,402,91.0,123.0,188.0,67,69,2,3.0,22.6,46.8,Finisher / Death,Batter,,,
+813,Jos Buttler,2686,1206.0,1173.0,307.0,80,213,133,166.2,44.9,11.4,Middle Order,Batter,,,
+818,Mitchell Marsh,1659,880.0,689.0,90.0,43,125,82,190.7,53.0,5.4,Opener / Top Order,Batter,,,
+820,Nathan Coulter Nile,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+829,Mitchell Starc,26,0.0,0.0,26.0,23,22,-1,-4.3,0.0,100.0,Finisher / Death,Batter,,,
+830,Josh Hazlewood,36,0.0,10.0,26.0,31,33,2,6.5,0.0,72.2,Finisher / Death,Batter,,,
+838,Glenn Maxwell,907,159.0,582.0,166.0,90,178,88,97.8,17.5,18.3,Middle Order,Batter,,,
+914,Krishnappa Gowtham,35,1.0,16.0,18.0,17,14,-3,-17.6,2.9,51.4,Finisher / Death,Batter,,,
+930,Karun Nair,150,72.0,73.0,5.0,5,18,13,260.0,48.0,3.3,Opener / Top Order,Batter,,,
+953,Lokesh Rahul,1995,918.0,871.0,206.0,41,141,100,243.9,46.0,10.3,Opener / Top Order,Batter,,,
+985,Brendan Taylor,59,39.0,20.0,0.0,5,14,9,180.0,66.1,0.0,Opener / Top Order,Batter,,,
+988,Graeme Cremer,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+992,Mayank Agarwal,491,301.0,179.0,11.0,20,57,37,185.0,61.3,2.2,Opener / Top Order,Batter,,,
+1039,Mandeep Singh,39,31.0,8.0,0.0,4,13,9,225.0,79.5,0.0,Opener / Top Order,Batter,,,
+1040,Harpreet Bhatia,93,29.0,42.0,22.0,12,26,14,116.7,31.2,23.7,Middle Order,Batter,,,
+1045,David Wiese,11,0.0,0.0,11.0,9,7,-2,-22.2,0.0,100.0,Finisher / Death,Batter,,,
+1071,Jaydev Unadkat,73,0.0,8.0,65.0,44,41,-3,-6.8,0.0,89.0,Finisher / Death,Batter,,,
+1077,David Miller,1246,63.0,687.0,496.0,201,379,178,88.6,5.1,39.8,Finisher / Death,Batter,,,
+1100,Dinesh Chandimal,59,9.0,44.0,6.0,4,7,3,75.0,15.3,10.2,Middle Order,Batter,,,
+1101,George Dockrell,463,1.0,239.0,223.0,100,153,53,53.0,0.2,48.2,Finisher / Death,Batter,,,
+1107,Mohammad Nabi,657,62.0,364.0,231.0,96,157,61,63.5,9.4,35.2,Finisher / Death,Batter,,,
+1116,Craig Ervine,245,128.0,102.0,15.0,7,25,18,257.1,52.2,6.1,Opener / Top Order,Batter,,,
+1159,Tendai Chatara,24,0.0,0.0,24.0,20,19,-1,-5.0,0.0,100.0,Finisher / Death,Batter,,,
+1171,Chris Woakes,48,0.0,4.0,44.0,33,30,-3,-9.1,0.0,91.7,Finisher / Death,Batter,,,
+1183,Alex Hales,150,90.0,52.0,8.0,0,0,0,0.0,60.0,5.3,Opener / Top Order,Batter,,,
+1187,Jason Roy,386,274.0,112.0,0.0,18,63,45,250.0,71.0,0.0,Opener / Top Order,Batter,,,
+1195,Ben Stokes,34,7.0,22.0,5.0,0,6,6,600.0,20.6,14.7,Middle Order,Batter,,,
+1205,Jonny Bairstow,673,335.0,298.0,40.0,34,79,45,132.4,49.8,5.9,Opener / Top Order,Batter,,,
+1210,James Vince,86,39.0,47.0,0.0,5,17,12,240.0,45.3,0.0,Opener / Top Order,Batter,,,
+1219,David Willey,98,11.0,50.0,37.0,45,51,6,13.3,11.2,37.8,Finisher / Death,Batter,,,
+1233,Gary Ballance,29,14.0,15.0,0.0,0,0,0,0.0,48.3,0.0,Opener / Top Order,Batter,,,
+1318,Andre Russell,733,0.0,396.0,337.0,171,237,66,38.6,0.0,46.0,Finisher / Death,Batter,,,
+1327,Johnson Charles,393,274.0,118.0,1.0,11,47,36,327.3,69.7,0.3,Opener / Top Order,Batter,,,
+1389,Sean Abbott,37,0.0,3.0,34.0,22,21,-1,-4.5,0.0,91.9,Finisher / Death,Batter,,,
+1440,Rahul Tripathi,713,321.0,355.0,37.0,26,109,83,319.2,45.0,5.2,Opener / Top Order,Batter,,,
+1481,Kusal Perera,534,133.0,344.0,57.0,12,42,30,250.0,24.9,10.7,Middle Order,Batter,,,
+1487,Adam Milne,56,0.0,13.0,43.0,33,30,-3,-9.1,0.0,76.8,Finisher / Death,Batter,,,
+1541,Sean Williams,157,48.0,102.0,7.0,7,18,11,157.1,30.6,4.5,Middle Order,Batter,,,
+1556,David Payne,5,0.0,0.0,5.0,4,3,-1,-25.0,0.0,100.0,Finisher / Death,Batter,,,
+1566,Mohammed Shami,46,0.0,1.0,45.0,45,40,-5,-11.1,0.0,97.8,Finisher / Death,Batter,,,
+1568,Kane Williamson,535,226.0,270.0,39.0,5,33,28,560.0,42.2,7.3,Middle Order,Batter,,,
+1596,Moeen Ali,755,128.0,429.0,198.0,99,173,74,74.7,17.0,26.2,Middle Order,Batter,,,
+1612,Yuzvendra Chahal,10,0.0,0.0,10.0,10,10,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+1617,Rishi Dhawan,52,0.0,20.0,32.0,23,20,-3,-13.0,0.0,61.5,Finisher / Death,Batter,,,
+1649,Regis Chakabva,52,25.0,21.0,6.0,9,11,2,22.2,48.1,11.5,Opener / Top Order,Batter,,,
+1699,Suryakumar Yadav,2659,608.0,1690.0,361.0,152,355,203,133.6,22.9,13.6,Middle Order,Batter,,,
+1701,Swapnil Singh,25,0.0,9.0,16.0,15,17,2,13.3,0.0,64.0,Finisher / Death,Batter,,,
+1758,Patrick Cummins,244,0.0,73.0,171.0,131,136,5,3.8,0.0,70.1,Finisher / Death,Batter,,,
+1791,Wesley Barresi,9,0.0,2.0,7.0,2,2,0,0.0,0.0,77.8,Finisher / Death,Batter,,,
+1801,Nitish Kumar,20,5.0,7.0,8.0,7,9,2,28.6,25.0,40.0,Finisher / Death,Batter,,,
+1810,Devon Thomas,50,26.0,12.0,12.0,11,21,10,90.9,52.0,24.0,Opener / Top Order,Batter,,,
+1813,Deepak Chahar,52,0.0,12.0,40.0,36,33,-3,-8.3,0.0,76.9,Finisher / Death,Batter,,,
+1924,Sam Billings,181,12.0,123.0,46.0,25,41,16,64.0,6.6,25.4,Middle Order,Batter,,,
+1941,Devon Conway,1461,730.0,635.0,96.0,13,55,42,323.1,50.0,6.6,Opener / Top Order,Batter,,,
+1944,Keshav Maharaj,90,0.0,33.0,57.0,50,51,1,2.0,0.0,63.3,Finisher / Death,Batter,,,
+2003,Bhanuka Rajapaksa,421,78.0,263.0,80.0,18,48,30,166.7,18.5,19.0,Middle Order,Batter,,,
+2054,Jason Behrendorff,11,0.0,0.0,11.0,11,11,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+2101,Quinton de Kock,1247,711.0,461.0,75.0,53,172,119,224.5,57.0,6.0,Opener / Top Order,Batter,,,
+2210,Sabbir Rahman,36,36.0,0.0,0.0,0,0,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+2213,Soumya Sarkar,201,118.0,83.0,0.0,12,29,17,141.7,58.7,0.0,Opener / Top Order,Batter,,,
+2214,Gulbadin Naib,202,48.0,87.0,67.0,25,41,16,64.0,23.8,33.2,Middle Order,Batter,,,
+2218,Anamul Haque,84,61.0,23.0,0.0,3,10,7,233.3,72.6,0.0,Opener / Top Order,Batter,,,
+2246,Tom Latham,234,116.0,107.0,11.0,5,14,9,180.0,49.6,4.7,Opener / Top Order,Batter,,,
+2258,Sanju Samson,2210,903.0,1092.0,215.0,91,237,146,160.4,40.9,9.7,Middle Order,Batter,,,
+2261,Harshal Patel,145,0.0,41.0,104.0,103,101,-2,-1.9,0.0,71.7,Finisher / Death,Batter,,,
+2296,Safyaan Sharif,6,0.0,0.0,6.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+2304,Tymal Mills,13,0.0,5.0,8.0,13,13,0,0.0,0.0,61.5,Finisher / Death,Batter,,,
+2315,Reece Topley,21,0.0,0.0,21.0,20,18,-2,-10.0,0.0,100.0,Finisher / Death,Batter,,,
+2320,Trent Boult,77,0.0,12.0,65.0,53,46,-7,-13.2,0.0,84.4,Finisher / Death,Batter,,,
+2321,Olly Stone,1,0.0,0.0,1.0,1,0,-1,-100.0,0.0,100.0,Finisher / Death,Batter,,,
+2334,Dwaine Pretorius,82,30.0,10.0,42.0,30,35,5,16.7,36.6,51.2,Finisher / Death,Batter,,,
+2351,Danushka Gunathilaka,112,75.0,33.0,4.0,6,16,10,166.7,67.0,3.6,Opener / Top Order,Batter,,,
+2361,Temba Bavuma,98,86.0,12.0,0.0,5,15,10,200.0,87.8,0.0,Opener / Top Order,Batter,,,
+2364,Ashton Agar,47,36.0,9.0,2.0,3,3,0,0.0,76.6,4.3,Opener / Top Order,Batter,,,
+2367,Travis Head,1096,841.0,248.0,7.0,36,95,59,163.9,76.7,0.6,Opener / Top Order,Batter,,,
+2373,Ashton Turner,20,0.0,10.0,10.0,9,10,1,11.1,0.0,50.0,Finisher / Death,Batter,,,
+2379,Ben Duckett,337,121.0,187.0,29.0,6,28,22,366.7,35.9,8.6,Middle Order,Batter,,,
+2382,Jamie Overton,146,0.0,52.0,94.0,59,57,-2,-3.4,0.0,64.4,Finisher / Death,Batter,,,
+2399,Dushmantha Chameera,94,0.0,6.0,88.0,86,85,-1,-1.2,0.0,93.6,Finisher / Death,Batter,,,
+2407,Dhananjaya de Silva,187,111.0,71.0,5.0,8,28,20,250.0,59.4,2.7,Opener / Top Order,Batter,,,
+2411,Sandeep Sharma,11,0.0,1.0,10.0,11,10,-1,-9.1,0.0,90.9,Finisher / Death,Batter,,,
+2416,Kyle Mayers,737,519.0,213.0,5.0,11,60,49,445.5,70.4,0.7,Opener / Top Order,Batter,,,
+2417,Akeal Hosein,222,0.0,91.0,131.0,126,126,0,0.0,0.0,59.0,Finisher / Death,Batter,,,
+2418,Justin Greaves,20,5.0,15.0,0.0,0,4,4,400.0,25.0,0.0,Middle Order,Batter,,,
+2436,Dasun Shanaka,738,6.0,414.0,318.0,130,202,72,55.4,0.8,43.1,Finisher / Death,Batter,,,
+2439,Akila Dananjaya,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+2463,Ryan Burl,675,52.0,460.0,163.0,74,185,111,150.0,7.7,24.1,Middle Order,Batter,,,
+2483,Lizaad Williams,21,0.0,4.0,17.0,21,21,0,0.0,0.0,81.0,Finisher / Death,Batter,,,
+2485,Babar Azam,1179,515.0,553.0,111.0,24,95,71,295.8,43.7,9.4,Middle Order,Batter,,,
+2490,Mohammad Nawaz,497,7.0,207.0,283.0,137,166,29,21.2,1.4,56.9,Finisher / Death,Batter,,,
+2523,Will Young,161,88.0,73.0,0.0,0,21,21,2100.0,54.7,0.0,Opener / Top Order,Batter,,,
+2526,Ish Sodhi,133,0.0,17.0,116.0,96,91,-5,-5.2,0.0,87.2,Finisher / Death,Batter,,,
+2531,Joe Root,15,15.0,0.0,0.0,1,5,4,400.0,100.0,0.0,Opener / Top Order,Batter,,,
+2533,Najibullah Zadran,266,6.0,156.0,104.0,24,51,27,112.5,2.3,39.1,Finisher / Death,Batter,,,
+2534,Rahmat Shah,6,0.0,6.0,0.0,0,1,1,100.0,0.0,0.0,Middle Order,Batter,,,
+2573,Evin Lewis,255,144.0,94.0,17.0,27,51,24,88.9,56.5,6.7,Opener / Top Order,Batter,,,
+2633,Jason Holder,447,24.0,202.0,221.0,224,252,28,12.5,5.4,49.4,Finisher / Death,Batter,,,
+2636,Adam Zampa,46,0.0,10.0,36.0,40,36,-4,-10.0,0.0,78.3,Finisher / Death,Batter,,,
+2639,Marcus Stoinis,1213,186.0,691.0,336.0,147,284,137,93.2,15.3,27.7,Middle Order,Batter,,,
+2650,Raymon Reifer,41,1.0,38.0,2.0,0,3,3,300.0,2.4,4.9,Middle Order,Batter,,,
+2661,Shamarh Brooks,150,86.0,53.0,11.0,3,15,12,400.0,57.3,7.3,Opener / Top Order,Batter,,,
+2671,Liton Das,998,547.0,413.0,38.0,38,99,61,160.5,54.8,3.8,Opener / Top Order,Batter,,,
+2680,Nurul Hasan,211,11.0,97.0,103.0,72,78,6,8.3,5.2,48.8,Finisher / Death,Batter,,,
+2681,Taskin Ahmed,92,0.0,18.0,74.0,67,61,-6,-9.0,0.0,80.4,Finisher / Death,Batter,,,
+2687,Roston Chase,509,82.0,321.0,106.0,50,79,29,58.0,16.1,20.8,Middle Order,Batter,,,
+2750,Alex Carey,28,0.0,21.0,7.0,15,17,2,13.3,0.0,25.0,Middle Order,Batter,,,
+2756,Shashank Singh,555,25.0,268.0,262.0,135,186,51,37.8,4.5,47.2,Finisher / Death,Batter,,,
+2790,Praveen Dubey,20,0.0,16.0,4.0,3,5,2,66.7,0.0,20.0,Middle Order,Batter,,,
+2847,Shardul Thakur,209,4.0,62.0,143.0,101,101,0,0.0,1.9,68.4,Finisher / Death,Batter,,,
+2852,Jagadeesha Suchith,8,0.0,7.0,1.0,8,8,0,0.0,0.0,12.5,Middle Order,Batter,,,
+2860,KS Bharat,7,7.0,0.0,0.0,1,3,2,200.0,100.0,0.0,Opener / Top Order,Batter,,,
+2876,Axar Patel,1268,92.0,651.0,525.0,321,417,96,29.9,7.3,41.4,Finisher / Death,Batter,,,
+2877,Vijay Shankar,386,94.0,199.0,93.0,65,129,64,98.5,24.4,24.1,Middle Order,Batter,,,
+2878,Mohit Sharma,19,0.0,14.0,5.0,11,14,3,27.3,0.0,26.3,Middle Order,Batter,,,
+2884,Manan Vohra,11,11.0,0.0,0.0,3,6,3,100.0,100.0,0.0,Opener / Top Order,Batter,,,
+2887,Harmeet Singh,28,0.0,20.0,8.0,7,13,6,85.7,0.0,28.6,Middle Order,Batter,,,
+2892,Asif Ali,78,0.0,25.0,53.0,26,29,3,11.5,0.0,67.9,Finisher / Death,Batter,,,
+2921,Fakhar Zaman,863,340.0,442.0,81.0,36,88,52,144.4,39.4,9.4,Middle Order,Batter,,,
+2930,Rassie van der Dussen,311,60.0,179.0,72.0,27,66,39,144.4,19.3,23.2,Middle Order,Batter,,,
+2933,Jasprit Bumrah,29,0.0,0.0,29.0,27,24,-3,-11.1,0.0,100.0,Finisher / Death,Batter,,,
+2972,Yasim Murtaza,169,66.0,79.0,24.0,22,31,9,40.9,39.1,14.2,Middle Order,Batter,,,
+2984,Sikandar Raza,974,176.0,613.0,185.0,81,208,127,156.8,18.1,19.0,Middle Order,Batter,,,
+2985,Mark Wood,20,0.0,1.0,19.0,14,12,-2,-14.3,0.0,95.0,Finisher / Death,Batter,,,
+2996,Stephanus Myburgh,28,23.0,5.0,0.0,0,0,0,0.0,82.1,0.0,Opener / Top Order,Batter,,,
+2997,Paul van Meekeren,18,0.0,7.0,11.0,17,18,1,5.9,0.0,61.1,Finisher / Death,Batter,,,
+3024,Mohammad Rizwan,1150,532.0,489.0,129.0,22,78,56,254.5,46.3,11.2,Opener / Top Order,Batter,,,
+3033,Usman Qadir,7,0.0,0.0,7.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3038,Hussain Talat,54,0.0,43.0,11.0,2,6,4,200.0,0.0,20.4,Middle Order,Batter,,,
+3040,Kashif Daud,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3056,Iftikhar Ahmed,455,41.0,266.0,148.0,54,95,41,75.9,9.0,32.5,Middle Order,Batter,,,
+3077,Usama Mir,7,0.0,0.0,7.0,7,7,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3091,Sahibzada Farhan,810,476.0,287.0,47.0,24,56,32,133.3,58.8,5.8,Opener / Top Order,Batter,,,
+3097,Shan Masood,176,34.0,103.0,39.0,18,47,29,161.1,19.3,22.2,Middle Order,Batter,,,
+3125,Nicholas Pooran,1898,372.0,1097.0,429.0,163,331,168,103.1,19.6,22.6,Middle Order,Batter,,,
+3135,Yannic Cariah,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3174,Matt Henry,28,0.0,9.0,19.0,22,21,-1,-4.5,0.0,67.9,Finisher / Death,Batter,,,
+3260,Hashmatullah Shahidi,54,13.0,39.0,2.0,0,3,3,300.0,24.1,3.7,Middle Order,Batter,,,
+3272,Fabian Allen,48,0.0,21.0,27.0,46,41,-5,-10.9,0.0,56.2,Finisher / Death,Batter,,,
+3275,Alzarri Joseph,130,0.0,13.0,117.0,84,75,-9,-10.7,0.0,90.0,Finisher / Death,Batter,,,
+3276,Gudakesh Motie,145,0.0,65.0,80.0,66,77,11,16.7,0.0,55.2,Finisher / Death,Batter,,,
+3280,Nazmul Hossain Shanto,496,198.0,241.0,57.0,18,66,48,266.7,39.9,11.5,Middle Order,Batter,,,
+3281,Mosaddek Hossain,113,0.0,45.0,68.0,43,48,5,11.6,0.0,60.2,Finisher / Death,Batter,,,
+3282,Mehidy Hasan Miraz,264,90.0,135.0,39.0,31,56,25,80.6,34.1,14.8,Middle Order,Batter,,,
+3297,Shimron Hetmyer,1199,128.0,584.0,487.0,204,313,109,53.4,10.7,40.6,Finisher / Death,Batter,,,
+3298,Jofra Archer,145,0.0,49.0,96.0,105,108,3,2.9,0.0,66.2,Finisher / Death,Batter,,,
+3304,Munim Shahriar,16,16.0,0.0,0.0,0,3,3,300.0,100.0,0.0,Opener / Top Order,Batter,,,
+3306,Afsar Zazai,24,11.0,13.0,0.0,0,0,0,0.0,45.8,0.0,Opener / Top Order,Batter,,,
+3323,Jimmy Neesham,417,3.0,253.0,161.0,96,132,36,37.5,0.7,38.6,Finisher / Death,Batter,,,
+3330,Hardik Pandya,1885,183.0,1055.0,647.0,134,337,203,151.5,9.7,34.3,Middle Order,Batter,,,
+3361,Michael Leask,59,0.0,58.0,1.0,12,21,9,75.0,0.0,1.7,Middle Order,Batter,,,
+3373,Aizaz Khan,48,4.0,28.0,16.0,29,36,7,24.1,8.3,33.3,Middle Order,Batter,,,
+3374,Mark Chapman,810,150.0,502.0,158.0,58,139,81,139.7,18.5,19.5,Middle Order,Batter,,,
+3377,Babar Hayat,165,60.0,84.0,21.0,4,32,28,700.0,36.4,12.7,Middle Order,Batter,,,
+3382,Nizakat Khan,188,68.0,80.0,40.0,2,14,12,600.0,36.2,21.3,Middle Order,Batter,,,
+3383,Kinchit Shah,87,25.0,49.0,13.0,17,33,16,94.1,28.7,14.9,Middle Order,Batter,,,
+3415,Matthew Cross,110,5.0,90.0,15.0,5,8,3,60.0,4.5,13.6,Middle Order,Batter,,,
+3451,Baba Indrajith,30,27.0,3.0,0.0,2,5,3,150.0,90.0,0.0,Opener / Top Order,Batter,,,
+3469,Shreyas Gopal,7,0.0,0.0,7.0,7,7,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3489,Salman Agha,668,182.0,389.0,97.0,38,83,45,118.4,27.2,14.5,Middle Order,Batter,,,
+3539,Ben McDermott,97,54.0,43.0,0.0,1,6,5,500.0,55.7,0.0,Opener / Top Order,Batter,,,
+3543,Shahidullah Kamal,65,16.0,21.0,28.0,4,7,3,75.0,24.6,43.1,Finisher / Death,Batter,,,
+3544,Usman Ghani,85,39.0,46.0,0.0,2,7,5,250.0,45.9,0.0,Opener / Top Order,Batter,,,
+3545,Ihsanullah Janat,14,14.0,0.0,0.0,0,0,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+3550,Sharafuddin Ashraf,21,0.0,8.0,13.0,6,6,0,0.0,0.0,61.9,Finisher / Death,Batter,,,
+3578,Imad Wasim,161,10.0,81.0,70.0,32,44,12,37.5,6.2,43.5,Finisher / Death,Batter,,,
+3595,Andy McBrine,8,0.0,4.0,4.0,8,8,0,0.0,0.0,50.0,Finisher / Death,Batter,,,
+3605,Aiden Markram,1615,578.0,813.0,224.0,118,267,149,126.3,35.8,13.9,Middle Order,Batter,,,
+3613,Shakeel Ahmed,33,0.0,14.0,19.0,24,24,0,0.0,0.0,57.6,Finisher / Death,Batter,,,
+3622,Hayden Walsh,15,0.0,4.0,11.0,15,15,0,0.0,0.0,73.3,Finisher / Death,Batter,,,
+3623,Hasan Ali,19,0.0,0.0,19.0,11,9,-2,-18.2,0.0,100.0,Finisher / Death,Batter,,,
+3627,Andile Phehlukwayo,37,0.0,24.0,13.0,19,24,5,26.3,0.0,35.1,Finisher / Death,Batter,,,
+3628,Kagiso Rabada,141,0.0,29.0,112.0,90,88,-2,-2.2,0.0,79.4,Finisher / Death,Batter,,,
+3629,Corbin Bosch,116,0.0,28.0,88.0,52,50,-2,-3.8,0.0,75.9,Finisher / Death,Batter,,,
+3635,Jason Smith,53,7.0,27.0,19.0,4,9,5,125.0,13.2,35.8,Finisher / Death,Batter,,,
+3639,Brandon King,1127,714.0,372.0,41.0,30,88,58,193.3,63.4,3.6,Opener / Top Order,Batter,,,
+3641,Ben Dwarshuis,70,0.0,35.0,35.0,28,34,6,21.4,0.0,50.0,Finisher / Death,Batter,,,
+3644,Kuldeep Yadav,201,0.0,29.0,172.0,149,140,-9,-6.0,0.0,85.6,Finisher / Death,Batter,,,
+3645,Sarfaraz Khan,224,82.0,106.0,36.0,27,58,31,114.8,36.6,16.1,Middle Order,Batter,,,
+3647,Shreyas Iyer,1765,401.0,1079.0,285.0,83,197,114,137.3,22.7,16.1,Middle Order,Batter,,,
+3648,Deepak Hooda,797,198.0,482.0,117.0,98,159,61,62.2,24.8,14.7,Middle Order,Batter,,,
+3651,Ricky Bhui,9,2.0,7.0,0.0,1,3,2,200.0,22.2,0.0,Middle Order,Batter,,,
+3653,Avesh Khan,57,0.0,12.0,45.0,49,51,2,4.1,0.0,78.9,Finisher / Death,Batter,,,
+3660,Luke Wood,8,0.0,3.0,5.0,8,8,0,0.0,0.0,62.5,Finisher / Death,Batter,,,
+3664,Binura Fernando,23,0.0,7.0,16.0,21,21,0,0.0,0.0,69.6,Finisher / Death,Batter,,,
+3669,Sadeera Samarawickrama,163,33.0,100.0,30.0,13,21,8,61.5,20.2,18.4,Middle Order,Batter,,,
+3672,Kusal Mendis,1278,714.0,501.0,63.0,24,80,56,233.3,55.9,4.9,Opener / Top Order,Batter,,,
+3673,Ramesh Mendis,6,0.0,0.0,6.0,0,0,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3683,Gavin Main,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3686,CB Sole,22,0.0,1.0,21.0,19,18,-1,-5.3,0.0,95.5,Finisher / Death,Batter,,,
+3689,Mark Watt,58,0.0,21.0,37.0,26,25,-1,-3.8,0.0,63.8,Finisher / Death,Batter,,,
+3697,Kyle Jamieson,68,0.0,25.0,43.0,51,52,1,2.0,0.0,63.2,Finisher / Death,Batter,,,
+3700,Tim Seifert,699,471.0,222.0,6.0,28,67,39,139.3,67.4,0.9,Opener / Top Order,Batter,,,
+3720,Craig Young,30,0.0,1.0,29.0,30,30,0,0.0,0.0,96.7,Finisher / Death,Batter,,,
+3727,Matthew Short,403,242.0,138.0,23.0,48,85,37,77.1,60.0,5.7,Opener / Top Order,Batter,,,
+3771,Vivian Kingma,1,0.0,1.0,0.0,1,1,0,0.0,0.0,0.0,Middle Order,Batter,,,
+3772,Logan van Beek,32,0.0,22.0,10.0,15,24,9,60.0,0.0,31.2,Middle Order,Batter,,,
+3775,Sompal Kami,9,0.0,0.0,9.0,9,9,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+3782,M Shahrukh Khan,404,16.0,212.0,176.0,94,129,35,37.2,4.0,43.6,Finisher / Death,Batter,,,
+3802,Anshuman Rath,52,21.0,28.0,3.0,0,2,2,200.0,40.4,5.8,Middle Order,Batter,,,
+3832,Rezza Gaznavi,41,24.0,17.0,0.0,0,4,4,400.0,58.5,0.0,Opener / Top Order,Batter,,,
+3839,Amjad Mahboob,19,0.0,0.0,19.0,15,13,-2,-13.3,0.0,100.0,Finisher / Death,Batter,,,
+3858,Jatinder Singh,46,36.0,10.0,0.0,0,1,1,100.0,78.3,0.0,Opener / Top Order,Batter,,,
+3871,Aamir Kaleem,59,26.0,25.0,8.0,0,1,1,100.0,44.1,13.6,Middle Order,Batter,,,
+3876,Sufyan Mehmood,5,0.0,5.0,0.0,0,2,2,200.0,0.0,0.0,Middle Order,Batter,,,
+3916,Jitesh Sharma,816,16.0,490.0,310.0,97,166,69,71.1,2.0,38.0,Finisher / Death,Batter,,,
+3926,Rahul Tewatia,516,2.0,172.0,342.0,177,197,20,11.3,0.4,66.3,Finisher / Death,Batter,,,
+3954,Andrew Balbirnie,555,355.0,182.0,18.0,11,52,41,372.7,64.0,3.2,Opener / Top Order,Batter,,,
+3967,Tom Kohler,54,51.0,3.0,0.0,0,1,1,100.0,94.4,0.0,Opener / Top Order,Batter,,,
+3986,Matthew Renshaw,108,26.0,52.0,30.0,9,15,6,66.7,24.1,27.8,Middle Order,Batter,,,
+3995,Donald Tiripano,3,0.0,2.0,1.0,3,3,0,0.0,0.0,33.3,Middle Order,Batter,,,
+4007,Ryan Rickelton,818,514.0,261.0,43.0,39,98,59,151.3,62.8,5.3,Opener / Top Order,Batter,,,
+4101,Mitchell Santner,540,77.0,219.0,244.0,172,196,24,14.0,14.3,45.2,Finisher / Death,Batter,,,
+4102,George Munsey,98,71.0,27.0,0.0,4,11,7,175.0,72.4,0.0,Opener / Top Order,Batter,,,
+4106,Daryl Mitchell,1106,218.0,646.0,242.0,102,214,112,109.8,19.7,21.9,Middle Order,Batter,,,
+4111,Khushdil Shah,204,20.0,127.0,57.0,47,70,23,48.9,9.8,27.9,Middle Order,Batter,,,
+4117,Ishan Kishan,2386,1237.0,1011.0,138.0,74,198,124,167.6,51.8,5.8,Opener / Top Order,Batter,,,
+4201,Fareed Malik,20,0.0,9.0,11.0,20,20,0,0.0,0.0,55.0,Finisher / Death,Batter,,,
+4211,Vishnu Vinod,39,0.0,25.0,14.0,14,13,-1,-7.1,0.0,35.9,Finisher / Death,Batter,,,
+4219,Krunal Pandya,637,59.0,390.0,188.0,110,149,39,35.5,9.3,29.5,Middle Order,Batter,,,
+4221,Chris Green,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4229,George Linde,131,0.0,64.0,67.0,43,49,6,14.0,0.0,51.1,Finisher / Death,Batter,,,
+4237,Tabraiz Shamsi,7,0.0,1.0,6.0,7,7,0,0.0,0.0,85.7,Finisher / Death,Batter,,,
+4246,Nitish Rana,861,261.0,527.0,73.0,80,171,91,113.8,30.3,8.5,Middle Order,Batter,,,
+4260,Heinrich Klaasen,1410,102.0,915.0,393.0,154,280,126,81.8,7.2,27.9,Middle Order,Batter,,,
+4265,T Natarajan,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4288,Navdeep Saini,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4369,Shai Hope,1043,491.0,465.0,87.0,56,118,62,110.7,47.1,8.3,Opener / Top Order,Batter,,,
+4372,Rony Talukder,82,76.0,6.0,0.0,0,0,0,0.0,92.7,0.0,Opener / Top Order,Batter,,,
+4373,Mustafizur Rahman,59,0.0,0.0,59.0,59,57,-2,-3.4,0.0,100.0,Finisher / Death,Batter,,,
+4391,Liam Livingstone,988,117.0,601.0,270.0,117,194,77,65.8,11.8,27.3,Middle Order,Batter,,,
+4409,Sam Curran,805,82.0,457.0,266.0,114,191,77,67.5,10.2,33.0,Middle Order,Batter,,,
+4412,Max ODowd,199,125.0,70.0,4.0,3,6,3,100.0,62.8,2.0,Opener / Top Order,Batter,,,
+4417,Karan KC,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4438,Jasdeep Singh,20,0.0,10.0,10.0,10,10,0,0.0,0.0,50.0,Finisher / Death,Batter,,,
+4458,AHT Donald,24,24.0,0.0,0.0,0,0,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+4460,Jeffrey Vandersay,23,0.0,15.0,8.0,14,17,3,21.4,0.0,34.8,Middle Order,Batter,,,
+4486,BR Sharath,5,0.0,5.0,0.0,0,0,0,0.0,0.0,0.0,Middle Order,Batter,,,
+4487,Vyshak Kumar,16,0.0,0.0,16.0,16,16,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4489,Prasidh Krishna,22,0.0,0.0,22.0,22,22,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4494,Abhinav Manohar,235,18.0,123.0,94.0,34,48,14,41.2,7.7,40.0,Finisher / Death,Batter,,,
+4499,Saqib Mahmood,33,0.0,0.0,33.0,25,19,-6,-24.0,0.0,100.0,Finisher / Death,Batter,,,
+4505,Jhye Richardson,22,0.0,10.0,12.0,3,6,3,100.0,0.0,54.5,Finisher / Death,Batter,,,
+4604,Mitchell Swepson,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4636,Bjorn Fortuin,54,0.0,26.0,28.0,41,42,1,2.4,0.0,51.9,Finisher / Death,Batter,,,
+4639,Wellington Masakadza,148,0.0,58.0,90.0,76,81,5,6.6,0.0,60.8,Finisher / Death,Batter,,,
+4641,Lungi Ngidi,62,0.0,9.0,53.0,59,58,-1,-1.7,0.0,85.5,Finisher / Death,Batter,,,
+4658,Nasum Ahmed,74,0.0,42.0,32.0,43,49,6,14.0,0.0,43.2,Finisher / Death,Batter,,,
+4662,Cole McConchie,97,0.0,56.0,41.0,29,43,14,48.3,0.0,42.3,Finisher / Death,Batter,,,
+4665,Tom Blundell,19,19.0,0.0,0.0,0,1,1,100.0,100.0,0.0,Opener / Top Order,Batter,,,
+4684,Dane Cleaver,146,76.0,49.0,21.0,1,12,11,1100.0,52.1,14.4,Opener / Top Order,Batter,,,
+4686,Joshua Clarkson,114,0.0,43.0,71.0,38,49,11,28.9,0.0,62.3,Finisher / Death,Batter,,,
+4692,Lockie Ferguson,30,0.0,10.0,20.0,30,30,0,0.0,0.0,66.7,Finisher / Death,Batter,,,
+4695,Nick Kelly,83,8.0,62.0,13.0,3,5,2,66.7,9.6,15.7,Middle Order,Batter,,,
+4703,Rishabh Pant,1226,222.0,766.0,238.0,76,168,92,121.1,18.1,19.4,Middle Order,Batter,,,
+4708,Rinku Singh,1245,66.0,594.0,585.0,177,282,105,59.3,5.3,47.0,Finisher / Death,Batter,,,
+4716,Mayank Dagar,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4722,Rashid Khan,492,0.0,162.0,330.0,265,263,-2,-0.8,0.0,67.1,Finisher / Death,Batter,,,
+4736,Josh Inglis,855,338.0,451.0,66.0,52,103,51,98.1,39.5,7.7,Middle Order,Batter,,,
+4755,Shivam Dube,1501,31.0,1003.0,467.0,160,335,175,109.4,2.1,31.1,Middle Order,Batter,,,
+4773,Jaker Ali Anik,499,16.0,305.0,178.0,64,110,46,71.9,3.2,35.7,Finisher / Death,Batter,,,
+4779,Pieter Willem Mulder,111,37.0,50.0,24.0,9,15,6,66.7,33.3,21.6,Middle Order,Batter,,,
+4780,Mohammad Saif Hassan,434,234.0,182.0,18.0,4,32,28,700.0,53.9,4.1,Opener / Top Order,Batter,,,
+4784,Tony de Zorzi,91,75.0,16.0,0.0,7,10,3,42.9,82.4,0.0,Opener / Top Order,Batter,,,
+4790,Lutho Sipamla,14,0.0,5.0,9.0,14,14,0,0.0,0.0,64.3,Finisher / Death,Batter,,,
+4793,Dean Foxcroft,86,16.0,54.0,16.0,2,5,3,150.0,18.6,18.6,Middle Order,Batter,,,
+4802,Stephen Doheny,21,17.0,4.0,0.0,0,5,5,500.0,81.0,0.0,Opener / Top Order,Batter,,,
+4807,Joshua Little,19,0.0,2.0,17.0,19,19,0,0.0,0.0,89.5,Finisher / Death,Batter,,,
+4812,Harry Tector,786,238.0,415.0,133.0,31,90,59,190.3,30.3,16.9,Middle Order,Batter,,,
+4814,Lorcan Tucker,639,168.0,413.0,58.0,27,73,46,170.4,26.3,9.1,Middle Order,Batter,,,
+4815,Benjamin White,11,0.0,0.0,11.0,11,11,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4816,Khaleel Ahmed,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4817,Anmolpreet Singh,101,77.0,24.0,0.0,4,15,11,275.0,76.2,0.0,Opener / Top Order,Batter,,,
+4821,Mahipal Lomror,222,13.0,109.0,100.0,47,61,14,29.8,5.9,45.0,Finisher / Death,Batter,,,
+4823,Washington Sundar,637,22.0,306.0,309.0,112,138,26,23.2,3.5,48.5,Finisher / Death,Batter,,,
+4826,George Garton,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4830,Keacy Carty,72,18.0,41.0,13.0,5,10,5,100.0,25.0,18.1,Middle Order,Batter,,,
+4837,Obed McCoy,43,0.0,2.0,41.0,42,38,-4,-9.5,0.0,95.3,Finisher / Death,Batter,,,
+4838,Keemo Paul,29,0.0,5.0,24.0,19,15,-4,-21.1,0.0,82.8,Finisher / Death,Batter,,,
+4840,Odean Smith,128,3.0,21.0,104.0,63,58,-5,-7.9,2.3,81.2,Finisher / Death,Batter,,,
+4842,Shamar Springer,69,0.0,23.0,46.0,41,39,-2,-4.9,0.0,66.7,Finisher / Death,Batter,,,
+4847,Finn Allen,797,560.0,223.0,14.0,22,52,30,136.4,70.3,1.8,Opener / Top Order,Batter,,,
+4853,Glenn Phillips,1055,173.0,640.0,242.0,68,144,76,111.8,16.4,22.9,Middle Order,Batter,,,
+4854,Rachin Ravindra,562,279.0,221.0,62.0,52,93,41,78.8,49.6,11.0,Opener / Top Order,Batter,,,
+4856,Benjamin Sears,33,0.0,0.0,33.0,23,21,-2,-8.7,0.0,100.0,Finisher / Death,Batter,,,
+4857,Nathan Smith,7,0.0,0.0,7.0,7,7,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4867,Wesley Madhevere,416,183.0,186.0,47.0,48,89,41,85.4,44.0,11.3,Middle Order,Batter,,,
+4871,Brandon Mavuta,15,0.0,0.0,15.0,12,12,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4874,Richard Ngarava,62,0.0,11.0,51.0,47,41,-6,-12.8,0.0,82.3,Finisher / Death,Batter,,,
+4876,Milton Shumba,63,16.0,32.0,15.0,20,29,9,45.0,25.4,23.8,Middle Order,Batter,,,
+4880,Aarif Sheikh,3,0.0,3.0,0.0,3,3,0,0.0,0.0,0.0,Middle Order,Batter,,,
+4881,Dipendra Airee,19,0.0,10.0,9.0,2,5,3,150.0,0.0,47.4,Finisher / Death,Batter,,,
+4882,Kushal Bhurtel,44,33.0,11.0,0.0,3,7,4,133.3,75.0,0.0,Opener / Top Order,Batter,,,
+4895,Charith Asalanka,681,111.0,443.0,127.0,43,121,78,181.4,16.3,18.6,Middle Order,Batter,,,
+4900,Wanindu Hasaranga,444,0.0,237.0,207.0,146,176,30,20.5,0.0,46.6,Finisher / Death,Batter,,,
+4901,Asitha Fernando,5,0.0,0.0,5.0,4,2,-2,-50.0,0.0,100.0,Finisher / Death,Batter,,,
+4902,Avishka Fernando,59,24.0,18.0,17.0,13,19,6,46.2,40.7,28.8,Middle Order,Batter,,,
+4904,Kamindu Mendis,570,76.0,359.0,135.0,57,109,52,91.2,13.3,23.7,Middle Order,Batter,,,
+4926,Shadab Khan,318,15.0,168.0,135.0,44,90,46,104.5,4.7,42.5,Finisher / Death,Batter,,,
+4947,Kasun Rajitha,9,0.0,0.0,9.0,9,9,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+4974,Mohammad Nadeem,7,5.0,2.0,0.0,0,5,5,500.0,71.4,0.0,Opener / Top Order,Batter,,,
+4983,Sikander Zulfiqar,3,0.0,3.0,0.0,3,3,0,0.0,0.0,0.0,Middle Order,Batter,,,
+4986,Rovman Powell,1534,116.0,898.0,520.0,275,434,159,57.8,7.6,33.9,Middle Order,Batter,,,
+5029,Prerak Mankad,73,38.0,24.0,11.0,3,10,7,233.3,52.1,15.1,Opener / Top Order,Batter,,,
+5034,Murugan Ashwin,14,0.0,2.0,12.0,14,12,-2,-14.3,0.0,85.7,Finisher / Death,Batter,,,
+5039,Rajat Patidar,869,162.0,583.0,124.0,39,91,52,133.3,18.6,14.3,Middle Order,Batter,,,
+5041,Mukesh Kumar,23,0.0,0.0,23.0,20,20,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+5189,Faheem Ashraf,204,0.0,58.0,146.0,93,97,4,4.3,0.0,71.6,Finisher / Death,Batter,,,
+5379,Mark Adair,265,0.0,85.0,180.0,117,125,8,6.8,0.0,67.9,Finisher / Death,Batter,,,
+5441,Barry McCarthy,109,0.0,34.0,75.0,67,68,1,1.5,0.0,68.8,Finisher / Death,Batter,,,
+5547,Nosthush Kenjige,13,0.0,1.0,12.0,3,3,0,0.0,0.0,92.3,Finisher / Death,Batter,,,
+5553,Phil Salt,1597,955.0,547.0,95.0,68,117,49,72.1,59.8,5.9,Opener / Top Order,Batter,,,
+5561,Brad Wheal,12,0.0,2.0,10.0,12,12,0,0.0,0.0,83.3,Finisher / Death,Batter,,,
+5562,Richard Gleeson,6,0.0,0.0,6.0,6,5,-1,-16.7,0.0,100.0,Finisher / Death,Batter,,,
+5577,Sai Kishore,16,0.0,0.0,16.0,16,16,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+5608,Narayan Jagadeesan,118,58.0,47.0,13.0,12,23,11,91.7,49.2,11.0,Opener / Top Order,Batter,,,
+5665,Sanjay Yadav,2,0.0,0.0,2.0,1,0,-1,-100.0,0.0,100.0,Finisher / Death,Batter,,,
+5738,Xavier Bartlett,90,0.0,32.0,58.0,38,34,-4,-10.5,0.0,64.4,Finisher / Death,Batter,,,
+5750,Ehsan Khan,17,0.0,1.0,16.0,17,16,-1,-5.9,0.0,94.1,Finisher / Death,Batter,,,
+5808,Karim Janat,238,28.0,146.0,64.0,46,68,22,47.8,11.8,26.9,Middle Order,Batter,,,
+5809,Naveen ul Haq,67,0.0,11.0,56.0,34,33,-1,-2.9,0.0,83.6,Finisher / Death,Batter,,,
+5837,Mahedi Hasan,244,20.0,124.0,100.0,64,104,40,62.5,8.2,41.0,Finisher / Death,Batter,,,
+5839,Yasir Ali Chowdhury,117,8.0,47.0,62.0,31,38,7,22.6,6.8,53.0,Finisher / Death,Batter,,,
+5866,Patrick Kruger,60,0.0,32.0,28.0,13,14,1,7.7,0.0,46.7,Finisher / Death,Batter,,,
+5877,Andries Gous,57,16.0,41.0,0.0,3,5,2,66.7,28.1,0.0,Middle Order,Batter,,,
+5882,Afif Hossain,359,48.0,229.0,82.0,30,52,22,73.3,13.4,22.8,Middle Order,Batter,,,
+5892,Blair Tickner,5,0.0,5.0,0.0,5,5,0,0.0,0.0,0.0,Middle Order,Batter,,,
+5928,Prithvi Shaw,391,297.0,94.0,0.0,17,45,28,164.7,76.0,0.0,Opener / Top Order,Batter,,,
+5939,Cameron Green,1066,303.0,582.0,181.0,78,157,79,101.3,28.4,17.0,Middle Order,Batter,,,
+5940,Riley Meredith,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+5944,Mohammed Siraj,72,0.0,10.0,62.0,70,65,-5,-7.1,0.0,86.1,Finisher / Death,Batter,,,
+5977,Khary Pierre,15,0.0,0.0,15.0,15,15,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+5979,Abrar Ahmed,11,0.0,3.0,8.0,11,11,0,0.0,0.0,72.7,Finisher / Death,Batter,,,
+6025,Henry Shipley,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6035,Chirag Suri,103,55.0,36.0,12.0,0,1,1,100.0,53.4,11.7,Opener / Top Order,Batter,,,
+6059,Ruturaj Gaikwad,1794,919.0,726.0,149.0,37,94,57,154.1,51.2,8.3,Opener / Top Order,Batter,,,
+6097,Brydon Carse,34,0.0,19.0,15.0,14,15,1,7.1,0.0,44.1,Finisher / Death,Batter,,,
+6160,Chamika Karunaratne,150,0.0,26.0,124.0,52,53,1,1.9,0.0,82.7,Finisher / Death,Batter,,,
+6161,Rahul Chahar,92,0.0,16.0,76.0,50,41,-9,-18.0,0.0,82.6,Finisher / Death,Batter,,,
+6166,Jack Edwards,6,0.0,6.0,0.0,5,6,1,20.0,0.0,0.0,Middle Order,Batter,,,
+6172,Lasith Croospulle,1,1.0,0.0,0.0,0,0,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+6203,Surendran Chandramohan,25,15.0,0.0,10.0,0,0,0,0.0,60.0,40.0,Opener / Top Order,Batter,,,
+6256,Varun Chakravarthy,49,0.0,10.0,39.0,36,36,0,0.0,0.0,79.6,Finisher / Death,Batter,,,
+6272,William Jacks,660,300.0,299.0,61.0,54,93,39,72.2,45.5,9.2,Opener / Top Order,Batter,,,
+6273,Tom Banton,212,72.0,108.0,32.0,12,34,22,183.3,34.0,15.1,Middle Order,Batter,,,
+6280,Harry Brook,841,186.0,464.0,191.0,52,110,58,111.5,22.1,22.7,Middle Order,Batter,,,
+6281,Abhishek Sharma,2195,1462.0,670.0,63.0,76,210,134,176.3,66.6,2.9,Opener / Top Order,Batter,,,
+6284,Anukul Roy,64,5.0,20.0,39.0,34,38,4,11.8,7.8,60.9,Finisher / Death,Batter,,,
+6286,Shivam Mavi,25,0.0,5.0,20.0,22,18,-4,-18.2,0.0,80.0,Finisher / Death,Batter,,,
+6288,Shubman Gill,2607,1287.0,1109.0,211.0,29,134,105,362.1,49.4,8.1,Opener / Top Order,Batter,,,
+6297,Matthew Parkinson,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6314,Devdutt Padikkal,973,374.0,531.0,68.0,28,85,57,203.6,38.4,7.0,Middle Order,Batter,,,
+6342,Matthew Breetzke,141,60.0,59.0,22.0,8,28,20,250.0,42.6,15.6,Middle Order,Batter,,,
+6350,Matthew Kuhnemann,12,0.0,4.0,8.0,12,12,0,0.0,0.0,66.7,Finisher / Death,Batter,,,
+6354,Spencer Johnson,13,0.0,3.0,10.0,13,12,-1,-7.7,0.0,76.9,Finisher / Death,Batter,,,
+6355,Shaheen Afridi,163,0.0,42.0,121.0,105,93,-12,-11.4,0.0,74.2,Finisher / Death,Batter,,,
+6389,Tanvir Islam,16,0.0,0.0,16.0,14,14,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6395,Josh Philippe,46,11.0,34.0,1.0,13,28,15,115.4,23.9,2.2,Middle Order,Batter,,,
+6396,Tim David,1169,50.0,549.0,570.0,149,229,80,53.7,4.3,48.8,Finisher / Death,Batter,,,
+6398,Aaron Hardie,142,24.0,66.0,52.0,14,37,23,164.3,16.9,36.6,Finisher / Death,Batter,,,
+6423,Riyan Parag,1074,129.0,675.0,270.0,97,175,78,80.4,12.0,25.1,Middle Order,Batter,,,
+6433,Darwish Rasooli,307,53.0,205.0,49.0,6,32,26,433.3,17.3,16.0,Middle Order,Batter,,,
+6436,Qais Ahmad,4,0.0,0.0,4.0,1,0,-1,-100.0,0.0,100.0,Finisher / Death,Batter,,,
+6440,Omair Yousuf,41,41.0,0.0,0.0,1,5,4,400.0,100.0,0.0,Opener / Top Order,Batter,,,
+6441,Abdullah Shafique,16,10.0,6.0,0.0,1,4,3,300.0,62.5,0.0,Opener / Top Order,Batter,,,
+6448,Ibrahim Zadran,1115,491.0,475.0,149.0,39,94,55,141.0,44.0,13.4,Middle Order,Batter,,,
+6450,Mujeeb Ur Rahman,70,0.0,14.0,56.0,46,44,-2,-4.3,0.0,80.0,Finisher / Death,Batter,,,
+6457,Urvil Patel,96,68.0,28.0,0.0,4,14,10,250.0,70.8,0.0,Opener / Top Order,Batter,,,
+6460,Ayush Badoni,803,99.0,393.0,311.0,119,187,68,57.1,12.3,38.7,Finisher / Death,Batter,,,
+6464,Arshdeep Singh,131,0.0,9.0,122.0,104,100,-4,-3.8,0.0,93.1,Finisher / Death,Batter,,,
+6466,Atharwa Taide,177,103.0,74.0,0.0,14,29,15,107.1,58.2,0.0,Opener / Top Order,Batter,,,
+6467,Anuj Rawat,266,87.0,98.0,81.0,44,61,17,38.6,32.7,30.5,Middle Order,Batter,,,
+6473,Nuwanidu Fernando,12,3.0,8.0,1.0,3,11,8,266.7,25.0,8.3,Middle Order,Batter,,,
+6486,Tanush Kotian,31,20.0,11.0,0.0,0,0,0,0.0,64.5,0.0,Opener / Top Order,Batter,,,
+6487,Priyam Garg,56,34.0,20.0,2.0,10,12,2,20.0,60.7,3.6,Opener / Top Order,Batter,,,
+6489,Darshan Nalkande,12,0.0,11.0,1.0,3,8,5,166.7,0.0,8.3,Middle Order,Batter,,,
+6503,Zahoor Khan,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6506,Mohammad Imran Randhawa,12,0.0,10.0,2.0,1,3,2,200.0,0.0,16.7,Middle Order,Batter,,,
+6512,Michael Bracewell,348,16.0,189.0,143.0,59,98,39,66.1,4.6,41.1,Finisher / Death,Batter,,,
+6514,Anil Nidamanuru,43,13.0,18.0,12.0,4,5,1,25.0,30.2,27.9,Middle Order,Batter,,,
+6515,Benjamin Lister,6,0.0,3.0,3.0,6,6,0,0.0,0.0,50.0,Finisher / Death,Batter,,,
+6518,Daniel Sams,75,6.0,25.0,44.0,32,40,8,25.0,8.0,58.7,Finisher / Death,Batter,,,
+6523,Blessing Muzarabani,43,0.0,7.0,36.0,39,38,-1,-2.6,0.0,83.7,Finisher / Death,Batter,,,
+6526,Himmat Singh,69,0.0,30.0,39.0,18,26,8,44.4,0.0,56.5,Finisher / Death,Batter,,,
+6565,Katene Clarke,46,27.0,19.0,0.0,1,2,1,100.0,58.7,0.0,Opener / Top Order,Batter,,,
+6574,Alick Athanaze,243,174.0,69.0,0.0,6,15,9,150.0,71.6,0.0,Opener / Top Order,Batter,,,
+6591,KM Asif,2,0.0,2.0,0.0,2,2,0,0.0,0.0,0.0,Middle Order,Batter,,,
+6628,Gerald Coetzee,97,0.0,42.0,55.0,60,64,4,6.7,0.0,56.7,Finisher / Death,Batter,,,
+6643,Hasan Mahmud,46,0.0,5.0,41.0,28,26,-2,-7.1,0.0,89.1,Finisher / Death,Batter,,,
+6645,Mohammad Sheikh,61,27.0,23.0,11.0,2,15,13,650.0,44.3,18.0,Middle Order,Batter,,,
+6651,Towhid Hridoy,873,149.0,539.0,185.0,68,126,58,85.3,17.1,21.2,Middle Order,Batter,,,
+6664,Dion Myers,340,147.0,151.0,42.0,21,58,37,176.2,43.2,12.4,Middle Order,Batter,,,
+6669,Mohsin Khan,28,0.0,3.0,25.0,28,27,-1,-3.6,0.0,89.3,Finisher / Death,Batter,,,
+6671,Lalit Yadav,217,32.0,133.0,52.0,61,79,18,29.5,14.7,24.0,Middle Order,Batter,,,
+6674,Rahmanullah Gurbaz,1102,715.0,368.0,19.0,31,77,46,148.4,64.9,1.7,Opener / Top Order,Batter,,,
+6676,Azmatullah Omarzai,644,31.0,375.0,238.0,106,171,65,61.3,4.8,37.0,Finisher / Death,Batter,,,
+6677,Mohammad Hasnain,13,0.0,0.0,13.0,13,13,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6683,Mayank Markande,13,0.0,0.0,13.0,13,13,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6697,Shams Mulani,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6705,Scott McKechnie,26,0.0,11.0,15.0,19,19,0,0.0,0.0,57.7,Finisher / Death,Batter,,,
+6725,Sherfane Rutherford,795,65.0,436.0,294.0,109,207,98,89.9,8.2,37.0,Finisher / Death,Batter,,,
+6726,Romario Shepherd,663,1.0,281.0,381.0,254,288,34,13.4,0.2,57.5,Finisher / Death,Batter,,,
+6739,Amir Jangoo,117,59.0,58.0,0.0,8,18,10,125.0,50.4,0.0,Opener / Top Order,Batter,,,
+6772,Chetan Sakariya,6,0.0,0.0,6.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6783,Azam Khan,58,0.0,43.0,15.0,24,37,13,54.2,0.0,25.9,Middle Order,Batter,,,
+6795,Terrance Hinds,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6797,Dominic Drakes,12,0.0,2.0,10.0,12,12,0,0.0,0.0,83.3,Finisher / Death,Batter,,,
+6806,Tushar Deshpande,24,0.0,1.0,23.0,23,23,0,0.0,0.0,95.8,Finisher / Death,Batter,,,
+6819,Yashasvi Jaiswal,1822,1151.0,624.0,47.0,63,155,92,146.0,63.2,2.6,Opener / Top Order,Batter,,,
+6881,Scott Edwards,176,24.0,107.0,45.0,9,26,17,188.9,13.6,25.6,Middle Order,Batter,,,
+6900,Michael Jones,19,15.0,4.0,0.0,0,2,2,200.0,78.9,0.0,Opener / Top Order,Batter,,,
+6919,Tyrone Kane,11,0.0,11.0,0.0,4,7,3,75.0,0.0,0.0,Middle Order,Batter,,,
+6922,Abdul Samad,61,0.0,53.0,8.0,29,42,13,44.8,0.0,13.1,Middle Order,Batter,,,
+6931,Pathum Nissanka,1528,964.0,501.0,63.0,49,98,49,100.0,63.1,4.1,Opener / Top Order,Batter,,,
+6932,Pramod Madushan,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+6985,Bas de Leede,163,35.0,94.0,34.0,7,13,6,85.7,21.5,20.9,Middle Order,Batter,,,
+6995,Saad Zafar,39,0.0,25.0,14.0,8,11,3,37.5,0.0,35.9,Finisher / Death,Batter,,,
+7001,Dilon Heyliger,16,0.0,0.0,16.0,8,5,-3,-37.5,0.0,100.0,Finisher / Death,Batter,,,
+7002,Nicholas Kirton,77,30.0,31.0,16.0,4,12,8,200.0,39.0,20.8,Middle Order,Batter,,,
+7003,Rayyan Pathan,3,3.0,0.0,0.0,2,2,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+7008,Gus Atkinson,23,0.0,7.0,16.0,15,17,2,13.3,0.0,69.6,Finisher / Death,Batter,,,
+7044,Jamie Smith,67,35.0,32.0,0.0,3,13,10,333.3,52.2,0.0,Opener / Top Order,Batter,,,
+7046,Tinashe Kamunhukamwe,74,69.0,5.0,0.0,2,4,2,100.0,93.2,0.0,Opener / Top Order,Batter,,,
+7049,Kamil Mishara,368,180.0,156.0,32.0,5,17,12,240.0,48.9,8.7,Opener / Top Order,Batter,,,
+7052,Dunith Wellalage,89,0.0,38.0,51.0,18,25,7,38.9,0.0,57.3,Finisher / Death,Batter,,,
+7059,Nehal Wadhera,541,50.0,401.0,90.0,68,135,67,98.5,9.2,16.6,Middle Order,Batter,,,
+7060,Arjun Tendulkar,14,0.0,0.0,14.0,12,12,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7094,Curtis Campher,494,55.0,356.0,83.0,33,79,46,139.4,11.1,16.8,Middle Order,Batter,,,
+7120,Rohit Paudel,64,25.0,39.0,0.0,0,2,2,200.0,39.1,0.0,Middle Order,Batter,,,
+7140,Senuran Muthusamy,9,0.0,0.0,9.0,4,3,-1,-25.0,0.0,100.0,Finisher / Death,Batter,,,
+7152,Hazratullah Zazai,235,182.0,53.0,0.0,10,19,9,90.0,77.4,0.0,Opener / Top Order,Batter,,,
+7155,Sahan Arachchige,3,0.0,3.0,0.0,1,2,1,100.0,0.0,0.0,Middle Order,Batter,,,
+7201,Haroon Arshad,18,0.0,4.0,14.0,9,8,-1,-11.1,0.0,77.8,Finisher / Death,Batter,,,
+7216,Prabhsimran Singh,1048,677.0,345.0,26.0,42,112,70,166.7,64.6,2.5,Opener / Top Order,Batter,,,
+7227,Nijat Masood,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7240,FazalHaq Farooqi,45,0.0,10.0,35.0,42,42,0,0.0,0.0,77.8,Finisher / Death,Batter,,,
+7250,Mukesh Choudhary,8,0.0,6.0,2.0,8,8,0,0.0,0.0,25.0,Middle Order,Batter,,,
+7260,Dhruv Jurel,795,91.0,421.0,283.0,99,151,52,52.5,11.4,35.6,Finisher / Death,Batter,,,
+7269,Sushant Mishra,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7270,Anrich Nortje,66,0.0,7.0,59.0,57,54,-3,-5.3,0.0,89.4,Finisher / Death,Batter,,,
+7304,Sanvir Singh,21,5.0,2.0,14.0,14,11,-3,-21.4,23.8,66.7,Finisher / Death,Batter,,,
+7312,Nandre Burger,30,0.0,8.0,22.0,19,19,0,0.0,0.0,73.3,Finisher / Death,Batter,,,
+7322,Yash Dayal,8,0.0,0.0,8.0,8,8,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7325,Harpreet Brar,136,0.0,51.0,85.0,67,68,1,1.5,0.0,62.5,Finisher / Death,Batter,,,
+7327,Rasikh Salam,38,0.0,15.0,23.0,25,30,5,20.0,0.0,60.5,Finisher / Death,Batter,,,
+7338,Haider Ali,74,12.0,55.0,7.0,13,25,12,92.3,16.2,9.5,Middle Order,Batter,,,
+7341,Jake McGurk,274,200.0,74.0,0.0,12,26,14,116.7,73.0,0.0,Opener / Top Order,Batter,,,
+7344,Shoriful Islam,76,0.0,16.0,60.0,53,51,-2,-3.8,0.0,78.9,Finisher / Death,Batter,,,
+7355,Tayyab Tahir,104,37.0,50.0,17.0,12,32,20,166.7,35.6,16.3,Middle Order,Batter,,,
+7364,Haris Rauf,103,0.0,13.0,90.0,96,83,-13,-13.5,0.0,87.4,Finisher / Death,Batter,,,
+7406,Rizwan CP,102,11.0,65.0,26.0,5,18,13,260.0,10.8,25.5,Middle Order,Batter,,,
+7409,Sundeep Jora,60,0.0,32.0,28.0,6,10,4,66.7,0.0,46.7,Finisher / Death,Batter,,,
+7446,Abdul Samad,424,0.0,194.0,230.0,133,151,18,13.5,0.0,54.2,Finisher / Death,Batter,,,
+7472,Shahbaz Ahmed,435,17.0,235.0,183.0,103,150,47,45.6,3.9,42.1,Finisher / Death,Batter,,,
+7473,Akash Deep,14,0.0,2.0,12.0,14,14,0,0.0,0.0,85.7,Finisher / Death,Batter,,,
+7498,Abhijeet Tomar,8,8.0,0.0,0.0,3,7,4,133.3,100.0,0.0,Opener / Top Order,Batter,,,
+7503,Ravi Bishnoi,105,0.0,25.0,80.0,77,84,7,9.1,0.0,76.2,Finisher / Death,Batter,,,
+7533,Simarjeet Singh,15,0.0,3.0,12.0,15,14,-1,-6.7,0.0,80.0,Finisher / Death,Batter,,,
+7544,Venkatesh Iyer,943,333.0,433.0,177.0,47,110,63,134.0,35.3,18.8,Middle Order,Batter,,,
+7545,Kuldeep Sen,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7566,Ben Curran,40,35.0,5.0,0.0,4,7,3,75.0,87.5,0.0,Opener / Top Order,Batter,,,
+7574,Kumar Kartikeya Singh,17,0.0,4.0,13.0,17,17,0,0.0,0.0,76.5,Finisher / Death,Batter,,,
+7625,Suryansh Shedge,112,9.0,63.0,40.0,35,56,21,60.0,8.0,35.7,Finisher / Death,Batter,,,
+7634,Aaron Jones,40,9.0,31.0,0.0,6,9,3,50.0,22.5,0.0,Middle Order,Batter,,,
+7689,Dilshan Madushanka,12,0.0,0.0,12.0,12,12,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7690,Saim Ayub,880,557.0,300.0,23.0,17,66,49,288.2,63.3,2.6,Opener / Top Order,Batter,,,
+7692,Qasim Akram,15,0.0,15.0,0.0,0,2,2,200.0,0.0,0.0,Middle Order,Batter,,,
+7696,Mohammad Wasim,30,0.0,8.0,22.0,21,23,2,9.5,0.0,73.3,Finisher / Death,Batter,,,
+7699,Abbas Afridi,88,0.0,38.0,50.0,48,56,8,16.7,0.0,56.8,Finisher / Death,Batter,,,
+7702,Chamindu Wickramasinghe,35,0.0,10.0,25.0,18,17,-1,-5.6,0.0,71.4,Finisher / Death,Batter,,,
+7704,Pavan Rathnayake,38,16.0,22.0,0.0,0,5,5,500.0,42.1,0.0,Middle Order,Batter,,,
+7709,Ainsley Ndlovu,32,0.0,0.0,32.0,22,17,-5,-22.7,0.0,100.0,Finisher / Death,Batter,,,
+7710,Brandon Glover,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7741,Gareth Delany,273,15.0,104.0,154.0,77,102,25,32.5,5.5,56.4,Finisher / Death,Batter,,,
+7744,Jordan Cox,56,24.0,31.0,1.0,2,8,6,300.0,42.9,1.8,Middle Order,Batter,,,
+7755,Harsh Thaker,39,13.0,17.0,9.0,11,17,6,54.5,33.3,23.1,Middle Order,Batter,,,
+7756,Kaleem Sana,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7761,Ravinderpal Singh,20,0.0,6.0,14.0,6,6,0,0.0,0.0,70.0,Finisher / Death,Batter,,,
+7808,Marco Jansen,269,0.0,116.0,153.0,132,142,10,7.6,0.0,56.9,Finisher / Death,Batter,,,
+7894,Tony Munyonga,115,11.0,78.0,26.0,17,35,18,105.9,9.6,22.6,Middle Order,Batter,,,
+7897,Namboori Tilak Varma,2359,341.0,1477.0,541.0,196,397,201,102.6,14.5,22.9,Middle Order,Batter,,,
+7900,Tanzid Hasan,900,511.0,350.0,39.0,15,41,26,173.3,56.8,4.3,Opener / Top Order,Batter,,,
+7901,Parvez Emon,516,326.0,174.0,16.0,16,50,34,212.5,63.2,3.1,Opener / Top Order,Batter,,,
+7903,Shamim Hossain,348,14.0,193.0,141.0,55,100,45,81.8,4.0,40.5,Finisher / Death,Batter,,,
+7905,Tanzim Sakib,163,0.0,70.0,93.0,91,105,14,15.4,0.0,57.1,Finisher / Death,Batter,,,
+7911,Oliver Hairs,50,50.0,0.0,0.0,0,3,3,300.0,100.0,0.0,Opener / Top Order,Batter,,,
+7912,Vikramjit Singh,137,69.0,58.0,10.0,0,6,6,600.0,50.4,7.3,Opener / Top Order,Batter,,,
+7914,Clayton Floyd,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+7915,Monank Patel,37,37.0,0.0,0.0,2,6,4,200.0,100.0,0.0,Opener / Top Order,Batter,,,
+7920,Nathan Ellis,57,0.0,12.0,45.0,35,29,-6,-17.1,0.0,78.9,Finisher / Death,Batter,,,
+7924,Kushal Malla,51,32.0,19.0,0.0,4,9,5,125.0,62.7,0.0,Opener / Top Order,Batter,,,
+7925,Rohan Rangarajan,11,11.0,0.0,0.0,0,0,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+7926,Manpreet Singh,15,0.0,15.0,0.0,0,0,0,0.0,0.0,0.0,Middle Order,Batter,,,
+7927,Janak Prakash,81,5.0,63.0,13.0,2,8,6,300.0,6.2,16.0,Middle Order,Batter,,,
+7928,Vinoth Baskaran,9,0.0,3.0,6.0,9,9,0,0.0,0.0,66.7,Finisher / Death,Batter,,,
+7929,Aryaman Sunil Uchil,17,0.0,11.0,6.0,12,15,3,25.0,0.0,35.3,Finisher / Death,Batter,,,
+7931,Aritra Dutta,62,52.0,10.0,0.0,1,1,0,0.0,83.9,0.0,Opener / Top Order,Batter,,,
+7935,Mohammad Ghazanfar,4,0.0,3.0,1.0,4,4,0,0.0,0.0,25.0,Middle Order,Batter,,,
+7937,Wasim Ali,2,2.0,0.0,0.0,0,2,2,200.0,100.0,0.0,Opener / Top Order,Batter,,,
+7967,Noor Ahmad,114,0.0,27.0,87.0,98,95,-3,-3.1,0.0,76.3,Finisher / Death,Batter,,,
+7978,Johnathan Campbell,101,8.0,70.0,23.0,33,42,9,27.3,7.9,22.8,Middle Order,Batter,,,
+8005,Zawar Farid,50,0.0,25.0,25.0,15,20,5,33.3,0.0,50.0,Finisher / Death,Batter,,,
+8009,Junaid Siddique,38,0.0,3.0,35.0,31,30,-1,-3.2,0.0,92.1,Finisher / Death,Batter,,,
+8014,Avi Dixit,32,0.0,18.0,14.0,11,13,2,18.2,0.0,43.8,Finisher / Death,Batter,,,
+8040,Ripal Patel,46,0.0,11.0,35.0,28,25,-3,-10.7,0.0,76.1,Finisher / Death,Batter,,,
+8049,Naseem Shah,48,0.0,10.0,38.0,28,25,-3,-10.7,0.0,79.2,Finisher / Death,Batter,,,
+8085,Suyash Prabhudessai,106,12.0,74.0,20.0,40,60,20,50.0,11.3,18.9,Middle Order,Batter,,,
+8093,Nikhil Chaudhary,19,0.0,14.0,5.0,2,5,3,150.0,0.0,26.3,Middle Order,Batter,,,
+8101,Ashutosh Sharma,308,0.0,108.0,200.0,108,125,17,15.7,0.0,64.9,Finisher / Death,Batter,,,
+8141,Auqib Nabi,4,0.0,1.0,3.0,3,2,-1,-33.3,0.0,75.0,Finisher / Death,Batter,,,
+8177,Akash Madhwal,14,0.0,5.0,9.0,13,13,0,0.0,0.0,64.3,Finisher / Death,Batter,,,
+8182,Donovan Ferreira,332,14.0,193.0,125.0,69,134,65,94.2,4.2,37.7,Finisher / Death,Batter,,,
+8217,Ansh Tandon,13,0.0,13.0,0.0,1,1,0,0.0,0.0,0.0,Middle Order,Batter,,,
+8221,Nitish Reddy,672,91.0,418.0,163.0,92,147,55,59.8,13.5,24.3,Middle Order,Batter,,,
+8238,Sameer Rizvi,293,32.0,196.0,65.0,39,80,41,105.1,10.9,22.2,Middle Order,Batter,,,
+8241,Lokesh Bam,10,0.0,0.0,10.0,7,6,-1,-14.3,0.0,100.0,Finisher / Death,Batter,,,
+8251,Kumar Kushagra,21,15.0,5.0,1.0,8,11,3,37.5,71.4,4.8,Opener / Top Order,Batter,,,
+8266,Sumit Kumar 1,24,2.0,12.0,10.0,9,10,1,11.1,8.3,41.7,Finisher / Death,Batter,,,
+8295,Matthew Forde,114,4.0,52.0,58.0,66,67,1,1.5,3.5,50.9,Finisher / Death,Batter,,,
+8298,Ramon Simmonds,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8301,Asif Khan,200,13.0,121.0,66.0,39,68,29,74.4,6.5,33.0,Middle Order,Batter,,,
+8311,Dan Mousley,6,0.0,0.0,6.0,0,0,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8326,Jayden Seales,6,0.0,0.0,6.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8380,Mohammad Rishad Hossain,161,0.0,85.0,76.0,106,116,10,9.4,0.0,47.2,Finisher / Death,Batter,,,
+8405,Kanwarpal Tathgur,8,8.0,0.0,0.0,0,1,1,100.0,100.0,0.0,Opener / Top Order,Batter,,,
+8408,Shreyas Movva,67,8.0,54.0,5.0,6,11,5,83.3,11.9,7.5,Middle Order,Batter,,,
+8424,Tanveer Sangha,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8530,Kartik Tyagi,16,0.0,2.0,14.0,15,12,-3,-20.0,0.0,87.5,Finisher / Death,Batter,,,
+8580,Yudhvir Singh,16,0.0,4.0,12.0,13,13,0,0.0,0.0,75.0,Finisher / Death,Batter,,,
+8600,Tadiwanashe Marumani,415,273.0,122.0,20.0,38,60,22,57.9,65.8,4.8,Opener / Top Order,Batter,,,
+8623,Kristian Clarke,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8634,Ashwani Kumar,6,0.0,0.0,6.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8637,Vriitya Aravind,103,55.0,37.0,11.0,3,6,3,100.0,53.4,10.7,Opener / Top Order,Batter,,,
+8638,Basil Hameed,139,0.0,96.0,43.0,21,56,35,166.7,0.0,30.9,Middle Order,Batter,,,
+8639,Kartik Meiyappan,15,0.0,1.0,14.0,6,6,0,0.0,0.0,93.3,Finisher / Death,Batter,,,
+8647,Sediqullah Atal,529,271.0,225.0,33.0,13,33,20,153.8,51.2,6.2,Opener / Top Order,Batter,,,
+8652,Mohammad Ishaq,72,28.0,36.0,8.0,5,11,6,120.0,38.9,11.1,Middle Order,Batter,,,
+8654,Cooper Connolly,363,120.0,198.0,45.0,33,67,34,103.0,33.1,12.4,Middle Order,Batter,,,
+8661,Matheesha Pathirana,30,0.0,12.0,18.0,24,26,2,8.3,0.0,60.0,Finisher / Death,Batter,,,
+8664,Victor Nyauchi,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+8719,Aryan Lakra,43,22.0,21.0,0.0,3,11,8,266.7,51.2,0.0,Opener / Top Order,Batter,,,
+8723,Mohammed Faraazuddin,8,0.0,0.0,8.0,8,7,-1,-12.5,0.0,100.0,Finisher / Death,Batter,,,
+8726,Alishan Sharafu,224,95.0,105.0,24.0,18,36,18,100.0,42.4,10.7,Middle Order,Batter,,,
+8727,Sanchit Sharma,5,0.0,1.0,4.0,1,1,0,0.0,0.0,80.0,Finisher / Death,Batter,,,
+8739,Muhammad Irfan,129,22.0,52.0,55.0,25,43,18,72.0,17.1,42.6,Finisher / Death,Batter,,,
+8741,Mohammad Haris,330,155.0,132.0,43.0,23,45,22,95.7,47.0,13.0,Opener / Top Order,Batter,,,
+8746,Vaibhav Arora,27,0.0,7.0,20.0,19,20,1,5.3,0.0,74.1,Finisher / Death,Batter,,,
+8771,Rubin Hermann,82,20.0,53.0,9.0,3,8,5,166.7,24.4,11.0,Middle Order,Batter,,,
+8805,Ottneil Baartman,35,0.0,13.0,22.0,22,23,1,4.5,0.0,62.9,Finisher / Death,Batter,,,
+15269,Mohammed Aslam,39,4.0,29.0,6.0,9,13,4,44.4,10.3,15.4,Middle Order,Batter,,,
+15271,Usmangani Ibrahim Patel,38,12.0,26.0,0.0,0,4,4,400.0,31.6,0.0,Middle Order,Batter,,,
+15274,Ravija Sandaruwan,46,37.0,9.0,0.0,0,2,2,200.0,80.4,0.0,Opener / Top Order,Batter,,,
+15279,Shiraz Khan,14,0.0,14.0,0.0,5,9,4,80.0,0.0,0.0,Middle Order,Batter,,,
+15280,Sayed Monib,24,1.0,9.0,14.0,6,6,0,0.0,4.2,58.3,Finisher / Death,Batter,,,
+15303,Bilal Tahir,22,10.0,12.0,0.0,7,10,3,42.9,45.5,0.0,Opener / Top Order,Batter,,,
+15551,Ackeem Auguste,125,57.0,67.0,1.0,11,26,15,136.4,45.6,0.8,Opener / Top Order,Batter,,,
+15629,Shayan Jahangir,47,8.0,31.0,8.0,19,22,3,15.8,17.0,17.0,Middle Order,Batter,,,
+16498,Sultan Ahmad,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+17413,Neil Rock,59,0.0,45.0,14.0,4,13,9,225.0,0.0,23.7,Middle Order,Batter,,,
+17419,Tim Tector,81,58.0,22.0,1.0,10,11,1,10.0,71.6,1.2,Opener / Top Order,Batter,,,
+17424,Graham Hume,12,0.0,0.0,12.0,11,10,-1,-9.1,0.0,100.0,Finisher / Death,Batter,,,
+17432,Ross Adair,272,168.0,97.0,7.0,5,14,9,180.0,61.8,2.6,Opener / Top Order,Batter,,,
+17910,Mohammad Akram,9,9.0,0.0,0.0,1,3,2,200.0,100.0,0.0,Opener / Top Order,Batter,,,
+17911,Nangeyalia Kharote,11,0.0,3.0,8.0,4,3,-1,-25.0,0.0,72.7,Finisher / Death,Batter,,,
+17937,Zubaid Akbari,7,7.0,0.0,0.0,0,0,0,0.0,100.0,0.0,Opener / Top Order,Batter,,,
+19012,Zeeshan Ali,94,39.0,34.0,21.0,19,22,3,15.8,41.5,22.3,Middle Order,Batter,,,
+19020,Ateeq Iqbal,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+19125,Ayush Shukla,7,0.0,5.0,2.0,7,7,0,0.0,0.0,28.6,Middle Order,Batter,,,
+19145,Aamer Jamal,22,0.0,12.0,10.0,19,18,-1,-5.3,0.0,45.5,Finisher / Death,Batter,,,
+19147,Faraz Akram,55,0.0,16.0,39.0,19,22,3,15.8,0.0,70.9,Finisher / Death,Batter,,,
+19307,Tharindu Rathnayake,15,0.0,0.0,15.0,9,7,-2,-22.2,0.0,100.0,Finisher / Death,Batter,,,
+19309,Lahiru Udara,95,51.0,32.0,12.0,9,12,3,33.3,53.7,12.6,Opener / Top Order,Batter,,,
+19312,Nuwan Thushara,20,0.0,0.0,20.0,20,20,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+19315,Vijayakanth Viyaskanth,7,0.0,0.0,7.0,7,6,-1,-14.3,0.0,100.0,Finisher / Death,Batter,,,
+19316,Maheesh Theekshana,199,0.0,51.0,148.0,156,135,-21,-13.5,0.0,74.4,Finisher / Death,Batter,,,
+19530,Shahnawaz Dhani,6,0.0,0.0,6.0,6,5,-1,-16.7,0.0,100.0,Finisher / Death,Batter,,,
+19714,Abishek Porel,519,249.0,234.0,36.0,62,101,39,62.9,48.0,6.9,Opener / Top Order,Batter,,,
+19781,Mitchell Owen,123,9.0,106.0,8.0,27,40,13,48.1,7.3,6.5,Middle Order,Batter,,,
+19894,Mitchell Hay,52,0.0,31.0,21.0,17,28,11,64.7,0.0,40.4,Finisher / Death,Batter,,,
+19902,Tim Pringle,37,0.0,6.0,31.0,23,20,-3,-13.0,0.0,83.8,Finisher / Death,Batter,,,
+20005,Arshad Khan,98,0.0,36.0,62.0,51,54,3,5.9,0.0,63.3,Finisher / Death,Batter,,,
+20006,Ramandeep Singh,211,3.0,112.0,96.0,82,86,4,4.9,1.4,45.5,Finisher / Death,Batter,,,
+20023,Karan Sharma,9,9.0,0.0,0.0,2,7,5,250.0,100.0,0.0,Opener / Top Order,Batter,,,
+20163,Aasif Sheikh,51,18.0,26.0,7.0,0,2,2,200.0,35.3,13.7,Middle Order,Batter,,,
+20175,Nandan Yadav,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+20229,Mohammad Ali,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+20310,Ahmed Daniyal,11,0.0,0.0,11.0,6,4,-2,-33.3,0.0,100.0,Finisher / Death,Batter,,,
+20316,Shahab Alam,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+20327,Usman Khan,316,57.0,207.0,52.0,14,44,30,214.3,18.0,16.5,Middle Order,Batter,,,
+20702,Tristan Stubbs,1007,96.0,556.0,355.0,161,286,125,77.6,9.5,35.3,Finisher / Death,Batter,,,
+20704,Salman Mirza,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+20802,Abdul Basith,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+20894,Aman Khan,104,5.0,58.0,41.0,34,40,6,17.6,4.8,39.4,Finisher / Death,Batter,,,
+20989,Vivrant Sharma,47,24.0,23.0,0.0,1,3,2,200.0,51.1,0.0,Opener / Top Order,Batter,,,
+21777,Tafadzwa Tsiga,24,0.0,13.0,11.0,12,13,1,8.3,0.0,45.8,Finisher / Death,Batter,,,
+21780,Ernest Masuku,6,0.0,5.0,1.0,6,6,0,0.0,0.0,16.7,Middle Order,Batter,,,
+21781,Clive Madande,298,11.0,181.0,106.0,57,101,44,77.2,3.7,35.6,Finisher / Death,Batter,,,
+21784,Brad Evans,121,0.0,35.0,86.0,92,90,-2,-2.2,0.0,71.1,Finisher / Death,Batter,,,
+21790,Tashinga Musekiwa,186,1.0,102.0,83.0,52,78,26,50.0,0.5,44.6,Finisher / Death,Batter,,,
+21791,J Gumbie,52,47.0,5.0,0.0,2,4,2,100.0,90.4,0.0,Opener / Top Order,Batter,,,
+22134,Luke Jongwe,124,0.0,47.0,77.0,73,72,-1,-1.4,0.0,62.1,Finisher / Death,Batter,,,
+22137,Fionn Hand,30,0.0,10.0,20.0,20,18,-2,-10.0,0.0,66.7,Finisher / Death,Batter,,,
+22187,Ryan Klein,65,0.0,18.0,47.0,20,22,2,10.0,0.0,72.3,Finisher / Death,Batter,,,
+22188,Aryan Dutt,44,0.0,21.0,23.0,23,26,3,13.0,0.0,52.3,Finisher / Death,Batter,,,
+22471,Matthew Humphreys,11,0.0,0.0,11.0,10,9,-1,-10.0,0.0,100.0,Finisher / Death,Batter,,,
+22565,Muhammad Waseem,459,286.0,161.0,12.0,4,20,16,400.0,62.3,2.6,Opener / Top Order,Batter,,,
+22920,Jacob Duffy,31,0.0,1.0,30.0,26,25,-1,-3.8,0.0,96.8,Finisher / Death,Batter,,,
+23311,Jacob Bethell,409,135.0,200.0,74.0,23,56,33,143.5,33.0,18.1,Middle Order,Batter,,,
+23450,Sai Sudharsan,1634,732.0,769.0,133.0,50,130,80,160.0,44.8,8.1,Middle Order,Batter,,,
+24017,Brian Bennett,769,464.0,267.0,38.0,29,78,49,169.0,60.3,4.9,Opener / Top Order,Batter,,,
+24346,Mohamed Shafeeq,6,0.0,0.0,6.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+24381,Shariz Ahmad,34,3.0,28.0,3.0,4,10,6,150.0,8.8,8.8,Middle Order,Batter,,,
+24475,Rehan Ahmed,45,0.0,9.0,36.0,17,16,-1,-5.9,0.0,80.0,Finisher / Death,Batter,,,
+24779,Ijaz Ahmadzai,81,0.0,56.0,25.0,16,25,9,56.2,0.0,30.9,Middle Order,Batter,,,
+24803,Gulshan Jha,34,0.0,21.0,13.0,1,6,5,500.0,0.0,38.2,Finisher / Death,Batter,,,
+24812,Chris Greaves,28,0.0,3.0,25.0,13,7,-6,-46.2,0.0,89.3,Finisher / Death,Batter,,,
+24887,Innocent Kaia,165,102.0,51.0,12.0,6,16,10,166.7,61.8,7.3,Opener / Top Order,Batter,,,
+24978,Jack Jarvis,11,0.0,0.0,11.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+24982,Charlie Tear,25,12.0,13.0,0.0,5,14,9,180.0,48.0,0.0,Opener / Top Order,Batter,,,
+25011,Liam Mccarthy,24,0.0,0.0,24.0,22,17,-5,-22.7,0.0,100.0,Finisher / Death,Batter,,,
+25030,Zaman Khan,9,0.0,0.0,9.0,9,8,-1,-11.1,0.0,100.0,Finisher / Death,Batter,,,
+25048,Umran Malik,18,0.0,0.0,18.0,18,18,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+25128,Nqabayomzi Peter,20,0.0,2.0,18.0,15,15,0,0.0,0.0,90.0,Finisher / Death,Batter,,,
+25132,Praful Hinge,9,0.0,8.0,1.0,9,9,0,0.0,0.0,11.1,Middle Order,Batter,,,
+25138,Harsh Dubey,9,0.0,0.0,9.0,8,6,-2,-25.0,0.0,100.0,Finisher / Death,Batter,,,
+25139,Shubham Dubey,143,6.0,49.0,88.0,69,72,3,4.3,4.2,61.5,Finisher / Death,Batter,,,
+25213,Dewald Brevis,610,142.0,408.0,60.0,54,119,65,120.4,23.3,9.8,Middle Order,Batter,,,
+25216,Andile Simelane,35,0.0,23.0,12.0,21,24,3,14.3,0.0,34.3,Middle Order,Batter,,,
+25231,Samay Shrivastava,19,0.0,10.0,9.0,18,18,0,0.0,0.0,47.4,Finisher / Death,Batter,,,
+25501,Meet Bhavsar,38,37.0,1.0,0.0,1,2,1,100.0,97.4,0.0,Opener / Top Order,Batter,,,
+25502,Adnan Idrees,6,5.0,1.0,0.0,0,0,0,0.0,83.3,0.0,Opener / Top Order,Batter,,,
+25507,Edson Silva,47,3.0,18.0,26.0,9,12,3,33.3,6.4,55.3,Finisher / Death,Batter,,,
+25534,Chad Bowes,118,111.0,7.0,0.0,5,19,14,280.0,94.1,0.0,Opener / Top Order,Batter,,,
+25669,Priyansh Arya,391,307.0,84.0,0.0,21,55,34,161.9,78.5,0.0,Opener / Top Order,Batter,,,
+25679,Salil Arora,98,1.0,49.0,48.0,25,39,14,56.0,1.0,49.0,Finisher / Death,Batter,,,
+25809,Juanoy Drysdale,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+26519,Janith Liyanage,133,0.0,85.0,48.0,6,15,9,150.0,0.0,36.1,Finisher / Death,Batter,,,
+26646,Rahul Chopra,154,7.0,124.0,23.0,30,46,16,53.3,4.5,14.9,Middle Order,Batter,,,
+26663,Kwena Maphaka,25,0.0,0.0,25.0,17,17,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+26795,Joel Davies,14,0.0,0.0,14.0,1,0,-1,-100.0,0.0,100.0,Finisher / Death,Batter,,,
+26830,Nishant Kumar Sindhu,50,23.0,27.0,0.0,9,12,3,33.3,46.0,0.0,Opener / Top Order,Batter,,,
+26834,Raj Bawa,32,1.0,13.0,18.0,6,4,-2,-33.3,3.1,56.2,Finisher / Death,Batter,,,
+26839,Haseebullah Khan,22,20.0,2.0,0.0,1,3,2,200.0,90.9,0.0,Opener / Top Order,Batter,,,
+26843,Maaz Sadaqat,83,8.0,53.0,22.0,0,2,2,200.0,9.6,26.5,Middle Order,Batter,,,
+26906,Angkrish Raghuvanshi,601,187.0,330.0,84.0,38,64,26,68.4,31.1,14.0,Middle Order,Batter,,,
+26909,Yash Dhull,23,9.0,14.0,0.0,6,12,6,100.0,39.1,0.0,Middle Order,Batter,,,
+26913,Shaik Rasheed,63,60.0,3.0,0.0,5,13,8,160.0,95.2,0.0,Opener / Top Order,Batter,,,
+26916,Yasir Mohammad,9,0.0,6.0,3.0,7,6,-1,-14.3,0.0,33.3,Middle Order,Batter,,,
+26988,Jitenkumar Ramanandi,14,0.0,9.0,5.0,14,14,0,0.0,0.0,35.7,Finisher / Death,Batter,,,
+27004,Hassnain Shah,5,0.0,3.0,2.0,5,5,0,0.0,0.0,40.0,Finisher / Death,Batter,,,
+27071,Vinayak Shukla,23,0.0,19.0,4.0,7,14,7,100.0,0.0,17.4,Middle Order,Batter,,,
+27137,Hammad Mirza,63,24.0,26.0,13.0,3,12,9,300.0,38.1,20.6,Middle Order,Batter,,,
+27364,Simranjeet Kang,9,0.0,5.0,4.0,9,9,0,0.0,0.0,44.4,Finisher / Death,Batter,,,
+27380,Harshit Kaushik,47,0.0,26.0,21.0,18,28,10,55.6,0.0,44.7,Finisher / Death,Batter,,,
+27390,Matiullah Khan,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+27460,Ali Naseer,14,0.0,7.0,7.0,2,6,4,200.0,0.0,50.0,Finisher / Death,Batter,,,
+27464,Aayan Afzal Khan,63,0.0,30.0,33.0,18,29,11,61.1,0.0,52.4,Finisher / Death,Batter,,,
+27466,Dhruv Parashar,92,3.0,59.0,30.0,54,58,4,7.4,3.3,32.6,Middle Order,Batter,,,
+27469,Aryansh Sharma,129,71.0,54.0,4.0,2,2,0,0.0,55.0,3.1,Opener / Top Order,Batter,,,
+27504,Dushan Hemantha,19,0.0,4.0,15.0,5,4,-1,-20.0,0.0,78.9,Finisher / Death,Batter,,,
+27516,Ihsanullah Ihsanullah,8,0.0,0.0,8.0,8,7,-1,-12.5,0.0,100.0,Finisher / Death,Batter,,,
+27743,DT Doram,6,0.0,2.0,4.0,6,5,-1,-16.7,0.0,66.7,Finisher / Death,Batter,,,
+27959,Hrithik Shokeen,65,5.0,43.0,17.0,8,14,6,75.0,7.7,26.2,Middle Order,Batter,,,
+27960,Mayank Yadav,12,0.0,0.0,12.0,12,12,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+27962,Saurav Chauhan,15,0.0,2.0,13.0,4,4,0,0.0,0.0,86.7,Finisher / Death,Batter,,,
+27964,Anshul Kamboj,52,0.0,8.0,44.0,46,41,-5,-10.9,0.0,84.6,Finisher / Death,Batter,,,
+28018,Ashok Sharma,4,0.0,3.0,1.0,4,4,0,0.0,0.0,25.0,Middle Order,Batter,,,
+28021,Saurabh Dubey,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+28185,Kamil Pooran,40,24.0,16.0,0.0,3,9,6,200.0,60.0,0.0,Opener / Top Order,Batter,,,
+28655,Muhammad Rohid,3,0.0,2.0,1.0,3,3,0,0.0,0.0,33.3,Middle Order,Batter,,,
+28756,Haider Ali,39,0.0,2.0,37.0,37,36,-1,-2.7,0.0,94.9,Finisher / Death,Batter,,,
+28908,Vincent Masekesa,4,0.0,4.0,0.0,4,4,0,0.0,0.0,0.0,Middle Order,Batter,,,
+28915,Trevor Gwandu,26,0.0,5.0,21.0,21,18,-3,-14.3,0.0,80.8,Finisher / Death,Batter,,,
+28967,Tim Robinson,400,265.0,113.0,22.0,16,32,16,100.0,66.2,5.5,Opener / Top Order,Batter,,,
+28970,Connor Esterhuizen,137,63.0,54.0,20.0,2,10,8,400.0,46.0,14.6,Opener / Top Order,Batter,,,
+29066,Zakary Foulkes,66,0.0,11.0,55.0,44,40,-4,-9.1,0.0,83.3,Finisher / Death,Batter,,,
+29075,Aadil Ansari,10,0.0,2.0,8.0,6,5,-1,-16.7,0.0,80.0,Finisher / Death,Batter,,,
+29080,Muhammad Khan,12,0.0,0.0,12.0,9,9,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+29558,Muhammad Arfan,32,0.0,0.0,32.0,29,20,-9,-31.0,0.0,100.0,Finisher / Death,Batter,,,
+29833,Bashir Ahmad,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+29888,Harshit Rana,145,1.0,73.0,71.0,79,90,11,13.9,0.7,49.0,Finisher / Death,Batter,,,
+30925,Bradley Currie,9,0.0,0.0,9.0,9,9,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+30927,Saiteja Mukkamalla,43,33.0,10.0,0.0,0,0,0,0.0,76.7,0.0,Opener / Top Order,Batter,,,
+31107,Yasin Patel,7,0.0,0.0,7.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+31513,Ethan Dsouza,29,10.0,19.0,0.0,4,10,6,150.0,34.5,0.0,Middle Order,Batter,,,
+31518,Akshat Raghuwanshi,25,0.0,25.0,0.0,0,6,6,600.0,0.0,0.0,Middle Order,Batter,,,
+31529,Robin Minz,19,0.0,15.0,4.0,9,12,3,33.3,0.0,21.1,Middle Order,Batter,,,
+31835,Akshay Roopak Puri,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+31836,Aman Desai,27,1.0,25.0,1.0,10,13,3,30.0,3.7,3.7,Middle Order,Batter,,,
+32399,Aaron Johnson,14,14.0,0.0,0.0,2,3,1,50.0,100.0,0.0,Opener / Top Order,Batter,,,
+32401,Akhil Kumar,12,0.0,0.0,12.0,12,11,-1,-8.3,0.0,100.0,Finisher / Death,Batter,,,
+32862,Allah Ghazanfar,11,0.0,5.0,6.0,11,11,0,0.0,0.0,54.5,Finisher / Death,Batter,,,
+33067,Ravichandran Smaran,25,19.0,4.0,2.0,4,10,6,150.0,76.0,8.0,Opener / Top Order,Batter,,,
+33440,Adwitya Bhargava,6,0.0,0.0,6.0,6,6,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+33969,Tinotenda Maposa,45,0.0,24.0,21.0,43,42,-1,-2.3,0.0,46.7,Finisher / Death,Batter,,,
+34466,Arafat Minhas,46,0.0,14.0,32.0,8,11,3,37.5,0.0,69.6,Finisher / Death,Batter,,,
+34485,Sufiyan Muqeem,23,0.0,0.0,23.0,23,22,-1,-4.3,0.0,100.0,Finisher / Death,Batter,,,
+34522,Brandon McMullen,96,35.0,55.0,6.0,3,7,4,133.3,36.5,6.2,Middle Order,Batter,,,
+34527,Jasper John Davidson,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+34546,Aryan Bisht,32,6.0,26.0,0.0,5,7,2,40.0,18.8,0.0,Middle Order,Batter,,,
+34969,Manav Suthar,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+35071,Kunal Rathore,5,5.0,0.0,0.0,1,5,4,400.0,100.0,0.0,Opener / Top Order,Batter,,,
+35102,Zikria Islam,10,0.0,8.0,2.0,9,10,1,11.1,0.0,20.0,Middle Order,Batter,,,
+35122,Shah Faisal,15,9.0,6.0,0.0,5,10,5,100.0,60.0,0.0,Opener / Top Order,Batter,,,
+35318,Sakib Hussain,7,0.0,0.0,7.0,7,7,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+35506,Quentin Sampson,50,0.0,40.0,10.0,23,40,17,73.9,0.0,20.0,Middle Order,Batter,,,
+36551,Zishan Motara,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+36553,Jediah Blades,13,0.0,0.0,13.0,10,9,-1,-10.0,0.0,100.0,Finisher / Death,Batter,,,
+36983,Mohit Rathee,2,0.0,0.0,2.0,2,2,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+37052,Naman Dhir,486,109.0,201.0,176.0,89,125,36,40.4,22.4,36.2,Finisher / Death,Batter,,,
+37201,Jewel Andrew,96,78.0,18.0,0.0,0,5,5,500.0,81.2,0.0,Opener / Top Order,Batter,,,
+37731,Musheer Khan,3,0.0,3.0,0.0,3,3,0,0.0,0.0,0.0,Middle Order,Batter,,,
+37879,Khawaja Nafay,39,4.0,28.0,7.0,0,5,5,500.0,10.3,17.9,Middle Order,Batter,,,
+37939,Nahid Rana,5,0.0,0.0,5.0,5,5,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+38855,Mohammad Saifuddin,77,0.0,34.0,43.0,45,53,8,17.8,0.0,55.8,Finisher / Death,Batter,,,
+39374,Muhammad Zohaib,147,94.0,45.0,8.0,0,13,13,1300.0,63.9,5.4,Opener / Top Order,Batter,,,
+39640,Sineth Jayawardena,47,39.0,8.0,0.0,2,7,5,250.0,83.0,0.0,Opener / Top Order,Batter,,,
+39657,Eshan Malinga,38,0.0,4.0,34.0,35,34,-1,-2.9,0.0,89.5,Finisher / Death,Batter,,,
+39991,Parveen Kumar,8,1.0,7.0,0.0,2,5,3,150.0,12.5,0.0,Middle Order,Batter,,,
+41110,Mayank Kumar,7,0.0,5.0,2.0,5,5,0,0.0,0.0,28.6,Middle Order,Batter,,,
+42548,Muhammad Jawadullah,10,0.0,0.0,10.0,10,10,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+42810,Noah Croes,53,0.0,33.0,20.0,14,19,5,35.7,0.0,37.7,Finisher / Death,Batter,,,
+42811,Michael Levitt,203,136.0,62.0,5.0,3,5,2,66.7,67.0,2.5,Opener / Top Order,Batter,,,
+42845,Arshin Kulkarni,9,9.0,0.0,0.0,2,5,3,150.0,100.0,0.0,Opener / Top Order,Batter,,,
+43250,Dilpreet Singh Bajwa,53,31.0,22.0,0.0,0,1,1,100.0,58.5,0.0,Opener / Top Order,Batter,,,
+43774,Shivam Singh,3,0.0,0.0,3.0,3,2,-1,-33.3,0.0,100.0,Finisher / Death,Batter,,,
+43798,Lhuan Pretorius,73,57.0,12.0,4.0,5,11,6,120.0,78.1,5.5,Opener / Top Order,Batter,,,
+43917,Krish Bhagat,21,0.0,8.0,13.0,13,12,-1,-7.7,0.0,61.9,Finisher / Death,Batter,,,
+45381,PV Satyanarayan Raju,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+45457,Zach Lion Cachet,48,0.0,47.0,1.0,0,4,4,400.0,0.0,2.1,Middle Order,Batter,,,
+45749,Mukul Choudhary,120,0.0,43.0,77.0,20,25,5,25.0,0.0,64.2,Finisher / Death,Batter,,,
+45966,Prashant Veer,67,0.0,28.0,39.0,30,32,2,6.7,0.0,58.2,Finisher / Death,Batter,,,
+46066,Vipraj Nigam,72,8.0,16.0,48.0,49,38,-11,-22.4,11.1,66.7,Finisher / Death,Batter,,,
+46137,Kartik Sharma,216,23.0,149.0,44.0,16,28,12,75.0,10.6,20.4,Middle Order,Batter,,,
+46378,Kyle Klein,39,0.0,23.0,16.0,21,25,4,19.0,0.0,41.0,Finisher / Death,Batter,,,
+46929,Dian Forrester,77,0.0,59.0,18.0,7,17,10,142.9,0.0,23.4,Middle Order,Batter,,,
+47050,Shamar Joseph,29,0.0,0.0,29.0,29,27,-2,-6.9,0.0,100.0,Finisher / Death,Batter,,,
+47314,Wafiullah Tarakhil,17,13.0,4.0,0.0,0,2,2,200.0,76.5,0.0,Opener / Top Order,Batter,,,
+47370,Aniket Verma,196,16.0,103.0,77.0,38,48,10,26.3,8.2,39.3,Finisher / Death,Batter,,,
+47371,Zuhaid Zubair,2,0.0,0.0,2.0,2,1,-1,-50.0,0.0,100.0,Finisher / Death,Batter,,,
+47403,Newman Nyamhuri,21,0.0,15.0,6.0,16,18,2,12.5,0.0,28.6,Middle Order,Batter,,,
+47724,Jahandad Khan,32,0.0,12.0,20.0,16,17,1,6.2,0.0,62.5,Finisher / Death,Batter,,,
+48504,Ayush Mhatre,240,145.0,85.0,10.0,6,19,13,216.7,60.4,4.2,Opener / Top Order,Batter,,,
+48575,Sahil Parakh,33,14.0,19.0,0.0,6,10,4,66.7,42.4,0.0,Middle Order,Batter,,,
+48616,Abdul Saqlain,21,0.0,10.0,11.0,10,14,4,40.0,0.0,52.4,Finisher / Death,Batter,,,
+48953,Danish Malewar,5,5.0,0.0,0.0,0,3,3,300.0,100.0,0.0,Opener / Top Order,Batter,,,
+49003,Hasan Nawaz,321,44.0,216.0,61.0,18,54,36,200.0,13.7,19.0,Middle Order,Batter,,,
+49027,Bevon Jacobs,158,9.0,103.0,46.0,23,45,22,95.7,5.7,29.1,Middle Order,Batter,,,
+49268,Sohaib Khan,7,0.0,7.0,0.0,0,3,3,300.0,0.0,0.0,Middle Order,Batter,,,
+50062,Nqobani Mokoena,21,0.0,2.0,19.0,5,3,-2,-40.0,0.0,90.5,Finisher / Death,Batter,,,
+50284,Vaibhav Sooryavanshi,564,373.0,181.0,10.0,12,52,40,333.3,66.1,1.8,Opener / Top Order,Batter,,,
+55747,Benjamin Calitz,81,5.0,65.0,11.0,2,13,11,550.0,6.2,13.6,Middle Order,Batter,,,
+56685,Abdullah Ahmadzai,9,0.0,9.0,0.0,9,9,0,0.0,0.0,0.0,Middle Order,Batter,,,
+56817,Shivang Kumar,46,0.0,17.0,29.0,30,28,-2,-6.7,0.0,63.0,Finisher / Death,Batter,,,
+56830,Madhav Tiwari,12,0.0,2.0,10.0,7,7,0,0.0,0.0,83.3,Finisher / Death,Batter,,,
+57747,Charlie Cassell,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+58134,Digvesh Rathi,8,0.0,0.0,8.0,8,8,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+58135,Tejasvi Dahiya,15,0.0,3.0,12.0,3,3,0,0.0,0.0,80.0,Finisher / Death,Batter,,,
+58246,Prince Yadav,39,0.0,14.0,25.0,35,31,-4,-11.4,0.0,64.1,Finisher / Death,Batter,,,
+59045,Jai Moondra,3,0.0,0.0,3.0,3,3,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+60609,Navin Bidaisee,30,0.0,21.0,9.0,9,14,5,55.6,0.0,30.0,Middle Order,Batter,,,
+60700,Ravi Singh,2,0.0,2.0,0.0,2,2,0,0.0,0.0,0.0,Middle Order,Batter,,,
+64604,Kalhan Challu,11,8.0,0.0,3.0,8,11,3,37.5,72.7,27.3,Opener / Top Order,Batter,,,
+66103,Noor Rahman,17,6.0,11.0,0.0,6,9,3,50.0,35.3,0.0,Middle Order,Batter,,,
+67036,Brijesh Sharma,4,0.0,0.0,4.0,4,4,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+71727,Razaullah Razaullah,1,0.0,0.0,1.0,1,1,0,0.0,0.0,100.0,Finisher / Death,Batter,,,
+23,Piyush Chawla,576,,,,74,154,80,108.1,13.5,5.2,Middle-Overs Specialist,Bowler,78.0,468.0,30.0
+28,Ishant Sharma,422,,,,64,91,27,42.2,61.1,17.5,Powerplay Specialist,Bowler,258.0,90.0,74.0
+47,Virat Kohli,6,,,,0,6,6,600.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,6.0
+143,Dinesh Karthik,6,,,,0,6,6,600.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,6.0
+147,Pradeep Sangwan,54,,,,6,16,10,166.7,44.4,0.0,Middle-Overs Specialist,Bowler,24.0,30.0,0.0
+152,Ravindra Jadeja,1337,,,,199,355,156,78.4,2.7,3.4,Middle-Overs Specialist,Bowler,36.0,1255.0,46.0
+158,Amit Mishra,126,,,,2,10,8,400.0,0.0,19.0,Middle-Overs Specialist,Bowler,0.0,102.0,24.0
+161,Dwayne Bravo,206,,,,5,39,34,680.0,5.8,47.6,Death Specialist,Bowler,12.0,96.0,98.0
+232,Tom Cooper,12,,,,0,0,0,0.0,0.0,50.0,Death Specialist,Bowler,0.0,6.0,6.0
+278,Tim Southee,826,,,,64,133,69,107.8,49.4,31.0,Powerplay Specialist,Bowler,408.0,162.0,256.0
+286,Kane Richardson,198,,,,10,18,8,80.0,36.4,39.4,Death Specialist,Bowler,72.0,48.0,78.0
+295,Wayne Parnell,391,,,,11,38,27,245.5,56.8,18.7,Powerplay Specialist,Bowler,222.0,96.0,73.0
+305,Ravichandran Ashwin,1404,,,,130,252,122,93.8,21.8,9.8,Middle-Overs Specialist,Bowler,306.0,960.0,138.0
+332,Angelo Mathews,110,,,,31,30,-1,-3.2,88.2,6.4,Powerplay Specialist,Bowler,97.0,6.0,7.0
+360,Bhuvneshwar Kumar,2179,,,,299,460,161,53.8,60.3,31.7,Powerplay Specialist,Bowler,1314.0,174.0,691.0
+395,Karn Sharma,351,,,,21,82,61,290.5,0.0,10.3,Middle-Overs Specialist,Bowler,0.0,315.0,36.0
+403,Umesh Yadav,558,,,,90,109,19,21.1,68.8,6.5,Powerplay Specialist,Bowler,384.0,138.0,36.0
+470,Mohammad Amir,146,,,,19,19,0,0.0,57.5,42.5,Powerplay Specialist,Bowler,84.0,0.0,62.0
+479,Adil Rashid,1240,,,,68,171,103,151.5,2.9,12.1,Middle-Overs Specialist,Bowler,36.0,1054.0,150.0
+494,Kieron Pollard,185,,,,11,27,16,145.5,0.0,22.7,Middle-Overs Specialist,Bowler,0.0,143.0,42.0
+499,Shakib Al Hasan,310,,,,11,23,12,109.1,27.1,18.7,Middle-Overs Specialist,Bowler,84.0,168.0,58.0
+507,Mohammad Mahmudullah,38,,,,5,12,7,140.0,0.0,5.3,Middle-Overs Specialist,Bowler,0.0,36.0,2.0
+722,Liam Dawson,343,,,,12,49,37,308.3,29.7,10.8,Middle-Overs Specialist,Bowler,102.0,204.0,37.0
+768,Reeza Hendricks,23,,,,12,19,7,58.3,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,23.0,0.0
+773,Shadley Van Schalkwyk,66,,,,9,15,6,66.7,18.2,54.5,Death Specialist,Bowler,12.0,18.0,36.0
+781,Sunil Narine,1506,,,,217,373,156,71.9,13.5,13.9,Middle-Overs Specialist,Bowler,204.0,1092.0,210.0
+786,Chris Jordan,550,,,,19,99,80,421.1,19.6,46.5,Death Specialist,Bowler,108.0,186.0,256.0
+818,Mitchell Marsh,295,,,,19,45,26,136.8,12.2,18.6,Middle-Overs Specialist,Bowler,36.0,204.0,55.0
+820,Nathan Coulter Nile,18,,,,0,6,6,600.0,0.0,33.3,Death Specialist,Bowler,0.0,12.0,6.0
+829,Mitchell Starc,743,,,,153,206,53,34.6,55.7,25.7,Powerplay Specialist,Bowler,414.0,138.0,191.0
+830,Josh Hazlewood,1368,,,,176,287,111,63.1,53.5,28.0,Powerplay Specialist,Bowler,732.0,253.0,383.0
+838,Glenn Maxwell,626,,,,78,115,37,47.4,32.6,4.2,Middle-Overs Specialist,Bowler,204.0,396.0,26.0
+914,Krishnappa Gowtham,180,,,,25,44,19,76.0,33.3,6.7,Middle-Overs Specialist,Bowler,60.0,108.0,12.0
+988,Graeme Cremer,42,,,,5,11,6,120.0,0.0,28.6,Middle-Overs Specialist,Bowler,0.0,30.0,12.0
+1028,Varun Aaron,30,,,,0,0,0,0.0,40.0,20.0,Middle-Overs Specialist,Bowler,12.0,12.0,6.0
+1045,David Wiese,18,,,,3,6,3,100.0,66.7,0.0,Powerplay Specialist,Bowler,12.0,6.0,0.0
+1071,Jaydev Unadkat,551,,,,90,149,59,65.6,31.6,27.0,Middle-Overs Specialist,Bowler,174.0,228.0,149.0
+1101,George Dockrell,186,,,,0,5,5,500.0,0.0,19.4,Middle-Overs Specialist,Bowler,0.0,150.0,36.0
+1107,Mohammad Nabi,680,,,,66,112,46,69.7,14.1,6.5,Middle-Overs Specialist,Bowler,96.0,540.0,44.0
+1159,Tendai Chatara,217,,,,21,33,12,57.1,49.8,30.9,Powerplay Specialist,Bowler,108.0,42.0,67.0
+1171,Chris Woakes,152,,,,30,35,5,16.7,78.9,13.2,Powerplay Specialist,Bowler,120.0,12.0,20.0
+1195,Ben Stokes,30,,,,7,11,4,57.1,40.0,0.0,Middle-Overs Specialist,Bowler,12.0,18.0,0.0
+1219,David Willey,375,,,,30,45,15,50.0,62.4,20.0,Powerplay Specialist,Bowler,234.0,66.0,75.0
+1318,Andre Russell,736,,,,89,220,131,147.2,17.1,36.5,Death Specialist,Bowler,126.0,341.0,269.0
+1389,Sean Abbott,436,,,,32,70,38,118.8,33.0,29.8,Middle-Overs Specialist,Bowler,144.0,162.0,130.0
+1487,Adam Milne,533,,,,66,96,30,45.5,52.9,28.0,Powerplay Specialist,Bowler,282.0,102.0,149.0
+1541,Sean Williams,162,,,,0,9,9,900.0,3.7,7.4,Middle-Overs Specialist,Bowler,6.0,144.0,12.0
+1556,David Payne,30,,,,16,18,2,12.5,40.0,0.0,Middle-Overs Specialist,Bowler,12.0,18.0,0.0
+1566,Mohammed Shami,1233,,,,173,209,36,20.8,65.7,19.5,Powerplay Specialist,Bowler,810.0,183.0,240.0
+1596,Moeen Ali,781,,,,62,121,59,95.2,21.5,6.4,Middle-Overs Specialist,Bowler,168.0,563.0,50.0
+1612,Yuzvendra Chahal,2114,,,,186,442,256,137.6,5.1,18.3,Middle-Overs Specialist,Bowler,108.0,1619.0,387.0
+1617,Rishi Dhawan,174,,,,23,34,11,47.8,44.8,3.4,Middle-Overs Specialist,Bowler,78.0,90.0,6.0
+1699,Suryakumar Yadav,6,,,,2,3,1,50.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,6.0
+1701,Swapnil Singh,102,,,,21,26,5,23.8,41.2,0.0,Middle-Overs Specialist,Bowler,42.0,60.0,0.0
+1758,Patrick Cummins,1137,,,,171,300,129,75.4,39.6,28.2,Middle-Overs Specialist,Bowler,450.0,366.0,321.0
+1772,Sheldon Cottrell,197,,,,29,32,3,10.3,64.0,23.9,Powerplay Specialist,Bowler,126.0,24.0,47.0
+1813,Deepak Chahar,845,,,,134,154,20,14.9,76.1,11.8,Powerplay Specialist,Bowler,643.0,102.0,100.0
+1944,Keshav Maharaj,580,,,,78,138,60,76.9,14.5,3.8,Middle-Overs Specialist,Bowler,84.0,474.0,22.0
+2054,Jason Behrendorff,438,,,,33,53,20,60.6,60.3,23.3,Powerplay Specialist,Bowler,264.0,72.0,102.0
+2210,Sabbir Rahman,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+2213,Soumya Sarkar,42,,,,0,1,1,100.0,0.0,14.3,Middle-Overs Specialist,Bowler,0.0,36.0,6.0
+2214,Gulbadin Naib,54,,,,1,8,7,700.0,0.0,33.3,Death Specialist,Bowler,0.0,36.0,18.0
+2261,Harshal Patel,1607,,,,133,355,222,166.9,9.7,40.6,Death Specialist,Bowler,156.0,798.0,653.0
+2296,Safyaan Sharif,33,,,,0,0,0,0.0,18.2,27.3,Middle-Overs Specialist,Bowler,6.0,18.0,9.0
+2304,Tymal Mills,229,,,,8,25,17,212.5,21.0,34.5,Death Specialist,Bowler,48.0,102.0,79.0
+2315,Reece Topley,609,,,,73,145,72,98.6,56.8,28.4,Powerplay Specialist,Bowler,346.0,90.0,173.0
+2320,Trent Boult,1501,,,,180,261,81,45.0,61.6,21.3,Powerplay Specialist,Bowler,924.0,258.0,319.0
+2321,Olly Stone,24,,,,0,1,1,100.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+2334,Dwaine Pretorius,308,,,,22,68,46,209.1,9.7,43.5,Death Specialist,Bowler,30.0,144.0,134.0
+2351,Danushka Gunathilaka,5,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,5.0
+2359,Prenelan Subrayen,42,,,,0,9,9,900.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,42.0,0.0
+2364,Ashton Agar,144,,,,5,10,5,100.0,4.2,8.3,Middle-Overs Specialist,Bowler,6.0,126.0,12.0
+2367,Travis Head,16,,,,5,12,7,140.0,0.0,37.5,Death Specialist,Bowler,0.0,10.0,6.0
+2382,Jamie Overton,454,,,,28,76,48,171.4,13.7,29.5,Middle-Overs Specialist,Bowler,62.0,258.0,134.0
+2399,Dushmantha Chameera,1115,,,,97,156,59,60.8,43.6,29.0,Middle-Overs Specialist,Bowler,486.0,306.0,323.0
+2407,Dhananjaya de Silva,81,,,,5,5,0,0.0,21.0,7.4,Middle-Overs Specialist,Bowler,17.0,58.0,6.0
+2411,Sandeep Sharma,943,,,,90,164,74,82.2,45.2,35.7,Powerplay Specialist,Bowler,426.0,180.0,337.0
+2416,Kyle Mayers,138,,,,14,19,5,35.7,82.6,8.7,Powerplay Specialist,Bowler,114.0,12.0,12.0
+2417,Akeal Hosein,1632,,,,316,451,135,42.7,45.6,6.2,Powerplay Specialist,Bowler,744.0,786.0,102.0
+2418,Justin Greaves,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+2436,Dasun Shanaka,487,,,,36,84,48,133.3,11.1,19.9,Middle-Overs Specialist,Bowler,54.0,336.0,97.0
+2439,Akila Dananjaya,36,,,,19,24,5,26.3,16.7,0.0,Middle-Overs Specialist,Bowler,6.0,30.0,0.0
+2463,Ryan Burl,318,,,,4,22,18,450.0,0.0,5.7,Middle-Overs Specialist,Bowler,0.0,300.0,18.0
+2483,Lizaad Williams,229,,,,31,60,29,93.5,47.2,34.5,Powerplay Specialist,Bowler,108.0,42.0,79.0
+2490,Mohammad Nawaz,1004,,,,68,138,70,102.9,18.5,5.0,Middle-Overs Specialist,Bowler,186.0,768.0,50.0
+2526,Ish Sodhi,1132,,,,55,172,117,212.7,2.1,7.2,Middle-Overs Specialist,Bowler,24.0,1026.0,82.0
+2531,Joe Root,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+2633,Jason Holder,1916,,,,180,384,204,113.3,29.7,32.8,Death Specialist,Bowler,570.0,717.0,629.0
+2636,Adam Zampa,1086,,,,61,175,114,186.9,5.5,21.0,Middle-Overs Specialist,Bowler,60.0,798.0,228.0
+2639,Marcus Stoinis,723,,,,55,128,73,132.7,21.2,19.1,Middle-Overs Specialist,Bowler,153.0,432.0,138.0
+2650,Raymon Reifer,30,,,,14,24,10,71.4,0.0,40.0,Death Specialist,Bowler,0.0,18.0,12.0
+2681,Taskin Ahmed,1004,,,,57,95,38,66.7,47.2,26.0,Powerplay Specialist,Bowler,474.0,269.0,261.0
+2687,Roston Chase,810,,,,157,237,80,51.0,17.8,7.7,Middle-Overs Specialist,Bowler,144.0,604.0,62.0
+2756,Shashank Singh,90,,,,22,39,17,77.3,0.0,20.0,Middle-Overs Specialist,Bowler,0.0,72.0,18.0
+2790,Praveen Dubey,30,,,,0,1,1,100.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,30.0,0.0
+2847,Shardul Thakur,954,,,,134,254,120,89.6,33.8,35.3,Death Specialist,Bowler,322.0,295.0,337.0
+2852,Jagadeesha Suchith,108,,,,4,8,4,100.0,16.7,5.6,Middle-Overs Specialist,Bowler,18.0,84.0,6.0
+2863,Sandeep Warrier,66,,,,22,22,0,0.0,90.9,0.0,Powerplay Specialist,Bowler,60.0,6.0,0.0
+2872,Siddarth Kaul,24,,,,4,4,0,0.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+2876,Axar Patel,2610,,,,303,628,325,107.3,23.2,8.7,Middle-Overs Specialist,Bowler,606.0,1776.0,228.0
+2877,Vijay Shankar,9,,,,0,3,3,300.0,0.0,33.3,Death Specialist,Bowler,0.0,6.0,3.0
+2878,Mohit Sharma,631,,,,79,152,73,92.4,9.5,45.8,Death Specialist,Bowler,60.0,282.0,289.0
+2887,Harmeet Singh,72,,,,16,17,1,6.2,8.3,0.0,Middle-Overs Specialist,Bowler,6.0,66.0,0.0
+2933,Jasprit Bumrah,1654,,,,168,308,140,83.3,43.9,32.9,Death Specialist,Bowler,726.0,384.0,544.0
+2972,Yasim Murtaza,192,,,,5,10,5,100.0,3.1,15.6,Middle-Overs Specialist,Bowler,6.0,156.0,30.0
+2984,Sikandar Raza,1091,,,,71,163,92,129.6,7.1,9.9,Middle-Overs Specialist,Bowler,78.0,905.0,108.0
+2985,Mark Wood,281,,,,47,68,21,44.7,38.4,27.8,Middle-Overs Specialist,Bowler,108.0,95.0,78.0
+2997,Paul van Meekeren,169,,,,0,0,0,0.0,24.9,18.3,Middle-Overs Specialist,Bowler,42.0,96.0,31.0
+3033,Usman Qadir,96,,,,1,17,16,1600.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,96.0,0.0
+3038,Hussain Talat,36,,,,2,6,4,200.0,0.0,33.3,Death Specialist,Bowler,0.0,24.0,12.0
+3040,Kashif Daud,11,,,,1,3,2,200.0,54.5,45.5,Powerplay Specialist,Bowler,6.0,0.0,5.0
+3056,Iftikhar Ahmed,186,,,,4,20,16,400.0,3.2,6.5,Middle-Overs Specialist,Bowler,6.0,168.0,12.0
+3077,Usama Mir,120,,,,22,51,29,131.8,0.0,5.0,Middle-Overs Specialist,Bowler,0.0,114.0,6.0
+3135,Yannic Cariah,36,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,36.0,0.0
+3174,Matt Henry,592,,,,111,166,55,49.5,60.8,18.9,Powerplay Specialist,Bowler,360.0,120.0,112.0
+3253,Rohan Mustafa,24,,,,1,1,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+3255,Ahmed Raza 1,12,,,,0,3,3,300.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+3272,Fabian Allen,179,,,,18,33,15,83.3,23.5,19.6,Middle-Overs Specialist,Bowler,42.0,102.0,35.0
+3275,Alzarri Joseph,1141,,,,105,199,94,89.5,33.1,34.2,Death Specialist,Bowler,378.0,373.0,390.0
+3276,Gudakesh Motie,702,,,,96,199,103,107.3,5.1,8.5,Middle-Overs Specialist,Bowler,36.0,606.0,60.0
+3280,Nazmul Hossain Shanto,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+3281,Mosaddek Hossain,159,,,,0,8,8,800.0,18.9,5.7,Middle-Overs Specialist,Bowler,30.0,120.0,9.0
+3282,Mehidy Hasan Miraz,228,,,,41,55,14,34.1,15.8,5.3,Middle-Overs Specialist,Bowler,36.0,180.0,12.0
+3298,Jofra Archer,1193,,,,259,343,84,32.4,55.8,28.6,Powerplay Specialist,Bowler,666.0,186.0,341.0
+3299,Andrew Tye,66,,,,5,9,4,80.0,36.4,36.4,Death Specialist,Bowler,24.0,18.0,24.0
+3320,Jayant Yadav,24,,,,0,0,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+3323,Jimmy Neesham,490,,,,11,38,27,245.5,11.0,26.5,Middle-Overs Specialist,Bowler,54.0,306.0,130.0
+3330,Hardik Pandya,1783,,,,194,339,145,74.7,36.3,13.9,Middle-Overs Specialist,Bowler,648.0,888.0,247.0
+3337,Jeremy Gordon,18,,,,0,2,2,200.0,66.7,0.0,Powerplay Specialist,Bowler,12.0,6.0,0.0
+3361,Michael Leask,30,,,,0,3,3,300.0,20.0,0.0,Middle-Overs Specialist,Bowler,6.0,24.0,0.0
+3373,Aizaz Khan,123,,,,2,2,0,0.0,19.5,17.1,Middle-Overs Specialist,Bowler,24.0,78.0,21.0
+3374,Mark Chapman,6,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,6.0
+3383,Kinchit Shah,54,,,,0,0,0,0.0,0.0,22.2,Middle-Overs Specialist,Bowler,0.0,42.0,12.0
+3469,Shreyas Gopal,60,,,,1,4,3,300.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,60.0,0.0
+3489,Salman Agha,108,,,,13,15,2,15.4,16.7,5.6,Middle-Overs Specialist,Bowler,18.0,84.0,6.0
+3543,Shahidullah Kamal,30,,,,1,12,11,1100.0,20.0,40.0,Death Specialist,Bowler,6.0,12.0,12.0
+3550,Sharafuddin Ashraf,114,,,,8,22,14,175.0,15.8,21.1,Middle-Overs Specialist,Bowler,18.0,72.0,24.0
+3578,Imad Wasim,222,,,,9,32,23,255.6,21.6,8.1,Middle-Overs Specialist,Bowler,48.0,156.0,18.0
+3595,Andy McBrine,72,,,,1,2,1,100.0,41.7,0.0,Middle-Overs Specialist,Bowler,30.0,42.0,0.0
+3605,Aiden Markram,373,,,,45,92,47,104.4,20.9,5.1,Middle-Overs Specialist,Bowler,78.0,276.0,19.0
+3613,Shakeel Ahmed,60,,,,0,0,0,0.0,60.0,20.0,Powerplay Specialist,Bowler,36.0,12.0,12.0
+3622,Hayden Walsh,168,,,,17,34,17,100.0,0.0,3.6,Middle-Overs Specialist,Bowler,0.0,162.0,6.0
+3623,Hasan Ali,158,,,,27,35,8,29.6,53.2,35.4,Powerplay Specialist,Bowler,84.0,18.0,56.0
+3627,Andile Phehlukwayo,126,,,,8,22,14,175.0,14.3,14.3,Middle-Overs Specialist,Bowler,18.0,90.0,18.0
+3628,Kagiso Rabada,1521,,,,279,380,101,36.2,56.8,23.7,Powerplay Specialist,Bowler,864.0,297.0,360.0
+3629,Corbin Bosch,343,,,,27,56,29,107.4,19.2,30.0,Death Specialist,Bowler,66.0,174.0,103.0
+3637,Dayyaan Galiem,24,,,,0,6,6,600.0,25.0,0.0,Middle-Overs Specialist,Bowler,6.0,18.0,0.0
+3641,Ben Dwarshuis,312,,,,19,34,15,78.9,40.4,28.8,Middle-Overs Specialist,Bowler,126.0,96.0,90.0
+3644,Kuldeep Yadav,1884,,,,172,436,264,153.5,0.6,15.2,Middle-Overs Specialist,Bowler,12.0,1586.0,286.0
+3647,Shreyas Iyer,8,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,8.0
+3648,Deepak Hooda,131,,,,5,17,12,240.0,9.2,13.0,Middle-Overs Specialist,Bowler,12.0,102.0,17.0
+3653,Avesh Khan,1672,,,,167,354,187,112.0,33.3,35.8,Death Specialist,Bowler,557.0,516.0,599.0
+3660,Luke Wood,282,,,,55,71,16,29.1,63.8,27.7,Powerplay Specialist,Bowler,180.0,24.0,78.0
+3664,Binura Fernando,318,,,,23,43,20,87.0,56.6,24.5,Powerplay Specialist,Bowler,180.0,60.0,78.0
+3673,Ramesh Mendis,18,,,,0,0,0,0.0,0.0,33.3,Death Specialist,Bowler,0.0,12.0,6.0
+3683,Gavin Main,36,,,,0,1,1,100.0,33.3,16.7,Middle-Overs Specialist,Bowler,12.0,18.0,6.0
+3686,CB Sole,97,,,,0,9,9,900.0,37.1,32.0,Death Specialist,Bowler,36.0,30.0,31.0
+3689,Mark Watt,125,,,,8,13,5,62.5,9.6,14.4,Middle-Overs Specialist,Bowler,12.0,95.0,18.0
+3697,Kyle Jamieson,591,,,,96,162,66,68.8,51.8,24.5,Powerplay Specialist,Bowler,306.0,140.0,145.0
+3720,Craig Young,406,,,,37,58,21,56.8,35.5,20.9,Middle-Overs Specialist,Bowler,144.0,177.0,85.0
+3727,Matthew Short,139,,,,14,16,2,14.3,43.2,21.6,Middle-Overs Specialist,Bowler,60.0,49.0,30.0
+3771,Vivian Kingma,97,,,,6,6,0,0.0,68.0,7.2,Powerplay Specialist,Bowler,66.0,24.0,7.0
+3772,Logan van Beek,132,,,,0,3,3,300.0,40.9,36.4,Death Specialist,Bowler,54.0,30.0,48.0
+3775,Sompal Kami,44,,,,3,10,7,233.3,54.5,27.3,Powerplay Specialist,Bowler,24.0,8.0,12.0
+3782,M Shahrukh Khan,18,,,,4,5,1,25.0,0.0,33.3,Death Specialist,Bowler,0.0,12.0,6.0
+3839,Amjad Mahboob,54,,,,9,9,0,0.0,66.7,33.3,Powerplay Specialist,Bowler,36.0,0.0,18.0
+3871,Aamir Kaleem,48,,,,1,8,7,700.0,25.0,12.5,Middle-Overs Specialist,Bowler,12.0,30.0,6.0
+3876,Sufyan Mehmood,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+3926,Rahul Tewatia,49,,,,2,18,16,800.0,0.0,26.5,Middle-Overs Specialist,Bowler,0.0,36.0,13.0
+3986,Matthew Renshaw,36,,,,11,11,0,0.0,50.0,0.0,Powerplay Specialist,Bowler,18.0,18.0,0.0
+3995,Donald Tiripano,30,,,,0,0,0,0.0,80.0,20.0,Powerplay Specialist,Bowler,24.0,0.0,6.0
+4101,Mitchell Santner,1701,,,,175,330,155,88.6,18.3,10.8,Middle-Overs Specialist,Bowler,312.0,1206.0,183.0
+4106,Daryl Mitchell,80,,,,18,24,6,33.3,0.0,25.0,Middle-Overs Specialist,Bowler,0.0,60.0,20.0
+4111,Khushdil Shah,42,,,,0,12,12,1200.0,14.3,28.6,Middle-Overs Specialist,Bowler,6.0,24.0,12.0
+4117,Ishan Kishan,1,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,1.0
+4201,Fareed Malik,286,,,,24,38,14,58.3,33.6,28.7,Middle-Overs Specialist,Bowler,96.0,108.0,82.0
+4219,Krunal Pandya,1227,,,,154,328,174,113.0,18.6,6.6,Middle-Overs Specialist,Bowler,228.0,918.0,81.0
+4221,Chris Green,24,,,,0,3,3,300.0,25.0,0.0,Middle-Overs Specialist,Bowler,6.0,18.0,0.0
+4229,George Linde,271,,,,25,43,18,72.0,13.3,7.0,Middle-Overs Specialist,Bowler,36.0,216.0,19.0
+4235,Sisanda Magala,60,,,,2,9,7,350.0,20.0,40.0,Death Specialist,Bowler,12.0,24.0,24.0
+4237,Tabraiz Shamsi,274,,,,25,79,54,216.0,0.0,12.4,Middle-Overs Specialist,Bowler,0.0,240.0,34.0
+4246,Nitish Rana,101,,,,13,19,6,46.2,17.8,16.8,Middle-Overs Specialist,Bowler,18.0,66.0,17.0
+4265,T Natarajan,1045,,,,105,229,124,118.1,24.1,42.3,Death Specialist,Bowler,252.0,351.0,442.0
+4276,Basil Thampi,96,,,,9,10,1,11.1,43.8,18.8,Middle-Overs Specialist,Bowler,42.0,36.0,18.0
+4288,Navdeep Saini,90,,,,4,16,12,300.0,20.0,20.0,Middle-Overs Specialist,Bowler,18.0,54.0,18.0
+4373,Mustafizur Rahman,1534,,,,64,153,89,139.1,31.7,40.9,Death Specialist,Bowler,486.0,420.0,628.0
+4391,Liam Livingstone,594,,,,48,107,59,122.9,5.1,11.1,Middle-Overs Specialist,Bowler,30.0,498.0,66.0
+4409,Sam Curran,1296,,,,146,267,121,82.9,35.6,31.5,Death Specialist,Bowler,462.0,426.0,408.0
+4412,Max ODowd,30,,,,0,0,0,0.0,0.0,20.0,Middle-Overs Specialist,Bowler,0.0,24.0,6.0
+4417,Karan KC,42,,,,6,5,-1,-16.7,85.7,14.3,Powerplay Specialist,Bowler,36.0,0.0,6.0
+4438,Jasdeep Singh,66,,,,18,18,0,0.0,54.5,45.5,Powerplay Specialist,Bowler,36.0,0.0,30.0
+4460,Jeffrey Vandersay,120,,,,1,2,1,100.0,0.0,25.0,Middle-Overs Specialist,Bowler,0.0,90.0,30.0
+4487,Vyshak Kumar,519,,,,89,182,93,104.5,15.0,23.7,Middle-Overs Specialist,Bowler,78.0,318.0,123.0
+4489,Prasidh Krishna,1149,,,,135,284,149,110.4,31.3,30.0,Death Specialist,Bowler,360.0,444.0,345.0
+4499,Saqib Mahmood,204,,,,24,37,13,54.2,67.6,26.5,Powerplay Specialist,Bowler,138.0,12.0,54.0
+4505,Jhye Richardson,120,,,,9,17,8,88.9,45.0,40.0,Powerplay Specialist,Bowler,54.0,18.0,48.0
+4604,Mitchell Swepson,12,,,,3,10,7,233.3,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+4636,Bjorn Fortuin,192,,,,35,62,27,77.1,37.5,3.1,Middle-Overs Specialist,Bowler,72.0,114.0,6.0
+4639,Wellington Masakadza,480,,,,18,27,9,50.0,26.2,6.2,Middle-Overs Specialist,Bowler,126.0,324.0,30.0
+4641,Lungi Ngidi,777,,,,111,197,86,77.5,47.1,31.4,Powerplay Specialist,Bowler,366.0,167.0,244.0
+4658,Nasum Ahmed,576,,,,55,87,32,58.2,47.9,8.3,Powerplay Specialist,Bowler,276.0,252.0,48.0
+4662,Cole McConchie,120,,,,2,5,3,150.0,0.0,5.0,Middle-Overs Specialist,Bowler,0.0,114.0,6.0
+4686,Joshua Clarkson,30,,,,0,1,1,100.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,30.0,0.0
+4692,Lockie Ferguson,1076,,,,97,207,110,113.4,30.9,30.1,Death Specialist,Bowler,332.0,420.0,324.0
+4708,Rinku Singh,10,,,,0,4,4,400.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,10.0
+4716,Mayank Dagar,137,,,,17,43,26,152.9,8.8,12.4,Middle-Overs Specialist,Bowler,12.0,108.0,17.0
+4722,Rashid Khan,2675,,,,257,531,274,106.6,9.2,19.3,Middle-Overs Specialist,Bowler,246.0,1913.0,516.0
+4755,Shivam Dube,469,,,,26,71,45,173.1,2.6,15.4,Middle-Overs Specialist,Bowler,12.0,385.0,72.0
+4779,Pieter Willem Mulder,114,,,,27,39,12,44.4,42.1,26.3,Middle-Overs Specialist,Bowler,48.0,36.0,30.0
+4780,Mohammad Saif Hassan,99,,,,4,10,6,150.0,0.0,12.1,Middle-Overs Specialist,Bowler,0.0,87.0,12.0
+4790,Lutho Sipamla,110,,,,15,29,14,93.3,43.6,23.6,Middle-Overs Specialist,Bowler,48.0,36.0,26.0
+4807,Joshua Little,702,,,,38,83,45,118.4,41.9,24.5,Middle-Overs Specialist,Bowler,294.0,236.0,172.0
+4812,Harry Tector,198,,,,6,22,16,266.7,21.2,3.0,Middle-Overs Specialist,Bowler,42.0,150.0,6.0
+4815,Benjamin White,348,,,,17,45,28,164.7,0.0,5.2,Middle-Overs Specialist,Bowler,0.0,330.0,18.0
+4816,Khaleel Ahmed,1198,,,,222,300,78,35.1,63.6,24.4,Powerplay Specialist,Bowler,762.0,144.0,292.0
+4821,Mahipal Lomror,30,,,,2,11,9,450.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,30.0,0.0
+4823,Washington Sundar,774,,,,78,132,54,69.2,22.5,15.5,Middle-Overs Specialist,Bowler,174.0,480.0,120.0
+4824,Zeeshan Ansari,185,,,,45,75,30,66.7,0.0,12.4,Middle-Overs Specialist,Bowler,0.0,162.0,23.0
+4826,George Garton,24,,,,0,0,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+4837,Obed McCoy,623,,,,36,88,52,144.4,29.9,39.3,Death Specialist,Bowler,186.0,192.0,245.0
+4838,Keemo Paul,78,,,,10,20,10,100.0,30.8,15.4,Middle-Overs Specialist,Bowler,24.0,42.0,12.0
+4840,Odean Smith,360,,,,25,59,34,136.0,20.0,26.7,Middle-Overs Specialist,Bowler,72.0,192.0,96.0
+4842,Shamar Springer,186,,,,20,45,25,125.0,9.7,32.3,Death Specialist,Bowler,18.0,108.0,60.0
+4853,Glenn Phillips,113,,,,0,3,3,300.0,5.3,9.7,Middle-Overs Specialist,Bowler,6.0,96.0,11.0
+4854,Rachin Ravindra,132,,,,9,29,20,222.2,4.5,4.5,Middle-Overs Specialist,Bowler,6.0,120.0,6.0
+4856,Benjamin Sears,408,,,,29,65,36,124.1,27.9,29.4,Middle-Overs Specialist,Bowler,114.0,174.0,120.0
+4857,Nathan Smith,90,,,,7,22,15,214.3,26.7,46.7,Death Specialist,Bowler,24.0,24.0,42.0
+4867,Wesley Madhevere,96,,,,3,12,9,300.0,25.0,0.0,Middle-Overs Specialist,Bowler,24.0,72.0,0.0
+4870,Kundai Matigimu,24,,,,0,0,0,0.0,50.0,50.0,Powerplay Specialist,Bowler,12.0,0.0,12.0
+4871,Brandon Mavuta,42,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,42.0,0.0
+4874,Richard Ngarava,846,,,,92,129,37,40.2,56.0,34.5,Powerplay Specialist,Bowler,474.0,80.0,292.0
+4876,Milton Shumba,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+4881,Dipendra Airee,36,,,,2,8,6,300.0,83.3,16.7,Powerplay Specialist,Bowler,30.0,0.0,6.0
+4882,Kushal Bhurtel,49,,,,3,5,2,66.7,0.0,14.3,Middle-Overs Specialist,Bowler,0.0,42.0,7.0
+4895,Charith Asalanka,161,,,,20,30,10,50.0,3.7,9.9,Middle-Overs Specialist,Bowler,6.0,139.0,16.0
+4900,Wanindu Hasaranga,1950,,,,198,422,224,113.1,5.8,13.8,Middle-Overs Specialist,Bowler,114.0,1566.0,270.0
+4901,Asitha Fernando,120,,,,30,32,2,6.7,50.0,35.0,Powerplay Specialist,Bowler,60.0,18.0,42.0
+4903,Lahiru Kumara,71,,,,7,8,1,14.3,42.3,15.5,Middle-Overs Specialist,Bowler,30.0,30.0,11.0
+4904,Kamindu Mendis,150,,,,14,35,21,150.0,0.0,4.0,Middle-Overs Specialist,Bowler,0.0,144.0,6.0
+4926,Shadab Khan,808,,,,68,141,73,107.4,1.5,8.2,Middle-Overs Specialist,Bowler,12.0,730.0,66.0
+4947,Kasun Rajitha,108,,,,14,22,8,57.1,55.6,33.3,Powerplay Specialist,Bowler,60.0,12.0,36.0
+4974,Mohammad Nadeem,24,,,,0,0,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+4986,Rovman Powell,73,,,,8,25,17,212.5,0.0,17.8,Middle-Overs Specialist,Bowler,0.0,60.0,13.0
+5034,Murugan Ashwin,198,,,,18,46,28,155.6,27.3,6.1,Middle-Overs Specialist,Bowler,54.0,132.0,12.0
+5041,Mukesh Kumar,1130,,,,171,267,96,56.1,43.0,36.1,Death Specialist,Bowler,486.0,236.0,408.0
+5189,Faheem Ashraf,436,,,,34,92,58,170.6,42.7,22.9,Middle-Overs Specialist,Bowler,186.0,150.0,100.0
+5231,Oshane Thomas,24,,,,0,0,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+5379,Mark Adair,777,,,,71,122,51,71.8,53.3,39.0,Powerplay Specialist,Bowler,414.0,60.0,303.0
+5441,Barry McCarthy,589,,,,26,76,50,192.3,41.8,32.8,Death Specialist,Bowler,246.0,150.0,193.0
+5547,Nosthush Kenjige,66,,,,21,24,3,14.3,72.7,0.0,Powerplay Specialist,Bowler,48.0,18.0,0.0
+5561,Brad Wheal,36,,,,4,5,1,25.0,50.0,33.3,Powerplay Specialist,Bowler,18.0,6.0,12.0
+5562,Richard Gleeson,194,,,,10,46,36,360.0,37.1,32.0,Death Specialist,Bowler,72.0,60.0,62.0
+5577,Sai Kishore,441,,,,80,154,74,92.5,4.1,18.4,Middle-Overs Specialist,Bowler,18.0,342.0,81.0
+5665,Sanjay Yadav,12,,,,0,0,0,0.0,50.0,0.0,Powerplay Specialist,Bowler,6.0,6.0,0.0
+5738,Xavier Bartlett,561,,,,69,96,27,39.1,51.3,26.6,Powerplay Specialist,Bowler,288.0,124.0,149.0
+5750,Ehsan Khan,186,,,,10,12,2,20.0,41.9,45.2,Death Specialist,Bowler,78.0,24.0,84.0
+5808,Karim Janat,155,,,,10,22,12,120.0,0.0,26.5,Middle-Overs Specialist,Bowler,0.0,114.0,41.0
+5809,Naveen ul Haq,768,,,,75,172,97,129.3,43.0,39.8,Death Specialist,Bowler,330.0,132.0,306.0
+5837,Mahedi Hasan,884,,,,89,126,37,41.6,44.8,7.7,Middle-Overs Specialist,Bowler,396.0,420.0,68.0
+5844,Ebadot Hossain,72,,,,5,14,9,180.0,25.0,25.0,Middle-Overs Specialist,Bowler,18.0,36.0,18.0
+5866,Patrick Kruger,102,,,,23,36,13,56.5,0.0,29.4,Middle-Overs Specialist,Bowler,0.0,72.0,30.0
+5882,Afif Hossain,30,,,,0,0,0,0.0,0.0,20.0,Middle-Overs Specialist,Bowler,0.0,24.0,6.0
+5892,Blair Tickner,215,,,,11,15,4,36.4,39.1,38.6,Death Specialist,Bowler,84.0,48.0,83.0
+5939,Cameron Green,753,,,,49,141,92,187.8,25.5,17.7,Middle-Overs Specialist,Bowler,192.0,428.0,133.0
+5940,Riley Meredith,310,,,,0,16,16,1600.0,25.2,38.1,Death Specialist,Bowler,78.0,114.0,118.0
+5944,Mohammed Siraj,1752,,,,330,450,120,36.4,63.4,24.3,Powerplay Specialist,Bowler,1110.0,216.0,426.0
+5977,Khary Pierre,120,,,,8,14,6,75.0,25.0,15.0,Middle-Overs Specialist,Bowler,30.0,72.0,18.0
+5979,Abrar Ahmed,764,,,,52,98,46,88.5,19.6,14.3,Middle-Overs Specialist,Bowler,150.0,505.0,109.0
+6025,Henry Shipley,78,,,,4,4,0,0.0,46.2,38.5,Powerplay Specialist,Bowler,36.0,12.0,30.0
+6097,Brydon Carse,258,,,,22,45,23,104.5,34.9,25.6,Middle-Overs Specialist,Bowler,90.0,102.0,66.0
+6160,Chamika Karunaratne,312,,,,9,31,22,244.4,18.9,17.6,Middle-Overs Specialist,Bowler,59.0,198.0,55.0
+6161,Rahul Chahar,794,,,,101,215,114,112.9,0.8,15.4,Middle-Overs Specialist,Bowler,6.0,666.0,122.0
+6162,Kulwant Khejroliya,56,,,,6,15,9,150.0,21.4,25.0,Middle-Overs Specialist,Bowler,12.0,30.0,14.0
+6166,Jack Edwards,12,,,,0,0,0,0.0,50.0,0.0,Powerplay Specialist,Bowler,6.0,6.0,0.0
+6180,Praveen Jayawickrama,48,,,,0,0,0,0.0,12.5,12.5,Middle-Overs Specialist,Bowler,6.0,36.0,6.0
+6196,Josh Tongue,120,,,,13,23,10,76.9,50.0,15.0,Powerplay Specialist,Bowler,60.0,42.0,18.0
+6237,Manimaran Siddharth,186,,,,34,60,26,76.5,38.7,12.9,Middle-Overs Specialist,Bowler,72.0,90.0,24.0
+6256,Varun Chakravarthy,2104,,,,267,491,224,83.9,16.5,14.7,Middle-Overs Specialist,Bowler,348.0,1446.0,310.0
+6272,William Jacks,365,,,,46,87,41,89.1,32.9,11.2,Middle-Overs Specialist,Bowler,120.0,204.0,41.0
+6281,Abhishek Sharma,421,,,,38,92,54,142.1,17.1,13.1,Middle-Overs Specialist,Bowler,72.0,294.0,55.0
+6284,Anukul Roy,311,,,,57,86,29,50.9,36.7,11.3,Middle-Overs Specialist,Bowler,114.0,162.0,35.0
+6285,Kamlesh Nagarkoti,12,,,,0,0,0,0.0,50.0,0.0,Powerplay Specialist,Bowler,6.0,6.0,0.0
+6286,Shivam Mavi,216,,,,6,11,5,83.3,30.6,38.9,Death Specialist,Bowler,66.0,66.0,84.0
+6287,Yash Thakur,527,,,,82,148,66,80.5,29.6,37.8,Death Specialist,Bowler,156.0,172.0,199.0
+6297,Matthew Parkinson,36,,,,4,9,5,125.0,0.0,16.7,Middle-Overs Specialist,Bowler,0.0,30.0,6.0
+6350,Matthew Kuhnemann,108,,,,16,28,12,75.0,38.9,5.6,Middle-Overs Specialist,Bowler,42.0,60.0,6.0
+6354,Spencer Johnson,414,,,,76,103,27,35.5,53.6,21.7,Powerplay Specialist,Bowler,222.0,102.0,90.0
+6355,Shaheen Afridi,934,,,,117,170,53,45.3,57.8,28.7,Powerplay Specialist,Bowler,540.0,126.0,268.0
+6356,Khaled Ahmed,24,,,,9,9,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+6359,Raghu Sharma,90,,,,2,30,28,1400.0,0.0,6.7,Middle-Overs Specialist,Bowler,0.0,84.0,6.0
+6389,Tanvir Islam,102,,,,13,32,19,146.2,41.2,0.0,Middle-Overs Specialist,Bowler,42.0,60.0,0.0
+6396,Tim David,6,,,,0,3,3,300.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+6398,Aaron Hardie,271,,,,19,26,7,36.8,42.1,15.5,Middle-Overs Specialist,Bowler,114.0,115.0,42.0
+6423,Riyan Parag,236,,,,13,39,26,200.0,2.5,8.5,Middle-Overs Specialist,Bowler,6.0,210.0,20.0
+6436,Qais Ahmad,54,,,,1,8,7,700.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,54.0,0.0
+6449,Wafadar Momand,31,,,,9,9,0,0.0,58.1,22.6,Powerplay Specialist,Bowler,18.0,6.0,7.0
+6450,Mujeeb Ur Rahman,796,,,,86,107,21,24.4,50.5,9.5,Powerplay Specialist,Bowler,402.0,318.0,76.0
+6460,Ayush Badoni,41,,,,3,16,13,433.3,2.4,39.0,Death Specialist,Bowler,1.0,24.0,16.0
+6464,Arshdeep Singh,3142,,,,427,692,265,62.1,51.0,34.3,Powerplay Specialist,Bowler,1602.0,461.0,1079.0
+6466,Atharwa Taide,1,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,1.0
+6489,Darshan Nalkande,84,,,,1,6,5,500.0,14.3,21.4,Middle-Overs Specialist,Bowler,12.0,54.0,18.0
+6503,Zahoor Khan,120,,,,0,4,4,400.0,15.0,55.0,Death Specialist,Bowler,18.0,36.0,66.0
+6506,Mohammad Imran Randhawa,72,,,,10,10,0,0.0,66.7,8.3,Powerplay Specialist,Bowler,48.0,18.0,6.0
+6512,Michael Bracewell,654,,,,63,93,30,47.6,25.7,4.6,Middle-Overs Specialist,Bowler,168.0,456.0,30.0
+6515,Benjamin Lister,245,,,,18,23,5,27.8,56.3,29.0,Powerplay Specialist,Bowler,138.0,36.0,71.0
+6518,Daniel Sams,342,,,,14,29,15,107.1,47.4,19.3,Powerplay Specialist,Bowler,162.0,114.0,66.0
+6523,Blessing Muzarabani,820,,,,99,118,19,19.2,54.5,31.6,Powerplay Specialist,Bowler,447.0,114.0,259.0
+6566,Matthew John Fisher,54,,,,5,14,9,180.0,33.3,22.2,Middle-Overs Specialist,Bowler,18.0,24.0,12.0
+6574,Alick Athanaze,6,,,,0,1,1,100.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+6591,KM Asif,84,,,,2,6,4,200.0,21.4,21.4,Middle-Overs Specialist,Bowler,18.0,48.0,18.0
+6628,Gerald Coetzee,559,,,,84,147,63,75.0,37.6,32.4,Death Specialist,Bowler,210.0,168.0,181.0
+6643,Hasan Mahmud,372,,,,24,37,13,54.2,32.3,29.0,Middle-Overs Specialist,Bowler,120.0,144.0,108.0
+6651,Towhid Hridoy,2,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,2.0
+6664,Dion Myers,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+6669,Mohsin Khan,654,,,,94,142,48,51.1,48.6,25.7,Powerplay Specialist,Bowler,318.0,168.0,168.0
+6671,Lalit Yadav,204,,,,40,53,13,32.5,44.1,11.8,Middle-Overs Specialist,Bowler,90.0,90.0,24.0
+6676,Azmatullah Omarzai,1055,,,,122,185,63,51.6,54.6,19.2,Powerplay Specialist,Bowler,576.0,276.0,203.0
+6677,Mohammad Hasnain,222,,,,16,16,0,0.0,51.4,29.7,Powerplay Specialist,Bowler,114.0,42.0,66.0
+6683,Mayank Markande,432,,,,55,131,76,138.2,0.0,12.5,Middle-Overs Specialist,Bowler,0.0,378.0,54.0
+6697,Shams Mulani,30,,,,3,10,7,233.3,20.0,20.0,Middle-Overs Specialist,Bowler,6.0,18.0,6.0
+6725,Sherfane Rutherford,18,,,,12,18,6,50.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,18.0,0.0
+6726,Romario Shepherd,1485,,,,149,330,181,121.5,17.0,28.2,Middle-Overs Specialist,Bowler,252.0,814.0,419.0
+6772,Chetan Sakariya,114,,,,7,22,15,214.3,42.1,31.6,Death Specialist,Bowler,48.0,30.0,36.0
+6795,Terrance Hinds,26,,,,0,6,6,600.0,0.0,30.8,Death Specialist,Bowler,0.0,18.0,8.0
+6797,Dominic Drakes,126,,,,3,6,3,100.0,28.6,33.3,Death Specialist,Bowler,36.0,48.0,42.0
+6806,Tushar Deshpande,995,,,,168,271,103,61.3,48.8,33.7,Powerplay Specialist,Bowler,486.0,174.0,335.0
+6819,Yashasvi Jaiswal,7,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,7.0
+6926,Matty Potts,24,,,,0,12,12,1200.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+6932,Pramod Madushan,97,,,,3,8,5,166.7,43.3,25.8,Middle-Overs Specialist,Bowler,42.0,30.0,25.0
+6984,Saqib Zulfiqar,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+6985,Bas de Leede,72,,,,0,0,0,0.0,8.3,25.0,Middle-Overs Specialist,Bowler,6.0,48.0,18.0
+6995,Saad Zafar,72,,,,0,3,3,300.0,0.0,8.3,Middle-Overs Specialist,Bowler,0.0,66.0,6.0
+7001,Dilon Heyliger,54,,,,3,7,4,133.3,55.6,33.3,Powerplay Specialist,Bowler,30.0,6.0,18.0
+7002,Nicholas Kirton,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+7008,Gus Atkinson,65,,,,2,1,-1,-50.0,55.4,9.2,Powerplay Specialist,Bowler,36.0,23.0,6.0
+7049,Kamil Mishara,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+7052,Dunith Wellalage,237,,,,19,28,9,47.4,45.6,11.4,Powerplay Specialist,Bowler,108.0,102.0,27.0
+7059,Nehal Wadhera,17,,,,0,0,0,0.0,0.0,29.4,Middle-Overs Specialist,Bowler,0.0,12.0,5.0
+7060,Arjun Tendulkar,97,,,,4,14,10,250.0,55.7,17.5,Powerplay Specialist,Bowler,54.0,26.0,17.0
+7094,Curtis Campher,348,,,,7,25,18,257.1,19.0,13.8,Middle-Overs Specialist,Bowler,66.0,234.0,48.0
+7120,Rohit Paudel,42,,,,3,3,0,0.0,28.6,0.0,Middle-Overs Specialist,Bowler,12.0,30.0,0.0
+7140,Senuran Muthusamy,42,,,,0,1,1,100.0,0.0,14.3,Middle-Overs Specialist,Bowler,0.0,36.0,6.0
+7201,Haroon Arshad,72,,,,7,9,2,28.6,58.3,41.7,Powerplay Specialist,Bowler,42.0,0.0,30.0
+7227,Nijat Masood,66,,,,5,18,13,260.0,45.5,36.4,Powerplay Specialist,Bowler,30.0,12.0,24.0
+7240,FazalHaq Farooqi,1027,,,,119,196,77,64.7,57.3,32.8,Powerplay Specialist,Bowler,588.0,102.0,337.0
+7241,Ziaur Rahman,48,,,,3,8,5,166.7,37.5,37.5,Death Specialist,Bowler,18.0,12.0,18.0
+7250,Mukesh Choudhary,483,,,,88,106,18,20.5,68.3,16.8,Powerplay Specialist,Bowler,330.0,72.0,81.0
+7269,Sushant Mishra,38,,,,16,22,6,37.5,15.8,21.1,Middle-Overs Specialist,Bowler,6.0,24.0,8.0
+7270,Anrich Nortje,818,,,,101,181,80,79.2,33.0,34.7,Death Specialist,Bowler,270.0,264.0,284.0
+7312,Nandre Burger,429,,,,108,131,23,21.3,60.1,18.9,Powerplay Specialist,Bowler,258.0,90.0,81.0
+7322,Yash Dayal,858,,,,110,168,58,52.7,49.7,26.6,Powerplay Specialist,Bowler,426.0,204.0,228.0
+7325,Harpreet Brar,655,,,,84,138,54,64.3,20.2,8.4,Middle-Overs Specialist,Bowler,132.0,468.0,55.0
+7327,Rasikh Salam,440,,,,73,134,61,83.6,31.4,30.5,Death Specialist,Bowler,138.0,168.0,134.0
+7344,Shoriful Islam,760,,,,61,78,17,27.9,50.9,24.1,Powerplay Specialist,Bowler,387.0,190.0,183.0
+7364,Haris Rauf,974,,,,106,184,78,73.6,37.0,37.2,Death Specialist,Bowler,360.0,252.0,362.0
+7403,Lalit Rajbanshi,30,,,,5,6,1,20.0,0.0,20.0,Middle-Overs Specialist,Bowler,0.0,24.0,6.0
+7446,Abdul Samad,9,,,,0,0,0,0.0,0.0,33.3,Death Specialist,Bowler,0.0,6.0,3.0
+7472,Shahbaz Ahmed,517,,,,72,114,42,58.3,25.5,4.3,Middle-Overs Specialist,Bowler,132.0,363.0,22.0
+7473,Akash Deep,278,,,,44,55,11,25.0,43.2,15.8,Middle-Overs Specialist,Bowler,120.0,114.0,44.0
+7503,Ravi Bishnoi,2285,,,,231,493,262,113.4,12.3,14.9,Middle-Overs Specialist,Bowler,282.0,1662.0,341.0
+7533,Simarjeet Singh,240,,,,60,82,22,36.7,52.5,15.0,Powerplay Specialist,Bowler,126.0,78.0,36.0
+7544,Venkatesh Iyer,49,,,,0,3,3,300.0,2.0,24.5,Middle-Overs Specialist,Bowler,1.0,36.0,12.0
+7545,Kuldeep Sen,241,,,,2,25,23,1150.0,17.4,25.3,Middle-Overs Specialist,Bowler,42.0,138.0,61.0
+7574,Kumar Kartikeya Singh,282,,,,28,58,30,107.1,2.1,8.5,Middle-Overs Specialist,Bowler,6.0,252.0,24.0
+7625,Suryansh Shedge,60,,,,4,11,7,175.0,0.0,10.0,Middle-Overs Specialist,Bowler,0.0,54.0,6.0
+7634,Aaron Jones,18,,,,0,2,2,200.0,0.0,66.7,Death Specialist,Bowler,0.0,6.0,12.0
+7689,Dilshan Madushanka,362,,,,51,64,13,25.5,56.4,20.4,Powerplay Specialist,Bowler,204.0,84.0,74.0
+7690,Saim Ayub,510,,,,49,85,36,73.5,28.2,4.7,Middle-Overs Specialist,Bowler,144.0,342.0,24.0
+7696,Mohammad Wasim,355,,,,29,52,23,79.3,45.6,33.2,Powerplay Specialist,Bowler,162.0,75.0,118.0
+7699,Abbas Afridi,393,,,,36,75,39,108.3,19.8,29.3,Middle-Overs Specialist,Bowler,78.0,200.0,115.0
+7702,Chamindu Wickramasinghe,42,,,,10,10,0,0.0,85.7,0.0,Powerplay Specialist,Bowler,36.0,6.0,0.0
+7704,Pavan Rathnayake,12,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,12.0
+7709,Ainsley Ndlovu,66,,,,5,5,0,0.0,36.4,9.1,Middle-Overs Specialist,Bowler,24.0,36.0,6.0
+7710,Brandon Glover,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+7741,Gareth Delany,480,,,,25,48,23,92.0,7.5,15.0,Middle-Overs Specialist,Bowler,36.0,372.0,72.0
+7755,Harsh Thaker,48,,,,1,12,11,1100.0,25.0,25.0,Middle-Overs Specialist,Bowler,12.0,24.0,12.0
+7756,Kaleem Sana,67,,,,7,10,3,42.9,62.7,28.4,Powerplay Specialist,Bowler,42.0,6.0,19.0
+7808,Marco Jansen,1263,,,,178,302,124,69.7,50.8,20.7,Powerplay Specialist,Bowler,642.0,360.0,261.0
+7896,Akash Singh,223,,,,85,96,11,12.9,70.4,2.7,Powerplay Specialist,Bowler,157.0,60.0,6.0
+7897,Namboori Tilak Varma,61,,,,3,6,3,100.0,9.8,21.3,Middle-Overs Specialist,Bowler,6.0,42.0,13.0
+7903,Shamim Hossain,91,,,,3,29,26,866.7,3.3,13.2,Middle-Overs Specialist,Bowler,3.0,76.0,12.0
+7905,Tanzim Sakib,665,,,,49,91,42,85.7,30.7,26.9,Middle-Overs Specialist,Bowler,204.0,282.0,179.0
+7912,Vikramjit Singh,45,,,,0,0,0,0.0,0.0,13.3,Middle-Overs Specialist,Bowler,0.0,39.0,6.0
+7914,Clayton Floyd,36,,,,0,0,0,0.0,83.3,16.7,Powerplay Specialist,Bowler,30.0,0.0,6.0
+7916,Karima Gore,18,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,18.0,0.0
+7920,Nathan Ellis,876,,,,66,149,83,125.8,26.7,40.4,Death Specialist,Bowler,234.0,288.0,354.0
+7927,Janak Prakash,54,,,,8,11,3,37.5,22.2,44.4,Death Specialist,Bowler,12.0,18.0,24.0
+7928,Vinoth Baskaran,65,,,,8,10,2,25.0,36.9,0.0,Middle-Overs Specialist,Bowler,24.0,41.0,0.0
+7929,Aryaman Sunil Uchil,42,,,,0,0,0,0.0,42.9,42.9,Death Specialist,Bowler,18.0,6.0,18.0
+7935,Mohammad Ghazanfar,108,,,,0,6,6,600.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,108.0,0.0
+7967,Noor Ahmad,1449,,,,177,359,182,102.8,3.7,15.0,Middle-Overs Specialist,Bowler,54.0,1178.0,217.0
+8005,Zawar Farid,78,,,,1,3,2,200.0,23.1,46.2,Death Specialist,Bowler,18.0,24.0,36.0
+8009,Junaid Siddique,330,,,,50,63,13,26.0,45.5,43.6,Powerplay Specialist,Bowler,150.0,36.0,144.0
+8049,Naseem Shah,564,,,,54,91,37,68.5,51.1,29.8,Powerplay Specialist,Bowler,288.0,108.0,168.0
+8093,Nikhil Chaudhary,42,,,,0,1,1,100.0,28.6,14.3,Middle-Overs Specialist,Bowler,12.0,24.0,6.0
+8141,Auqib Nabi,78,,,,51,50,-1,-2.0,92.3,0.0,Powerplay Specialist,Bowler,72.0,6.0,0.0
+8177,Akash Madhwal,352,,,,12,54,42,350.0,22.2,38.6,Death Specialist,Bowler,78.0,138.0,136.0
+8182,Donovan Ferreira,109,,,,16,35,19,118.8,11.0,16.5,Middle-Overs Specialist,Bowler,12.0,79.0,18.0
+8221,Nitish Reddy,565,,,,99,208,109,110.1,19.1,22.5,Middle-Overs Specialist,Bowler,108.0,330.0,127.0
+8266,Sumit Kumar 1,20,,,,8,10,2,25.0,0.0,10.0,Middle-Overs Specialist,Bowler,0.0,18.0,2.0
+8295,Matthew Forde,390,,,,56,76,20,35.7,60.0,21.5,Powerplay Specialist,Bowler,234.0,72.0,84.0
+8298,Ramon Simmonds,78,,,,6,14,8,133.3,30.8,30.8,Death Specialist,Bowler,24.0,30.0,24.0
+8311,Dan Mousley,54,,,,6,9,3,50.0,11.1,44.4,Death Specialist,Bowler,6.0,24.0,24.0
+8326,Jayden Seales,180,,,,30,43,13,43.3,53.3,23.3,Powerplay Specialist,Bowler,96.0,42.0,42.0
+8380,Mohammad Rishad Hossain,984,,,,57,130,73,128.1,0.0,14.0,Middle-Overs Specialist,Bowler,0.0,846.0,138.0
+8424,Tanveer Sangha,168,,,,23,32,9,39.1,0.0,7.1,Middle-Overs Specialist,Bowler,0.0,156.0,12.0
+8530,Kartik Tyagi,415,,,,71,110,39,54.9,24.6,34.9,Death Specialist,Bowler,102.0,168.0,145.0
+8580,Yudhvir Singh,138,,,,5,5,0,0.0,60.9,13.0,Powerplay Specialist,Bowler,84.0,36.0,18.0
+8611,Adithya Ashok,24,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,24.0,0.0
+8614,William ORourke,182,,,,25,36,11,44.0,42.9,17.6,Middle-Overs Specialist,Bowler,78.0,72.0,32.0
+8623,Kristian Clarke,24,,,,6,10,4,66.7,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+8634,Ashwani Kumar,159,,,,19,40,21,110.5,22.6,24.5,Middle-Overs Specialist,Bowler,36.0,84.0,39.0
+8638,Basil Hameed,138,,,,1,6,5,500.0,8.7,17.4,Middle-Overs Specialist,Bowler,12.0,102.0,24.0
+8639,Kartik Meiyappan,96,,,,1,3,2,200.0,0.0,6.2,Middle-Overs Specialist,Bowler,0.0,90.0,6.0
+8654,Cooper Connolly,114,,,,6,6,0,0.0,42.1,5.3,Middle-Overs Specialist,Bowler,48.0,60.0,6.0
+8661,Matheesha Pathirana,1031,,,,86,236,150,174.4,4.8,48.6,Death Specialist,Bowler,50.0,480.0,501.0
+8664,Victor Nyauchi,24,,,,3,5,2,66.7,50.0,50.0,Powerplay Specialist,Bowler,12.0,0.0,12.0
+8719,Aryan Lakra,18,,,,1,0,-1,-100.0,100.0,0.0,Powerplay Specialist,Bowler,18.0,0.0,0.0
+8723,Mohammed Faraazuddin,48,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,48.0,0.0
+8726,Alishan Sharafu,1,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,1.0
+8727,Sanchit Sharma,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+8746,Vaibhav Arora,842,,,,183,237,54,29.5,62.7,25.9,Powerplay Specialist,Bowler,528.0,96.0,218.0
+8763,Duan Jansen,24,,,,0,0,0,0.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+8805,Ottneil Baartman,311,,,,25,63,38,152.0,36.7,32.5,Death Specialist,Bowler,114.0,96.0,101.0
+15269,Mohammed Aslam,48,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,48.0,0.0
+15279,Shiraz Khan,66,,,,2,18,16,800.0,0.0,27.3,Middle-Overs Specialist,Bowler,0.0,48.0,18.0
+15280,Sayed Monib,66,,,,0,3,3,300.0,54.5,45.5,Powerplay Specialist,Bowler,36.0,0.0,30.0
+16498,Sultan Ahmad,45,,,,5,8,3,60.0,66.7,6.7,Powerplay Specialist,Bowler,30.0,12.0,3.0
+17424,Graham Hume,134,,,,17,19,2,11.8,53.7,37.3,Powerplay Specialist,Bowler,72.0,12.0,50.0
+17430,Conor Olphert,30,,,,11,15,4,36.4,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,30.0,0.0
+17911,Nangeyalia Kharote,66,,,,1,1,0,0.0,9.1,0.0,Middle-Overs Specialist,Bowler,6.0,60.0,0.0
+17918,Abdullah Tarakhail,18,,,,0,0,0,0.0,66.7,0.0,Powerplay Specialist,Bowler,12.0,6.0,0.0
+17919,Mohammad Saleem Safi,18,,,,0,0,0,0.0,0.0,33.3,Death Specialist,Bowler,0.0,12.0,6.0
+19020,Ateeq Iqbal,63,,,,6,6,0,0.0,76.2,23.8,Powerplay Specialist,Bowler,48.0,0.0,15.0
+19125,Ayush Shukla,138,,,,16,16,0,0.0,65.2,17.4,Powerplay Specialist,Bowler,90.0,24.0,24.0
+19145,Aamer Jamal,72,,,,24,37,13,54.2,25.0,16.7,Middle-Overs Specialist,Bowler,18.0,42.0,12.0
+19147,Faraz Akram,99,,,,15,22,7,46.7,30.3,15.2,Middle-Overs Specialist,Bowler,30.0,54.0,15.0
+19307,Tharindu Rathnayake,24,,,,7,9,2,28.6,50.0,0.0,Powerplay Specialist,Bowler,12.0,12.0,0.0
+19312,Nuwan Thushara,775,,,,82,108,26,31.7,58.2,29.4,Powerplay Specialist,Bowler,451.0,96.0,228.0
+19315,Vijayakanth Viyaskanth,108,,,,12,26,14,116.7,5.6,0.0,Middle-Overs Specialist,Bowler,6.0,102.0,0.0
+19316,Maheesh Theekshana,2168,,,,219,355,136,62.1,40.7,18.6,Middle-Overs Specialist,Bowler,882.0,883.0,403.0
+19530,Shahnawaz Dhani,170,,,,6,16,10,166.7,60.0,22.4,Powerplay Specialist,Bowler,102.0,30.0,38.0
+19754,Raja Khan,24,,,,1,1,0,0.0,25.0,25.0,Middle-Overs Specialist,Bowler,6.0,12.0,6.0
+19781,Mitchell Owen,30,,,,2,12,10,500.0,0.0,40.0,Death Specialist,Bowler,0.0,18.0,12.0
+19892,Theo van Woerkom,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+19902,Tim Pringle,108,,,,2,10,8,400.0,22.2,22.2,Middle-Overs Specialist,Bowler,24.0,60.0,24.0
+19998,Rajvardhan Hangargekar,36,,,,2,9,7,350.0,16.7,33.3,Death Specialist,Bowler,6.0,18.0,12.0
+20005,Arshad Khan,358,,,,49,65,16,32.7,46.9,26.3,Powerplay Specialist,Bowler,168.0,96.0,94.0
+20006,Ramandeep Singh,76,,,,4,16,12,300.0,0.0,52.6,Death Specialist,Bowler,0.0,36.0,40.0
+20175,Nandan Yadav,6,,,,0,0,0,0.0,100.0,0.0,Powerplay Specialist,Bowler,6.0,0.0,0.0
+20229,Mohammad Ali,30,,,,12,12,0,0.0,80.0,0.0,Powerplay Specialist,Bowler,24.0,6.0,0.0
+20310,Ahmed Daniyal,42,,,,0,0,0,0.0,28.6,28.6,Middle-Overs Specialist,Bowler,12.0,18.0,12.0
+20316,Shahab Alam,12,,,,2,5,3,150.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+20693,Kuldip Yadav,42,,,,0,14,14,1400.0,28.6,28.6,Middle-Overs Specialist,Bowler,12.0,18.0,12.0
+20702,Tristan Stubbs,48,,,,1,13,12,1200.0,0.0,25.0,Middle-Overs Specialist,Bowler,0.0,36.0,12.0
+20704,Salman Mirza,328,,,,21,42,21,100.0,67.7,28.7,Powerplay Specialist,Bowler,222.0,12.0,94.0
+20894,Aman Khan,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+20989,Vivrant Sharma,18,,,,6,11,5,83.3,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,18.0,0.0
+21780,Ernest Masuku,60,,,,2,2,0,0.0,40.0,20.0,Middle-Overs Specialist,Bowler,24.0,24.0,12.0
+21784,Brad Evans,438,,,,52,74,22,42.3,43.8,35.6,Death Specialist,Bowler,192.0,90.0,156.0
+21786,Tanaka Chivanga,27,,,,0,6,6,600.0,66.7,33.3,Powerplay Specialist,Bowler,18.0,0.0,9.0
+22134,Luke Jongwe,330,,,,6,22,16,266.7,9.1,41.8,Death Specialist,Bowler,30.0,162.0,138.0
+22137,Fionn Hand,104,,,,9,13,4,44.4,28.8,13.5,Middle-Overs Specialist,Bowler,30.0,60.0,14.0
+22187,Ryan Klein,24,,,,0,3,3,300.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,24.0,0.0
+22188,Aryan Dutt,120,,,,22,27,5,22.7,65.0,10.0,Powerplay Specialist,Bowler,78.0,30.0,12.0
+22471,Matthew Humphreys,281,,,,41,71,30,73.2,38.4,10.3,Middle-Overs Specialist,Bowler,108.0,144.0,29.0
+22565,Muhammad Waseem,17,,,,3,4,1,33.3,0.0,64.7,Death Specialist,Bowler,0.0,6.0,11.0
+22920,Jacob Duffy,817,,,,127,169,42,33.1,58.0,24.4,Powerplay Specialist,Bowler,474.0,144.0,199.0
+23311,Jacob Bethell,87,,,,9,18,9,100.0,0.0,17.2,Middle-Overs Specialist,Bowler,0.0,72.0,15.0
+23467,Gurjapneet Singh,151,,,,15,41,26,173.3,7.9,28.5,Middle-Overs Specialist,Bowler,12.0,96.0,43.0
+24017,Brian Bennett,132,,,,15,19,4,26.7,36.4,0.0,Middle-Overs Specialist,Bowler,48.0,84.0,0.0
+24346,Mohamed Shafeeq,63,,,,6,10,4,66.7,57.1,33.3,Powerplay Specialist,Bowler,36.0,6.0,21.0
+24381,Shariz Ahmad,36,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,36.0,0.0
+24473,Sonny Baker,95,,,,4,4,0,0.0,63.2,30.5,Powerplay Specialist,Bowler,60.0,6.0,29.0
+24475,Rehan Ahmed,210,,,,27,51,24,88.9,0.0,8.6,Middle-Overs Specialist,Bowler,0.0,192.0,18.0
+24767,Ripon Mondol,24,,,,0,0,0,0.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+24779,Ijaz Ahmadzai,6,,,,0,6,6,600.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,6.0
+24812,Chris Greaves,54,,,,3,8,5,166.7,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,54.0,0.0
+24887,Innocent Kaia,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+24978,Jack Jarvis,22,,,,6,7,1,16.7,27.3,0.0,Middle-Overs Specialist,Bowler,6.0,16.0,0.0
+25011,Liam Mccarthy,66,,,,16,19,3,18.8,27.3,18.2,Middle-Overs Specialist,Bowler,18.0,36.0,12.0
+25030,Zaman Khan,171,,,,15,33,18,120.0,63.2,26.3,Powerplay Specialist,Bowler,108.0,18.0,45.0
+25048,Umran Malik,560,,,,41,105,64,156.1,7.5,17.3,Middle-Overs Specialist,Bowler,42.0,421.0,97.0
+25128,Nqabayomzi Peter,162,,,,11,32,21,190.9,3.7,14.8,Middle-Overs Specialist,Bowler,6.0,132.0,24.0
+25132,Praful Hinge,156,,,,39,79,40,102.6,42.3,34.6,Death Specialist,Bowler,66.0,36.0,54.0
+25138,Harsh Dubey,192,,,,61,98,37,60.7,28.1,15.6,Middle-Overs Specialist,Bowler,54.0,108.0,30.0
+25213,Dewald Brevis,3,,,,0,0,0,0.0,0.0,100.0,Death Specialist,Bowler,0.0,0.0,3.0
+25216,Andile Simelane,108,,,,10,30,20,200.0,27.8,22.2,Middle-Overs Specialist,Bowler,30.0,54.0,24.0
+25231,Samay Shrivastava,42,,,,0,9,9,900.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,42.0,0.0
+25502,Adnan Idrees,12,,,,0,4,4,400.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+25507,Edson Silva,18,,,,0,0,0,0.0,0.0,33.3,Death Specialist,Bowler,0.0,12.0,6.0
+25809,Juanoy Drysdale,36,,,,5,9,4,80.0,16.7,33.3,Death Specialist,Bowler,6.0,18.0,12.0
+26663,Kwena Maphaka,287,,,,31,64,33,106.5,35.5,22.6,Middle-Overs Specialist,Bowler,102.0,120.0,65.0
+26795,Joel Davies,48,,,,0,6,6,600.0,12.5,12.5,Middle-Overs Specialist,Bowler,6.0,36.0,6.0
+26834,Raj Bawa,24,,,,2,3,1,50.0,0.0,25.0,Middle-Overs Specialist,Bowler,0.0,18.0,6.0
+26916,Yasir Mohammad,36,,,,3,8,5,166.7,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,36.0,0.0
+26988,Jitenkumar Ramanandi,48,,,,1,9,8,800.0,12.5,37.5,Death Specialist,Bowler,6.0,24.0,18.0
+27004,Hassnain Shah,42,,,,0,5,5,500.0,14.3,28.6,Middle-Overs Specialist,Bowler,6.0,24.0,12.0
+27364,Simranjeet Kang,51,,,,3,4,1,33.3,5.9,11.8,Middle-Overs Specialist,Bowler,3.0,42.0,6.0
+27373,Muhammad Farooq,18,,,,0,5,5,500.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,18.0,0.0
+27380,Harshit Kaushik,60,,,,0,2,2,200.0,0.0,30.0,Death Specialist,Bowler,0.0,42.0,18.0
+27390,Matiullah Khan,60,,,,3,8,5,166.7,40.0,30.0,Death Specialist,Bowler,24.0,18.0,18.0
+27460,Ali Naseer,36,,,,0,1,1,100.0,33.3,50.0,Death Specialist,Bowler,12.0,6.0,18.0
+27464,Aayan Afzal Khan,102,,,,1,2,1,100.0,47.1,0.0,Powerplay Specialist,Bowler,48.0,54.0,0.0
+27466,Dhruv Parashar,186,,,,23,33,10,43.5,38.7,0.0,Middle-Overs Specialist,Bowler,72.0,114.0,0.0
+27504,Dushan Hemantha,68,,,,3,14,11,366.7,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,68.0,0.0
+27516,Ihsanullah Ihsanullah,89,,,,5,7,2,40.0,33.7,19.1,Middle-Overs Specialist,Bowler,30.0,42.0,17.0
+27743,DT Doram,168,,,,3,3,0,0.0,21.4,21.4,Middle-Overs Specialist,Bowler,36.0,96.0,36.0
+27956,Prashant Solanki,36,,,,0,2,2,200.0,0.0,33.3,Death Specialist,Bowler,0.0,24.0,12.0
+27959,Hrithik Shokeen,204,,,,0,11,11,1100.0,26.5,2.9,Middle-Overs Specialist,Bowler,54.0,144.0,6.0
+27960,Mayank Yadav,469,,,,58,103,45,77.6,38.4,22.0,Middle-Overs Specialist,Bowler,180.0,186.0,103.0
+27964,Anshul Kamboj,491,,,,115,149,34,29.6,57.4,26.7,Powerplay Specialist,Bowler,282.0,78.0,131.0
+27970,Gurnoor Brar,18,,,,5,8,3,60.0,66.7,0.0,Powerplay Specialist,Bowler,12.0,6.0,0.0
+28018,Ashok Sharma,174,,,,5,15,10,200.0,20.7,34.5,Death Specialist,Bowler,36.0,78.0,60.0
+28021,Saurabh Dubey,77,,,,8,14,6,75.0,67.5,32.5,Powerplay Specialist,Bowler,52.0,0.0,25.0
+28655,Muhammad Rohid,112,,,,17,20,3,17.6,69.6,19.6,Powerplay Specialist,Bowler,78.0,12.0,22.0
+28756,Haider Ali,270,,,,28,36,8,28.6,40.0,8.9,Middle-Overs Specialist,Bowler,108.0,138.0,24.0
+28908,Vincent Masekesa,19,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,19.0,0.0
+28911,John Masara,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+28915,Trevor Gwandu,150,,,,6,6,0,0.0,40.0,24.0,Middle-Overs Specialist,Bowler,60.0,54.0,36.0
+29066,Zakary Foulkes,346,,,,14,34,20,142.9,45.1,25.4,Powerplay Specialist,Bowler,156.0,102.0,88.0
+29075,Aadil Ansari,36,,,,0,4,4,400.0,0.0,16.7,Middle-Overs Specialist,Bowler,0.0,30.0,6.0
+29080,Muhammad Khan,96,,,,6,18,12,200.0,6.2,37.5,Death Specialist,Bowler,6.0,54.0,36.0
+29558,Muhammad Arfan,48,,,,0,0,0,0.0,12.5,25.0,Middle-Overs Specialist,Bowler,6.0,30.0,12.0
+29833,Bashir Ahmad,18,,,,0,0,0,0.0,66.7,33.3,Powerplay Specialist,Bowler,12.0,0.0,6.0
+29888,Harshit Rana,889,,,,158,215,57,36.1,47.9,24.4,Powerplay Specialist,Bowler,426.0,246.0,217.0
+30925,Bradley Currie,108,,,,1,1,0,0.0,61.1,16.7,Powerplay Specialist,Bowler,66.0,24.0,18.0
+31107,Yasin Patel,72,,,,5,5,0,0.0,50.0,0.0,Powerplay Specialist,Bowler,36.0,36.0,0.0
+31227,Vidhwath Kaverappa,24,,,,6,10,4,66.7,75.0,0.0,Powerplay Specialist,Bowler,18.0,6.0,0.0
+31513,Ethan Dsouza,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+31835,Akshay Roopak Puri,60,,,,5,20,15,300.0,10.0,0.0,Middle-Overs Specialist,Bowler,6.0,54.0,0.0
+32244,Tripurana Vijay,12,,,,3,6,3,100.0,50.0,0.0,Powerplay Specialist,Bowler,6.0,6.0,0.0
+32401,Akhil Kumar,24,,,,0,0,0,0.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+32862,Allah Ghazanfar,293,,,,51,81,30,58.8,36.9,14.0,Middle-Overs Specialist,Bowler,108.0,144.0,41.0
+33009,John Turner,24,,,,7,7,0,0.0,50.0,25.0,Powerplay Specialist,Bowler,12.0,6.0,6.0
+33440,Adwitya Bhargava,12,,,,2,1,-1,-50.0,100.0,0.0,Powerplay Specialist,Bowler,12.0,0.0,0.0
+33443,Sabir Ali,48,,,,3,4,1,33.3,87.5,0.0,Powerplay Specialist,Bowler,42.0,6.0,0.0
+33969,Tinotenda Maposa,176,,,,15,28,13,86.7,44.3,11.4,Middle-Overs Specialist,Bowler,78.0,78.0,20.0
+34466,Arafat Minhas,42,,,,1,7,6,600.0,14.3,0.0,Middle-Overs Specialist,Bowler,6.0,36.0,0.0
+34485,Sufiyan Muqeem,344,,,,14,70,56,400.0,0.0,20.3,Middle-Overs Specialist,Bowler,0.0,274.0,70.0
+34522,Brandon McMullen,48,,,,5,4,-1,-20.0,100.0,0.0,Powerplay Specialist,Bowler,48.0,0.0,0.0
+34527,Jasper John Davidson,6,,,,1,6,5,500.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+34969,Manav Suthar,48,,,,12,12,0,0.0,25.0,37.5,Death Specialist,Bowler,12.0,18.0,18.0
+35072,Ramakrishna Ghosh,18,,,,1,1,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,18.0,0.0
+35102,Zikria Islam,18,,,,0,1,1,100.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,18.0,0.0
+35122,Shah Faisal,72,,,,2,8,6,300.0,50.0,50.0,Powerplay Specialist,Bowler,36.0,0.0,36.0
+35318,Sakib Hussain,252,,,,49,98,49,100.0,23.8,31.0,Death Specialist,Bowler,60.0,114.0,78.0
+36551,Zishan Motara,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+36553,Jediah Blades,119,,,,12,18,6,50.0,40.3,29.4,Middle-Overs Specialist,Bowler,48.0,36.0,35.0
+36981,Himanshu Sharma,30,,,,0,10,10,1000.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,30.0,0.0
+36982,Suyash Sharma,773,,,,113,245,132,116.8,2.3,12.3,Middle-Overs Specialist,Bowler,18.0,660.0,95.0
+36983,Mohit Rathee,12,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+36984,Raghav Goyal,24,,,,6,10,4,66.7,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,24.0,0.0
+37052,Naman Dhir,124,,,,7,25,18,257.1,4.8,14.5,Middle-Overs Specialist,Bowler,6.0,100.0,18.0
+37731,Musheer Khan,12,,,,3,6,3,100.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,12.0,0.0
+37939,Nahid Rana,93,,,,19,25,6,31.6,32.3,32.3,Death Specialist,Bowler,30.0,33.0,30.0
+38044,Mahli Beardman,24,,,,0,0,0,0.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+38855,Mohammad Saifuddin,436,,,,38,54,16,42.1,34.4,42.2,Death Specialist,Bowler,150.0,102.0,184.0
+39657,Eshan Malinga,763,,,,155,264,109,70.3,32.2,30.1,Death Specialist,Bowler,246.0,287.0,230.0
+39991,Parveen Kumar,48,,,,3,9,6,200.0,12.5,0.0,Middle-Overs Specialist,Bowler,6.0,42.0,0.0
+41503,Yash Punja,180,,,,54,104,50,92.6,3.3,10.0,Middle-Overs Specialist,Bowler,6.0,156.0,18.0
+42548,Muhammad Jawadullah,204,,,,9,22,13,144.4,20.6,38.2,Death Specialist,Bowler,42.0,84.0,78.0
+43917,Krish Bhagat,36,,,,0,0,0,0.0,50.0,50.0,Powerplay Specialist,Bowler,18.0,0.0,18.0
+45381,PV Satyanarayan Raju,24,,,,0,0,0,0.0,25.0,50.0,Death Specialist,Bowler,6.0,6.0,12.0
+45457,Zach Lion Cachet,70,,,,0,4,4,400.0,8.6,14.3,Middle-Overs Specialist,Bowler,6.0,54.0,10.0
+45966,Prashant Veer,12,,,,0,0,0,0.0,50.0,0.0,Powerplay Specialist,Bowler,6.0,6.0,0.0
+46066,Vipraj Nigam,288,,,,47,79,32,68.1,18.8,12.5,Middle-Overs Specialist,Bowler,54.0,198.0,36.0
+46378,Kyle Klein,139,,,,17,21,4,23.5,64.7,12.9,Powerplay Specialist,Bowler,90.0,31.0,18.0
+46929,Dian Forrester,6,,,,0,0,0,0.0,0.0,0.0,Middle-Overs Specialist,Bowler,0.0,6.0,0.0
+47050,Shamar Joseph,453,,,,44,67,23,52.3,38.4,35.1,Death Specialist,Bowler,174.0,120.0,159.0
+47371,Zuhaid Zubair,18,,,,0,0,0,0.0,0.0,33.3,Death Specialist,Bowler,0.0,12.0,6.0
+47403,Newman Nyamhuri,83,,,,21,20,-1,-4.8,57.8,20.5,Powerplay Specialist,Bowler,48.0,18.0,17.0
+47724,Jahandad Khan,101,,,,15,20,5,33.3,77.2,10.9,Powerplay Specialist,Bowler,78.0,12.0,11.0
+48557,Vignesh Puthur,72,,,,7,19,12,171.4,0.0,16.7,Middle-Overs Specialist,Bowler,0.0,60.0,12.0
+48616,Abdul Saqlain,68,,,,6,12,6,100.0,8.8,20.6,Middle-Overs Specialist,Bowler,6.0,48.0,14.0
+50062,Nqobani Mokoena,63,,,,0,0,0,0.0,38.1,19.0,Middle-Overs Specialist,Bowler,24.0,27.0,12.0
+52338,Usman Tariq,64,,,,0,4,4,400.0,0.0,15.6,Middle-Overs Specialist,Bowler,0.0,54.0,10.0
+56685,Abdullah Ahmadzai,190,,,,15,40,25,166.7,3.2,24.2,Middle-Overs Specialist,Bowler,6.0,138.0,46.0
+56817,Shivang Kumar,234,,,,50,97,47,94.0,2.6,5.1,Middle-Overs Specialist,Bowler,6.0,216.0,12.0
+56830,Madhav Tiwari,60,,,,7,22,15,214.3,0.0,20.0,Middle-Overs Specialist,Bowler,0.0,48.0,12.0
+57747,Charlie Cassell,6,,,,3,3,0,0.0,100.0,0.0,Powerplay Specialist,Bowler,6.0,0.0,0.0
+58134,Digvesh Rathi,522,,,,120,188,68,56.7,26.4,14.9,Middle-Overs Specialist,Bowler,138.0,306.0,78.0
+58246,Prince Yadav,685,,,,80,152,72,90.0,31.5,29.6,Middle-Overs Specialist,Bowler,216.0,266.0,203.0
+58727,Abhinandan Singh,58,,,,10,21,11,110.0,41.4,17.2,Middle-Overs Specialist,Bowler,24.0,24.0,10.0
+59045,Jai Moondra,48,,,,12,22,10,83.3,62.5,37.5,Powerplay Specialist,Bowler,30.0,0.0,18.0
+60609,Navin Bidaisee,48,,,,0,1,1,100.0,0.0,12.5,Middle-Overs Specialist,Bowler,0.0,42.0,6.0
+67036,Brijesh Sharma,273,,,,65,94,29,44.6,26.4,34.1,Death Specialist,Bowler,72.0,108.0,93.0
+67864,Matt Hollard,48,,,,9,13,4,44.4,37.5,12.5,Middle-Overs Specialist,Bowler,18.0,24.0,6.0
+71727,Razaullah Razaullah,37,,,,0,2,2,200.0,48.6,18.9,Powerplay Specialist,Bowler,18.0,12.0,7.0

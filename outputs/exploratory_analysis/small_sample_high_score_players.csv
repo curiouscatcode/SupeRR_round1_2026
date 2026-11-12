@@ -1,0 +1,43 @@
+role,player_id,player_name,tier,sample_deliveries,reliability_score,raw_core_metric,bayesian_core_metric
+Batter,46066,Vipraj Nigam,Tier 2: Specialist,49,93.57,SR 214.3,SR* 163.7
+Bowler,4658,Nasum Ahmed,Tier 2: Specialist,55,88.84,Econ 4.0,Econ* 6.4
+Batter,3578,Imad Wasim,Below Threshold,32,81.09,SR 171.9,SR* 136.6
+Batter,19147,Faraz Akram,Below Threshold,19,79.96,SR 221.1,SR* 143.5
+Batter,2382,Jamie Overton,Tier 2: Specialist,59,79.54,SR 171.2,SR* 145.0
+Bowler,2985,Mark Wood,Tier 2: Specialist,47,79.11,Econ 6.8,Econ* 8.0
+Batter,5928,Prithvi Shaw,Below Threshold,17,78.23,SR 229.4,SR* 143.3
+Bowler,8009,Junaid Siddique,Tier 2: Specialist,50,74.78,Econ 7.7,Econ* 8.4
+Bowler,773,Shadley Van Schalkwyk,Below Threshold,9,74.53,Econ 2.0,Econ* 8.0
+Bowler,1701,Swapnil Singh,Below Threshold,21,74.49,Econ 6.6,Econ* 8.3
+Bowler,5189,Faheem Ashraf,Below Threshold,34,74.31,Econ 5.1,Econ* 7.5
+Bowler,6097,Brydon Carse,Below Threshold,22,74.1,Econ 5.7,Econ* 8.0
+Bowler,4838,Keemo Paul,Below Threshold,10,73.38,Econ 6.6,Econ* 8.7
+Bowler,3720,Craig Young,Below Threshold,37,72.36,Econ 6.0,Econ* 7.8
+Batter,45749,Mukul Choudhary,Below Threshold,20,72.34,SR 195.0,SR* 137.2
+Bowler,5562,Richard Gleeson,Below Threshold,10,72.34,Econ 4.2,Econ* 8.2
+Batter,45966,Prashant Veer,Below Threshold,30,71.92,SR 156.7,SR* 130.0
+Bowler,24475,Rehan Ahmed,Below Threshold,27,70.87,Econ 7.6,Econ* 8.5
+Bowler,3627,Andile Phehlukwayo,Below Threshold,8,70.45,Econ 4.5,Econ* 8.4
+Batter,8085,Suyash Prabhudessai,Tier 2: Specialist,40,70.12,SR 147.5,SR* 128.9
+Bowler,332,Angelo Mathews,Below Threshold,31,69.81,Econ 7.2,Econ* 8.3
+Bowler,2863,Sandeep Warrier,Below Threshold,22,69.76,Econ 9.6,Econ* 9.2
+Bowler,786,Chris Jordan,Below Threshold,19,69.02,Econ 3.8,Econ* 7.6
+Bowler,6423,Riyan Parag,Below Threshold,13,68.73,Econ 5.5,Econ* 8.3
+Batter,3280,Nazmul Hossain Shanto,Below Threshold,18,68.7,SR 155.6,SR* 125.0
+Bowler,8654,Cooper Connolly,Below Threshold,6,68.61,Econ 1.0,Econ* 8.2
+Bowler,3629,Corbin Bosch,Below Threshold,27,68.1,Econ 7.6,Econ* 8.5
+Batter,23450,Sai Sudharsan,Tier 2: Specialist,50,68.05,SR 140.0,SR* 127.0
+Bowler,4288,Navdeep Saini,Below Threshold,4,68.01,Econ 1.5,Econ* 8.5
+Batter,4842,Shamar Springer,Tier 2: Specialist,41,67.3,SR 161.0,SR* 135.2
+Batter,768,Reeza Hendricks,Tier 2: Specialist,43,66.98,SR 151.2,SR* 131.2
+Batter,2003,Bhanuka Rajapaksa,Below Threshold,18,66.92,SR 183.3,SR* 132.4
+Batter,6272,William Jacks,Tier 2: Specialist,54,66.88,SR 142.6,SR* 128.9
+Batter,992,Mayank Agarwal,Below Threshold,20,66.61,SR 155.0,SR* 125.8
+Batter,2750,Alex Carey,Below Threshold,15,66.44,SR 166.7,SR* 126.2
+Batter,19902,Tim Pringle,Below Threshold,23,66.41,SR 173.9,SR* 132.9
+Bowler,3077,Usama Mir,Below Threshold,22,66.25,Econ 4.6,Econ* 7.7
+Bowler,6389,Tanvir Islam,Below Threshold,13,66.03,Econ 3.2,Econ* 7.9
+Batter,20005,Arshad Khan,Tier 2: Specialist,51,65.91,SR 152.9,SR* 133.7
+Bowler,3323,Jimmy Neesham,Below Threshold,11,65.48,Econ 4.4,Econ* 8.2
+Bowler,48557,Vignesh Puthur,Below Threshold,7,65.2,Econ 2.6,Econ* 8.3
+Batter,4736,Josh Inglis,Tier 2: Specialist,52,65.01,SR 148.1,SR* 131.4

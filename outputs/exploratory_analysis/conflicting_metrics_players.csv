@@ -1,0 +1,21 @@
+role,player_name,tier,sample_deliveries,conflict_type,metrics_evidence,score
+Batter,Suryakumar Yadav,Tier 1: Qualified,152,High Boundary % vs High Dot Ball %,"Bnd 22.4%, Dot 46.7%",67.64
+Batter,Jos Buttler,Tier 1: Qualified,80,High Boundary % vs High Dot Ball %,"Bnd 22.5%, Dot 50.0%",67.63
+Bowler,Richard Ngarava,Tier 1: Qualified,92,Elite Economy vs Minimal Wickets (Wk <= 2),"Econ 7.0, Wk 2",60.97
+Batter,Nitish Rana,Tier 1: Qualified,80,High Boundary % vs High Dot Ball %,"Bnd 20.0%, Dot 51.2%",59.14
+Batter,Quinton de Kock,Tier 2: Specialist,53,High Boundary % vs High Dot Ball %,"Bnd 22.6%, Dot 50.9%",58.38
+Bowler,Harpreet Brar,Tier 1: Qualified,84,Elite Economy vs Minimal Wickets (Wk <= 2),"Econ 6.9, Wk 2",56.16
+Batter,Curtis Campher,Below Threshold,33,High Boundary % vs High Dot Ball %,"Bnd 21.2%, Dot 54.5%",55.84
+Batter,Rilee Rossouw,Below Threshold,38,High Boundary % vs High Dot Ball %,"Bnd 28.9%, Dot 52.6%",55.63
+Batter,Dwaine Pretorius,Below Threshold,30,High Boundary % vs High Dot Ball %,"Bnd 23.3%, Dot 46.7%",54.7
+Batter,Matthew Forde,Tier 1: Qualified,66,High Boundary % vs High Dot Ball %,"Bnd 21.2%, Dot 45.5%",54.17
+Batter,Sunil Narine,Tier 1: Qualified,62,High Boundary % vs High Dot Ball %,"Bnd 24.2%, Dot 50.0%",53.15
+Batter,Yashasvi Jaiswal,Tier 1: Qualified,63,High Boundary % vs High Dot Ball %,"Bnd 20.6%, Dot 55.6%",53.11
+Batter,Virat Kohli,Tier 2: Specialist,47,High Boundary % vs High Dot Ball %,"Bnd 21.3%, Dot 51.1%",51.46
+Bowler,Mitchell Starc,Tier 1: Qualified,153,High Wickets vs Leaked Economy (Econ >= 10.5),"Econ 10.6, Wk 10",46.61
+Bowler,Anrich Nortje,Tier 1: Qualified,101,High Wickets vs Leaked Economy (Econ >= 10.5),"Econ 10.6, Wk 5",45.39
+Batter,Sameer Rizvi,Below Threshold,39,High Boundary % vs High Dot Ball %,"Bnd 20.5%, Dot 51.3%",44.8
+Batter,Travis Head,Below Threshold,36,High Boundary % vs High Dot Ball %,"Bnd 22.2%, Dot 61.1%",44.04
+Bowler,Yash Dayal,Tier 1: Qualified,110,High Wickets vs Leaked Economy (Econ >= 10.5),"Econ 11.0, Wk 5",38.81
+Bowler,Marco Jansen,Tier 1: Qualified,178,High Wickets vs Leaked Economy (Econ >= 10.5),"Econ 10.6, Wk 6",35.43
+Bowler,Harshal Patel,Tier 1: Qualified,133,High Wickets vs Leaked Economy (Econ >= 10.5),"Econ 11.6, Wk 7",32.14

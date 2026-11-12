@@ -1,0 +1,82 @@
+player_id,player_name,tier,high_balls,raw_metric,bayesian_metric,score,anomaly_category,cricketing_review_note
+19147,Faraz Akram,Below Threshold,19,SR 221.1,SR* 143.5,79.96,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+5928,Prithvi Shaw,Below Threshold,17,SR 229.4,SR* 143.3,78.23,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+15280,Sayed Monib,Below Threshold,6,SR 266.7,SR* 130.4,59.67,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+19530,Shahnawaz Dhani,Below Threshold,6,SR 266.7,SR* 130.4,59.29,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+7756,Kaleem Sana,Below Threshold,4,SR 225.0,SR* 122.3,55.89,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+4901,Asitha Fernando,Below Threshold,4,SR 225.0,SR* 122.3,57.37,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+8141,Auqib Nabi,Below Threshold,3,SR 266.7,SR* 122.7,51.89,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+27469,Aryansh Sharma,Below Threshold,2,SR 350.0,SR* 123.1,59.64,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+20175,Nandan Yadav,Below Threshold,2,SR 350.0,SR* 123.1,56.54,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+6565,Katene Clarke,Below Threshold,1,SR 400.0,SR* 119.7,55.09,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+25501,Meet Bhavsar,Below Threshold,1,SR 400.0,SR* 119.7,54.67,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+2860,KS Bharat,Below Threshold,1,SR 400.0,SR* 119.7,55.33,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+6436,Qais Ahmad,Below Threshold,1,SR 400.0,SR* 119.7,54.25,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+2439,Akila Dananjaya,Below Threshold,1,SR 400.0,SR* 119.7,53.79,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+7710,Brandon Glover,Below Threshold,1,SR 400.0,SR* 119.7,53.79,Small-Sample Extreme Strike Rate,Explosive cameo on very low sample (<30 balls); heavily regressed by prior.
+6448,Ibrahim Zadran,Below Threshold,39,0 Dismissals (100% Surv),Surv* 96.0%,60.89,Zero Dismissal Outlier,Faced 39 high-pressure deliveries without being dismissed; maxes out Score Surv.
+2671,Liton Das,Below Threshold,38,0 Dismissals (100% Surv),Surv* 96.0%,64.69,Zero Dismissal Outlier,Faced 38 high-pressure deliveries without being dismissed; maxes out Score Surv.
+3578,Imad Wasim,Below Threshold,32,0 Dismissals (100% Surv),Surv* 95.7%,81.09,Zero Dismissal Outlier,Faced 32 high-pressure deliveries without being dismissed; maxes out Score Surv.
+4812,Harry Tector,Below Threshold,31,0 Dismissals (100% Surv),Surv* 95.6%,50.8,Zero Dismissal Outlier,Faced 31 high-pressure deliveries without being dismissed; maxes out Score Surv.
+45966,Prashant Veer,Below Threshold,30,0 Dismissals (100% Surv),Surv* 95.6%,71.92,Zero Dismissal Outlier,Faced 30 high-pressure deliveries without being dismissed; maxes out Score Surv.
+2877,Vijay Shankar,Tier 1: Qualified,65,0 Dismissals (100% Surv),Surv* 96.9%,78.02,Zero Dismissal Outlier,Faced 65 high-pressure deliveries without being dismissed; maxes out Score Surv.
+813,Jos Buttler,Tier 1: Qualified,80,0 Dismissals (100% Surv),Surv* 97.3%,67.63,Zero Dismissal Outlier,Faced 80 high-pressure deliveries without being dismissed; maxes out Score Surv.
+796,Matthew Wade,Tier 1: Qualified,67,0 Dismissals (100% Surv),Surv* 97.0%,64.51,Zero Dismissal Outlier,Faced 67 high-pressure deliveries without being dismissed; maxes out Score Surv.
+23450,Sai Sudharsan,Tier 2: Specialist,50,0 Dismissals (100% Surv),Surv* 96.5%,68.05,Zero Dismissal Outlier,Faced 50 high-pressure deliveries without being dismissed; maxes out Score Surv.
+7544,Venkatesh Iyer,Tier 2: Specialist,47,0 Dismissals (100% Surv),Surv* 96.3%,60.49,Zero Dismissal Outlier,Faced 47 high-pressure deliveries without being dismissed; maxes out Score Surv.
+2101,Quinton de Kock,Tier 2: Specialist,53,0 Dismissals (100% Surv),Surv* 96.6%,58.38,Zero Dismissal Outlier,Faced 53 high-pressure deliveries without being dismissed; maxes out Score Surv.
+167,Ajinkya Rahane,Tier 2: Specialist,44,0 Dismissals (100% Surv),Surv* 96.2%,54.99,Zero Dismissal Outlier,Faced 44 high-pressure deliveries without being dismissed; maxes out Score Surv.
+8238,Sameer Rizvi,Below Threshold,39,"Bnd 20.5%, Dot 51.3%",Net Exec 52.4,44.8,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+772,Rilee Rossouw,Below Threshold,38,"Bnd 28.9%, Dot 52.6%",Net Exec 65.8,55.63,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+2367,Travis Head,Below Threshold,36,"Bnd 22.2%, Dot 61.1%",Net Exec 46.8,44.04,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+7094,Curtis Campher,Below Threshold,33,"Bnd 21.2%, Dot 54.5%",Net Exec 50.4,55.84,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+2334,Dwaine Pretorius,Below Threshold,30,"Bnd 23.3%, Dot 46.7%",Net Exec 59.3,54.7,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+1699,Suryakumar Yadav,Tier 1: Qualified,152,"Bnd 22.4%, Dot 46.7%",Net Exec 68.8,67.64,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+813,Jos Buttler,Tier 1: Qualified,80,"Bnd 22.5%, Dot 50.0%",Net Exec 61.1,67.63,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+4246,Nitish Rana,Tier 1: Qualified,80,"Bnd 20.0%, Dot 51.2%",Net Exec 53.4,59.14,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+8295,Matthew Forde,Tier 1: Qualified,66,"Bnd 21.2%, Dot 45.5%",Net Exec 62.3,54.17,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+781,Sunil Narine,Tier 1: Qualified,62,"Bnd 24.2%, Dot 50.0%",Net Exec 63.4,53.15,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+6819,Yashasvi Jaiswal,Tier 1: Qualified,63,"Bnd 20.6%, Dot 55.6%",Net Exec 49.4,53.11,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+2101,Quinton de Kock,Tier 2: Specialist,53,"Bnd 22.6%, Dot 50.9%",Net Exec 58.1,58.38,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+47,Virat Kohli,Tier 2: Specialist,47,"Bnd 21.3%, Dot 51.1%",Net Exec 54.7,51.46,All-or-Nothing Boundary-Dependent Batter,High boundary rate masked by heavy dot-ball accumulation; severe vulnerability if boundaries dried up.
+1318,Andre Russell,Tier 1: Qualified,171,ΔSR -47.6,Diff* -49.1,56.33,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6726,Romario Shepherd,Tier 1: Qualified,254,ΔSR -50.8,Diff* -49.0,53.59,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4260,Heinrich Klaasen,Tier 1: Qualified,154,ΔSR -53.9,Diff* -54.0,51.06,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+5189,Faheem Ashraf,Tier 1: Qualified,93,ΔSR -40.5,Diff* -37.4,49.62,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+5553,Phil Salt,Tier 1: Qualified,68,ΔSR -41.8,Diff* -48.0,49.46,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+1077,David Miller,Tier 1: Qualified,201,ΔSR -46.8,Diff* -45.2,47.98,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+143,Dinesh Karthik,Tier 1: Qualified,131,ΔSR -65.1,Diff* -62.0,47.28,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4391,Liam Livingstone,Tier 1: Qualified,117,ΔSR -44.8,Diff* -44.1,46.78,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+3298,Jofra Archer,Tier 1: Qualified,105,ΔSR -52.4,Diff* -39.5,42.44,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+2258,Sanju Samson,Tier 1: Qualified,91,ΔSR -54.7,Diff* -50.2,40.33,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+21784,Brad Evans,Tier 1: Qualified,92,ΔSR -46.5,Diff* -37.2,40.21,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+19714,Abishek Porel,Tier 1: Qualified,62,ΔSR -54.8,Diff* -46.8,39.38,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6281,Abhishek Sharma,Tier 1: Qualified,76,ΔSR -82.7,Diff* -78.6,39.19,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+5441,Barry McCarthy,Tier 1: Qualified,67,ΔSR -52.7,Diff* -41.2,36.13,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+8182,Donovan Ferreira,Tier 1: Qualified,69,ΔSR -76.6,Diff* -65.4,36.1,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+7905,Tanzim Sakib,Tier 1: Qualified,91,ΔSR -50.2,Diff* -43.0,34.38,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4900,Wanindu Hasaranga,Tier 1: Qualified,146,ΔSR -42.1,Diff* -38.3,32.99,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6676,Azmatullah Omarzai,Tier 1: Qualified,106,ΔSR -55.5,Diff* -48.2,32.52,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+5837,Mahedi Hasan,Tier 1: Qualified,64,ΔSR -45.3,Diff* -32.6,31.42,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6355,Shaheen Afridi,Tier 1: Qualified,105,ΔSR -98.2,Diff* -70.8,19.95,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+2399,Dushmantha Chameera,Tier 1: Qualified,86,ΔSR -117.4,Diff* -57.2,17.72,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+2320,Trent Boult,Tier 2: Specialist,53,ΔSR -41.0,Diff* -33.4,54.22,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6280,Harry Brook,Tier 2: Specialist,52,ΔSR -43.7,Diff* -46.7,50.17,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+29066,Zakary Foulkes,Tier 2: Specialist,44,ΔSR -47.7,Diff* -31.8,48.75,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+953,Lokesh Rahul,Tier 2: Specialist,41,ΔSR -44.8,Diff* -35.8,46.27,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+3374,Mark Chapman,Tier 2: Specialist,58,ΔSR -53.6,Diff* -44.4,43.39,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+126,Rohit Sharma,Tier 2: Specialist,48,ΔSR -48.9,Diff* -39.6,42.39,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+7216,Prabhsimran Singh,Tier 2: Specialist,42,ΔSR -54.3,Diff* -49.7,41.21,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+403,Umesh Yadav,Tier 2: Specialist,52,ΔSR -42.1,Diff* -36.0,40.42,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+220,David Warner,Tier 2: Specialist,44,ΔSR -56.1,Diff* -43.6,38.99,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4926,Shadab Khan,Tier 2: Specialist,44,ΔSR -51.2,Diff* -41.6,37.54,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+38855,Mohammad Saifuddin,Tier 2: Specialist,45,ΔSR -128.9,Diff* -70.6,35.49,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6450,Mujeeb Ur Rahman,Tier 2: Specialist,46,ΔSR -94.0,Diff* -53.6,35.14,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6512,Michael Bracewell,Tier 2: Specialist,59,ΔSR -51.4,Diff* -41.1,34.05,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4111,Khushdil Shah,Tier 2: Specialist,47,ΔSR -47.5,Diff* -30.0,33.91,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4904,Kamindu Mendis,Tier 2: Specialist,57,ΔSR -54.3,Diff* -39.5,33.69,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4641,Lungi Ngidi,Tier 2: Specialist,59,ΔSR -122.0,Diff* -52.2,32.34,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+6161,Rahul Chahar,Tier 2: Specialist,50,ΔSR -45.0,Diff* -37.8,30.99,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+25213,Dewald Brevis,Tier 2: Specialist,54,ΔSR -88.8,Diff* -66.5,29.38,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+1944,Keshav Maharaj,Tier 2: Specialist,50,ΔSR -45.0,Diff* -38.8,22.39,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.
+4874,Richard Ngarava,Tier 2: Specialist,46,ΔSR -66.2,Diff* -46.3,21.3,Severe Clutch Scoring Collapse,Scoring velocity drops by > 40 points in high-pressure regime compared to low/mod pressure.

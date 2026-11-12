@@ -1,0 +1,27 @@
+player_id,player_name,tier,high_legal_balls,raw_metric,bayesian_metric,score,anomaly_category,cricketing_review_note
+829,Mitchell Starc,Tier 1: Qualified,153,"Econ 10.6, Wk 10","Econ* 10.2, Wk* 6.1%",46.61,Expensive Strike Bowler (Trade-off),High breakthrough capability achieved at the expense of run-leakage (Econ >= 10.5).
+7270,Anrich Nortje,Tier 1: Qualified,101,"Econ 10.6, Wk 5","Econ* 10.1, Wk* 4.9%",45.39,Expensive Strike Bowler (Trade-off),High breakthrough capability achieved at the expense of run-leakage (Econ >= 10.5).
+7322,Yash Dayal,Tier 1: Qualified,110,"Econ 11.0, Wk 5","Econ* 10.4, Wk* 4.6%",38.81,Expensive Strike Bowler (Trade-off),High breakthrough capability achieved at the expense of run-leakage (Econ >= 10.5).
+7808,Marco Jansen,Tier 1: Qualified,178,"Econ 10.6, Wk 6","Econ* 10.2, Wk* 3.7%",35.43,Expensive Strike Bowler (Trade-off),High breakthrough capability achieved at the expense of run-leakage (Econ >= 10.5).
+2261,Harshal Patel,Tier 1: Qualified,133,"Econ 11.6, Wk 7","Econ* 10.9, Wk* 5.1%",32.14,Expensive Strike Bowler (Trade-off),High breakthrough capability achieved at the expense of run-leakage (Econ >= 10.5).
+4874,Richard Ngarava,Tier 1: Qualified,92,"Econ 7.0, Wk 2","Econ* 7.8, Wk* 3.1%",60.97,Restrictive Shield (Zero/Low Wickets),"Exceptional containment under pressure, but takes very few wickets; penalised in Score Wk."
+7325,Harpreet Brar,Tier 1: Qualified,84,"Econ 6.9, Wk 2","Econ* 7.7, Wk* 3.3%",56.16,Restrictive Shield (Zero/Low Wickets),"Exceptional containment under pressure, but takes very few wickets; penalised in Score Wk."
+1389,Sean Abbott,Below Threshold,32,"Dot 46.9%, Econ 9.6","Score Dot 69.2, Score Econ 45.8",51.3,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+7250,Mukesh Choudhary,Tier 1: Qualified,88,"Dot 50.0%, Econ 9.9","Score Dot 84.6, Score Econ 39.5",61.26,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+6354,Spencer Johnson,Tier 1: Qualified,76,"Dot 50.0%, Econ 9.6","Score Dot 83.2, Score Econ 44.1",51.68,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+28,Ishant Sharma,Tier 1: Qualified,64,"Dot 46.9%, Econ 10.8","Score Dot 74.4, Score Econ 32.9",45.44,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+27960,Mayank Yadav,Tier 2: Specialist,58,"Dot 53.5%, Econ 9.9","Score Dot 87.8, Score Econ 41.2",59.39,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+7905,Tanzim Sakib,Tier 2: Specialist,49,"Dot 51.0%, Econ 9.6","Score Dot 80.6, Score Econ 45.0",54.57,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+7689,Dilshan Madushanka,Tier 2: Specialist,51,"Dot 45.1%, Econ 10.3","Score Dot 69.1, Score Econ 38.1",46.56,High Dot Rate with Severe Boundary Bleed,Bowls many dot balls but non-dot deliveries are heavily punished for boundaries.
+4926,Shadab Khan,Tier 1: Qualified,67,ΔEcon -2.52 RPO,Diff* -2.00,35.99,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+2636,Adam Zampa,Tier 1: Qualified,61,ΔEcon -2.77 RPO,Diff* -1.86,34.26,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+2261,Harshal Patel,Tier 1: Qualified,133,ΔEcon -2.65 RPO,Diff* -1.97,32.14,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+4823,Washington Sundar,Tier 1: Qualified,78,ΔEcon -3.37 RPO,Diff* -2.49,28.39,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+1107,Mohammad Nabi,Tier 1: Qualified,66,ΔEcon -5.34 RPO,Diff* -3.51,14.88,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+1487,Adam Milne,Tier 1: Qualified,66,ΔEcon -6.65 RPO,Diff* -4.00,11.48,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+6284,Anukul Roy,Tier 2: Specialist,57,ΔEcon -2.77 RPO,Diff* -1.72,31.04,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+6683,Mayank Markande,Tier 2: Specialist,55,ΔEcon -2.75 RPO,Diff* -1.42,27.98,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+6671,Lalit Yadav,Tier 2: Specialist,40,ΔEcon -3.45 RPO,Diff* -1.69,27.8,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+47050,Shamar Joseph,Tier 2: Specialist,44,ΔEcon -4.84 RPO,Diff* -2.13,27.66,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+3605,Aiden Markram,Tier 2: Specialist,45,ΔEcon -3.30 RPO,Diff* -1.40,22.32,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.
+6272,William Jacks,Tier 2: Specialist,46,ΔEcon -4.66 RPO,Diff* -2.70,18.81,Severe Pressure Economy Bleeder,Economy deteriorates by > 2.5 RPO in high-pressure scenarios compared to low-pressure play.

@@ -1,0 +1,91 @@
+match_id,comp_id,match_date,home_team,away_team,result,inn1_recon,inn2_recon,target_recon,inn1_byes,inn1_legbyes,count_neg,wickets_in_neg,runs_in_neg,first_neg_over,last_inn2_over,inn2_total_balls
+13522,1335,2022-02-16,India,West Indies,India Won by 6 Wickets,153,162,154,0,2,2,0,7,19.4,19.5,116
+14096,1358,2022-03-27,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings Won by 5 Wkts,194,199,195,2,3,3,0,4,19.5,19.7,126
+14100,1358,2022-03-31,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants Won by 6 Wkts,204,208,205,1,4,2,0,1,20.4,20.5,129
+14114,1358,2022-04-11,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad Won by 8 Wickets,150,168,151,0,2,6,0,17,19.2,20.1,118
+14129,1358,2022-04-23,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad won by 9 wickets,64,72,65,0,0,2,0,7,8.5,8.6,49
+14133,1358,2022-04-27,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans Won by 5 Wickets,187,194,188,0,0,1,0,6,20.6,20.6,125
+14153,1358,2022-05-12,Chennai Super Kings,Mumbai Indians,Mumbai Indians Won by 5 Wickets,92,99,93,0,2,1,0,6,15.5,15.5,94
+14164,1358,2022-05-22,Sunrisers Hyderabad,Punjab Kings,Punjab Kings Won by 5 wickets,152,160,153,2,1,1,0,4,16.1,16.1,95
+15189,1358,2022-05-27,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals won by 7 wickets,151,161,152,1,1,3,0,9,18.5,19.1,109
+15458,1435,2022-06-07,Sri Lanka,Australia,Australia Won by 10 Wickets,124,134,125,0,0,1,0,6,14.6,14.6,87
+15795,1474,2022-06-26,Ireland,India,India Won by 7 Wickets,105,111,106,0,4,1,0,4,10.2,10.2,64
+16063,1499,2022-08-01,West Indies,India,West Indies Won by 5 Wickets,134,141,135,0,1,1,0,4,20.3,20.3,119
+16657,1533,2022-09-01,Sri Lanka,Bangladesh,Sri Lanka Won by 2 Wickets,177,182,178,1,3,1,0,2,20.3,20.3,126
+16659,1533,2022-09-03,Sri Lanka,Afghanistan,Sri Lanka Won by 4 Wickets,171,179,172,0,1,6,1,7,19.2,20.1,118
+16660,1533,2022-09-04,India,Pakistan,Pakistan Won by 5 Wickets,174,182,175,1,0,5,1,7,20.1,20.5,125
+16664,1533,2022-09-09,Sri Lanka,Pakistan,Sri Lanka Won by 5 Wickets,112,124,113,0,1,5,1,10,17.2,17.6,103
+16750,1543,2022-08-09,Ireland,Afghanistan,Ireland Won by 7 Wickets,165,171,166,1,0,1,0,4,20.5,20.5,122
+17554,1595,2022-09-22,Pakistan,England,Pakistan Won by 10 Wickets,198,203,199,0,0,1,0,4,20.3,20.3,122
+19691,1709,2023-01-14,Zimbabwe,Ireland,Ireland Won by 6 wickets,139,150,140,1,4,5,0,9,19.6,20.4,120
+19716,1700,2023-01-29,India,New Zealand,India won by 6 wickets,95,101,96,0,1,2,0,5,20.4,20.5,125
+20187,1715,2023-04-04,Delhi Capitals,Gujarat Titans,Gujarat Titans won by 6 wickets,153,163,154,0,1,5,0,7,18.4,19.1,115
+20193,1715,2023-04-09,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders Won By 3 Wickets,200,207,201,1,4,1,0,6,20.6,20.6,123
+20202,1715,2023-04-16,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians won by 5 wickets,181,185,182,0,2,3,1,2,18.2,18.4,109
+20222,1715,2023-04-30,Mumbai Indians,Rajasthan Royals,Mumbai Indians won by 6 wickets,205,214,206,1,4,1,0,6,20.3,20.3,125
+20229,1715,2023-05-06,Chennai Super Kings,Mumbai Indians,Chennai Super Kings Won by 6 wickets,135,140,136,0,2,2,0,2,18.3,18.4,109
+20233,1715,2023-05-08,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders Won by 5 Wickets,176,182,177,1,3,2,1,4,20.5,20.6,123
+20249,1715,2023-05-21,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians Won by 8 wickets,199,201,200,0,5,2,0,1,18.5,18.6,113
+24354,1913,2023-08-13,West Indies,India,West Indies Won by 8 wickets,162,171,163,1,0,4,0,8,18.3,18.6,111
+25156,2000,2023-09-01,South Africa,Australia,Australia won by 8 wickets,161,168,162,0,5,2,0,4,15.4,15.5,92
+25161,1999,2023-09-05,England,New Zealand,New Zealand Won by 6 Wickets,171,179,172,1,1,2,0,4,18.1,18.2,105
+27062,2046,2023-11-28,India,Australia,Australia Won by 5 Wickets,214,221,215,0,1,1,0,4,20.6,20.6,128
+28063,2048,2023-12-13,West Indies,England,West Indies Won by 4 Wickets,167,172,168,0,1,2,0,4,18.6,19.1,113
+28065,2048,2023-12-16,West Indies,England,England Won By 7 Wickets,218,226,219,0,2,1,0,6,20.5,20.5,123
+28958,2229,2024-01-16,Sri Lanka,Zimbabwe,Zimbabwe Won by 4 Wickets,169,178,170,0,1,3,0,7,20.4,20.6,126
+28961,2059,2024-01-14,India,Afghanistan,India Won by 6 Wickets,169,173,170,0,1,5,0,2,15.6,16.4,96
+28962,2059,2024-01-17,India,Afghanistan,India Won Super Over By 10 Runs,205,211,206,0,3,2,0,4,20.7,20.8,129
+29926,2267,2024-02-21,Sri Lanka,Afghanistan,Afghanistan won by 3 runs,199,206,200,0,7,2,0,6,20.6,20.7,127
+30072,2193,2024-04-04,Gujarat Titans,Punjab Kings,Punjab Kings Won by 3 wickets,196,198,197,0,2,1,0,0,20.6,20.6,123
+30074,2193,2024-04-06,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals Won by 6 Wickets,179,189,180,0,2,4,0,8,19.5,20.1,118
+31240,2193,2024-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings Won by 7 wickets,134,140,135,1,1,3,0,5,18.2,18.4,109
+31250,2193,2024-04-16,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals Won by 2 wickets,213,219,214,1,1,5,0,3,20.2,20.6,130
+31256,2193,2024-04-22,Rajasthan Royals,Mumbai Indians,Rajasthan Royals Won by 9 wickets,178,183,179,0,1,1,0,4,19.4,19.4,117
+31262,2193,2024-04-27,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals Won by 7 wickets,188,199,189,0,2,2,0,10,19.5,19.6,116
+31265,2193,2024-04-29,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders Won by 7 wickets,149,157,150,0,3,3,0,6,17.1,17.3,101
+31267,2193,2024-05-01,Chennai Super Kings,Punjab Kings,Punjab Kings Won by 7 wickets,155,163,156,0,2,5,0,6,18.2,18.6,116
+32135,2371,2024-05-10,Bangladesh,Zimbabwe,Bangladesh Won by 5 runs,136,138,137,0,3,2,2,0,20.4,20.5,122
+33806,2372,2024-07-13,Zimbabwe,India,India Won by 10 wickets,144,154,145,0,1,3,0,5,15.7,16.2,95
+35423,2605,2024-08-23,Netherlands,Canada,Netherlands Won by 5 wickets,146,149,147,0,6,6,2,2,16.2,17.1,99
+37014,2562,2024-09-27,Ireland,South Africa,South Africa Won by 8 wickets,164,173,165,3,3,6,0,5,17.6,18.5,112
+37276,2512,2024-10-06,India,Bangladesh,India Won by 7 wickets,124,132,125,0,3,1,0,6,12.5,12.5,72
+37350,2455,2024-11-11,West Indies,England,England Won by 7 wickets,144,154,145,1,3,1,0,6,15.5,15.5,95
+37351,2455,2024-11-15,West Indies,England,England Won by 3 wickets,142,148,143,0,3,3,0,5,19.6,20.2,121
+37555,2692,2024-10-17,Sri Lanka,West Indies,Sri Lanka Won by 9 wickets,154,165,155,1,2,5,0,6,18.3,18.7,111
+37894,2716,2024-11-09,Sri Lanka,New Zealand,Sri Lanka Won by 4 wickets,132,140,133,0,3,2,0,6,19.5,19.6,116
+37895,2716,2024-11-10,Sri Lanka,New Zealand,New Zealand Won by 5 runs,99,100,100,5,2,1,1,0,20.5,20.5,126
+37941,2718,2024-11-10,South Africa,India,South Africa Won by 3 wickets,121,128,122,1,2,1,0,4,19.6,19.6,118
+39808,2793,2025-03-16,New Zealand,Pakistan,New Zealand Won by 9 wickets,89,92,90,0,3,1,0,2,11.1,11.1,61
+39812,2793,2025-03-26,New Zealand,Pakistan,New Zealand Won by 8 wickets,124,131,125,1,1,1,0,6,10.6,10.6,62
+40706,2725,2025-04-01,Lucknow Super Giants,Punjab Kings,Punjab Kings Won by 8 wickets,169,176,170,0,1,3,0,6,16.6,17.2,101
+40717,2725,2025-04-10,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals Won by 6 wickets,156,165,157,0,2,2,0,6,18.5,18.6,110
+40720,2725,2025-04-12,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad Won by 8 wickets,241,247,242,0,2,2,0,5,19.2,19.3,120
+40742,2725,2025-04-30,Chennai Super Kings,Punjab Kings,Punjab Kings Won by 4 wickets,189,194,190,0,3,3,1,4,20.3,20.5,121
+40764,2725,2025-05-29,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru Won by 8 wickets,94,103,95,0,2,3,0,8,10.4,10.6,60
+41508,2874,2025-07-26,West Indies,Australia,Australia Won by 3 wickets,201,206,202,0,2,5,1,4,19.4,20.2,133
+42744,2973,2025-06-01,Pakistan,Bangladesh,Pakistan Won by 7 wickets,195,197,196,1,2,1,0,1,18.2,18.2,106
+43592,3020,2025-07-10,Sri Lanka,Bangladesh,Sri Lanka Won by 7 wickets,151,159,152,2,3,2,0,7,19.5,19.6,114
+45391,3126,2026-07-04,England,India,England Won by 4 wickets,186,190,187,0,1,2,0,3,19.5,19.6,121
+45490,3128,2026-09-17,England,Sri Lanka,England Won by 6 wickets,142,146,143,1,2,3,0,2,12.8,13.2,77
+45502,3133,2025-09-15,Sri Lanka,Hong Kong,Sri Lanka Won by 4 wickets,146,153,147,1,4,1,0,4,19.5,19.5,114
+45903,3162,2025-09-03,Zimbabwe,Sri Lanka,Sri Lanka Won by 4 wickets,170,176,171,1,2,3,0,4,19.5,20.1,119
+46007,3174,2025-09-17,Ireland,England,England Won by 4 wickets,192,197,193,0,5,2,0,4,18.4,18.5,111
+46312,3197,2025-10-04,Australia,New Zealand,Australia Won by 3 wickets,149,156,150,1,3,4,0,6,18.3,18.6,110
+47982,3288,2025-11-29,Pakistan,Sri Lanka,Pakistan Won by 6 wickets,111,118,112,0,5,4,0,6,19.1,19.4,114
+48592,3329,2026-01-23,India,New Zealand,India Won by 7 wickets,205,209,206,1,2,4,0,3,15.6,16.2,101
+48593,3329,2026-01-25,India,New Zealand,India Won by 8 wickets,150,155,151,0,1,1,0,4,10.6,10.6,62
+50129,3298,2026-04-01,Lucknow Super Giants,Delhi Capitals,Delhi Capitals Won by 6 wickets,132,140,133,1,2,4,0,7,17.5,18.1,115
+50131,3298,2026-04-03,Chennai Super Kings,Punjab Kings,Punjab Kings Won by 5 wickets,204,210,205,1,0,2,0,5,19.4,19.5,120
+50139,3298,2026-04-09,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants Won by 3 wickets,180,182,181,1,3,1,0,0,20.6,20.6,127
+50140,3298,2026-04-10,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals Won by 6 wickets,194,202,195,1,2,2,0,7,18.5,18.6,110
+50143,3298,2026-04-12,Lucknow Super Giants,Gujarat Titans,Gujarat Titans Won by 7 wickets,163,165,164,1,5,2,0,1,19.3,19.4,115
+50345,3298,2026-04-16,Mumbai Indians,Punjab Kings,Punjab Kings Won by 7 wickets,192,198,193,0,1,2,0,4,17.4,17.5,109
+50346,3298,2026-04-17,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans Won by 5 wickets,177,181,178,1,3,2,0,3,20.4,20.5,122
+50355,3298,2026-04-24,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru Won by 5 wickets,204,206,205,0,2,1,0,1,19.5,19.5,116
+50358,3298,2026-04-26,Chennai Super Kings,Gujarat Titans,Gujarat Titans Won by 8 wickets,154,162,155,0,2,3,1,7,17.2,17.4,102
+50361,3298,2026-04-28,Punjab Kings,Rajasthan Royals,Rajasthan Royals Won by 6 wickets,216,228,217,1,1,4,0,9,19.5,20.2,121
+50379,3298,2026-05-14,Punjab Kings,Mumbai Indians,Mumbai Indians Won by 6 wickets,197,205,198,2,1,1,0,6,20.5,20.5,122
+50404,3450,2026-10-06,India,West Indies,India Won by 8 wickets,168,172,169,2,2,1,0,1,15.4,15.4,89
+50597,3482,2026-06-17,Bangladesh,Australia,Australia Won by 4 wickets,128,133,129,0,2,3,1,4,18.6,19.2,110
+54408,3713,2026-09-13,Afghanistan,India,India Won by 7 wickets,148,153,149,1,4,3,0,4,14.2,14.4,88
+55078,3765,2026-10-09,Pakistan,Sri Lanka,Pakistan Won by 4 wickets,167,187,168,3,3,10,2,17,18.2,19.5,115

@@ -1,0 +1,51 @@
+# ==============================================================================
+# Git Ignore Configuration - supeRR_selector
+# ==============================================================================
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Secrets, keys, and credentials
+*.key
+*.pem
+*.token
+credentials.json
+api_key*
+secrets*
+
+# IDE & OS temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large Raw and Intermediate Delivery-Level Datasets (>40 MB)
+# Excluded from version control due to repository size best practices.
+#
+# 1. Raw ball-by-ball dataset (41.3 MB):
+#    data/ball_by_ball.csv (Expected to be supplied in data/)
+#
+# 2. Intermediate delivery match state dataset (48.5 MB):
+#    data/processed/delivery_match_state.csv (Reproducible via python src/prepare_match_data.py)
+#
+# 3. Intermediate delivery pressure index dataset (57.3 MB):
+#    data/processed/delivery_pressure_index.csv (Reproducible via python src/calculate_pressure_index.py)
+data/ball_by_ball.csv
+data/processed/delivery_match_state.csv
+data/processed/delivery_pressure_index.csv

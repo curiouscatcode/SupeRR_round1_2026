@@ -1,0 +1,13 @@
+Metric,Step_9_Reported,Independently_Calculated,Difference,Verdict
+Model 1 Batter Spearman rho,1.0,1.0,0.0,PASS
+Model 2 Batter Spearman rho,0.7782,0.778,-0.0002,PASS
+Model 3 Batter Spearman rho,0.953,0.9531,0.0001,PASS
+Model 4 Batter Spearman rho,0.7629,0.7623,-0.0006,PASS
+Model 1 Bowler Spearman rho,0.7292,0.7093,-0.0199,PASS
+Model 2 Bowler Spearman rho,0.7873,0.7856,-0.0017,PASS
+Model 3 Bowler Spearman rho,1.0,1.0,-0.0,PASS
+Model 4 Bowler Spearman rho,0.7285,0.7195,-0.009,PASS
+Model 4 Batter Tier 1 Count,188.0,188.0,0.0,PASS
+Model 4 Bowler Tier 1 Count,165.0,165.0,0.0,PASS
+Model 4 Batter Top 10 Overlap,0.0,0.0,0.0,PASS
+Model 4 Bowler Top 10 Overlap,3.0,4.0,1.0,PARTIAL PASS
