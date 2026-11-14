@@ -1,0 +1,590 @@
+bowler_id,player_name,tier_ctrl,rank_ctrl,bors_ctrl,n_ctrl,m_ctrl,tier_1A,rank_1A,bors_1A,n_1A,tier_1B,rank_1B,bors_1B,n_1B,tier_2,rank_2,bors_2,n_2,tier_3,rank_3,bors_3,n_3
+23,Piyush Chawla,Tier 1,96.0,47.78,142,20,Tier 1,53.0,59.54,120,Tier 1,26.0,67.52,92,Tier 1,41.0,60.88,121,Tier 1,32.0,65.12,85
+28,Ishant Sharma,Tier 1,74.0,51.19,81,16,Tier 1,62.0,57.08,75,Tier 1,109.0,46.21,53,Tier 1,79.0,52.28,74,Tier 1,91.0,48.53,58
+47,Virat Kohli,Excluded,,51.15,2,1,Excluded,,52.88,0,Excluded,,54.58,0,Excluded,,51.81,0,Excluded,,54.27,0
+143,Dinesh Karthik,Excluded,,53.08,0,0,Excluded,,56.74,0,Excluded,,58.43,0,Excluded,,55.67,0,Excluded,,58.12,0
+147,Pradeep Sangwan,Excluded,,51.58,12,1,Excluded,,54.02,15,Excluded,,54.92,9,Excluded,,52.48,17,Excluded,,54.66,9
+152,Ravindra Jadeja,Tier 1,123.0,43.43,311,34,Tier 1,125.0,43.84,330,Tier 1,124.0,41.31,276,Tier 1,131.0,41.46,336,Tier 1,107.0,45.9,279
+158,Amit Mishra,Excluded,,44.25,13,4,Excluded,,44.76,24,Excluded,,48.76,22,Excluded,,48.45,22,Excluded,,44.92,21
+161,Dwayne Bravo,Excluded,,62.86,34,7,Tier 2,,60.9,44,Excluded,,64.37,38,Excluded,,59.36,39,Excluded,,65.08,38
+232,Tom Cooper,Excluded,,48.89,0,0,Excluded,,52.55,0,Excluded,,54.25,0,Excluded,,51.49,0,Excluded,,53.94,0
+278,Tim Southee,Tier 1,5.0,75.82,90,24,Tier 1,1.0,86.94,97,Tier 1,1.0,95.27,81,Tier 1,5.0,79.16,89,Tier 1,1.0,94.84,87
+286,Kane Richardson,Excluded,,52.42,17,4,Excluded,,55.71,25,Excluded,,59.11,20,Excluded,,52.66,24,Excluded,,57.3,23
+295,Wayne Parnell,Excluded,,35.71,32,7,Excluded,,29.27,29,Excluded,,33.03,33,Excluded,,38.12,27,Excluded,,32.16,30
+305,Ravichandran Ashwin,Tier 1,16.0,68.36,219,34,Tier 1,37.0,64.15,216,Tier 1,30.0,66.21,216,Tier 1,45.0,60.41,218,Tier 1,50.0,61.4,219
+332,Angelo Mathews,Excluded,,64.34,26,6,Excluded,,64.43,30,Excluded,,74.57,34,Excluded,,63.31,27,Excluded,,68.05,32
+360,Bhuvneshwar Kumar,Tier 1,88.0,48.8,436,76,Tier 1,69.0,55.12,433,Tier 1,61.0,57.06,387,Tier 1,46.0,59.95,384,Tier 1,57.0,57.78,403
+395,Karn Sharma,Tier 1,139.0,39.34,64,10,Tier 1,134.0,42.44,78,Tier 1,117.0,42.77,63,Tier 1,128.0,42.02,78,Tier 1,124.0,39.95,66
+403,Umesh Yadav,Tier 1,120.0,43.99,107,22,Tier 1,67.0,56.07,112,Tier 1,34.0,65.0,117,Tier 1,106.0,47.1,99,Tier 1,24.0,67.85,125
+470,Mohammad Amir,Excluded,,54.58,21,4,Excluded,,54.39,22,Excluded,,54.97,16,Excluded,,59.24,20,Excluded,,54.73,16
+479,Adil Rashid,Tier 1,101.0,46.73,146,27,Tier 1,116.0,45.15,153,Tier 1,101.0,48.11,138,Tier 1,119.0,43.53,165,Tier 1,117.0,42.72,124
+494,Kieron Pollard,Excluded,,46.77,23,3,Excluded,,58.71,25,Excluded,,48.85,20,Excluded,,52.6,30,Excluded,,47.43,19
+499,Shakib Al Hasan,Excluded,,38.2,19,5,Excluded,,32.14,23,Excluded,,25.76,17,Excluded,,40.72,20,Excluded,,28.14,16
+507,Mohammad Mahmudullah,Excluded,,42.5,11,1,Excluded,,53.83,0,Excluded,,55.53,0,Excluded,,48.37,4,Excluded,,55.22,0
+722,Liam Dawson,Excluded,,67.9,31,8,Excluded,,60.8,32,Excluded,,44.68,32,Excluded,,60.87,27,Excluded,,50.68,34
+768,Reeza Hendricks,Excluded,,45.46,19,2,Excluded,,44.82,10,Excluded,,58.54,4,Excluded,,44.13,9,Excluded,,57.32,6
+773,Shadley Van Schalkwyk,Excluded,,74.37,16,2,Excluded,,65.97,10,Excluded,,70.92,7,Excluded,,70.06,13,Excluded,,70.64,7
+781,Sunil Narine,Tier 1,30.0,62.45,340,41,Tier 1,42.0,62.33,325,Tier 1,56.0,58.0,272,Tier 1,55.0,58.49,332,Tier 1,73.0,54.57,279
+786,Chris Jordan,Tier 1,77.0,49.99,97,18,Tier 1,84.0,53.09,76,Tier 1,98.0,49.65,50,Tier 1,59.0,58.28,81,Tier 1,79.0,52.99,58
+818,Mitchell Marsh,Tier 1,92.0,48.58,50,7,Excluded,,56.06,38,Excluded,,70.72,23,Tier 2,,48.04,41,Excluded,,59.37,22
+820,Nathan Coulter Nile,Excluded,,55.51,0,0,Excluded,,59.17,0,Excluded,,60.86,0,Excluded,,58.1,0,Excluded,,60.55,0
+829,Mitchell Starc,Tier 1,34.0,60.99,185,26,Tier 1,89.0,51.7,207,Tier 1,71.0,54.87,175,Tier 1,90.0,49.99,176,Tier 1,72.0,54.72,182
+830,Josh Hazlewood,Tier 1,56.0,54.13,244,41,Tier 1,25.0,67.39,223,Tier 1,19.0,72.84,193,Tier 1,30.0,63.94,204,Tier 1,27.0,67.04,214
+838,Glenn Maxwell,Tier 1,136.0,39.84,97,20,Tier 1,133.0,42.68,107,Tier 1,133.0,38.61,115,Tier 1,141.0,37.76,97,Tier 1,105.0,46.0,116
+914,Krishnappa Gowtham,Excluded,,49.2,37,8,Excluded,,50.22,37,Excluded,,43.3,34,Excluded,,49.61,37,Tier 2,,53.64,40
+988,Graeme Cremer,Excluded,,61.17,8,1,Excluded,,61.28,5,Excluded,,52.47,0,Excluded,,60.31,5,Excluded,,52.16,0
+1028,Varun Aaron,Excluded,,51.58,0,0,Excluded,,55.24,0,Excluded,,56.94,0,Excluded,,53.76,1,Excluded,,56.63,0
+1045,David Wiese,Excluded,,42.05,6,1,Excluded,,57.05,0,Excluded,,58.75,0,Excluded,,55.98,0,Excluded,,58.44,0
+1071,Jaydev Unadkat,Tier 1,66.0,52.12,121,18,Tier 1,43.0,62.3,112,Tier 1,55.0,58.12,87,Tier 1,31.0,63.72,108,Tier 1,84.0,51.02,87
+1101,George Dockrell,Excluded,,46.77,1,1,Excluded,,53.57,5,Excluded,,61.72,8,Excluded,,53.59,8,Excluded,,59.63,3
+1107,Mohammad Nabi,Tier 1,174.0,15.79,98,14,Tier 1,162.0,23.6,86,Tier 1,105.0,47.0,73,Tier 1,158.0,23.02,79,Tier 1,119.0,40.79,76
+1159,Tendai Chatara,Excluded,,46.94,27,6,Excluded,,56.89,16,Excluded,,60.27,8,Excluded,,56.08,16,Excluded,,66.42,7
+1171,Chris Woakes,Excluded,,51.05,26,6,Excluded,,50.07,23,Excluded,,49.05,28,Excluded,,49.16,20,Excluded,,46.25,30
+1195,Ben Stokes,Excluded,,38.39,10,2,Excluded,,41.44,10,Excluded,,42.67,11,Excluded,,40.55,10,Excluded,,42.41,11
+1219,David Willey,Tier 2,,44.05,41,10,Tier 2,,47.07,48,Tier 1,68.0,55.39,50,Tier 2,,43.02,43,Tier 2,,49.59,45
+1318,Andre Russell,Tier 1,167.0,28.34,182,31,Tier 1,118.0,44.94,150,Tier 1,96.0,50.28,106,Tier 1,147.0,36.59,154,Tier 1,66.0,56.27,112
+1389,Sean Abbott,Tier 1,75.0,51.08,58,14,Tier 1,112.0,46.02,53,Tier 1,81.0,53.23,52,Tier 1,76.0,52.72,54,Tier 2,,47.52,49
+1487,Adam Milne,Tier 1,172.0,19.09,74,13,Tier 1,161.0,24.21,82,Tier 1,141.0,31.85,76,Tier 1,160.0,19.39,72,Tier 1,142.0,23.28,77
+1541,Sean Williams,Excluded,,50.14,5,3,Excluded,,52.99,9,Excluded,,50.6,16,Excluded,,52.09,9,Excluded,,51.11,14
+1556,David Payne,Excluded,,41.82,15,2,Excluded,,40.12,16,Excluded,,57.3,10,Excluded,,46.63,14,Excluded,,53.86,11
+1566,Mohammed Shami,Tier 1,161.0,32.25,197,36,Tier 1,44.0,62.25,180,Tier 1,12.0,76.73,154,Tier 1,74.0,53.24,141,Tier 1,8.0,77.92,168
+1596,Moeen Ali,Tier 1,18.0,67.6,93,21,Tier 1,63.0,57.07,113,Tier 1,43.0,61.34,103,Tier 1,39.0,61.25,112,Tier 1,38.0,64.31,94
+1612,Yuzvendra Chahal,Tier 1,128.0,41.14,385,56,Tier 1,115.0,45.16,388,Tier 1,118.0,42.72,376,Tier 1,122.0,43.34,407,Tier 1,120.0,40.59,349
+1617,Rishi Dhawan,Excluded,,53.44,30,5,Excluded,,52.25,28,Excluded,,45.53,27,Excluded,,47.64,29,Excluded,,47.8,26
+1699,Suryakumar Yadav,Excluded,,45.94,2,1,Excluded,,57.47,4,Excluded,,67.09,5,Excluded,,48.09,3,Excluded,,66.8,5
+1701,Swapnil Singh,Excluded,,70.07,23,5,Excluded,,71.89,13,Excluded,,67.92,8,Excluded,,69.45,12,Excluded,,73.03,11
+1758,Patrick Cummins,Tier 1,156.0,33.61,263,34,Tier 1,156.0,29.81,180,Tier 1,125.0,40.98,123,Tier 1,154.0,29.99,185,Tier 1,138.0,33.36,132
+1772,Sheldon Cottrell,Excluded,,75.69,19,6,Excluded,,74.44,30,Excluded,,59.32,33,Excluded,,72.69,24,Excluded,,68.13,34
+1813,Deepak Chahar,Tier 1,119.0,44.04,125,26,Tier 1,91.0,51.52,134,Tier 1,88.0,51.99,140,Tier 1,125.0,43.23,116,Tier 1,103.0,46.85,146
+1944,Keshav Maharaj,Tier 1,6.0,75.39,135,15,Tier 1,32.0,65.6,113,Tier 1,64.0,56.67,81,Tier 1,23.0,66.5,119,Tier 1,37.0,64.43,95
+2054,Jason Behrendorff,Tier 1,24.0,63.64,61,16,Tier 1,18.0,69.21,50,Excluded,,65.94,39,Tier 2,,62.84,48,Tier 2,,67.25,42
+2210,Sabbir Rahman,Excluded,,50.19,0,0,Excluded,,53.84,0,Excluded,,55.54,0,Excluded,,52.78,0,Excluded,,55.23,0
+2213,Soumya Sarkar,Excluded,,49.86,0,0,Excluded,,53.51,0,Excluded,,54.74,1,Excluded,,52.45,0,Excluded,,54.9,0
+2214,Gulbadin Naib,Excluded,,46.53,2,2,Excluded,,50.05,2,Excluded,,55.49,1,Excluded,,49.03,2,Excluded,,53.62,2
+2261,Harshal Patel,Tier 1,102.0,46.54,289,49,Tier 1,66.0,56.21,275,Tier 1,95.0,50.4,230,Tier 1,92.0,49.88,263,Tier 1,115.0,43.11,236
+2296,Safyaan Sharif,Excluded,,49.75,0,0,Excluded,,53.41,0,Excluded,,55.11,0,Excluded,,52.34,0,Excluded,,54.8,0
+2304,Tymal Mills,Excluded,,67.94,28,7,Excluded,,71.88,33,Excluded,,68.95,29,Excluded,,62.72,30,Excluded,,61.06,31
+2315,Reece Topley,Tier 1,138.0,39.47,123,21,Tier 1,76.0,54.29,103,Tier 1,44.0,60.93,70,Tier 1,124.0,43.27,96,Tier 1,54.0,59.1,74
+2320,Trent Boult,Tier 1,62.0,52.72,231,47,Tier 1,41.0,62.69,222,Tier 1,13.0,75.42,190,Tier 1,37.0,61.8,195,Tier 1,15.0,72.3,207
+2321,Olly Stone,Excluded,,50.1,0,0,Excluded,,53.76,0,Excluded,,55.46,0,Excluded,,54.09,3,Excluded,,55.15,0
+2334,Dwaine Pretorius,Tier 1,152.0,35.38,61,10,Tier 1,95.0,50.22,75,Tier 1,76.0,54.44,64,Tier 1,139.0,38.88,74,Tier 1,116.0,42.76,60
+2351,Danushka Gunathilaka,Excluded,,50.32,0,0,Excluded,,53.98,0,Excluded,,55.68,0,Excluded,,52.91,0,Excluded,,55.37,0
+2359,Prenelan Subrayen,Excluded,,59.15,6,1,Excluded,,60.59,9,Excluded,,63.74,10,Excluded,,59.69,9,Excluded,,62.87,11
+2364,Ashton Agar,Excluded,,48.47,8,2,Excluded,,50.25,11,Excluded,,52.2,7,Excluded,,49.38,11,Excluded,,52.33,9
+2367,Travis Head,Excluded,,33.9,7,2,Excluded,,45.78,4,Excluded,,58.95,2,Excluded,,50.44,3,Excluded,,58.66,2
+2382,Jamie Overton,Tier 1,63.0,52.64,58,15,Tier 2,,78.9,47,Excluded,,66.04,39,Tier 1,7.0,75.85,52,Excluded,,60.28,28
+2399,Dushmantha Chameera,Tier 1,153.0,35.24,151,31,Tier 1,137.0,42.34,131,Tier 1,114.0,43.66,118,Tier 1,136.0,39.79,127,Tier 1,109.0,45.37,116
+2407,Dhananjaya de Silva,Excluded,,44.56,2,1,Excluded,,38.92,12,Excluded,,45.58,18,Excluded,,37.24,9,Excluded,,45.35,18
+2411,Sandeep Sharma,Tier 1,117.0,44.62,155,26,Tier 1,153.0,34.93,162,Tier 1,122.0,41.77,115,Tier 1,121.0,43.36,154,Tier 1,135.0,36.2,128
+2416,Kyle Mayers,Excluded,,46.66,20,7,Excluded,,57.73,22,Excluded,,60.01,24,Excluded,,47.09,19,Excluded,,62.72,22
+2417,Akeal Hosein,Tier 1,130.0,40.46,402,53,Tier 1,98.0,49.84,366,Tier 1,89.0,51.98,333,Tier 1,97.0,48.92,358,Tier 1,93.0,48.36,354
+2418,Justin Greaves,Excluded,,51.79,0,0,Excluded,,55.45,0,Excluded,,57.15,0,Excluded,,54.39,0,Excluded,,56.84,0
+2436,Dasun Shanaka,Tier 1,165.0,29.45,71,12,Tier 1,144.0,39.66,50,Excluded,,65.88,30,Tier 2,,37.48,40,Excluded,,55.94,34
+2439,Akila Dananjaya,Excluded,,49.09,24,1,Excluded,,42.02,11,Excluded,,50.58,3,Excluded,,41.14,11,Excluded,,48.88,4
+2463,Ryan Burl,Excluded,,40.89,19,4,Excluded,,57.84,19,Excluded,,61.54,18,Excluded,,60.63,13,Excluded,,59.96,21
+2483,Lizaad Williams,Tier 1,169.0,26.25,57,7,Tier 2,,29.03,46,Excluded,,54.48,28,Tier 2,,37.87,45,Excluded,,48.0,30
+2490,Mohammad Nawaz,Tier 1,45.0,56.97,117,22,Tier 1,21.0,68.09,122,Tier 1,36.0,64.8,108,Tier 1,22.0,66.78,124,Tier 1,22.0,69.43,122
+2526,Ish Sodhi,Tier 1,94.0,48.1,137,27,Tier 1,117.0,45.11,147,Tier 1,136.0,35.61,147,Tier 1,99.0,48.77,148,Tier 1,123.0,40.27,140
+2531,Joe Root,Excluded,,49.18,0,0,Excluded,,52.84,0,Excluded,,54.54,0,Excluded,,51.78,0,Excluded,,54.23,0
+2633,Jason Holder,Tier 1,58.0,53.67,340,59,Tier 1,83.0,53.31,317,Tier 1,104.0,47.41,264,Tier 1,68.0,54.43,316,Tier 1,90.0,49.48,269
+2636,Adam Zampa,Tier 1,157.0,33.53,138,22,Tier 1,105.0,47.63,121,Tier 1,70.0,54.88,104,Tier 1,87.0,50.97,126,Tier 1,100.0,47.18,97
+2639,Marcus Stoinis,Tier 1,154.0,34.02,96,25,Tier 1,79.0,53.72,113,Tier 1,60.0,57.37,120,Tier 1,94.0,49.77,100,Tier 1,64.0,56.89,125
+2650,Raymon Reifer,Excluded,,55.99,18,1,Excluded,,58.68,18,Excluded,,59.93,18,Excluded,,57.9,18,Excluded,,59.7,18
+2681,Taskin Ahmed,Tier 1,87.0,48.84,80,18,Tier 1,13.0,70.28,65,Tier 1,22.0,71.46,65,Tier 1,12.0,71.1,58,Tier 1,20.0,69.65,66
+2687,Roston Chase,Tier 1,110.0,45.85,220,26,Tier 1,140.0,41.32,170,Tier 1,120.0,42.37,133,Tier 1,109.0,46.34,171,Tier 1,126.0,39.7,138
+2756,Shashank Singh,Excluded,,50.33,38,7,Excluded,,43.64,33,Excluded,,50.61,18,Excluded,,42.76,35,Excluded,,51.82,19
+2790,Praveen Dubey,Excluded,,51.45,1,1,Excluded,,51.21,2,Excluded,,52.84,2,Excluded,,50.19,2,Excluded,,52.54,2
+2847,Shardul Thakur,Tier 1,50.0,55.55,231,34,Tier 1,100.0,49.44,208,Tier 1,90.0,51.94,167,Tier 1,88.0,50.51,205,Tier 1,75.0,54.24,176
+2852,Jagadeesha Suchith,Excluded,,42.99,7,2,Excluded,,46.2,7,Excluded,,57.32,4,Excluded,,37.14,6,Excluded,,53.36,5
+2863,Sandeep Warrier,Excluded,,68.88,24,2,Excluded,,71.56,19,Excluded,,61.27,4,Excluded,,66.28,18,Excluded,,63.0,5
+2872,Siddarth Kaul,Excluded,,55.34,4,1,Excluded,,55.1,5,Excluded,,56.65,5,Excluded,,57.74,4,Excluded,,56.37,5
+2876,Axar Patel,Tier 1,55.0,54.23,549,81,Tier 1,57.0,57.94,532,Tier 1,69.0,54.91,481,Tier 1,65.0,55.61,542,Tier 1,56.0,58.3,477
+2877,Vijay Shankar,Excluded,,52.76,1,1,Excluded,,56.34,1,Excluded,,51.89,1,Excluded,,55.3,1,Excluded,,51.59,1
+2878,Mohit Sharma,Tier 1,21.0,65.02,143,21,Tier 1,40.0,63.1,135,Tier 1,82.0,53.19,116,Tier 1,19.0,67.53,132,Tier 1,85.0,50.99,117
+2887,Harmeet Singh,Excluded,,47.93,17,1,Excluded,,51.07,16,Excluded,,48.91,11,Excluded,,50.27,16,Excluded,,49.22,15
+2933,Jasprit Bumrah,Tier 1,28.0,63.14,292,47,Tier 1,23.0,67.65,267,Tier 1,38.0,63.26,196,Tier 1,32.0,63.32,262,Tier 1,13.0,72.8,200
+2972,Yasim Murtaza,Excluded,,44.95,10,5,Excluded,,47.32,12,Excluded,,47.46,9,Excluded,,41.09,15,Excluded,,47.2,9
+2984,Sikandar Raza,Tier 1,35.0,60.42,145,26,Tier 1,55.0,58.75,122,Tier 1,46.0,60.52,103,Tier 1,33.0,63.08,128,Tier 1,55.0,58.58,102
+2985,Mark Wood,Tier 1,4.0,77.1,64,8,Tier 1,3.0,85.51,66,Tier 2,,88.34,48,Tier 1,1.0,88.37,62,Tier 2,,87.45,48
+2997,Paul van Meekeren,Excluded,,48.59,0,0,Excluded,,61.04,1,Excluded,,64.07,3,Excluded,,51.18,0,Excluded,,70.84,2
+3033,Usman Qadir,Excluded,,35.66,14,2,Excluded,,30.66,20,Excluded,,36.3,21,Excluded,,29.95,21,Excluded,,31.65,20
+3038,Hussain Talat,Excluded,,42.16,2,1,Excluded,,45.68,2,Excluded,,53.82,0,Excluded,,44.65,2,Excluded,,53.51,0
+3040,Kashif Daud,Excluded,,47.87,1,1,Excluded,,53.75,2,Excluded,,54.55,4,Excluded,,52.73,2,Excluded,,54.26,4
+3056,Iftikhar Ahmed,Excluded,,44.02,17,2,Excluded,,46.45,18,Excluded,,47.43,14,Excluded,,45.67,18,Excluded,,40.37,22
+3077,Usama Mir,Tier 2,,47.29,45,4,Tier 2,,53.57,41,Excluded,,62.56,29,Tier 2,,51.09,45,Tier 2,,57.6,41
+3135,Yannic Cariah,Excluded,,48.46,0,0,Excluded,,52.12,0,Excluded,,53.82,0,Excluded,,51.06,0,Excluded,,53.51,0
+3174,Matt Henry,Tier 1,111.0,45.65,138,22,Tier 1,68.0,56.01,123,Tier 1,71.0,54.87,109,Tier 1,91.0,49.94,113,Tier 1,63.0,56.91,115
+3253,Rohan Mustafa,Excluded,,50.1,0,0,Excluded,,56.03,1,Excluded,,55.56,4,Excluded,,54.98,1,Excluded,,54.83,5
+3255,Ahmed Raza 1,Excluded,,52.97,1,1,Excluded,,54.94,3,Excluded,,56.55,3,Excluded,,53.94,3,Excluded,,56.26,3
+3272,Fabian Allen,Excluded,,55.55,24,6,Excluded,,51.53,18,Excluded,,49.32,19,Excluded,,58.52,25,Excluded,,53.93,18
+3275,Alzarri Joseph,Tier 1,103.0,46.39,160,30,Tier 1,47.0,61.84,162,Tier 1,34.0,65.0,136,Tier 1,66.0,54.66,167,Tier 1,31.0,65.22,122
+3276,Gudakesh Motie,Tier 1,116.0,45.08,182,18,Tier 1,77.0,54.22,175,Tier 1,58.0,57.52,114,Tier 1,102.0,48.28,179,Tier 1,40.0,63.31,124
+3280,Nazmul Hossain Shanto,Excluded,,51.8,0,0,Excluded,,55.46,0,Excluded,,57.15,0,Excluded,,54.39,0,Excluded,,56.84,0
+3281,Mosaddek Hossain,Excluded,,40.77,6,2,Excluded,,53.5,3,Excluded,,57.13,4,Excluded,,43.92,2,Excluded,,56.84,4
+3282,Mehidy Hasan Miraz,Tier 2,,56.77,45,6,Tier 2,,57.16,40,Excluded,,46.56,26,Excluded,,56.33,37,Excluded,,41.77,29
+3298,Jofra Archer,Tier 1,42.0,57.99,335,42,Tier 1,10.0,71.46,283,Tier 1,25.0,68.71,217,Tier 1,26.0,65.44,259,Tier 1,29.0,66.19,232
+3299,Andrew Tye,Excluded,,57.03,10,2,Excluded,,66.81,9,Excluded,,60.74,8,Excluded,,62.46,10,Excluded,,60.47,8
+3320,Jayant Yadav,Excluded,,48.16,0,0,Excluded,,51.81,0,Excluded,,53.51,0,Excluded,,50.75,0,Excluded,,53.2,0
+3323,Jimmy Neesham,Tier 2,,62.12,40,13,Tier 2,,69.2,43,Tier 1,10.0,77.41,52,Excluded,,58.15,35,Tier 1,4.0,80.51,56
+3330,Hardik Pandya,Tier 1,145.0,37.31,302,51,Tier 1,107.0,47.42,298,Tier 1,111.0,45.13,269,Tier 1,144.0,37.36,290,Tier 1,87.0,50.55,261
+3337,Jeremy Gordon,Excluded,,50.48,0,0,Excluded,,54.14,0,Excluded,,55.83,0,Excluded,,53.07,0,Excluded,,55.52,0
+3361,Michael Leask,Excluded,,50.81,2,1,Excluded,,53.87,3,Excluded,,55.96,2,Excluded,,52.87,3,Excluded,,55.67,2
+3373,Aizaz Khan,Excluded,,50.94,0,0,Excluded,,65.45,2,Excluded,,67.09,2,Excluded,,53.54,0,Excluded,,66.79,2
+3374,Mark Chapman,Excluded,,48.58,0,0,Excluded,,52.24,0,Excluded,,53.93,0,Excluded,,51.17,0,Excluded,,53.62,0
+3383,Kinchit Shah,Excluded,,51.64,0,0,Excluded,,55.3,0,Excluded,,56.53,1,Excluded,,54.24,0,Excluded,,55.77,2
+3469,Shreyas Gopal,Excluded,,48.59,4,1,Excluded,,51.98,4,Excluded,,53.55,4,Excluded,,55.31,6,Excluded,,53.26,4
+3489,Salman Agha,Excluded,,49.83,13,3,Excluded,,48.93,10,Excluded,,46.79,11,Excluded,,46.02,9,Excluded,,46.32,7
+3543,Shahidullah Kamal,Excluded,,51.53,2,1,Excluded,,55.05,2,Excluded,,57.62,0,Excluded,,54.03,2,Excluded,,57.31,0
+3550,Sharafuddin Ashraf,Excluded,,54.99,13,2,Excluded,,49.94,22,Excluded,,39.41,26,Excluded,,54.78,20,Excluded,,42.65,27
+3578,Imad Wasim,Excluded,,47.09,27,5,Excluded,,63.8,30,Excluded,,50.27,20,Excluded,,52.6,33,Excluded,,56.33,30
+3595,Andy McBrine,Excluded,,53.52,1,1,Excluded,,58.87,3,Excluded,,62.56,4,Excluded,,58.31,2,Excluded,,62.28,4
+3605,Aiden Markram,Tier 1,171.0,21.44,73,19,Tier 1,142.0,41.17,63,Tier 1,119.0,42.43,63,Tier 1,148.0,36.53,68,Tier 1,112.0,44.43,55
+3613,Shakeel Ahmed,Excluded,,46.91,0,0,Excluded,,55.01,2,Excluded,,60.7,4,Excluded,,49.5,0,Excluded,,60.41,4
+3622,Hayden Walsh,Excluded,,39.45,32,5,Excluded,,39.2,38,Excluded,,42.16,29,Tier 2,,38.17,41,Excluded,,41.97,29
+3623,Hasan Ali,Excluded,,56.5,27,6,Excluded,,48.43,27,Excluded,,55.12,13,Excluded,,52.07,27,Excluded,,58.89,14
+3627,Andile Phehlukwayo,Excluded,,63.26,19,3,Excluded,,66.71,15,Excluded,,70.95,17,Excluded,,60.69,17,Excluded,,69.07,17
+3628,Kagiso Rabada,Tier 1,70.0,51.78,360,52,Tier 1,27.0,66.46,315,Tier 1,14.0,75.24,228,Tier 1,38.0,61.45,324,Tier 1,12.0,73.39,244
+3629,Corbin Bosch,Tier 2,,68.06,47,10,Excluded,,62.85,38,Excluded,,49.75,34,Excluded,,77.62,33,Excluded,,48.46,36
+3637,Dayyaan Galiem,Excluded,,46.35,5,1,Excluded,,64.14,9,Excluded,,64.94,10,Excluded,,63.86,8,Excluded,,68.6,11
+3641,Ben Dwarshuis,Excluded,,66.8,36,5,Excluded,,87.69,37,Excluded,,82.59,23,Excluded,,85.49,37,Excluded,,77.02,28
+3644,Kuldeep Yadav,Tier 1,67.0,52.08,384,51,Tier 1,81.0,53.48,372,Tier 1,110.0,45.58,345,Tier 1,69.0,54.39,390,Tier 1,98.0,47.86,328
+3647,Shreyas Iyer,Excluded,,49.31,0,0,Excluded,,52.97,0,Excluded,,54.67,0,Excluded,,51.91,0,Excluded,,54.36,0
+3648,Deepak Hooda,Excluded,,65.71,11,3,Excluded,,61.7,8,Excluded,,50.1,6,Excluded,,68.61,10,Excluded,,49.02,8
+3653,Avesh Khan,Tier 1,108.0,46.06,279,51,Tier 1,147.0,36.56,277,Tier 1,97.0,50.23,212,Tier 1,129.0,41.5,278,Tier 1,74.0,54.42,214
+3660,Luke Wood,Tier 1,46.0,56.83,61,11,Tier 2,,65.23,47,Tier 2,,45.97,40,Tier 2,,57.78,41,Excluded,,44.38,39
+3664,Binura Fernando,Excluded,,39.21,35,8,Excluded,,42.72,33,Excluded,,57.65,21,Excluded,,36.22,33,Excluded,,57.8,20
+3673,Ramesh Mendis,Excluded,,49.42,0,0,Excluded,,53.08,0,Excluded,,54.78,0,Excluded,,52.01,0,Excluded,,54.47,0
+3683,Gavin Main,Excluded,,48.04,0,0,Excluded,,51.26,1,Excluded,,52.93,1,Excluded,,49.81,2,Excluded,,53.09,0
+3686,CB Sole,Excluded,,54.19,3,1,Excluded,,60.23,3,Excluded,,61.84,3,Excluded,,59.23,3,Excluded,,53.06,2
+3689,Mark Watt,Excluded,,56.17,13,4,Excluded,,56.8,11,Excluded,,55.31,7,Excluded,,51.17,11,Excluded,,57.0,5
+3697,Kyle Jamieson,Tier 1,135.0,39.85,142,20,Tier 1,126.0,43.77,95,Tier 1,75.0,54.72,61,Tier 1,93.0,49.8,104,Tier 1,94.0,48.26,64
+3720,Craig Young,Tier 2,,72.62,49,12,Tier 1,14.0,70.19,52,Tier 1,54.0,58.48,55,Tier 1,28.0,65.05,52,Tier 1,70.0,55.25,54
+3727,Matthew Short,Excluded,,41.59,15,5,Excluded,,46.32,19,Excluded,,55.86,15,Excluded,,41.13,18,Excluded,,55.96,14
+3771,Vivian Kingma,Excluded,,54.55,6,2,Excluded,,61.57,8,Excluded,,64.91,6,Excluded,,56.87,6,Excluded,,62.78,5
+3772,Logan van Beek,Excluded,,45.72,1,1,Excluded,,49.31,1,Excluded,,50.98,1,Excluded,,48.27,1,Excluded,,50.67,1
+3775,Sompal Kami,Excluded,,44.26,6,2,Excluded,,46.52,3,Excluded,,55.64,0,Excluded,,42.03,4,Excluded,,55.33,0
+3782,M Shahrukh Khan,Excluded,,49.16,5,1,Excluded,,44.37,3,Excluded,,51.82,2,Excluded,,43.37,3,Excluded,,51.52,2
+3839,Amjad Mahboob,Excluded,,43.93,9,3,Excluded,,51.68,8,Excluded,,55.52,8,Excluded,,49.69,7,Excluded,,54.86,9
+3871,Aamir Kaleem,Excluded,,58.54,8,2,Excluded,,61.69,8,Excluded,,63.16,8,Excluded,,60.77,8,Excluded,,62.89,8
+3876,Sufyan Mehmood,Excluded,,51.15,0,0,Excluded,,54.81,0,Excluded,,56.51,0,Excluded,,53.74,0,Excluded,,56.2,0
+3926,Rahul Tewatia,Excluded,,54.13,12,5,Excluded,,60.08,6,Excluded,,53.96,6,Excluded,,60.68,8,Excluded,,53.35,7
+3986,Matthew Renshaw,Excluded,,51.99,9,1,Excluded,,59.13,11,Excluded,,60.03,12,Excluded,,58.26,11,Excluded,,59.78,12
+3995,Donald Tiripano,Excluded,,51.58,0,0,Excluded,,55.24,0,Excluded,,56.94,0,Excluded,,54.18,0,Excluded,,56.63,0
+4101,Mitchell Santner,Tier 1,122.0,43.54,290,38,Tier 1,114.0,45.7,270,Tier 1,102.0,47.67,211,Tier 1,126.0,42.64,284,Tier 1,92.0,48.43,208
+4106,Daryl Mitchell,Excluded,,37.63,27,3,Excluded,,34.25,23,Excluded,,55.02,2,Excluded,,31.34,26,Excluded,,50.05,7
+4111,Khushdil Shah,Excluded,,48.15,11,1,Excluded,,55.67,0,Excluded,,57.37,0,Excluded,,46.64,7,Excluded,,57.06,0
+4117,Ishan Kishan,Excluded,,50.9,0,0,Excluded,,54.56,0,Excluded,,56.26,0,Excluded,,53.5,0,Excluded,,55.95,0
+4201,Fareed Malik,Excluded,,54.12,33,7,Excluded,,49.8,30,Excluded,,46.61,25,Excluded,,59.08,25,Excluded,,47.34,24
+4219,Krunal Pandya,Tier 1,41.0,58.03,271,37,Tier 1,58.0,57.74,263,Tier 1,57.0,57.89,246,Tier 1,60.0,58.15,267,Tier 1,41.0,63.3,242
+4221,Chris Green,Excluded,,52.93,1,1,Excluded,,55.58,3,Excluded,,57.18,3,Excluded,,54.57,3,Excluded,,56.89,3
+4229,George Linde,Tier 2,,47.17,41,6,Tier 2,,51.72,44,Tier 2,,38.13,43,Tier 2,,48.92,47,Excluded,,40.29,37
+4235,Sisanda Magala,Excluded,,43.82,11,2,Excluded,,46.35,8,Excluded,,49.25,6,Excluded,,45.14,10,Excluded,,60.0,1
+4237,Tabraiz Shamsi,Tier 1,49.0,56.39,64,11,Tier 1,132.0,42.69,55,Tier 2,,36.76,42,Tier 1,118.0,43.91,64,Excluded,,56.07,32
+4246,Nitish Rana,Excluded,,23.97,17,3,Excluded,,40.9,10,Excluded,,45.59,8,Excluded,,39.92,11,Excluded,,42.19,9
+4265,T Natarajan,Tier 1,114.0,45.43,233,32,Tier 1,87.0,52.02,199,Tier 1,129.0,39.86,135,Tier 1,67.0,54.51,216,Tier 1,118.0,42.13,135
+4276,Basil Thampi,Excluded,,67.07,10,2,Excluded,,54.17,11,Excluded,,55.56,11,Excluded,,56.54,10,Excluded,,55.31,11
+4288,Navdeep Saini,Excluded,,64.0,4,2,Excluded,,70.61,4,Excluded,,70.19,5,Excluded,,69.63,4,Excluded,,68.08,5
+4373,Mustafizur Rahman,Tier 1,37.0,59.13,192,41,Tier 1,60.0,57.56,168,Tier 1,37.0,64.01,150,Tier 1,42.0,60.74,186,Tier 1,49.0,61.46,141
+4391,Liam Livingstone,Tier 1,149.0,35.92,87,16,Tier 1,126.0,43.77,87,Tier 1,83.0,53.15,76,Tier 1,108.0,46.45,91,Tier 1,53.0,59.4,71
+4409,Sam Curran,Tier 1,166.0,29.3,253,45,Tier 1,157.0,29.09,246,Tier 1,127.0,40.04,201,Tier 1,155.0,29.96,233,Tier 1,125.0,39.9,205
+4412,Max ODowd,Excluded,,48.21,0,0,Excluded,,51.87,0,Excluded,,53.57,0,Excluded,,50.8,0,Excluded,,53.26,0
+4417,Karan KC,Excluded,,50.9,5,2,Excluded,,56.33,3,Excluded,,53.73,1,Excluded,,55.33,3,Excluded,,53.42,1
+4438,Jasdeep Singh,Excluded,,38.37,20,3,Excluded,,43.1,19,Excluded,,53.67,13,Excluded,,40.43,18,Excluded,,52.2,14
+4460,Jeffrey Vandersay,Excluded,,49.45,1,1,Excluded,,53.03,1,Excluded,,55.17,0,Excluded,,52.41,0,Excluded,,54.86,0
+4487,Vyshak Kumar,Tier 1,160.0,32.81,164,18,Tier 1,110.0,46.56,132,Tier 1,63.0,56.93,110,Tier 1,134.0,41.11,143,Tier 1,102.0,46.93,104
+4489,Prasidh Krishna,Tier 1,51.0,55.44,251,33,Tier 1,85.0,53.0,247,Tier 1,112.0,44.74,181,Tier 1,49.0,59.57,245,Tier 1,89.0,50.07,188
+4499,Saqib Mahmood,Excluded,,42.95,29,6,Excluded,,48.29,31,Excluded,,54.26,23,Excluded,,53.45,31,Excluded,,52.9,26
+4505,Jhye Richardson,Excluded,,54.08,11,3,Excluded,,44.94,11,Excluded,,44.82,15,Excluded,,49.18,11,Excluded,,47.44,13
+4604,Mitchell Swepson,Excluded,,44.95,10,1,Excluded,,61.71,3,Excluded,,59.48,0,Excluded,,60.24,4,Excluded,,59.17,0
+4636,Bjorn Fortuin,Tier 1,104.0,46.36,60,9,Excluded,,45.18,28,Excluded,,46.2,29,Excluded,,50.56,30,Excluded,,44.4,28
+4639,Wellington Masakadza,Excluded,,29.51,24,5,Excluded,,49.39,13,Excluded,,43.59,13,Excluded,,44.28,13,Excluded,,41.79,10
+4641,Lungi Ngidi,Tier 1,13.0,70.3,201,27,Tier 1,20.0,68.23,165,Tier 1,40.0,62.94,130,Tier 1,21.0,66.86,164,Tier 1,46.0,62.16,125
+4658,Nasum Ahmed,Tier 1,1.0,84.04,80,11,Tier 1,4.0,82.71,68,Tier 1,11.0,77.35,56,Tier 1,2.0,87.11,70,Tier 1,11.0,74.35,61
+4662,Cole McConchie,Excluded,,53.23,5,2,Excluded,,60.12,5,Excluded,,61.14,6,Excluded,,58.67,6,Excluded,,61.38,5
+4686,Joshua Clarkson,Excluded,,49.19,1,1,Excluded,,52.35,2,Excluded,,55.12,7,Excluded,,51.73,1,Excluded,,54.44,8
+4692,Lockie Ferguson,Tier 1,71.0,51.68,185,29,Tier 1,51.0,60.38,147,Tier 1,16.0,73.53,108,Tier 1,57.0,58.4,157,Tier 1,17.0,70.46,107
+4708,Rinku Singh,Excluded,,48.43,1,1,Excluded,,52.45,0,Excluded,,54.15,0,Excluded,,51.39,0,Excluded,,53.84,0
+4716,Mayank Dagar,Excluded,,63.32,34,5,Excluded,,56.81,31,Excluded,,58.22,23,Excluded,,57.23,33,Excluded,,56.15,28
+4722,Rashid Khan,Tier 1,85.0,49.08,466,66,Tier 1,74.0,54.46,425,Tier 1,49.0,59.79,330,Tier 1,78.0,52.43,424,Tier 1,68.0,56.09,333
+4755,Shivam Dube,Tier 1,162.0,32.21,58,13,Tier 1,151.0,35.79,58,Tier 1,135.0,35.82,54,Tier 1,150.0,34.92,52,Tier 1,127.0,39.62,63
+4779,Pieter Willem Mulder,Excluded,,57.86,38,6,Excluded,,70.16,23,Excluded,,60.53,15,Excluded,,75.89,23,Excluded,,58.55,14
+4780,Mohammad Saif Hassan,Excluded,,47.71,8,2,Excluded,,52.48,4,Excluded,,54.05,4,Excluded,,51.09,5,Excluded,,53.77,4
+4790,Lutho Sipamla,Excluded,,37.22,28,3,Excluded,,49.91,22,Excluded,,70.87,8,Excluded,,49.17,22,Excluded,,70.74,10
+4807,Joshua Little,Tier 1,19.0,65.52,68,14,Tier 1,24.0,67.63,67,Tier 1,17.0,73.45,55,Tier 1,15.0,69.3,57,Tier 1,34.0,64.8,60
+4812,Harry Tector,Excluded,,41.65,17,4,Excluded,,46.75,16,Excluded,,51.97,11,Excluded,,43.85,16,Excluded,,47.54,10
+4815,Benjamin White,Tier 2,,23.78,45,6,Excluded,,47.52,28,Excluded,,38.01,33,Excluded,,33.1,34,Excluded,,42.23,29
+4816,Khaleel Ahmed,Tier 1,39.0,58.25,275,41,Tier 1,39.0,63.75,251,Tier 1,21.0,71.48,191,Tier 1,29.0,64.77,234,Tier 1,21.0,69.52,202
+4821,Mahipal Lomror,Excluded,,40.83,9,2,Excluded,,55.47,0,Excluded,,57.17,0,Excluded,,53.98,1,Excluded,,56.86,0
+4823,Washington Sundar,Tier 1,132.0,40.3,107,20,Tier 1,129.0,43.54,91,Tier 1,115.0,43.55,80,Tier 1,117.0,43.94,93,Tier 1,114.0,43.19,77
+4824,Zeeshan Ansari,Tier 1,159.0,33.17,73,6,Tier 1,139.0,41.52,51,Excluded,,48.04,27,Tier 1,140.0,38.05,53,Excluded,,50.79,36
+4826,George Garton,Excluded,,55.45,0,0,Excluded,,59.11,0,Excluded,,60.81,0,Excluded,,58.05,0,Excluded,,60.5,0
+4837,Obed McCoy,Tier 1,36.0,59.7,83,17,Tier 1,34.0,65.26,84,Tier 1,28.0,66.94,93,Tier 1,34.0,63.01,85,Tier 1,28.0,66.41,83
+4838,Keemo Paul,Excluded,,64.92,17,3,Excluded,,73.39,11,Excluded,,61.41,3,Excluded,,72.4,11,Excluded,,62.05,6
+4840,Odean Smith,Tier 1,126.0,42.54,63,8,Tier 1,72.0,54.96,57,Tier 1,51.0,59.46,61,Tier 1,89.0,50.13,55,Tier 1,23.0,68.44,55
+4842,Shamar Springer,Tier 2,,29.52,44,6,Excluded,,49.52,31,Excluded,,74.56,18,Excluded,,39.4,32,Excluded,,56.18,21
+4853,Glenn Phillips,Excluded,,48.64,0,0,Excluded,,60.5,2,Excluded,,61.52,3,Excluded,,50.81,1,Excluded,,57.42,4
+4854,Rachin Ravindra,Excluded,,63.81,23,4,Excluded,,61.6,16,Excluded,,59.55,9,Excluded,,58.7,19,Excluded,,61.13,10
+4856,Benjamin Sears,Tier 1,80.0,49.66,51,9,Tier 1,88.0,51.77,58,Tier 1,48.0,59.84,53,Tier 1,70.0,53.52,61,Tier 1,35.0,64.75,52
+4857,Nathan Smith,Excluded,,71.75,14,3,Excluded,,67.0,19,Excluded,,58.57,15,Excluded,,69.9,16,Excluded,,68.78,14
+4867,Wesley Madhevere,Excluded,,51.51,8,2,Excluded,,59.12,5,Excluded,,63.89,8,Excluded,,50.42,9,Excluded,,63.62,8
+4870,Kundai Matigimu,Excluded,,53.02,0,0,Excluded,,56.68,0,Excluded,,58.38,0,Excluded,,55.62,0,Excluded,,58.07,0
+4871,Brandon Mavuta,Excluded,,49.07,0,0,Excluded,,52.73,0,Excluded,,54.43,0,Excluded,,51.67,0,Excluded,,54.12,0
+4874,Richard Ngarava,Tier 1,54.0,54.61,109,21,Tier 1,96.0,50.07,104,Tier 1,23.0,68.99,90,Tier 1,100.0,48.71,102,Tier 1,26.0,67.09,82
+4876,Milton Shumba,Excluded,,49.18,0,0,Excluded,,52.84,0,Excluded,,54.54,0,Excluded,,51.78,0,Excluded,,54.23,0
+4881,Dipendra Airee,Excluded,,49.07,2,1,Excluded,,52.59,2,Excluded,,48.21,3,Excluded,,51.56,2,Excluded,,47.92,3
+4882,Kushal Bhurtel,Excluded,,45.12,3,1,Excluded,,48.57,3,Excluded,,51.81,0,Excluded,,47.2,4,Excluded,,45.34,1
+4895,Charith Asalanka,Excluded,,42.77,30,4,Excluded,,43.87,27,Excluded,,49.54,29,Excluded,,43.32,32,Excluded,,50.34,28
+4900,Wanindu Hasaranga,Tier 1,30.0,62.45,355,49,Tier 1,61.0,57.46,334,Tier 1,66.0,55.8,253,Tier 1,50.0,59.46,328,Tier 1,71.0,55.14,254
+4901,Asitha Fernando,Excluded,,52.06,36,3,Excluded,,49.72,34,Excluded,,47.43,23,Excluded,,49.09,34,Excluded,,49.79,29
+4903,Lahiru Kumara,Excluded,,56.49,5,1,Excluded,,55.04,11,Excluded,,49.41,15,Excluded,,57.18,7,Excluded,,52.57,13
+4904,Kamindu Mendis,Excluded,,50.1,29,6,Excluded,,54.61,13,Excluded,,56.53,3,Excluded,,53.76,13,Excluded,,55.04,9
+4926,Shadab Khan,Tier 1,106.0,46.08,116,16,Tier 1,119.0,44.92,101,Tier 1,113.0,44.06,94,Tier 1,142.0,37.67,99,Tier 1,121.0,40.51,91
+4947,Kasun Rajitha,Excluded,,55.27,18,4,Excluded,,57.19,10,Excluded,,52.8,6,Excluded,,56.73,9,Excluded,,51.16,8
+4974,Mohammad Nadeem,Excluded,,51.08,0,0,Excluded,,53.16,1,Excluded,,54.82,1,Excluded,,52.11,1,Excluded,,54.52,1
+4986,Rovman Powell,Excluded,,53.62,22,5,Excluded,,55.35,15,Excluded,,56.66,15,Excluded,,51.37,17,Excluded,,56.42,15
+5034,Murugan Ashwin,Excluded,,38.55,38,7,Tier 2,,50.71,42,Excluded,,54.97,34,Tier 2,,42.99,43,Excluded,,55.27,38
+5041,Mukesh Kumar,Tier 1,137.0,39.79,247,40,Tier 1,97.0,49.95,211,Tier 1,41.0,62.31,144,Tier 1,111.0,45.69,217,Tier 1,45.0,62.24,150
+5189,Faheem Ashraf,Tier 1,32.0,61.14,63,11,Tier 1,28.0,66.43,55,Tier 2,,63.85,46,Tier 1,27.0,65.27,53,Tier 2,,66.88,49
+5231,Oshane Thomas,Excluded,,50.59,0,0,Excluded,,54.25,0,Excluded,,55.95,0,Excluded,,53.18,0,Excluded,,55.64,0
+5379,Mark Adair,Tier 1,9.0,73.97,103,20,Tier 1,26.0,67.21,96,Tier 1,6.0,80.03,87,Tier 1,24.0,66.06,90,Tier 1,7.0,78.74,90
+5441,Barry McCarthy,Tier 1,61.0,52.77,60,10,Tier 2,,63.65,42,Tier 2,,54.04,45,Tier 2,,45.25,48,Tier 2,,52.57,49
+5547,Nosthush Kenjige,Excluded,,40.42,19,3,Excluded,,54.91,21,Excluded,,60.01,13,Excluded,,51.13,19,Excluded,,51.76,15
+5561,Brad Wheal,Excluded,,43.84,8,2,Excluded,,48.48,4,Excluded,,58.63,3,Excluded,,51.91,7,Excluded,,60.41,1
+5562,Richard Gleeson,Excluded,,62.21,24,7,Excluded,,76.74,25,Excluded,,69.84,18,Excluded,,70.43,29,Excluded,,69.78,14
+5577,Sai Kishore,Tier 1,115.0,45.15,148,19,Tier 1,122.0,44.19,122,Tier 1,130.0,39.28,103,Tier 1,135.0,40.61,128,Tier 1,104.0,46.8,96
+5665,Sanjay Yadav,Excluded,,51.22,0,0,Excluded,,54.87,0,Excluded,,56.57,0,Excluded,,53.81,0,Excluded,,56.26,0
+5738,Xavier Bartlett,Tier 1,168.0,27.89,87,15,Tier 1,131.0,43.06,89,Tier 1,126.0,40.58,82,Tier 1,122.0,43.34,84,Tier 1,131.0,38.23,83
+5750,Ehsan Khan,Excluded,,46.49,28,6,Excluded,,42.76,30,Excluded,,54.17,23,Excluded,,40.21,31,Excluded,,48.8,27
+5808,Karim Janat,Excluded,,40.81,20,4,Excluded,,51.92,18,Excluded,,59.1,15,Excluded,,51.85,15,Excluded,,67.55,18
+5809,Naveen ul Haq,Tier 1,72.0,51.49,133,26,Tier 1,73.0,54.81,105,Tier 1,45.0,60.86,97,Tier 1,82.0,51.91,120,Tier 1,62.0,57.07,93
+5837,Mahedi Hasan,Tier 1,33.0,61.13,109,20,Tier 1,54.0,59.36,112,Tier 1,33.0,65.18,104,Tier 1,61.0,57.27,101,Tier 1,52.0,59.66,102
+5844,Ebadot Hossain,Excluded,,54.98,6,2,Excluded,,69.23,10,Excluded,,68.37,9,Excluded,,68.34,10,Excluded,,66.88,11
+5866,Patrick Kruger,Excluded,,54.94,37,6,Excluded,,66.72,18,Excluded,,70.01,5,Excluded,,72.87,18,Excluded,,69.73,5
+5882,Afif Hossain,Excluded,,50.01,0,0,Excluded,,53.67,0,Excluded,,55.37,0,Excluded,,52.6,0,Excluded,,55.06,0
+5892,Blair Tickner,Excluded,,67.27,11,5,Excluded,,64.28,12,Excluded,,60.27,12,Excluded,,65.13,13,Excluded,,60.47,11
+5939,Cameron Green,Tier 1,133.0,40.25,124,26,Tier 1,121.0,44.25,115,Tier 1,94.0,50.44,112,Tier 1,133.0,41.3,113,Tier 1,76.0,53.8,107
+5940,Riley Meredith,Excluded,,44.17,23,9,Excluded,,58.48,29,Excluded,,60.56,31,Excluded,,56.06,29,Excluded,,51.9,28
+5944,Mohammed Siraj,Tier 1,26.0,63.42,399,61,Tier 1,36.0,64.31,387,Tier 1,27.0,66.95,323,Tier 1,51.0,59.25,360,Tier 1,43.0,62.58,351
+5977,Khary Pierre,Excluded,,53.02,5,1,Excluded,,61.62,9,Excluded,,54.57,13,Excluded,,57.9,13,Excluded,,57.44,13
+5979,Abrar Ahmed,Tier 1,143.0,38.21,80,16,Tier 1,46.0,61.97,70,Tier 1,5.0,81.47,70,Tier 1,86.0,51.28,71,Tier 1,6.0,80.2,74
+6025,Henry Shipley,Excluded,,65.67,5,2,Excluded,,60.89,4,Excluded,,60.38,3,Excluded,,59.91,4,Excluded,,60.09,3
+6097,Brydon Carse,Excluded,,79.83,31,6,Excluded,,74.46,23,Excluded,,58.29,16,Excluded,,71.03,21,Excluded,,67.94,14
+6160,Chamika Karunaratne,Excluded,,45.78,24,6,Excluded,,46.38,18,Excluded,,45.26,17,Excluded,,41.83,16,Excluded,,45.43,15
+6161,Rahul Chahar,Tier 1,64.0,52.57,184,26,Tier 1,124.0,44.05,213,Tier 1,132.0,38.88,174,Tier 1,103.0,47.64,216,Tier 1,136.0,35.94,155
+6162,Kulwant Khejroliya,Excluded,,39.64,12,2,Excluded,,42.49,13,Excluded,,62.54,4,Excluded,,41.57,14,Excluded,,41.97,9
+6166,Jack Edwards,Excluded,,52.38,0,0,Excluded,,56.04,0,Excluded,,57.73,0,Excluded,,54.97,0,Excluded,,57.42,0
+6180,Praveen Jayawickrama,Excluded,,50.9,0,0,Excluded,,54.55,0,Excluded,,56.25,0,Excluded,,53.49,0,Excluded,,55.94,0
+6196,Josh Tongue,Excluded,,62.81,11,2,Excluded,,57.48,7,Excluded,,57.43,5,Excluded,,56.54,7,Excluded,,57.15,5
+6237,Manimaran Siddharth,Tier 1,142.0,38.4,53,6,Tier 2,,34.16,42,Excluded,,27.6,25,Tier 2,,33.95,43,Excluded,,25.07,25
+6256,Varun Chakravarthy,Tier 1,52.0,55.02,429,55,Tier 1,90.0,51.63,380,Tier 1,50.0,59.62,274,Tier 1,73.0,53.3,391,Tier 1,48.0,61.85,305
+6272,William Jacks,Tier 1,163.0,31.35,78,18,Tier 1,148.0,35.97,57,Excluded,,50.43,31,Tier 1,145.0,37.23,56,Tier 2,,48.14,46
+6281,Abhishek Sharma,Tier 1,60.0,53.35,63,15,Tier 1,104.0,48.22,63,Tier 1,116.0,43.25,71,Tier 1,83.0,51.9,62,Tier 1,128.0,39.6,64
+6284,Anukul Roy,Tier 1,147.0,36.7,79,15,Tier 1,143.0,40.63,76,Tier 1,86.0,52.29,69,Tier 1,130.0,41.47,76,Tier 1,83.0,51.12,75
+6285,Kamlesh Nagarkoti,Excluded,,53.25,0,0,Excluded,,56.91,0,Excluded,,58.61,0,Excluded,,55.84,0,Excluded,,58.3,0
+6286,Shivam Mavi,Excluded,,48.08,16,5,Excluded,,48.85,13,Excluded,,42.88,12,Excluded,,54.78,15,Excluded,,46.96,14
+6287,Yash Thakur,Tier 1,76.0,50.07,115,17,Tier 1,16.0,69.77,84,Tier 2,,80.1,40,Tier 1,11.0,71.7,84,Tier 2,,85.16,44
+6297,Matthew Parkinson,Excluded,,45.43,6,1,Excluded,,41.87,10,Excluded,,45.19,12,Excluded,,40.98,10,Excluded,,44.94,12
+6350,Matthew Kuhnemann,Excluded,,57.8,29,4,Excluded,,57.87,34,Excluded,,63.03,34,Excluded,,58.71,31,Excluded,,65.23,30
+6354,Spencer Johnson,Tier 1,65.0,52.35,94,16,Tier 1,64.0,56.82,71,Tier 1,84.0,52.99,61,Tier 1,63.0,56.02,71,Tier 1,80.0,52.52,65
+6355,Shaheen Afridi,Tier 1,43.0,57.43,149,32,Tier 1,71.0,55.06,165,Tier 1,39.0,62.98,147,Tier 1,56.0,58.48,150,Tier 1,44.0,62.45,155
+6356,Khaled Ahmed,Excluded,,53.08,5,1,Excluded,,59.43,9,Excluded,,60.87,9,Excluded,,58.53,9,Excluded,,60.61,9
+6359,Raghu Sharma,Excluded,,38.67,26,2,Excluded,,61.64,6,Excluded,,55.95,5,Excluded,,57.13,7,Excluded,,49.74,7
+6389,Tanvir Islam,Excluded,,65.71,28,5,Tier 2,,67.94,40,Tier 2,,56.42,41,Excluded,,58.5,34,Excluded,,62.53,39
+6396,Tim David,Excluded,,46.78,2,1,Excluded,,56.74,0,Excluded,,58.43,0,Excluded,,55.67,0,Excluded,,58.12,0
+6398,Aaron Hardie,Excluded,,70.05,19,5,Excluded,,70.44,25,Excluded,,68.26,34,Excluded,,66.08,21,Excluded,,73.56,30
+6423,Riyan Parag,Excluded,,72.02,31,9,Excluded,,70.2,38,Tier 2,,60.53,42,Tier 2,,68.82,41,Tier 2,,63.18,40
+6436,Qais Ahmad,Excluded,,60.9,6,1,Excluded,,55.63,9,Excluded,,57.14,12,Excluded,,54.73,9,Excluded,,56.89,12
+6449,Wafadar Momand,Excluded,,56.43,7,2,Excluded,,59.64,7,Excluded,,57.06,7,Excluded,,58.71,7,Excluded,,56.79,7
+6450,Mujeeb Ur Rahman,Tier 1,118.0,44.17,88,18,Tier 1,50.0,61.06,72,Tier 1,9.0,77.72,56,Tier 1,44.0,60.42,65,Tier 1,10.0,76.04,59
+6460,Ayush Badoni,Excluded,,55.57,11,3,Excluded,,66.53,11,Excluded,,55.09,4,Excluded,,65.12,12,Excluded,,64.94,1
+6464,Arshdeep Singh,Tier 1,48.0,56.42,645,104,Tier 1,75.0,54.44,627,Tier 1,52.0,58.99,547,Tier 1,58.0,58.34,578,Tier 1,60.0,57.6,546
+6466,Atharwa Taide,Excluded,,50.9,0,0,Excluded,,54.56,0,Excluded,,52.37,1,Excluded,,53.5,0,Excluded,,52.07,1
+6489,Darshan Nalkande,Excluded,,44.14,4,3,Excluded,,55.85,5,Excluded,,51.33,5,Excluded,,67.22,4,Excluded,,51.05,5
+6503,Zahoor Khan,Excluded,,46.45,7,3,Excluded,,46.17,10,Excluded,,49.26,12,Excluded,,54.63,12,Excluded,,50.87,7
+6506,Mohammad Imran Randhawa,Excluded,,46.14,8,1,Excluded,,53.08,10,Excluded,,56.28,11,Excluded,,52.2,10,Excluded,,52.72,12
+6512,Michael Bracewell,Tier 1,124.0,43.09,78,13,Tier 1,155.0,31.93,90,Tier 1,131.0,38.91,87,Tier 1,152.0,33.66,82,Tier 1,133.0,37.35,90
+6515,Benjamin Lister,Excluded,,62.93,28,7,Excluded,,71.3,24,Excluded,,80.76,17,Excluded,,60.24,20,Excluded,,85.06,19
+6518,Daniel Sams,Excluded,,41.51,25,6,Excluded,,68.03,37,Tier 2,,85.37,40,Excluded,,56.33,28,Excluded,,80.18,38
+6523,Blessing Muzarabani,Tier 1,29.0,63.05,114,19,Tier 1,35.0,64.54,83,Tier 1,74.0,54.83,63,Tier 1,48.0,59.73,78,Tier 1,88.0,50.49,68
+6566,Matthew John Fisher,Excluded,,51.7,5,2,Excluded,,55.77,3,Excluded,,61.67,4,Excluded,,54.77,3,Excluded,,49.83,7
+6574,Alick Athanaze,Excluded,,50.83,0,0,Excluded,,50.63,1,Excluded,,52.3,1,Excluded,,49.59,1,Excluded,,51.99,1
+6591,KM Asif,Excluded,,47.59,7,3,Excluded,,54.24,7,Excluded,,58.15,3,Excluded,,53.31,7,Excluded,,55.68,2
+6628,Gerald Coetzee,Tier 1,80.0,49.66,137,19,Tier 1,56.0,58.11,105,Tier 1,53.0,58.98,63,Tier 1,43.0,60.55,113,Tier 1,47.0,61.97,67
+6643,Hasan Mahmud,Excluded,,62.02,29,9,Excluded,,65.94,34,Excluded,,76.34,25,Excluded,,61.85,34,Excluded,,70.07,29
+6651,Towhid Hridoy,Excluded,,50.9,0,0,Excluded,,54.56,0,Excluded,,56.26,0,Excluded,,53.5,0,Excluded,,55.95,0
+6664,Dion Myers,Excluded,,56.15,0,0,Excluded,,59.81,0,Excluded,,61.15,0,Excluded,,58.75,0,Excluded,,61.02,0
+6669,Mohsin Khan,Tier 1,23.0,64.17,120,15,Tier 1,49.0,61.15,125,Tier 1,107.0,46.43,119,Tier 1,80.0,52.09,118,Tier 1,51.0,60.07,119
+6671,Lalit Yadav,Tier 1,170.0,23.38,50,9,Tier 2,,19.36,46,Excluded,,27.96,21,Tier 2,,20.51,48,Excluded,,36.27,29
+6676,Azmatullah Omarzai,Tier 1,68.0,52.07,147,28,Tier 1,70.0,55.11,172,Tier 1,78.0,53.85,152,Tier 1,64.0,55.72,154,Tier 1,99.0,47.82,154
+6677,Mohammad Hasnain,Excluded,,50.73,15,4,Excluded,,63.0,16,Excluded,,68.35,15,Excluded,,71.97,16,Excluded,,67.05,13
+6683,Mayank Markande,Tier 1,173.0,17.94,121,14,Tier 1,160.0,26.68,101,Tier 1,137.0,35.21,83,Tier 1,159.0,22.33,99,Tier 1,140.0,30.92,81
+6697,Shams Mulani,Excluded,,35.77,11,2,Excluded,,49.67,7,Excluded,,63.39,5,Excluded,,43.16,10,Excluded,,60.05,7
+6725,Sherfane Rutherford,Excluded,,42.98,17,2,Excluded,,48.55,5,Excluded,,59.28,0,Excluded,,47.36,6,Excluded,,58.97,0
+6726,Romario Shepherd,Tier 1,131.0,40.35,262,46,Tier 1,130.0,43.11,226,Tier 1,92.0,50.84,194,Tier 1,110.0,45.85,225,Tier 1,111.0,44.98,197
+6772,Chetan Sakariya,Excluded,,48.95,22,4,Excluded,,41.69,16,Excluded,,46.13,7,Excluded,,40.88,16,Excluded,,46.88,7
+6795,Terrance Hinds,Excluded,,52.09,6,1,Excluded,,55.95,0,Excluded,,57.65,0,Excluded,,54.89,0,Excluded,,57.34,0
+6797,Dominic Drakes,Excluded,,55.29,5,2,Excluded,,59.67,3,Excluded,,56.56,2,Excluded,,56.06,3,Excluded,,56.26,2
+6806,Tushar Deshpande,Tier 1,27.0,63.41,232,36,Tier 1,38.0,64.06,233,Tier 1,93.0,50.7,199,Tier 1,36.0,62.51,228,Tier 1,67.0,56.15,210
+6819,Yashasvi Jaiswal,Excluded,,51.62,0,0,Excluded,,55.28,0,Excluded,,56.98,0,Excluded,,54.21,0,Excluded,,56.67,0
+6926,Matty Potts,Excluded,,48.39,8,1,Excluded,,56.76,3,Excluded,,55.22,0,Excluded,,55.3,4,Excluded,,54.91,0
+6932,Pramod Madushan,Excluded,,50.26,6,1,Excluded,,60.68,13,Excluded,,62.91,16,Excluded,,52.57,6,Excluded,,58.77,19
+6984,Saqib Zulfiqar,Excluded,,48.89,0,0,Excluded,,52.55,0,Excluded,,54.25,0,Excluded,,51.49,0,Excluded,,53.94,0
+6985,Bas de Leede,Excluded,,52.68,1,1,Excluded,,57.94,3,Excluded,,60.08,2,Excluded,,56.93,3,Excluded,,57.63,1
+6995,Saad Zafar,Excluded,,45.53,1,1,Excluded,,49.56,0,Excluded,,51.25,0,Excluded,,56.73,2,Excluded,,50.94,0
+7001,Dilon Heyliger,Excluded,,53.01,3,2,Excluded,,56.46,3,Excluded,,50.26,2,Excluded,,55.46,3,Excluded,,55.54,2
+7002,Nicholas Kirton,Excluded,,53.08,0,0,Excluded,,56.74,0,Excluded,,58.43,0,Excluded,,55.67,0,Excluded,,58.12,0
+7008,Gus Atkinson,Excluded,,57.93,6,1,Excluded,,61.2,6,Excluded,,59.6,0,Excluded,,60.24,6,Excluded,,53.91,2
+7049,Kamil Mishara,Excluded,,50.51,0,0,Excluded,,54.16,0,Excluded,,55.86,0,Excluded,,53.1,0,Excluded,,55.55,0
+7052,Dunith Wellalage,Excluded,,38.97,30,4,Excluded,,48.41,18,Excluded,,56.32,13,Excluded,,51.6,20,Excluded,,51.15,14
+7059,Nehal Wadhera,Excluded,,49.52,0,0,Excluded,,53.18,0,Excluded,,54.87,0,Excluded,,52.11,0,Excluded,,54.56,0
+7060,Arjun Tendulkar,Excluded,,54.27,11,3,Excluded,,67.27,12,Excluded,,51.87,10,Excluded,,53.57,8,Excluded,,53.54,11
+7094,Curtis Campher,Excluded,,41.36,15,5,Excluded,,49.2,13,Excluded,,36.43,19,Excluded,,45.14,15,Excluded,,35.55,21
+7120,Rohit Paudel,Excluded,,50.24,1,1,Excluded,,51.56,0,Excluded,,53.26,0,Excluded,,50.49,0,Excluded,,52.95,0
+7140,Senuran Muthusamy,Excluded,,49.66,0,0,Excluded,,43.66,6,Excluded,,49.44,8,Excluded,,43.15,4,Excluded,,44.9,6
+7201,Haroon Arshad,Excluded,,57.84,8,3,Excluded,,67.07,10,Excluded,,71.27,11,Excluded,,58.07,9,Excluded,,70.5,12
+7227,Nijat Masood,Excluded,,54.85,13,2,Excluded,,51.01,7,Excluded,,53.6,1,Excluded,,57.34,12,Excluded,,52.41,3
+7240,FazalHaq Farooqi,Tier 1,127.0,41.68,176,35,Tier 1,99.0,49.61,176,Tier 1,106.0,46.74,155,Tier 1,115.0,44.1,166,Tier 1,96.0,48.04,157
+7241,Ziaur Rahman,Excluded,,61.28,8,2,Excluded,,55.07,5,Excluded,,56.42,2,Excluded,,55.78,7,Excluded,,56.13,2
+7250,Mukesh Choudhary,Tier 1,40.0,58.09,93,17,Tier 1,8.0,73.1,83,Tier 1,4.0,81.64,77,Tier 1,20.0,66.94,76,Tier 1,14.0,72.36,83
+7269,Sushant Mishra,Excluded,,42.65,22,1,Excluded,,41.73,10,Excluded,,52.86,6,Excluded,,42.79,12,Excluded,,52.59,6
+7270,Anrich Nortje,Tier 1,155.0,33.94,180,24,Tier 1,154.0,33.48,134,Tier 1,138.0,34.45,88,Tier 1,157.0,28.34,134,Tier 1,139.0,32.6,90
+7312,Nandre Burger,Tier 1,109.0,45.9,124,14,Tier 1,86.0,52.28,118,Tier 1,65.0,56.26,91,Tier 1,84.0,51.68,115,Tier 1,69.0,55.32,91
+7322,Yash Dayal,Tier 1,69.0,51.99,124,23,Tier 1,106.0,47.52,143,Tier 1,108.0,46.28,130,Tier 1,75.0,53.03,128,Tier 1,77.0,53.69,112
+7325,Harpreet Brar,Tier 1,44.0,57.39,126,20,Tier 1,17.0,69.59,140,Tier 1,24.0,68.93,158,Tier 1,25.0,65.56,138,Tier 1,25.0,67.41,147
+7327,Rasikh Salam,Tier 1,97.0,47.51,119,14,Tier 1,15.0,69.78,80,Tier 2,,60.15,40,Tier 1,14.0,69.84,82,Tier 2,,61.93,42
+7344,Shoriful Islam,Tier 1,8.0,74.32,73,19,Tier 1,5.0,78.31,88,Tier 1,3.0,83.73,87,Tier 1,8.0,74.33,79,Tier 1,9.0,77.86,85
+7364,Haris Rauf,Tier 1,3.0,77.4,156,25,Tier 1,11.0,71.09,145,Tier 1,20.0,72.39,115,Tier 1,9.0,73.32,136,Tier 1,16.0,71.93,119
+7403,Lalit Rajbanshi,Excluded,,55.93,6,1,Excluded,,51.24,5,Excluded,,51.2,3,Excluded,,50.27,5,Excluded,,52.5,5
+7446,Abdul Samad,Excluded,,49.86,0,0,Excluded,,53.52,0,Excluded,,55.22,0,Excluded,,52.46,0,Excluded,,54.91,0
+7472,Shahbaz Ahmed,Tier 1,82.0,49.65,98,16,Tier 1,138.0,41.57,94,Tier 1,127.0,40.04,85,Tier 1,120.0,43.37,88,Tier 1,130.0,38.43,91
+7473,Akash Deep,Tier 1,148.0,36.21,50,7,Tier 1,145.0,37.46,51,Excluded,,31.33,39,Excluded,,39.26,37,Tier 2,,31.79,41
+7503,Ravi Bishnoi,Tier 1,38.0,58.43,408,60,Tier 1,82.0,53.35,422,Tier 1,100.0,48.46,363,Tier 1,101.0,48.68,423,Tier 1,82.0,51.68,375
+7533,Simarjeet Singh,Tier 1,105.0,46.16,66,8,Tier 2,,42.66,43,Excluded,,51.38,26,Tier 2,,43.24,44,Excluded,,55.49,32
+7544,Venkatesh Iyer,Excluded,,51.84,2,1,Excluded,,61.83,1,Excluded,,64.86,5,Excluded,,60.33,2,Excluded,,64.44,2
+7545,Kuldeep Sen,Excluded,,54.24,11,4,Excluded,,66.13,13,Excluded,,75.12,15,Excluded,,55.78,17,Excluded,,75.63,12
+7574,Kumar Kartikeya Singh,Tier 2,,40.91,47,10,Tier 1,113.0,45.99,58,Tier 2,,40.11,49,Tier 1,81.0,51.99,62,Tier 2,,50.02,45
+7625,Suryansh Shedge,Excluded,,38.17,10,1,Excluded,,55.43,4,Excluded,,58.99,1,Excluded,,50.94,5,Excluded,,60.94,9
+7634,Aaron Jones,Excluded,,48.63,0,0,Excluded,,52.28,0,Excluded,,55.22,3,Excluded,,51.22,0,Excluded,,54.92,3
+7689,Dilshan Madushanka,Tier 1,111.0,45.65,58,12,Tier 1,108.0,47.14,58,Tier 2,,51.06,41,Tier 1,116.0,44.09,51,Tier 2,,47.54,42
+7690,Saim Ayub,Tier 1,17.0,68.24,66,13,Tier 1,48.0,61.79,76,Tier 1,42.0,62.21,79,Tier 1,13.0,70.07,69,Tier 1,39.0,63.55,82
+7696,Mohammad Wasim,Tier 1,57.0,53.98,50,10,Excluded,,56.12,39,Excluded,,59.57,16,Tier 2,,59.14,43,Excluded,,52.74,23
+7699,Abbas Afridi,Tier 1,11.0,71.12,67,12,Tier 1,7.0,75.35,72,Tier 1,7.0,79.31,53,Tier 1,4.0,79.81,68,Tier 1,3.0,81.89,56
+7702,Chamindu Wickramasinghe,Excluded,,40.06,9,2,Excluded,,55.25,6,Excluded,,56.15,2,Excluded,,53.06,3,Excluded,,54.91,4
+7704,Pavan Rathnayake,Excluded,,48.31,0,0,Excluded,,51.97,0,Excluded,,53.67,0,Excluded,,50.91,0,Excluded,,53.36,0
+7709,Ainsley Ndlovu,Excluded,,57.31,6,3,Excluded,,57.07,6,Excluded,,56.58,5,Excluded,,57.63,5,Excluded,,56.3,5
+7710,Brandon Glover,Excluded,,50.06,0,0,Excluded,,53.71,0,Excluded,,55.41,0,Excluded,,52.65,0,Excluded,,55.1,0
+7741,Gareth Delany,Tier 2,,49.54,45,12,Excluded,,47.13,30,Excluded,,63.95,28,Excluded,,50.66,36,Excluded,,64.59,30
+7755,Harsh Thaker,Excluded,,60.68,7,2,Excluded,,53.28,3,Excluded,,56.25,0,Excluded,,48.38,5,Excluded,,55.94,0
+7756,Kaleem Sana,Excluded,,60.17,11,3,Excluded,,62.59,12,Excluded,,54.25,5,Excluded,,59.42,9,Excluded,,54.47,4
+7808,Marco Jansen,Tier 1,150.0,35.84,288,39,Tier 1,128.0,43.62,224,Tier 1,122.0,41.77,168,Tier 1,112.0,45.37,223,Tier 1,108.0,45.88,177
+7896,Akash Singh,Tier 1,93.0,48.4,90,10,Tier 1,136.0,42.39,91,Tier 1,121.0,42.32,77,Tier 1,105.0,47.17,81,Tier 1,101.0,47.11,72
+7897,Namboori Tilak Varma,Excluded,,47.98,4,3,Excluded,,55.99,2,Excluded,,53.8,3,Excluded,,52.31,2,Excluded,,53.51,3
+7903,Shamim Hossain,Excluded,,42.02,30,3,Excluded,,44.05,24,Excluded,,46.19,23,Excluded,,43.16,25,Excluded,,50.26,16
+7905,Tanzim Sakib,Tier 1,98.0,47.43,89,12,Tier 1,102.0,48.3,77,Tier 1,77.0,54.25,56,Tier 1,96.0,49.14,82,Tier 1,58.0,57.76,57
+7912,Vikramjit Singh,Excluded,,49.45,0,0,Excluded,,53.1,0,Excluded,,54.8,0,Excluded,,52.04,0,Excluded,,54.49,0
+7914,Clayton Floyd,Excluded,,50.14,0,0,Excluded,,53.35,1,Excluded,,57.22,2,Excluded,,52.73,0,Excluded,,56.92,2
+7916,Karima Gore,Excluded,,48.36,0,0,Excluded,,52.02,0,Excluded,,53.72,0,Excluded,,53.24,1,Excluded,,53.41,0
+7920,Nathan Ellis,Tier 1,99.0,46.97,136,23,Tier 1,149.0,35.95,144,Tier 1,142.0,30.95,129,Tier 1,138.0,39.13,125,Tier 1,137.0,34.46,129
+7927,Janak Prakash,Excluded,,50.72,8,3,Excluded,,55.83,9,Excluded,,57.72,8,Excluded,,55.33,8,Excluded,,53.44,6
+7928,Vinoth Baskaran,Excluded,,62.96,7,2,Excluded,,54.14,5,Excluded,,55.25,6,Excluded,,61.2,6,Excluded,,53.3,4
+7929,Aryaman Sunil Uchil,Excluded,,51.41,1,1,Excluded,,54.06,3,Excluded,,55.66,3,Excluded,,53.06,3,Excluded,,55.86,2
+7935,Mohammad Ghazanfar,Excluded,,47.24,1,1,Excluded,,51.27,0,Excluded,,52.97,0,Excluded,,41.47,7,Excluded,,52.66,0
+7967,Noor Ahmad,Tier 1,100.0,46.95,310,41,Tier 1,94.0,50.67,319,Tier 1,91.0,51.68,259,Tier 1,72.0,53.32,318,Tier 1,95.0,48.15,261
+8005,Zawar Farid,Excluded,,45.79,1,1,Excluded,,52.38,5,Excluded,,48.56,11,Excluded,,47.44,9,Excluded,,53.65,5
+8009,Junaid Siddique,Tier 1,7.0,74.8,62,14,Tier 1,9.0,73.05,74,Tier 1,8.0,77.99,69,Tier 1,18.0,68.71,66,Tier 1,5.0,80.39,66
+8049,Naseem Shah,Tier 1,79.0,49.96,70,16,Tier 1,92.0,51.36,69,Tier 1,67.0,55.54,67,Tier 1,85.0,51.39,60,Tier 1,36.0,64.45,73
+8093,Nikhil Chaudhary,Excluded,,47.14,1,1,Excluded,,50.19,7,Excluded,,53.67,8,Excluded,,49.68,1,Excluded,,53.4,8
+8141,Auqib Nabi,Tier 2,,48.49,50,5,Tier 2,,49.91,46,Excluded,,56.74,35,Tier 2,,50.91,44,Excluded,,54.93,35
+8177,Akash Madhwal,Tier 1,84.0,49.22,68,9,Tier 1,123.0,44.1,52,Excluded,,49.13,27,Tier 1,113.0,45.02,60,Excluded,,43.44,33
+8182,Donovan Ferreira,Excluded,,40.76,30,5,Excluded,,37.96,24,Excluded,,37.54,24,Excluded,,41.39,22,Excluded,,41.48,22
+8221,Nitish Reddy,Tier 1,146.0,37.2,182,24,Tier 1,152.0,35.78,133,Tier 1,79.0,53.52,74,Tier 1,143.0,37.59,137,Tier 1,110.0,44.99,87
+8266,Sumit Kumar 1,Excluded,,42.68,9,1,Excluded,,46.22,7,Excluded,,56.49,2,Excluded,,43.04,6,Excluded,,55.75,3
+8295,Matthew Forde,Tier 1,90.0,48.69,68,15,Tier 1,30.0,65.71,59,Tier 1,73.0,54.85,60,Tier 1,62.0,56.64,59,Tier 1,65.0,56.38,58
+8298,Ramon Simmonds,Excluded,,57.17,8,1,Excluded,,56.46,3,Excluded,,52.17,4,Excluded,,52.65,7,Excluded,,49.7,3
+8311,Dan Mousley,Excluded,,53.56,5,1,Excluded,,52.95,8,Excluded,,43.78,11,Excluded,,51.68,9,Excluded,,43.52,11
+8326,Jayden Seales,Tier 2,,45.57,41,9,Excluded,,52.86,36,Excluded,,52.42,33,Excluded,,49.97,33,Excluded,,55.75,34
+8380,Mohammad Rishad Hossain,Tier 1,53.0,54.84,121,20,Tier 1,19.0,68.33,97,Tier 1,47.0,60.1,81,Tier 1,40.0,61.16,102,Tier 1,59.0,57.7,86
+8424,Tanveer Sangha,Excluded,,44.46,28,4,Excluded,,41.06,31,Excluded,,51.42,25,Excluded,,49.33,32,Excluded,,55.39,24
+8530,Kartik Tyagi,Tier 1,141.0,38.7,99,14,Tier 1,101.0,48.63,105,Tier 1,103.0,47.52,77,Tier 1,146.0,37.01,105,Tier 1,121.0,40.51,82
+8580,Yudhvir Singh,Excluded,,54.72,10,4,Excluded,,66.86,6,Excluded,,74.84,10,Excluded,,64.49,9,Excluded,,64.43,9
+8611,Adithya Ashok,Excluded,,48.4,0,0,Excluded,,52.06,0,Excluded,,53.76,0,Excluded,,50.99,0,Excluded,,53.45,0
+8614,William ORourke,Excluded,,61.5,30,5,Excluded,,56.66,27,Excluded,,56.29,22,Excluded,,58.25,24,Excluded,,58.56,21
+8623,Kristian Clarke,Excluded,,48.3,11,1,Excluded,,48.02,6,Excluded,,57.06,3,Excluded,,46.82,7,Excluded,,49.56,5
+8634,Ashwani Kumar,Excluded,,43.0,31,5,Tier 2,,31.64,45,Tier 2,,40.49,40,Tier 2,,34.05,47,Excluded,,39.48,38
+8638,Basil Hameed,Excluded,,62.36,4,3,Excluded,,69.44,6,Excluded,,66.58,8,Excluded,,68.49,6,Excluded,,67.03,4
+8639,Kartik Meiyappan,Excluded,,47.1,2,1,Excluded,,56.45,3,Excluded,,66.94,3,Excluded,,56.0,2,Excluded,,68.46,4
+8654,Cooper Connolly,Excluded,,68.31,9,2,Excluded,,61.69,3,Excluded,,65.28,4,Excluded,,60.69,3,Excluded,,63.05,7
+8661,Matheesha Pathirana,Tier 1,15.0,68.47,217,36,Tier 1,33.0,65.51,204,Tier 1,32.0,65.25,160,Tier 1,10.0,72.05,215,Tier 1,42.0,62.59,158
+8664,Victor Nyauchi,Excluded,,45.93,2,1,Excluded,,49.14,4,Excluded,,52.84,5,Excluded,,50.68,3,Excluded,,50.42,4
+8719,Aryan Lakra,Excluded,,48.97,2,1,Excluded,,50.69,0,Excluded,,52.39,0,Excluded,,51.46,2,Excluded,,52.08,0
+8723,Mohammed Faraazuddin,Excluded,,50.53,0,0,Excluded,,54.19,0,Excluded,,55.89,0,Excluded,,53.12,0,Excluded,,55.58,0
+8726,Alishan Sharafu,Excluded,,50.55,0,0,Excluded,,51.49,1,Excluded,,53.16,1,Excluded,,53.15,0,Excluded,,52.86,1
+8727,Sanchit Sharma,Excluded,,53.08,0,0,Excluded,,56.74,0,Excluded,,58.43,0,Excluded,,55.67,0,Excluded,,58.12,0
+8746,Vaibhav Arora,Tier 1,83.0,49.54,208,33,Tier 1,109.0,47.07,200,Tier 1,85.0,52.46,158,Tier 1,114.0,44.26,186,Tier 1,86.0,50.59,168
+8763,Duan Jansen,Excluded,,53.38,1,1,Excluded,,49.44,5,Excluded,,50.98,5,Excluded,,48.47,5,Excluded,,60.53,2
+8805,Ottneil Baartman,Tier 1,14.0,69.8,51,9,Excluded,,60.38,25,Excluded,,44.04,8,Excluded,,67.25,30,Excluded,,45.91,9
+15269,Mohammed Aslam,Excluded,,47.59,0,0,Excluded,,51.25,0,Excluded,,52.95,0,Excluded,,50.18,0,Excluded,,52.64,0
+15279,Shiraz Khan,Excluded,,43.46,17,1,Excluded,,48.96,10,Excluded,,53.47,2,Excluded,,46.54,16,Excluded,,55.29,3
+15280,Sayed Monib,Excluded,,55.92,7,2,Excluded,,59.65,6,Excluded,,60.35,3,Excluded,,58.7,6,Excluded,,60.05,3
+16498,Sultan Ahmad,Excluded,,52.18,8,2,Excluded,,50.34,2,Excluded,,49.78,1,Excluded,,47.07,1,Excluded,,49.48,1
+17424,Graham Hume,Excluded,,47.25,21,4,Excluded,,59.55,28,Excluded,,66.08,30,Excluded,,52.1,24,Excluded,,64.52,34
+17430,Conor Olphert,Excluded,,41.47,15,2,Excluded,,53.34,6,Excluded,,58.74,0,Excluded,,50.88,9,Excluded,,58.43,0
+17911,Nangeyalia Kharote,Excluded,,45.24,1,1,Excluded,,48.83,1,Excluded,,61.08,6,Excluded,,47.79,1,Excluded,,62.01,8
+17918,Abdullah Tarakhail,Excluded,,46.24,0,0,Excluded,,49.9,0,Excluded,,51.6,0,Excluded,,48.84,0,Excluded,,51.29,0
+17919,Mohammad Saleem Safi,Excluded,,53.13,0,0,Excluded,,56.78,0,Excluded,,58.48,0,Excluded,,55.72,0,Excluded,,58.17,0
+19020,Ateeq Iqbal,Excluded,,45.84,6,2,Excluded,,49.1,6,Excluded,,51.49,4,Excluded,,48.15,6,Excluded,,50.76,5
+19125,Ayush Shukla,Excluded,,62.46,18,5,Excluded,,59.26,20,Excluded,,63.98,17,Excluded,,59.71,19,Excluded,,63.75,17
+19145,Aamer Jamal,Excluded,,37.19,34,4,Excluded,,44.18,26,Excluded,,53.13,23,Excluded,,41.74,25,Excluded,,48.57,27
+19147,Faraz Akram,Excluded,,35.89,19,3,Excluded,,48.17,11,Excluded,,50.81,10,Excluded,,49.88,12,Excluded,,55.55,6
+19307,Tharindu Rathnayake,Excluded,,45.77,8,2,Excluded,,53.68,2,Excluded,,59.12,1,Excluded,,52.66,2,Excluded,,58.82,1
+19312,Nuwan Thushara,Tier 1,106.0,46.08,128,24,Tier 1,78.0,54.17,113,Tier 1,29.0,66.57,104,Tier 1,54.0,58.79,104,Tier 1,30.0,66.18,103
+19315,Vijayakanth Viyaskanth,Excluded,,43.28,22,2,Excluded,,48.44,22,Excluded,,45.29,22,Excluded,,43.29,24,Excluded,,48.0,20
+19316,Maheesh Theekshana,Tier 1,12.0,70.81,307,58,Tier 1,31.0,65.68,270,Tier 1,59.0,57.51,225,Tier 1,17.0,68.81,265,Tier 1,61.0,57.15,230
+19530,Shahnawaz Dhani,Excluded,,48.11,9,3,Excluded,,44.79,6,Excluded,,41.93,10,Excluded,,50.39,10,Excluded,,40.21,8
+19754,Raja Khan,Excluded,,50.74,1,1,Excluded,,56.5,2,Excluded,,54.31,3,Excluded,,53.28,1,Excluded,,54.02,3
+19781,Mitchell Owen,Excluded,,48.94,13,2,Excluded,,52.11,4,Excluded,,58.29,0,Excluded,,51.12,4,Excluded,,59.23,3
+19892,Theo van Woerkom,Excluded,,50.19,0,0,Excluded,,53.84,0,Excluded,,55.54,0,Excluded,,52.78,0,Excluded,,55.23,0
+19902,Tim Pringle,Excluded,,51.89,7,2,Excluded,,56.05,2,Excluded,,53.86,3,Excluded,,52.38,2,Excluded,,53.57,3
+19998,Rajvardhan Hangargekar,Excluded,,47.42,4,1,Excluded,,49.17,7,Excluded,,50.66,7,Excluded,,48.53,6,Excluded,,54.23,5
+20005,Arshad Khan,Tier 1,89.0,48.72,70,14,Tier 1,59.0,57.7,54,Tier 2,,50.89,42,Tier 1,77.0,52.56,56,Tier 2,,61.52,47
+20006,Ramandeep Singh,Excluded,,65.51,14,3,Excluded,,65.15,15,Excluded,,54.12,11,Excluded,,64.34,15,Excluded,,57.1,10
+20175,Nandan Yadav,Excluded,,48.58,0,0,Excluded,,52.24,0,Excluded,,53.93,0,Excluded,,51.17,0,Excluded,,55.86,1
+20229,Mohammad Ali,Excluded,,41.03,12,1,Excluded,,50.33,8,Excluded,,57.62,0,Excluded,,46.15,4,Excluded,,57.31,0
+20310,Ahmed Daniyal,Excluded,,45.75,0,0,Excluded,,49.41,0,Excluded,,51.1,0,Excluded,,48.34,0,Excluded,,50.79,0
+20316,Shahab Alam,Excluded,,48.49,5,1,Excluded,,57.43,1,Excluded,,56.86,0,Excluded,,54.1,0,Excluded,,56.55,0
+20693,Kuldip Yadav,Excluded,,43.52,7,2,Excluded,,37.2,12,Excluded,,48.43,10,Excluded,,31.48,9,Excluded,,43.16,11
+20702,Tristan Stubbs,Excluded,,31.86,11,4,Excluded,,55.85,2,Excluded,,57.49,2,Excluded,,54.83,2,Excluded,,57.19,2
+20704,Salman Mirza,Excluded,,59.33,31,11,Excluded,,57.5,30,Excluded,,59.46,32,Excluded,,55.36,27,Excluded,,58.88,33
+20894,Aman Khan,Excluded,,51.47,0,0,Excluded,,55.13,0,Excluded,,56.83,0,Excluded,,54.06,0,Excluded,,56.52,0
+20989,Vivrant Sharma,Excluded,,44.28,8,2,Excluded,,47.17,9,Excluded,,49.26,3,Excluded,,42.95,11,Excluded,,47.52,7
+21780,Ernest Masuku,Excluded,,54.97,1,1,Excluded,,56.29,0,Excluded,,57.99,0,Excluded,,55.23,0,Excluded,,57.68,0
+21784,Brad Evans,Tier 1,2.0,81.31,63,13,Tier 1,12.0,70.9,53,Excluded,,71.71,30,Tier 1,16.0,69.04,53,Excluded,,76.89,34
+21786,Tanaka Chivanga,Excluded,,51.22,0,0,Excluded,,54.88,0,Excluded,,56.58,0,Excluded,,53.82,0,Excluded,,56.27,0
+22134,Luke Jongwe,Excluded,,43.43,22,7,Excluded,,61.74,15,Excluded,,60.61,17,Excluded,,51.4,17,Excluded,,52.54,15
+22137,Fionn Hand,Excluded,,51.77,12,3,Excluded,,52.49,12,Excluded,,47.3,16,Excluded,,52.19,8,Excluded,,44.76,16
+22187,Ryan Klein,Excluded,,47.59,2,1,Excluded,,56.44,0,Excluded,,58.13,0,Excluded,,55.37,0,Excluded,,57.83,0
+22188,Aryan Dutt,Excluded,,50.28,23,3,Excluded,,48.67,15,Excluded,,43.53,6,Excluded,,44.15,13,Excluded,,49.41,9
+22471,Matthew Humphreys,Tier 2,,68.26,48,7,Excluded,,70.14,34,Excluded,,49.49,23,Excluded,,76.83,33,Excluded,,46.86,25
+22565,Muhammad Waseem,Excluded,,50.62,6,1,Excluded,,52.38,3,Excluded,,46.94,5,Excluded,,55.87,0,Excluded,,46.66,5
+22920,Jacob Duffy,Tier 1,20.0,65.04,147,30,Tier 1,6.0,76.4,111,Tier 1,15.0,74.3,98,Tier 1,6.0,76.87,96,Tier 1,19.0,70.38,100
+23311,Jacob Bethell,Excluded,,57.48,15,4,Excluded,,59.04,13,Excluded,,52.91,13,Excluded,,54.68,15,Excluded,,58.84,11
+23467,Gurjapneet Singh,Tier 2,,52.3,40,5,Excluded,,58.68,28,Excluded,,59.77,17,Excluded,,61.53,30,Excluded,,56.57,18
+24017,Brian Bennett,Excluded,,39.22,17,5,Excluded,,52.66,17,Excluded,,48.28,20,Excluded,,50.71,14,Excluded,,50.8,18
+24346,Mohamed Shafeeq,Excluded,,44.35,9,1,Excluded,,49.12,11,Excluded,,52.39,12,Excluded,,46.55,9,Excluded,,52.14,12
+24381,Shariz Ahmad,Excluded,,50.97,0,0,Excluded,,54.63,0,Excluded,,56.33,0,Excluded,,53.57,0,Excluded,,56.02,0
+24473,Sonny Baker,Excluded,,62.48,8,2,Excluded,,65.01,11,Excluded,,67.07,10,Excluded,,64.07,9,Excluded,,66.81,10
+24475,Rehan Ahmed,Tier 2,,62.3,43,4,Tier 2,,53.94,45,Tier 2,,57.21,49,Tier 2,,53.38,45,Tier 2,,57.53,47
+24767,Ripon Mondol,Excluded,,51.32,0,0,Excluded,,54.98,0,Excluded,,56.68,0,Excluded,,53.91,0,Excluded,,56.37,0
+24779,Ijaz Ahmadzai,Excluded,,46.06,1,1,Excluded,,55.77,0,Excluded,,57.47,0,Excluded,,54.71,0,Excluded,,57.16,0
+24812,Chris Greaves,Excluded,,43.59,7,2,Excluded,,47.52,3,Excluded,,55.96,0,Excluded,,46.51,3,Excluded,,55.65,0
+24887,Innocent Kaia,Excluded,,48.58,0,0,Excluded,,52.24,0,Excluded,,53.93,0,Excluded,,51.17,0,Excluded,,53.62,0
+24978,Jack Jarvis,Excluded,,27.23,7,1,Excluded,,60.09,0,Excluded,,61.15,0,Excluded,,59.21,0,Excluded,,61.02,0
+25011,Liam Mccarthy,Excluded,,18.2,17,1,Excluded,,38.42,10,Excluded,,43.68,7,Excluded,,49.21,5,Excluded,,46.82,5
+25030,Zaman Khan,Excluded,,48.82,21,5,Excluded,,45.05,14,Excluded,,51.82,5,Excluded,,49.09,14,Excluded,,51.76,12
+25048,Umran Malik,Tier 1,113.0,45.52,91,17,Tier 1,45.0,62.24,97,Tier 1,31.0,65.63,78,Tier 1,53.0,58.86,88,Tier 1,33.0,64.86,79
+25128,Nqabayomzi Peter,Excluded,,47.74,30,5,Excluded,,55.86,15,Excluded,,64.31,7,Excluded,,63.17,24,Excluded,,60.13,8
+25132,Praful Hinge,Tier 1,134.0,39.91,74,6,Tier 2,,30.51,45,Excluded,,31.61,24,Tier 1,151.0,33.68,53,Excluded,,25.16,29
+25138,Harsh Dubey,Tier 1,86.0,48.91,84,8,Tier 1,111.0,46.07,78,Tier 2,,42.99,49,Tier 1,95.0,49.17,75,Tier 2,,47.65,48
+25213,Dewald Brevis,Excluded,,51.28,0,0,Excluded,,54.94,0,Excluded,,56.64,0,Excluded,,53.87,0,Excluded,,56.33,0
+25216,Andile Simelane,Excluded,,51.11,28,4,Excluded,,53.75,20,Excluded,,63.4,9,Excluded,,52.74,21,Excluded,,63.14,9
+25231,Samay Shrivastava,Excluded,,50.58,6,2,Excluded,,51.06,7,Excluded,,52.9,6,Excluded,,56.17,10,Excluded,,52.98,5
+25502,Adnan Idrees,Excluded,,46.63,4,1,Excluded,,53.42,0,Excluded,,55.12,0,Excluded,,52.36,0,Excluded,,54.81,0
+25507,Edson Silva,Excluded,,51.97,2,1,Excluded,,53.19,1,Excluded,,58.75,0,Excluded,,54.47,2,Excluded,,58.44,0
+25809,Juanoy Drysdale,Excluded,,47.47,16,1,Excluded,,40.47,16,Excluded,,47.07,6,Excluded,,42.44,15,Excluded,,46.8,6
+26663,Kwena Maphaka,Tier 1,78.0,49.98,60,8,Excluded,,66.53,28,Excluded,,65.62,12,Excluded,,54.13,31,Excluded,,69.26,13
+26795,Joel Davies,Excluded,,50.87,6,1,Excluded,,63.78,8,Excluded,,73.45,11,Excluded,,57.11,8,Excluded,,69.99,11
+26834,Raj Bawa,Excluded,,44.39,2,1,Excluded,,47.62,3,Excluded,,59.24,6,Excluded,,46.62,3,Excluded,,58.96,6
+26916,Yasir Mohammad,Excluded,,35.34,8,1,Excluded,,38.49,8,Excluded,,52.75,2,Excluded,,37.57,8,Excluded,,46.59,3
+26988,Jitenkumar Ramanandi,Excluded,,53.04,10,2,Excluded,,57.44,12,Excluded,,52.57,5,Excluded,,56.15,13,Excluded,,51.87,6
+27004,Hassnain Shah,Excluded,,59.89,6,1,Excluded,,62.62,7,Excluded,,64.11,7,Excluded,,61.68,7,Excluded,,64.4,6
+27364,Simranjeet Kang,Excluded,,45.48,1,1,Excluded,,49.5,0,Excluded,,51.2,0,Excluded,,48.44,0,Excluded,,50.89,0
+27373,Muhammad Farooq,Excluded,,56.08,3,1,Excluded,,55.19,0,Excluded,,56.89,0,Excluded,,60.1,5,Excluded,,56.58,0
+27380,Harshit Kaushik,Excluded,,49.65,2,1,Excluded,,53.17,2,Excluded,,54.8,2,Excluded,,51.78,3,Excluded,,54.5,2
+27390,Matiullah Khan,Excluded,,38.67,8,2,Excluded,,52.38,4,Excluded,,53.61,5,Excluded,,49.09,3,Excluded,,53.33,5
+27460,Ali Naseer,Excluded,,52.49,1,1,Excluded,,55.65,2,Excluded,,57.74,1,Excluded,,51.39,5,Excluded,,57.44,1
+27464,Aayan Afzal Khan,Excluded,,48.72,1,1,Excluded,,50.67,4,Excluded,,52.34,7,Excluded,,49.68,4,Excluded,,55.81,2
+27466,Dhruv Parashar,Excluded,,43.2,27,5,Excluded,,56.72,24,Excluded,,53.57,14,Excluded,,57.23,29,Excluded,,52.42,14
+27504,Dushan Hemantha,Excluded,,37.3,10,2,Excluded,,34.25,14,Excluded,,44.06,10,Excluded,,33.42,14,Excluded,,41.9,8
+27516,Ihsanullah Ihsanullah,Excluded,,45.59,4,1,Excluded,,47.87,3,Excluded,,38.42,11,Excluded,,48.75,1,Excluded,,38.17,11
+27743,DT Doram,Excluded,,45.82,2,1,Excluded,,50.21,0,Excluded,,51.9,0,Excluded,,49.14,0,Excluded,,51.59,0
+27956,Prashant Solanki,Excluded,,47.42,0,0,Excluded,,52.86,2,Excluded,,62.9,3,Excluded,,51.84,2,Excluded,,55.53,4
+27959,Hrithik Shokeen,Excluded,,53.14,8,3,Excluded,,53.14,15,Excluded,,59.15,19,Excluded,,52.64,14,Excluded,,53.26,20
+27960,Mayank Yadav,Tier 1,59.0,53.4,88,13,Tier 1,52.0,59.96,80,Tier 1,18.0,73.23,74,Tier 1,52.0,59.07,84,Tier 1,18.0,70.43,73
+27964,Anshul Kamboj,Tier 1,22.0,64.49,136,21,Tier 1,80.0,53.71,125,Tier 1,62.0,56.96,98,Tier 1,71.0,53.36,120,Tier 1,81.0,51.81,103
+27970,Gurnoor Brar,Excluded,,39.55,8,1,Excluded,,42.7,8,Excluded,,52.48,7,Excluded,,41.79,8,Excluded,,52.2,7
+28018,Ashok Sharma,Excluded,,64.26,17,4,Excluded,,55.66,15,Excluded,,54.01,10,Excluded,,64.39,19,Excluded,,48.92,10
+28021,Saurabh Dubey,Excluded,,54.38,17,3,Excluded,,52.87,14,Excluded,,40.17,10,Excluded,,47.59,18,Excluded,,40.1,9
+28655,Muhammad Rohid,Excluded,,60.12,16,3,Excluded,,64.5,15,Excluded,,56.32,6,Excluded,,60.54,16,Excluded,,60.22,4
+28756,Haider Ali,Excluded,,62.44,33,4,Excluded,,54.52,23,Excluded,,59.01,13,Excluded,,62.89,29,Excluded,,61.31,14
+28908,Vincent Masekesa,Excluded,,50.11,0,0,Excluded,,53.76,0,Excluded,,55.46,0,Excluded,,52.7,0,Excluded,,55.15,0
+28911,John Masara,Excluded,,48.9,0,0,Excluded,,52.56,0,Excluded,,54.26,0,Excluded,,51.49,0,Excluded,,53.95,0
+28915,Trevor Gwandu,Excluded,,47.97,7,2,Excluded,,47.74,7,Excluded,,47.26,9,Excluded,,46.54,8,Excluded,,46.54,7
+29066,Zakary Foulkes,Excluded,,66.73,29,7,Excluded,,62.86,30,Excluded,,57.21,32,Excluded,,65.32,23,Excluded,,60.47,33
+29075,Aadil Ansari,Excluded,,48.72,1,1,Excluded,,52.31,1,Excluded,,54.45,0,Excluded,,51.26,1,Excluded,,54.14,0
+29080,Muhammad Khan,Excluded,,51.66,23,4,Excluded,,49.03,19,Excluded,,49.87,12,Excluded,,48.05,20,Excluded,,49.13,14
+29558,Muhammad Arfan,Excluded,,45.39,0,0,Excluded,,49.04,0,Excluded,,52.97,1,Excluded,,47.98,0,Excluded,,50.43,0
+29833,Bashir Ahmad,Excluded,,52.86,0,0,Excluded,,56.52,0,Excluded,,58.22,0,Excluded,,55.45,0,Excluded,,57.91,0
+29888,Harshit Rana,Tier 1,10.0,72.37,190,30,Tier 1,2.0,86.27,167,Tier 1,2.0,88.74,143,Tier 1,3.0,82.55,159,Tier 1,2.0,84.75,154
+30925,Bradley Currie,Excluded,,46.22,1,1,Excluded,,49.38,2,Excluded,,53.18,3,Excluded,,48.76,1,Excluded,,46.36,6
+31107,Yasin Patel,Excluded,,48.05,3,1,Excluded,,51.5,3,Excluded,,53.1,3,Excluded,,50.49,3,Excluded,,52.81,3
+31227,Vidhwath Kaverappa,Excluded,,55.07,10,1,Excluded,,54.82,12,Excluded,,49.44,9,Excluded,,52.06,11,Excluded,,58.16,12
+31513,Ethan Dsouza,Excluded,,48.9,0,0,Excluded,,52.56,0,Excluded,,54.26,0,Excluded,,51.49,0,Excluded,,53.95,0
+31835,Akshay Roopak Puri,Excluded,,35.6,16,2,Excluded,,44.52,16,Excluded,,51.4,14,Excluded,,41.62,16,Excluded,,45.87,12
+32244,Tripurana Vijay,Excluded,,46.34,6,1,Excluded,,49.61,6,Excluded,,51.12,6,Excluded,,48.66,6,Excluded,,50.85,6
+32401,Akhil Kumar,Excluded,,48.4,0,0,Excluded,,52.06,0,Excluded,,53.76,0,Excluded,,50.99,0,Excluded,,53.45,0
+32862,Allah Ghazanfar,Tier 1,73.0,51.43,71,8,Tier 1,29.0,66.09,59,Tier 2,,82.07,46,Tier 1,35.0,62.8,58,Tier 2,,79.14,48
+33009,John Turner,Excluded,,48.11,6,1,Excluded,,51.37,6,Excluded,,52.89,6,Excluded,,50.42,6,Excluded,,52.61,6
+33440,Adwitya Bhargava,Excluded,,55.64,3,1,Excluded,,56.99,2,Excluded,,56.48,1,Excluded,,58.09,3,Excluded,,56.18,1
+33443,Sabir Ali,Excluded,,55.88,4,1,Excluded,,55.59,5,Excluded,,51.84,4,Excluded,,52.51,4,Excluded,,54.78,4
+33969,Tinotenda Maposa,Excluded,,52.81,28,5,Excluded,,53.08,23,Excluded,,57.0,10,Excluded,,52.62,22,Excluded,,59.58,14
+34466,Arafat Minhas,Excluded,,45.61,5,2,Excluded,,48.93,5,Excluded,,50.89,4,Excluded,,48.33,4,Excluded,,50.2,5
+34485,Sufiyan Muqeem,Tier 1,91.0,48.6,50,10,Tier 2,,68.54,47,Excluded,,70.24,37,Tier 2,,66.18,49,Excluded,,65.77,38
+34522,Brandon McMullen,Excluded,,49.59,4,2,Excluded,,49.4,5,Excluded,,47.46,6,Excluded,,51.99,4,Excluded,,50.66,5
+34527,Jasper John Davidson,Excluded,,40.77,6,1,Excluded,,55.77,0,Excluded,,57.47,0,Excluded,,54.71,0,Excluded,,57.16,0
+34969,Manav Suthar,Excluded,,49.11,8,1,Excluded,,52.55,7,Excluded,,59.93,0,Excluded,,60.69,4,Excluded,,59.62,0
+35072,Ramakrishna Ghosh,Excluded,,49.31,1,1,Excluded,,52.9,1,Excluded,,54.57,1,Excluded,,51.86,1,Excluded,,54.26,1
+35102,Zikria Islam,Excluded,,48.63,0,0,Excluded,,52.1,4,Excluded,,53.67,4,Excluded,,51.11,4,Excluded,,53.67,0
+35122,Shah Faisal,Excluded,,51.49,11,3,Excluded,,53.17,12,Excluded,,50.19,15,Excluded,,54.15,13,Excluded,,54.29,12
+35318,Sakib Hussain,Tier 1,158.0,33.37,90,9,Tier 1,135.0,42.4,59,Excluded,,62.27,21,Tier 1,132.0,41.32,62,Excluded,,57.36,25
+36551,Zishan Motara,Excluded,,51.47,0,0,Excluded,,55.13,0,Excluded,,56.83,0,Excluded,,54.06,0,Excluded,,56.52,0
+36553,Jediah Blades,Excluded,,69.54,21,5,Excluded,,78.82,25,Excluded,,78.91,28,Excluded,,75.63,23,Excluded,,77.26,27
+36981,Himanshu Sharma,Excluded,,47.0,7,2,Excluded,,48.17,7,Excluded,,44.4,8,Excluded,,47.24,7,Excluded,,49.39,7
+36982,Suyash Sharma,Tier 1,140.0,38.98,220,21,Tier 1,158.0,28.82,199,Tier 1,143.0,26.58,176,Tier 1,153.0,32.59,200,Tier 1,141.0,30.03,167
+36983,Mohit Rathee,Excluded,,53.54,0,0,Excluded,,57.2,0,Excluded,,58.9,0,Excluded,,56.13,0,Excluded,,58.59,0
+36984,Raghav Goyal,Excluded,,46.51,9,1,Excluded,,53.73,5,Excluded,,55.22,0,Excluded,,52.45,0,Excluded,,54.91,0
+37052,Naman Dhir,Excluded,,39.66,21,6,Excluded,,43.43,23,Excluded,,45.67,17,Excluded,,40.03,27,Excluded,,43.58,18
+37731,Musheer Khan,Excluded,,47.6,3,1,Excluded,,55.16,1,Excluded,,57.3,0,Excluded,,54.54,0,Excluded,,56.99,0
+37939,Nahid Rana,Excluded,,59.74,17,4,Excluded,,56.77,22,Excluded,,58.19,20,Excluded,,58.71,20,Excluded,,60.26,15
+38044,Mahli Beardman,Excluded,,48.4,0,0,Excluded,,52.06,0,Excluded,,53.76,0,Excluded,,50.99,0,Excluded,,53.45,0
+38855,Mohammad Saifuddin,Tier 1,25.0,63.51,53,12,Tier 1,22.0,67.68,52,Excluded,,64.69,38,Tier 2,,70.6,46,Tier 2,,73.15,41
+39657,Eshan Malinga,Tier 1,47.0,56.65,229,25,Tier 1,93.0,50.87,154,Tier 1,140.0,33.18,78,Tier 1,98.0,48.85,152,Tier 1,129.0,39.42,97
+39991,Parveen Kumar,Excluded,,50.74,7,1,Excluded,,49.94,10,Excluded,,47.52,8,Excluded,,50.49,12,Excluded,,53.25,6
+41503,Yash Punja,Tier 1,121.0,43.67,99,7,Tier 1,150.0,35.83,80,Tier 2,,47.29,49,Tier 1,149.0,36.15,82,Tier 1,97.0,48.02,59
+42548,Muhammad Jawadullah,Excluded,,51.44,26,5,Excluded,,52.62,24,Excluded,,62.99,13,Excluded,,51.9,24,Excluded,,62.74,13
+43917,Krish Bhagat,Excluded,,52.65,0,0,Excluded,,56.31,0,Excluded,,58.0,0,Excluded,,55.24,0,Excluded,,57.7,0
+45381,PV Satyanarayan Raju,Excluded,,52.78,2,1,Excluded,,56.3,2,Excluded,,57.93,2,Excluded,,55.28,2,Excluded,,57.64,2
+45457,Zach Lion Cachet,Excluded,,47.32,0,0,Excluded,,52.77,2,Excluded,,53.91,3,Excluded,,49.91,0,Excluded,,53.15,4
+45966,Prashant Veer,Excluded,,52.38,0,0,Excluded,,56.04,0,Excluded,,59.97,1,Excluded,,57.26,1,Excluded,,57.42,0
+46066,Vipraj Nigam,Tier 1,129.0,40.65,70,9,Tier 1,65.0,56.76,93,Tier 1,80.0,53.5,85,Tier 1,47.0,59.74,88,Tier 1,78.0,53.38,85
+46378,Kyle Klein,Excluded,,51.07,14,4,Excluded,,50.88,15,Excluded,,63.92,8,Excluded,,46.61,12,Excluded,,58.06,12
+46929,Dian Forrester,Excluded,,48.58,0,0,Excluded,,52.24,0,Excluded,,53.93,0,Excluded,,51.17,0,Excluded,,53.62,0
+47050,Shamar Joseph,Tier 1,144.0,38.12,72,16,Tier 1,120.0,44.34,67,Tier 1,99.0,49.43,59,Tier 1,127.0,42.48,65,Tier 1,113.0,43.92,63
+47371,Zuhaid Zubair,Excluded,,52.6,0,0,Excluded,,55.81,1,Excluded,,57.48,1,Excluded,,54.77,1,Excluded,,57.64,0
+47403,Newman Nyamhuri,Excluded,,58.77,16,3,Excluded,,65.48,6,Excluded,,66.2,5,Excluded,,62.63,5,Excluded,,65.92,5
+47724,Jahandad Khan,Excluded,,35.27,15,3,Excluded,,38.68,14,Excluded,,44.94,11,Excluded,,50.75,9,Excluded,,39.52,12
+48557,Vignesh Puthur,Excluded,,80.82,18,3,Excluded,,89.61,15,Excluded,,59.76,4,Excluded,,80.15,16,Excluded,,60.46,7
+48616,Abdul Saqlain,Excluded,,53.29,15,3,Excluded,,52.44,13,Excluded,,56.72,10,Excluded,,51.59,13,Excluded,,56.46,10
+50062,Nqobani Mokoena,Excluded,,46.8,0,0,Excluded,,50.46,0,Excluded,,52.16,0,Excluded,,49.4,0,Excluded,,51.85,0
+52338,Usman Tariq,Excluded,,45.03,0,0,Excluded,,48.69,0,Excluded,,50.39,0,Excluded,,47.62,0,Excluded,,50.08,0
+56685,Abdullah Ahmadzai,Excluded,,75.07,33,4,Excluded,,85.41,25,Excluded,,83.36,27,Excluded,,79.02,27,Excluded,,79.69,27
+56817,Shivang Kumar,Tier 1,125.0,42.98,77,10,Tier 1,103.0,48.23,61,Tier 2,,67.15,46,Tier 1,106.0,47.1,67,Tier 2,,60.83,44
+56830,Madhav Tiwari,Excluded,,47.96,19,2,Excluded,,62.12,23,Excluded,,58.16,26,Excluded,,62.27,21,Excluded,,50.75,23
+57747,Charlie Cassell,Excluded,,49.33,2,1,Excluded,,52.85,2,Excluded,,54.48,2,Excluded,,51.82,2,Excluded,,54.18,2
+58134,Digvesh Rathi,Tier 1,164.0,30.22,152,18,Tier 1,159.0,28.54,159,Tier 1,134.0,36.34,135,Tier 1,156.0,28.87,161,Tier 1,133.0,37.35,138
+58246,Prince Yadav,Tier 1,151.0,35.66,138,22,Tier 1,146.0,36.58,116,Tier 1,87.0,52.19,89,Tier 1,136.0,39.79,130,Tier 1,106.0,45.99,99
+58727,Abhinandan Singh,Excluded,,43.28,17,2,Excluded,,48.18,10,Excluded,,45.14,6,Excluded,,47.46,9,Excluded,,41.69,7
+59045,Jai Moondra,Excluded,,53.02,18,2,Excluded,,67.0,14,Excluded,,67.99,11,Excluded,,54.55,19,Excluded,,68.38,10
+60609,Navin Bidaisee,Excluded,,47.77,1,1,Excluded,,51.36,1,Excluded,,53.02,1,Excluded,,50.32,1,Excluded,,52.72,1
+67036,Brijesh Sharma,Tier 1,95.0,48.05,89,9,Tier 1,141.0,41.21,81,Tier 1,139.0,33.84,63,Tier 1,104.0,47.56,82,Tier 1,132.0,37.61,65
+67864,Matt Hollard,Excluded,,64.39,10,2,Excluded,,67.44,10,Excluded,,68.86,10,Excluded,,66.55,10,Excluded,,68.6,10
+71727,Razaullah Razaullah,Excluded,,48.75,1,1,Excluded,,56.19,0,Excluded,,55.84,3,Excluded,,55.13,0,Excluded,,52.7,6

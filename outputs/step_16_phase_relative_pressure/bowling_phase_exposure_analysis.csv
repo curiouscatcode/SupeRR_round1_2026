@@ -1,0 +1,52 @@
+grouping_approach,threshold_name,phase,total_deliveries_in_phase,natural_share_pct,hp_deliveries,phase_capture_rate_pct,total_hp_deliveries_model,hp_deliveries_share_pct,representation_index
+Baseline,PI > 60.0,PP,56796,31.55,11564,20.36,19884,58.16,1.843
+Baseline,PI > 60.0,Middle,83786,46.54,7041,8.4,19884,35.41,0.761
+Baseline,PI > 60.0,Death,39459,21.92,1279,3.24,19884,6.43,0.293
+Approach A (Phase-only),Z > 0.0,PP,56796,31.55,23558,41.48,81522,28.9,0.916
+Approach A (Phase-only),Z > 0.0,Middle,83786,46.54,40659,48.53,81522,49.87,1.072
+Approach A (Phase-only),Z > 0.0,Death,39459,21.92,17305,43.86,81522,21.23,0.969
+Approach A (Phase-only),Z > 0.5,PP,56796,31.55,16262,28.63,54035,30.1,0.954
+Approach A (Phase-only),Z > 0.5,Middle,83786,46.54,26614,31.76,54035,49.25,1.058
+Approach A (Phase-only),Z > 0.5,Death,39459,21.92,11159,28.28,54035,20.65,0.942
+Approach A (Phase-only),Z > 1.0,PP,56796,31.55,10566,18.6,31958,33.06,1.048
+Approach A (Phase-only),Z > 1.0,Middle,83786,46.54,14469,17.27,31958,45.28,0.973
+Approach A (Phase-only),Z > 1.0,Death,39459,21.92,6923,17.54,31958,21.66,0.988
+Approach A (Phase-only),Z > 1.5,PP,56796,31.55,5999,10.56,15861,37.82,1.199
+Approach A (Phase-only),Z > 1.5,Middle,83786,46.54,6120,7.3,15861,38.59,0.829
+Approach A (Phase-only),Z > 1.5,Death,39459,21.92,3742,9.48,15861,23.59,1.076
+Approach A (Phase-only),Z_robust > 0.0,PP,56796,31.55,28320,49.86,89935,31.49,0.998
+Approach A (Phase-only),Z_robust > 0.0,Middle,83786,46.54,41891,50.0,89935,46.58,1.001
+Approach A (Phase-only),Z_robust > 0.0,Death,39459,21.92,19724,49.99,89935,21.93,1.0
+Approach A (Phase-only),Z_robust > 0.5,PP,56796,31.55,20324,35.78,59730,34.03,1.079
+Approach A (Phase-only),Z_robust > 0.5,Middle,83786,46.54,26639,31.79,59730,44.6,0.958
+Approach A (Phase-only),Z_robust > 0.5,Death,39459,21.92,12767,32.36,59730,21.37,0.975
+Approach A (Phase-only),Z_robust > 1.0,PP,56796,31.55,14456,25.45,36343,39.78,1.261
+Approach A (Phase-only),Z_robust > 1.0,Middle,83786,46.54,13776,16.44,36343,37.91,0.815
+Approach A (Phase-only),Z_robust > 1.0,Death,39459,21.92,8111,20.56,36343,22.32,1.018
+Approach A (Phase-only),Z_robust > 1.5,PP,56796,31.55,9536,16.79,19447,49.04,1.554
+Approach A (Phase-only),Z_robust > 1.5,Middle,83786,46.54,5312,6.34,19447,27.32,0.587
+Approach A (Phase-only),Z_robust > 1.5,Death,39459,21.92,4599,11.66,19447,23.65,1.079
+Approach B (Phase x Innings),Z > 0.0,PP,56796,31.55,23676,41.69,83250,28.44,0.901
+Approach B (Phase x Innings),Z > 0.0,Middle,83786,46.54,40664,48.53,83250,48.85,1.05
+Approach B (Phase x Innings),Z > 0.0,Death,39459,21.92,18910,47.92,83250,22.71,1.036
+Approach B (Phase x Innings),Z > 0.5,PP,56796,31.55,16022,28.21,55058,29.1,0.922
+Approach B (Phase x Innings),Z > 0.5,Middle,83786,46.54,26611,31.76,55058,48.33,1.038
+Approach B (Phase x Innings),Z > 0.5,Death,39459,21.92,12425,31.49,55058,22.57,1.03
+Approach B (Phase x Innings),Z > 1.0,PP,56796,31.55,10231,18.01,31550,32.43,1.028
+Approach B (Phase x Innings),Z > 1.0,Middle,83786,46.54,14475,17.28,31550,45.88,0.986
+Approach B (Phase x Innings),Z > 1.0,Death,39459,21.92,6844,17.34,31550,21.69,0.99
+Approach B (Phase x Innings),Z > 1.5,PP,56796,31.55,5815,10.24,14994,38.78,1.229
+Approach B (Phase x Innings),Z > 1.5,Middle,83786,46.54,6141,7.33,14994,40.96,0.88
+Approach B (Phase x Innings),Z > 1.5,Death,39459,21.92,3038,7.7,14994,20.26,0.924
+Approach B (Phase x Innings),Z_robust > 0.0,PP,56796,31.55,28358,49.93,89955,31.52,0.999
+Approach B (Phase x Innings),Z_robust > 0.0,Middle,83786,46.54,41881,49.99,89955,46.56,1.0
+Approach B (Phase x Innings),Z_robust > 0.0,Death,39459,21.92,19716,49.97,89955,21.92,1.0
+Approach B (Phase x Innings),Z_robust > 0.5,PP,56796,31.55,19780,34.83,58965,33.55,1.063
+Approach B (Phase x Innings),Z_robust > 0.5,Middle,83786,46.54,26656,31.81,58965,45.21,0.971
+Approach B (Phase x Innings),Z_robust > 0.5,Death,39459,21.92,12529,31.75,58965,21.25,0.969
+Approach B (Phase x Innings),Z_robust > 1.0,PP,56796,31.55,13528,23.82,33726,40.11,1.271
+Approach B (Phase x Innings),Z_robust > 1.0,Middle,83786,46.54,13831,16.51,33726,41.01,0.881
+Approach B (Phase x Innings),Z_robust > 1.0,Death,39459,21.92,6367,16.14,33726,18.88,0.861
+Approach B (Phase x Innings),Z_robust > 1.5,PP,56796,31.55,8639,15.21,16471,52.45,1.662
+Approach B (Phase x Innings),Z_robust > 1.5,Middle,83786,46.54,5340,6.37,16471,32.42,0.697
+Approach B (Phase x Innings),Z_robust > 1.5,Death,39459,21.92,2492,6.32,16471,15.13,0.69

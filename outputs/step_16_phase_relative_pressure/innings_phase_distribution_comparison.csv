@@ -1,0 +1,7 @@
+metric,population,phase,inn1_count,inn1_mean,inn1_median,inn1_std,inn1_mad,inn2_count,inn2_mean,inn2_median,inn2_std,inn2_mad,mean_difference_inn2_minus_inn1,median_difference_inn2_minus_inn1,std_ratio_inn2_to_inn1,cohens_d,effect_size_magnitude
+Batting_PI,Batting BF,PP,28533,29.7483,27.61,16.0789,18.4435,28504,40.2022,39.85,16.2016,17.1537,10.4538,12.24,1.0076,0.6477,Medium
+Batting_PI,Batting BF,Middle,42638,27.2792,24.11,17.2776,18.0432,41400,38.2947,36.06,22.1941,24.8336,11.0154,11.95,1.2846,0.5549,Medium
+Batting_PI,Batting BF,Death,23169,39.5031,37.17,17.5706,18.8142,16595,47.3564,48.75,24.4665,28.9997,7.8533,11.58,1.3925,0.3789,Small
+Bowling_PI,Bowling LB,PP,28404,48.1985,45.58,10.5552,8.347,28392,51.8018,49.83,11.1728,11.1862,3.6034,4.25,1.0585,0.3315,Small
+Bowling_PI,Bowling LB,Middle,42528,40.4027,39.63,13.7022,14.9298,41258,40.4192,40.0,13.598,14.6777,0.0164,0.37,0.9924,0.0012,Negligible
+Bowling_PI,Bowling LB,Death,22980,24.6618,23.89,10.9545,11.2678,16479,35.719,34.93,16.3216,19.7779,11.0572,11.04,1.4899,0.8216,Large

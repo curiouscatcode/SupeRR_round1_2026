@@ -1,0 +1,6 @@
+candidate,description,total_hp_deliveries,hp_capture_pct,mean_intensity_I,mean_pi,top_order_1_3_hp_pct,middle_order_4_6_hp_pct,lower_order_7_11_hp_pct,overlap_with_control_pct
+Candidate 0 (Control),Original 10-ball linear cliff (I = (10-bf)/10*100),32708,18.09,31.57,35.64,7.06,19.73,52.36,100.0
+Candidate 1 (Smooth Decay),Exponential decay with 25-pt floor (I = 25 + 75*exp(-bf/10)),32623,18.04,58.46,45.05,6.52,18.99,55.76,84.12
+Candidate 2 (Match-Stakes Context),40% Stage Urgency + 40% Wicket Risk + 20% Settling,32670,18.07,45.8,40.61,6.3,19.38,55.71,57.24
+Candidate 3 (Leverage & Crisis),Crisis Safeguard + Scaled Delivery Leverage + Settling,33041,18.27,53.55,43.33,7.19,21.25,49.37,57.33
+Candidate 4 (Pure Task Difficulty),Zero Intensity Ablation (PI = T),34097,18.85,0.0,37.82,8.54,19.36,53.46,53.79

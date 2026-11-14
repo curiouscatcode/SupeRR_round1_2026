@@ -1,0 +1,5 @@
+group,count,mean_score,std_score,median_score,q25,q75,iqr,min_score,max_score,skewness,kurtosis,mean_rank_gap,median_rank_gap,max_rank_gap
+Full Population,816,48.7,10.6,49.0,42.57,54.49,11.92,7.96,93.21,0.066,1.53,0.105,0.033,9.009
+Tier 1: Qualified,146,52.76,14.52,54.18,41.92,62.55,20.63,14.35,93.21,-0.071,-0.186,0.544,0.208,11.195
+Tier 2: Specialist,42,50.1,14.7,50.88,40.17,61.31,21.14,15.87,91.02,-0.019,0.625,1.833,0.87,18.314
+Below Threshold,628,47.66,8.83,48.4,42.88,52.74,9.86,7.96,81.74,-0.393,1.876,0.118,0.035,8.029

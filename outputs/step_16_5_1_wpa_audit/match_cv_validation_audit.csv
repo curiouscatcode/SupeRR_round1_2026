@@ -1,0 +1,4 @@
+model,n_deliveries,n_matches,reported_in_sample_brier,reported_cv_brier,recalc_in_sample_brier,recalc_oof_brier,recalc_oof_logloss,brier_delta_oof_minus_in
+Innings 1 WP (Venue-Par Adjusted),98178,789,0.2215,0.2227,0.2215,0.2227,0.6361,0.00115
+Innings 2 WP (Target Chase),89919,789,0.1341,0.1351,0.1341,0.1351,0.4152,0.00105
+Overall Population (All Deliveries),188097,789,0.1797,0.1808,0.1797,0.1808,0.5305,0.0011

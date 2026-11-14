@@ -1,0 +1,8 @@
+scenario_name,match_id,innings,over_delivery,score_state,striker_name,reported_pi,verified_pi,reported_lev,verified_lev,reported_z_control,verified_z_control,reported_z_cand2,verified_z_cand2,cand0_hp,cand1a_hp,cand1b_hp,cand2_hp,cand3_hp
+Scenario 1: Steep Chase in Powerplay,13513,2,1.1,0/0,Jason Roy,61.5,61.54,0.92,0.92,1.32,1.32,1.04,1.04,True,False,False,True,False
+Scenario 2: Comfortable Chase (Blowout Win),13511,2,15.1,78/1,Nicholas Pooran,14.8,14.81,0.06,0.06,-1.06,-1.06,-0.62,-0.62,False,False,False,False,False
+Scenario 3: Tight Death Chase (Coin-Flip),14097,2,19.4,141/5,Rahul Tewatia,34.9,34.88,13.15,13.15,-0.51,-0.51,-0.78,-0.78,False,False,True,False,True
+Scenario 4: Difficult First-Innings Collapse,13511,1,4.1,10/3,Eoin Morgan,69.7,69.68,0.98,0.98,2.48,2.48,1.39,1.39,True,True,False,True,False
+Scenario 5: Middle-Over Hopeless Collapse,13512,2,12.2,55/6,Odean Smith,94.2,94.22,0.28,0.28,2.52,2.52,1.65,1.65,True,True,False,True,True
+Scenario 6: High-Lev Low-Difficulty (Parity Routine Ball),13514,2,10.1,69/1,Brandon King,31.2,31.22,2.28,2.28,-0.32,-0.32,-0.47,-0.47,False,False,False,False,False
+Scenario 7: High-Diff Low-Lev (Hopeless Tailender),13512,2,19.2,132/8,Romario Shepherd,59.8,59.8,0.3,0.3,0.51,0.51,0.5,0.5,False,False,False,False,False

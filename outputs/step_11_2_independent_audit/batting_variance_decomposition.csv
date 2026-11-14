@@ -1,0 +1,5 @@
+Component,Nominal_Weight,Component_Variance,Unique_Variance_Share_Pct,Marginal_Covariance_Share_Pct,Disparity_Pct
+score_sr,0.4,338.48,23.18,45.65,5.65
+score_surv,0.25,313.9,8.4,19.8,-5.2
+score_exec,0.2,324.58,5.56,22.42,2.42
+score_diff,0.15,357.91,3.45,12.14,-2.86

@@ -1,0 +1,7 @@
+discipline,tier,player_count,mean_hp_deliveries,mean_hp_signed_wpa_pct,median_hp_signed_wpa_pct,mean_hp_leverage_faced,mean_match_wpa_std_pct,mean_pct_positive_matches
+Batting,Tier 1,206,116.6,-15.19,-12.74,1.07,10.85,36.2
+Batting,Tier 2,35,43.2,-7.53,-6.56,1.07,9.35,30.5
+Batting,Low Sample (<40),575,12.5,-4.12,-1.68,1.14,6.48,24.6
+Bowling,Tier 1,174,154.3,4.33,2.57,1.13,13.58,47.6
+Bowling,Tier 2,16,44.4,2.66,-2.94,1.1,12.89,49.2
+Bowling,Low Sample (<40),399,10.0,0.85,0.0,1.17,9.73,40.3

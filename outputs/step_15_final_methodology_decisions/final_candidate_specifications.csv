@@ -1,0 +1,11 @@
+role,component_name,weight,raw_metric_formula,shrinkage_formula,global_prior_mu,scaling_formula,bounds
+Batting,Score_SR,0.45,high_runs / high_balls_faced * 100,lambda * sr_obs + (1 - lambda) * 114.0475,114.0475,(sr_star - 80.0) / 100.0 * 100,[0; 100]
+Batting,Score_Surv,0.35,high_dismissals / high_balls_faced * 100,lambda * out_obs + (1 - lambda) * 7.0859,7.0859,(12.0 - out_star) / 10.0 * 100,[0; 100]
+Batting,Score_Diff,0.20,sr_star - sr_low_star,diff between high and low/mod regularized SR,sr_low_mu=143.5157,(diff_sr_star + 50.0) / 75.0 * 100,[0; 100]
+Bowling,Score_Econ,0.40,high_runs_conceded / high_legal_balls * 6.0,lambda * econ_obs + (1 - lambda) * 9.0579,9.0579,(12.00 - econ_star) / 6.00 * 100,[0; 100]
+Bowling,Score_Wk,0.25,high_wickets / high_legal_balls * 100,lambda * wk_obs + (1 - lambda) * 4.8179,4.8179,(wk_star - 1.50) / 7.50 * 100,[0; 100]
+Bowling,Score_Dot,0.20,high_dot_balls / high_legal_balls * 100,lambda * dot_obs + (1 - lambda) * 39.3885,39.3885,(dot_bo_star - 25.0) / 25.0 * 100,[0; 100]
+Bowling,Score_Diff,0.15,econ_low_star - econ_star,diff between low/mod and high regularized economy,econ_low_mu=8.6426,(diff_econ_star + 3.00) / 5.00 * 100,[0; 100]
+Both,Regularization,N/A,Shrinkage weight lambda = N / (N + K),Constant K = 50.0 legal deliveries across all components,Format calibrated,lambda in [0; 1),N/A
+Both,Qualification,N/A,Rule B dual threshold,Tier 1: N >= 60 OR (N >= 50 AND M >= 6); Tier 2: N >= 40; Below: N < 40,Governance policy,N = high pressure balls; M = high pressure matches,N/A
+Both,Classification,N/A,Pressure Index operational split,High Pressure: PI > 60.0; Low/Moderate Pressure: PI <= 60.0,Standard boundary,Continuous [0; 100],N/A

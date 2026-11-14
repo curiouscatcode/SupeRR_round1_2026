@@ -1,0 +1,50 @@
+role,player_id,player_name,status,observed_N,matches_M,cluster_size,icc_emp,deff_emp,neff_emp,deff_mod,neff_mod,deff_cons,neff_cons,meets_35_emp,meets_35_mod,meets_35_cons,exp13_score,exp13_tier1_rank
+Batter,2382,Jamie Overton,Promoted to Tier 1,59,14,4.21,0.02312,1.0742,54.92,1.321,44.66,1.4815,39.82,True,True,True,78.18560542756404,7.0
+Batter,23450,Sai Sudharsan,Promoted to Tier 1,50,26,1.92,0.02312,1.0213,48.96,1.092,45.79,1.138,43.94,True,True,True,68.30373721221643,20.0
+Batter,6272,William Jacks,Promoted to Tier 1,54,18,3.0,0.02312,1.0462,51.61,1.2,45.0,1.3,41.54,True,True,True,66.86961305611914,25.0
+Batter,20005,Arshad Khan,Promoted to Tier 1,51,10,5.1,0.02312,1.0948,46.58,1.41,36.17,1.615,31.58,True,True,False,66.46165524522814,26.0
+Batter,4736,Josh Inglis,Promoted to Tier 1,52,18,2.89,0.02312,1.0437,49.82,1.189,43.73,1.2835,40.51,True,True,True,62.46000078083696,38.0
+Batter,2687,Roston Chase,Promoted to Tier 1,50,14,3.57,0.02312,1.0594,47.2,1.257,39.78,1.3855,36.09,True,True,True,62.74656388875244,36.0
+Batter,2101,Quinton de Kock,Promoted to Tier 1,53,34,1.56,0.02312,1.0129,52.32,1.056,50.19,1.084,48.89,True,True,True,59.97957359207692,50.0
+Batter,4369,Shai Hope,Promoted to Tier 1,56,17,3.29,0.02312,1.0529,53.18,1.229,45.57,1.3435,41.68,True,True,True,56.04502337127426,61.0
+Batter,2320,Trent Boult,Promoted to Tier 1,53,19,2.79,0.02312,1.0414,50.89,1.179,44.95,1.2685,41.78,True,True,True,55.22014026830229,66.0
+Batter,3056,Iftikhar Ahmed,Promoted to Tier 1,53,17,3.12,0.02312,1.049,50.52,1.212,43.73,1.318,40.21,True,True,True,54.12403072594883,74.0
+Batter,3629,Corbin Bosch,Promoted to Tier 1,52,12,4.33,0.02312,1.077,48.28,1.333,39.01,1.4995,34.68,True,True,False,53.94844365970073,75.0
+Batter,6280,Harry Brook,Promoted to Tier 1,52,16,3.25,0.02312,1.052,49.43,1.225,42.45,1.3375,38.88,True,True,True,49.10145856877956,90.0
+Batter,7903,Shamim Hossain,Promoted to Tier 1,55,21,2.62,0.02312,1.0375,53.01,1.162,47.33,1.243,44.25,True,True,True,51.96060970602525,81.0
+Batter,21790,Tashinga Musekiwa,Promoted to Tier 1,52,17,3.06,0.02312,1.0476,49.64,1.206,43.12,1.309,39.72,True,True,True,50.78728479326515,83.0
+Batter,7344,Shoriful Islam,Promoted to Tier 1,53,14,3.79,0.02312,1.0645,49.79,1.279,41.44,1.4185,37.36,True,True,True,48.39898995045883,93.0
+Batter,4854,Rachin Ravindra,Promoted to Tier 1,52,17,3.06,0.02312,1.0476,49.64,1.206,43.12,1.309,39.72,True,True,True,46.14586829933589,102.0
+Batter,3697,Kyle Jamieson,Promoted to Tier 1,51,14,3.64,0.02312,1.061,48.07,1.264,40.35,1.396,36.53,True,True,True,45.19971565132262,104.0
+Batter,3374,Mark Chapman,Promoted to Tier 1,58,19,3.05,0.02312,1.0474,55.38,1.205,48.13,1.3075,44.36,True,True,True,47.47423758168236,95.0
+Batter,403,Umesh Yadav,Promoted to Tier 1,52,15,3.47,0.02312,1.0571,49.19,1.247,41.7,1.3705,37.94,True,True,True,42.41209971033868,107.0
+Batter,6160,Chamika Karunaratne,Promoted to Tier 1,50,15,3.33,0.02312,1.0539,47.44,1.233,40.55,1.3495,37.05,True,True,True,38.1720351858108,119.0
+Batter,21781,Clive Madande,Promoted to Tier 1,57,16,3.56,0.02312,1.0592,53.81,1.256,45.38,1.384,41.18,True,True,True,39.03939157669997,117.0
+Batter,27466,Dhruv Parashar,Promoted to Tier 1,54,9,6.0,0.02312,1.1156,48.4,1.5,36.0,1.75,30.86,True,True,False,39.84867946896853,114.0
+Batter,6512,Michael Bracewell,Promoted to Tier 1,59,20,2.95,0.02312,1.0451,56.45,1.195,49.37,1.2925,45.65,True,True,True,37.06423260026793,122.0
+Batter,4904,Kamindu Mendis,Promoted to Tier 1,57,18,3.17,0.02312,1.0502,54.28,1.217,46.84,1.3255,43.0,True,True,True,39.16248471417029,116.0
+Batter,4373,Mustafizur Rahman,Promoted to Tier 1,59,13,4.54,0.02312,1.0819,54.54,1.354,43.57,1.531,38.54,True,True,True,34.698173050458706,130.0
+Batter,4641,Lungi Ngidi,Promoted to Tier 1,59,15,3.93,0.02312,1.0677,55.26,1.293,45.63,1.4395,40.99,True,True,True,37.8782247165484,120.0
+Batter,6161,Rahul Chahar,Promoted to Tier 1,50,12,4.17,0.02312,1.0733,46.59,1.317,37.97,1.4755,33.89,True,True,False,32.103968940217385,138.0
+Batter,25213,Dewald Brevis,Promoted to Tier 1,54,18,3.0,0.02312,1.0462,51.61,1.2,45.0,1.3,41.54,True,True,True,33.471730168269225,133.0
+Batter,7270,Anrich Nortje,Promoted to Tier 1,57,16,3.56,0.02312,1.0592,53.81,1.256,45.38,1.384,41.18,True,True,True,28.08341023483287,141.0
+Batter,1944,Keshav Maharaj,Promoted to Tier 1,50,12,4.17,0.02312,1.0733,46.59,1.317,37.97,1.4755,33.89,True,True,False,24.538522986111108,142.0
+Bowler,4658,Nasum Ahmed,Promoted to Tier 1,55,10,5.5,0.01834,1.0825,50.81,1.45,37.93,1.675,32.84,True,True,False,88.84,2.0
+Bowler,8009,Junaid Siddique,Promoted to Tier 1,50,12,4.17,0.01834,1.0581,47.25,1.317,37.97,1.4755,33.89,True,True,False,74.78,5.0
+Bowler,21784,Brad Evans,Promoted to Tier 1,52,11,4.73,0.01834,1.0684,48.67,1.373,37.87,1.5595,33.34,True,True,False,63.7,16.0
+Bowler,27960,Mayank Yadav,Promoted to Tier 1,58,11,5.27,0.01834,1.0783,53.79,1.427,40.64,1.6405,35.36,True,True,True,59.39,26.0
+Bowler,8380,Mohammad Rishad Hossain,Promoted to Tier 1,57,9,6.33,0.01834,1.0978,51.92,1.533,37.18,1.7995,31.68,True,True,False,57.21,40.0
+Bowler,8295,Matthew Forde,Promoted to Tier 1,56,13,4.31,0.01834,1.0607,52.8,1.331,42.07,1.4965,37.42,True,True,True,57.02,42.0
+Bowler,32862,Allah Ghazanfar,Promoted to Tier 1,51,7,7.29,0.01834,1.1154,45.73,1.629,31.31,1.9435,26.24,True,False,False,56.24,46.0
+Bowler,8049,Naseem Shah,Promoted to Tier 1,54,15,3.6,0.01834,1.0477,51.54,1.26,42.86,1.39,38.85,True,True,True,49.69,65.0
+Bowler,2681,Taskin Ahmed,Promoted to Tier 1,57,14,4.07,0.01834,1.0563,53.96,1.307,43.61,1.4605,39.03,True,True,True,49.55,68.0
+Bowler,3660,Luke Wood,Promoted to Tier 1,55,9,6.11,0.01834,1.0937,50.29,1.511,36.4,1.7665,31.14,True,True,False,49.45,69.0
+Bowler,7689,Dilshan Madushanka,Promoted to Tier 1,51,12,4.25,0.01834,1.0596,48.13,1.325,38.49,1.4875,34.29,True,True,False,46.56,79.0
+Bowler,2639,Marcus Stoinis,Promoted to Tier 1,55,16,3.44,0.01834,1.0447,52.64,1.244,44.21,1.366,40.26,True,True,True,45.73,84.0
+Bowler,56817,Shivang Kumar,Promoted to Tier 1,50,8,6.25,0.01834,1.0963,45.61,1.525,32.79,1.7875,27.97,True,False,False,42.44,96.0
+Bowler,5979,Abrar Ahmed,Promoted to Tier 1,52,13,4.0,0.01834,1.055,49.29,1.3,40.0,1.45,35.86,True,True,True,41.94,99.0
+Bowler,2526,Ish Sodhi,Promoted to Tier 1,55,12,4.58,0.01834,1.0657,51.61,1.358,40.5,1.537,35.78,True,True,True,35.11,118.0
+Bowler,6284,Anukul Roy,Promoted to Tier 1,57,13,4.38,0.01834,1.062,53.67,1.338,42.6,1.507,37.82,True,True,True,31.04,125.0
+Bowler,6683,Mayank Markande,Promoted to Tier 1,55,10,5.5,0.01834,1.0825,50.81,1.45,37.93,1.675,32.84,True,True,False,27.98,127.0
+Bowler,41503,Yash Punja,Excluded from Tier 1 (M < 6),54,5,10.8,0.01834,1.1797,45.77,1.98,27.27,2.47,21.86,True,False,False,51.56,
+Bowler,8141,Auqib Nabi,Excluded from Tier 1 (M < 6),51,5,10.2,0.01834,1.1687,43.64,1.92,26.56,2.38,21.43,True,False,False,35.79,

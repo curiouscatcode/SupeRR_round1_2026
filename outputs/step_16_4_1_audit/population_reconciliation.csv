@@ -1,0 +1,8 @@
+population_stage,deliveries_count,delta_from_previous,filter_or_event_type,analytical_use_case
+1. Raw Reconstructed Deliveries,188330,0,"Full 789 core 20-over matches (IPL & T20I, 2022-2026)",Database ingestion baseline
+2. Excluded Dead Tail Deliveries,233,-233,Innings 2 balls after target reached (runs_required <= 0),Match already won; no valid tactical pressure
+3. Clean Active Deliveries Population,188097,-233,Step 16 Baseline Clean Deliveries,Master denominator for all match-level delivery state
+4. Excluded Non-Batting Balls (Wides),7258,-7258,"Wides (extras_type == wide, exactly 7,258 balls)",Cannot be faced by batter under Law 22 (no shot played)
+5. Active Batting Balls Faced,180839,-7258,is_batter_ball_faced == True (Legal balls + No-balls),"Denominator for all batting stats (BRS3, SR, Survival, Batting PI)"
+6. Excluded Illegal Bowling Balls (Wides + No-Balls),8056,-8056,"7,258 wides + 544 Overstep no-balls + 254 other no-balls",Illegal deliveries that must be re-bowled
+7. Active Bowling Legal Balls Bowled,180041,-8056,is_legal_ball == True (Increments over counter),"Denominator for all bowling stats (BoRS, Economy, Dot%, Bowling PI)"

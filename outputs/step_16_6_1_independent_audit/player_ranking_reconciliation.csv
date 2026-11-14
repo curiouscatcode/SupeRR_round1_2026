@@ -1,0 +1,4 @@
+model_name,batting_t1_qualified,batting_t2_qualified,batting_spearman_rho,batting_pearson_r,batting_top10_overlap,bowling_t1_qualified,bowling_t2_qualified,bowling_spearman_rho,bowling_pearson_r,bowling_top10_overlap
+Candidate 0 (Control),206,35,1.0,1.0,10,174,16,1.0,1.0,10
+Candidate 1A (Additive 70/30),189,31,0.7638,0.7825,5,162,20,0.7561,0.7855,6
+Candidate 2 (Multiplicative Gated),204,28,0.7967,0.8062,5,160,21,0.8148,0.831,6

@@ -1,0 +1,6 @@
+candidate,tier1_qualified_batters,tier2_qualified_batters,spearman_rho_vs_control,pearson_r_vs_control,top10_overlap_with_control
+Candidate 0 (Control),206,35,1.0,1.0,10
+Candidate 1 (Smooth Decay),209,32,0.8094,0.8394,4
+Candidate 2 (Match-Stakes Context),201,37,0.6185,0.6454,2
+Candidate 3 (Leverage & Crisis),202,41,0.6151,0.6467,4
+Candidate 4 (Pure Task Difficulty),205,48,0.5808,0.6281,2

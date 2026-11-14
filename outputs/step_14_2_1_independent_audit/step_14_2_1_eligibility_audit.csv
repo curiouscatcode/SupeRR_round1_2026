@@ -1,0 +1,590 @@
+bowler_id,bowler_name,N_orig,M_orig,N_exp,M_exp,tier_orig,tier_exp,delta_N,delta_M,eligibility_change_type
+23,Piyush Chawla,74.0,14.0,66.0,10.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,-4.0,Retained in T1
+28,Ishant Sharma,64.0,12.0,54.0,11.0,Tier 1: Qualified,Tier 1: Qualified,-10.0,-1.0,Retained in T1
+47,Virat Kohli,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+143,Dinesh Karthik,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+147,Pradeep Sangwan,6.0,1.0,11.0,2.0,Below Threshold,Below Threshold,5.0,1.0,Non-T1 Stable/Transition
+152,Ravindra Jadeja,199.0,29.0,116.0,23.0,Tier 1: Qualified,Tier 1: Qualified,-83.0,-6.0,Retained in T1
+158,Amit Mishra,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+161,Dwayne Bravo,5.0,2.0,11.0,3.0,Below Threshold,Below Threshold,6.0,1.0,Non-T1 Stable/Transition
+232,Tom Cooper,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+278,Tim Southee,64.0,19.0,73.0,19.0,Tier 1: Qualified,Tier 1: Qualified,9.0,0.0,Retained in T1
+286,Kane Richardson,10.0,2.0,9.0,2.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+295,Wayne Parnell,11.0,5.0,19.0,5.0,Below Threshold,Below Threshold,8.0,0.0,Non-T1 Stable/Transition
+305,Ravichandran Ashwin,130.0,23.0,123.0,25.0,Tier 1: Qualified,Tier 1: Qualified,-7.0,2.0,Retained in T1
+332,Angelo Mathews,31.0,6.0,19.0,5.0,Below Threshold,Below Threshold,-12.0,-1.0,Non-T1 Stable/Transition
+360,Bhuvneshwar Kumar,299.0,62.0,336.0,60.0,Tier 1: Qualified,Tier 1: Qualified,37.0,-2.0,Retained in T1
+395,Karn Sharma,21.0,6.0,12.0,3.0,Below Threshold,Below Threshold,-9.0,-3.0,Non-T1 Stable/Transition
+403,Umesh Yadav,90.0,21.0,71.0,20.0,Tier 1: Qualified,Tier 1: Qualified,-19.0,-1.0,Retained in T1
+470,Mohammad Amir,19.0,4.0,15.0,3.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+479,Adil Rashid,68.0,15.0,60.0,16.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,1.0,Retained in T1
+494,Kieron Pollard,11.0,3.0,5.0,2.0,Below Threshold,Below Threshold,-6.0,-1.0,Non-T1 Stable/Transition
+499,Shakib Al Hasan,11.0,5.0,12.0,4.0,Below Threshold,Below Threshold,1.0,-1.0,Non-T1 Stable/Transition
+507,Mohammad Mahmudullah,5.0,1.0,5.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+722,Liam Dawson,12.0,5.0,13.0,6.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+768,Reeza Hendricks,12.0,2.0,9.0,2.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+773,Shadley Van Schalkwyk,9.0,2.0,9.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+781,Sunil Narine,217.0,33.0,191.0,33.0,Tier 1: Qualified,Tier 1: Qualified,-26.0,0.0,Retained in T1
+786,Chris Jordan,19.0,7.0,29.0,7.0,Below Threshold,Below Threshold,10.0,0.0,Non-T1 Stable/Transition
+818,Mitchell Marsh,19.0,5.0,23.0,5.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+820,Nathan Coulter Nile,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+829,Mitchell Starc,153.0,26.0,156.0,26.0,Tier 1: Qualified,Tier 1: Qualified,3.0,0.0,Retained in T1
+830,Josh Hazlewood,176.0,35.0,220.0,39.0,Tier 1: Qualified,Tier 1: Qualified,44.0,4.0,Retained in T1
+838,Glenn Maxwell,78.0,16.0,69.0,17.0,Tier 1: Qualified,Tier 1: Qualified,-9.0,1.0,Retained in T1
+914,Krishnappa Gowtham,25.0,3.0,25.0,3.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+988,Graeme Cremer,5.0,1.0,5.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+1028,Varun Aaron,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+1045,David Wiese,3.0,1.0,6.0,1.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+1071,Jaydev Unadkat,90.0,17.0,89.0,14.0,Tier 1: Qualified,Tier 1: Qualified,-1.0,-3.0,Retained in T1
+1101,George Dockrell,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+1107,Mohammad Nabi,66.0,12.0,41.0,8.0,Tier 1: Qualified,Tier 2: Specialist,-25.0,-4.0,Exit (Disqualified from T1)
+1159,Tendai Chatara,21.0,5.0,16.0,5.0,Below Threshold,Below Threshold,-5.0,0.0,Non-T1 Stable/Transition
+1171,Chris Woakes,30.0,6.0,22.0,6.0,Below Threshold,Below Threshold,-8.0,0.0,Non-T1 Stable/Transition
+1195,Ben Stokes,7.0,2.0,4.0,2.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+1219,David Willey,30.0,6.0,23.0,7.0,Below Threshold,Below Threshold,-7.0,1.0,Non-T1 Stable/Transition
+1318,Andre Russell,89.0,21.0,84.0,19.0,Tier 1: Qualified,Tier 1: Qualified,-5.0,-2.0,Retained in T1
+1389,Sean Abbott,32.0,8.0,35.0,10.0,Below Threshold,Below Threshold,3.0,2.0,Non-T1 Stable/Transition
+1487,Adam Milne,66.0,11.0,72.0,11.0,Tier 1: Qualified,Tier 1: Qualified,6.0,0.0,Retained in T1
+1541,Sean Williams,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+1556,David Payne,16.0,2.0,12.0,2.0,Below Threshold,Below Threshold,-4.0,0.0,Non-T1 Stable/Transition
+1566,Mohammed Shami,173.0,32.0,154.0,30.0,Tier 1: Qualified,Tier 1: Qualified,-19.0,-2.0,Retained in T1
+1596,Moeen Ali,62.0,15.0,44.0,11.0,Tier 1: Qualified,Tier 2: Specialist,-18.0,-4.0,Exit (Disqualified from T1)
+1612,Yuzvendra Chahal,186.0,35.0,158.0,33.0,Tier 1: Qualified,Tier 1: Qualified,-28.0,-2.0,Retained in T1
+1617,Rishi Dhawan,23.0,5.0,20.0,4.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+1699,Suryakumar Yadav,2.0,1.0,2.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+1701,Swapnil Singh,21.0,5.0,18.0,5.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+1758,Patrick Cummins,171.0,28.0,194.0,32.0,Tier 1: Qualified,Tier 1: Qualified,23.0,4.0,Retained in T1
+1772,Sheldon Cottrell,29.0,6.0,19.0,5.0,Below Threshold,Below Threshold,-10.0,-1.0,Non-T1 Stable/Transition
+1813,Deepak Chahar,134.0,27.0,97.0,24.0,Tier 1: Qualified,Tier 1: Qualified,-37.0,-3.0,Retained in T1
+1944,Keshav Maharaj,78.0,12.0,64.0,11.0,Tier 1: Qualified,Tier 1: Qualified,-14.0,-1.0,Retained in T1
+2054,Jason Behrendorff,33.0,11.0,44.0,10.0,Below Threshold,Tier 2: Specialist,11.0,-1.0,Non-T1 Stable/Transition
+2210,Sabbir Rahman,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2213,Soumya Sarkar,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2214,Gulbadin Naib,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2261,Harshal Patel,133.0,30.0,176.0,31.0,Tier 1: Qualified,Tier 1: Qualified,43.0,1.0,Retained in T1
+2296,Safyaan Sharif,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2304,Tymal Mills,8.0,3.0,5.0,1.0,Below Threshold,Below Threshold,-3.0,-2.0,Non-T1 Stable/Transition
+2315,Reece Topley,73.0,16.0,91.0,18.0,Tier 1: Qualified,Tier 1: Qualified,18.0,2.0,Retained in T1
+2320,Trent Boult,180.0,45.0,194.0,42.0,Tier 1: Qualified,Tier 1: Qualified,14.0,-3.0,Retained in T1
+2321,Olly Stone,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2334,Dwaine Pretorius,22.0,4.0,14.0,5.0,Below Threshold,Below Threshold,-8.0,1.0,Non-T1 Stable/Transition
+2351,Danushka Gunathilaka,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2359,Prenelan Subrayen,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2364,Ashton Agar,5.0,2.0,3.0,1.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+2367,Travis Head,5.0,2.0,3.0,2.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+2382,Jamie Overton,28.0,10.0,33.0,11.0,Below Threshold,Below Threshold,5.0,1.0,Non-T1 Stable/Transition
+2399,Dushmantha Chameera,97.0,26.0,102.0,26.0,Tier 1: Qualified,Tier 1: Qualified,5.0,0.0,Retained in T1
+2407,Dhananjaya de Silva,5.0,1.0,3.0,1.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+2411,Sandeep Sharma,90.0,21.0,75.0,19.0,Tier 1: Qualified,Tier 1: Qualified,-15.0,-2.0,Retained in T1
+2416,Kyle Mayers,14.0,7.0,7.0,4.0,Below Threshold,Below Threshold,-7.0,-3.0,Non-T1 Stable/Transition
+2417,Akeal Hosein,316.0,46.0,317.0,45.0,Tier 1: Qualified,Tier 1: Qualified,1.0,-1.0,Retained in T1
+2418,Justin Greaves,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2436,Dasun Shanaka,36.0,11.0,21.0,7.0,Below Threshold,Below Threshold,-15.0,-4.0,Non-T1 Stable/Transition
+2439,Akila Dananjaya,19.0,1.0,20.0,1.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+2463,Ryan Burl,4.0,2.0,4.0,1.0,Below Threshold,Below Threshold,0.0,-1.0,Non-T1 Stable/Transition
+2483,Lizaad Williams,31.0,5.0,30.0,6.0,Below Threshold,Below Threshold,-1.0,1.0,Non-T1 Stable/Transition
+2490,Mohammad Nawaz,68.0,17.0,62.0,11.0,Tier 1: Qualified,Tier 1: Qualified,-6.0,-6.0,Retained in T1
+2526,Ish Sodhi,55.0,12.0,61.0,17.0,Tier 1: Qualified,Tier 1: Qualified,6.0,5.0,Retained in T1
+2531,Joe Root,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2633,Jason Holder,180.0,44.0,189.0,40.0,Tier 1: Qualified,Tier 1: Qualified,9.0,-4.0,Retained in T1
+2636,Adam Zampa,61.0,14.0,66.0,14.0,Tier 1: Qualified,Tier 1: Qualified,5.0,0.0,Retained in T1
+2639,Marcus Stoinis,55.0,16.0,49.0,14.0,Tier 1: Qualified,Tier 2: Specialist,-6.0,-2.0,Exit (Disqualified from T1)
+2650,Raymon Reifer,14.0,1.0,12.0,1.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+2681,Taskin Ahmed,57.0,14.0,70.0,15.0,Tier 1: Qualified,Tier 1: Qualified,13.0,1.0,Retained in T1
+2687,Roston Chase,157.0,19.0,114.0,15.0,Tier 1: Qualified,Tier 1: Qualified,-43.0,-4.0,Retained in T1
+2756,Shashank Singh,22.0,5.0,19.0,5.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+2790,Praveen Dubey,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2847,Shardul Thakur,134.0,25.0,138.0,24.0,Tier 1: Qualified,Tier 1: Qualified,4.0,-1.0,Retained in T1
+2852,Jagadeesha Suchith,4.0,1.0,4.0,2.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+2863,Sandeep Warrier,22.0,2.0,19.0,2.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+2872,Siddarth Kaul,4.0,1.0,4.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2876,Axar Patel,303.0,61.0,270.0,59.0,Tier 1: Qualified,Tier 1: Qualified,-33.0,-2.0,Retained in T1
+2877,Vijay Shankar,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2878,Mohit Sharma,79.0,15.0,66.0,11.0,Tier 1: Qualified,Tier 1: Qualified,-13.0,-4.0,Retained in T1
+2887,Harmeet Singh,16.0,1.0,14.0,1.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+2933,Jasprit Bumrah,168.0,31.0,210.0,33.0,Tier 1: Qualified,Tier 1: Qualified,42.0,2.0,Retained in T1
+2972,Yasim Murtaza,5.0,2.0,5.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+2984,Sikandar Raza,71.0,15.0,57.0,14.0,Tier 1: Qualified,Tier 1: Qualified,-14.0,-1.0,Retained in T1
+2985,Mark Wood,47.0,7.0,48.0,9.0,Tier 2: Specialist,Tier 2: Specialist,1.0,2.0,Non-T1 Stable/Transition
+2997,Paul van Meekeren,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3033,Usman Qadir,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3038,Hussain Talat,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+3040,Kashif Daud,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3056,Iftikhar Ahmed,4.0,2.0,1.0,1.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+3077,Usama Mir,22.0,3.0,21.0,4.0,Below Threshold,Below Threshold,-1.0,1.0,Non-T1 Stable/Transition
+3135,Yannic Cariah,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3174,Matt Henry,111.0,18.0,137.0,20.0,Tier 1: Qualified,Tier 1: Qualified,26.0,2.0,Retained in T1
+3253,Rohan Mustafa,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3255,Ahmed Raza 1,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3272,Fabian Allen,18.0,4.0,17.0,3.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3275,Alzarri Joseph,105.0,23.0,111.0,23.0,Tier 1: Qualified,Tier 1: Qualified,6.0,0.0,Retained in T1
+3276,Gudakesh Motie,96.0,13.0,88.0,12.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,-1.0,Retained in T1
+3280,Nazmul Hossain Shanto,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3281,Mosaddek Hossain,0.0,0.0,3.0,1.0,Below Threshold,Below Threshold,3.0,1.0,Non-T1 Stable/Transition
+3282,Mehidy Hasan Miraz,41.0,5.0,37.0,4.0,Tier 2: Specialist,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+3298,Jofra Archer,259.0,32.0,246.0,34.0,Tier 1: Qualified,Tier 1: Qualified,-13.0,2.0,Retained in T1
+3299,Andrew Tye,5.0,2.0,3.0,2.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+3320,Jayant Yadav,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3323,Jimmy Neesham,11.0,6.0,9.0,4.0,Below Threshold,Below Threshold,-2.0,-2.0,Non-T1 Stable/Transition
+3330,Hardik Pandya,194.0,37.0,172.0,36.0,Tier 1: Qualified,Tier 1: Qualified,-22.0,-1.0,Retained in T1
+3337,Jeremy Gordon,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3361,Michael Leask,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3373,Aizaz Khan,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+3374,Mark Chapman,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3383,Kinchit Shah,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3469,Shreyas Gopal,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3489,Salman Agha,13.0,2.0,11.0,2.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+3543,Shahidullah Kamal,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3550,Sharafuddin Ashraf,8.0,2.0,9.0,2.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+3578,Imad Wasim,9.0,3.0,9.0,4.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+3595,Andy McBrine,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3605,Aiden Markram,45.0,15.0,36.0,11.0,Tier 2: Specialist,Below Threshold,-9.0,-4.0,Non-T1 Stable/Transition
+3613,Shakeel Ahmed,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3622,Hayden Walsh,17.0,3.0,10.0,3.0,Below Threshold,Below Threshold,-7.0,0.0,Non-T1 Stable/Transition
+3623,Hasan Ali,27.0,4.0,28.0,5.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+3627,Andile Phehlukwayo,8.0,1.0,8.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3628,Kagiso Rabada,279.0,44.0,272.0,43.0,Tier 1: Qualified,Tier 1: Qualified,-7.0,-1.0,Retained in T1
+3629,Corbin Bosch,27.0,8.0,19.0,5.0,Below Threshold,Below Threshold,-8.0,-3.0,Non-T1 Stable/Transition
+3637,Dayyaan Galiem,0.0,0.0,3.0,1.0,Below Threshold,Below Threshold,3.0,1.0,Non-T1 Stable/Transition
+3641,Ben Dwarshuis,19.0,3.0,17.0,3.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+3644,Kuldeep Yadav,172.0,37.0,131.0,30.0,Tier 1: Qualified,Tier 1: Qualified,-41.0,-7.0,Retained in T1
+3647,Shreyas Iyer,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3648,Deepak Hooda,5.0,2.0,8.0,2.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+3653,Avesh Khan,167.0,36.0,189.0,39.0,Tier 1: Qualified,Tier 1: Qualified,22.0,3.0,Retained in T1
+3660,Luke Wood,55.0,9.0,58.0,9.0,Tier 1: Qualified,Tier 1: Qualified,3.0,0.0,Retained in T1
+3664,Binura Fernando,23.0,7.0,18.0,6.0,Below Threshold,Below Threshold,-5.0,-1.0,Non-T1 Stable/Transition
+3673,Ramesh Mendis,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3683,Gavin Main,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3686,CB Sole,0.0,0.0,1.0,1.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+3689,Mark Watt,8.0,3.0,9.0,3.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+3697,Kyle Jamieson,96.0,20.0,111.0,20.0,Tier 1: Qualified,Tier 1: Qualified,15.0,0.0,Retained in T1
+3720,Craig Young,37.0,8.0,24.0,7.0,Below Threshold,Below Threshold,-13.0,-1.0,Non-T1 Stable/Transition
+3727,Matthew Short,14.0,5.0,7.0,4.0,Below Threshold,Below Threshold,-7.0,-1.0,Non-T1 Stable/Transition
+3771,Vivian Kingma,6.0,2.0,3.0,2.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+3772,Logan van Beek,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3775,Sompal Kami,3.0,1.0,3.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3782,M Shahrukh Khan,4.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+3839,Amjad Mahboob,9.0,2.0,12.0,2.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+3871,Aamir Kaleem,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+3876,Sufyan Mehmood,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+3926,Rahul Tewatia,2.0,2.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-2.0,Non-T1 Stable/Transition
+3986,Matthew Renshaw,11.0,1.0,10.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+3995,Donald Tiripano,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4101,Mitchell Santner,175.0,30.0,146.0,29.0,Tier 1: Qualified,Tier 1: Qualified,-29.0,-1.0,Retained in T1
+4106,Daryl Mitchell,18.0,1.0,14.0,1.0,Below Threshold,Below Threshold,-4.0,0.0,Non-T1 Stable/Transition
+4111,Khushdil Shah,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4117,Ishan Kishan,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4201,Fareed Malik,24.0,6.0,26.0,7.0,Below Threshold,Below Threshold,2.0,1.0,Non-T1 Stable/Transition
+4219,Krunal Pandya,154.0,24.0,128.0,23.0,Tier 1: Qualified,Tier 1: Qualified,-26.0,-1.0,Retained in T1
+4221,Chris Green,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4229,George Linde,25.0,5.0,18.0,4.0,Below Threshold,Below Threshold,-7.0,-1.0,Non-T1 Stable/Transition
+4235,Sisanda Magala,2.0,2.0,2.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4237,Tabraiz Shamsi,25.0,5.0,29.0,5.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+4246,Nitish Rana,13.0,2.0,19.0,2.0,Below Threshold,Below Threshold,6.0,0.0,Non-T1 Stable/Transition
+4265,T Natarajan,105.0,20.0,97.0,20.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,0.0,Retained in T1
+4276,Basil Thampi,9.0,2.0,8.0,2.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+4288,Navdeep Saini,4.0,3.0,2.0,1.0,Below Threshold,Below Threshold,-2.0,-2.0,Non-T1 Stable/Transition
+4373,Mustafizur Rahman,64.0,16.0,83.0,19.0,Tier 1: Qualified,Tier 1: Qualified,19.0,3.0,Retained in T1
+4391,Liam Livingstone,48.0,10.0,25.0,8.0,Tier 2: Specialist,Below Threshold,-23.0,-2.0,Non-T1 Stable/Transition
+4409,Sam Curran,146.0,33.0,146.0,33.0,Tier 1: Qualified,Tier 1: Qualified,0.0,0.0,Retained in T1
+4412,Max ODowd,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4417,Karan KC,6.0,2.0,5.0,2.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+4438,Jasdeep Singh,18.0,2.0,18.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4460,Jeffrey Vandersay,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+4487,Vyshak Kumar,89.0,12.0,87.0,13.0,Tier 1: Qualified,Tier 1: Qualified,-2.0,1.0,Retained in T1
+4489,Prasidh Krishna,135.0,22.0,140.0,26.0,Tier 1: Qualified,Tier 1: Qualified,5.0,4.0,Retained in T1
+4499,Saqib Mahmood,24.0,6.0,24.0,6.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4505,Jhye Richardson,9.0,3.0,4.0,2.0,Below Threshold,Below Threshold,-5.0,-1.0,Non-T1 Stable/Transition
+4604,Mitchell Swepson,3.0,1.0,6.0,1.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+4636,Bjorn Fortuin,35.0,7.0,43.0,7.0,Below Threshold,Tier 2: Specialist,8.0,0.0,Non-T1 Stable/Transition
+4639,Wellington Masakadza,18.0,4.0,15.0,4.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+4641,Lungi Ngidi,110.0,24.0,128.0,25.0,Tier 1: Qualified,Tier 1: Qualified,18.0,1.0,Retained in T1
+4658,Nasum Ahmed,55.0,10.0,44.0,10.0,Tier 1: Qualified,Tier 2: Specialist,-11.0,0.0,Exit (Disqualified from T1)
+4662,Cole McConchie,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+4686,Joshua Clarkson,0.0,0.0,1.0,1.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+4692,Lockie Ferguson,97.0,22.0,127.0,23.0,Tier 1: Qualified,Tier 1: Qualified,30.0,1.0,Retained in T1
+4708,Rinku Singh,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4716,Mayank Dagar,17.0,3.0,18.0,3.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+4722,Rashid Khan,254.0,43.0,230.0,42.0,Tier 1: Qualified,Tier 1: Qualified,-24.0,-1.0,Retained in T1
+4755,Shivam Dube,26.0,8.0,19.0,6.0,Below Threshold,Below Threshold,-7.0,-2.0,Non-T1 Stable/Transition
+4779,Pieter Willem Mulder,27.0,5.0,31.0,5.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+4780,Mohammad Saif Hassan,4.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+4790,Lutho Sipamla,15.0,3.0,22.0,3.0,Below Threshold,Below Threshold,7.0,0.0,Non-T1 Stable/Transition
+4807,Joshua Little,38.0,10.0,37.0,11.0,Below Threshold,Below Threshold,-1.0,1.0,Non-T1 Stable/Transition
+4812,Harry Tector,6.0,2.0,8.0,2.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+4815,Benjamin White,17.0,5.0,27.0,5.0,Below Threshold,Below Threshold,10.0,0.0,Non-T1 Stable/Transition
+4816,Khaleel Ahmed,222.0,35.0,207.0,33.0,Tier 1: Qualified,Tier 1: Qualified,-15.0,-2.0,Retained in T1
+4821,Mahipal Lomror,2.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+4823,Washington Sundar,78.0,14.0,70.0,15.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,1.0,Retained in T1
+4824,Zeeshan Ansari,45.0,6.0,29.0,4.0,Tier 2: Specialist,Below Threshold,-16.0,-2.0,Non-T1 Stable/Transition
+4826,George Garton,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4837,Obed McCoy,36.0,10.0,44.0,10.0,Below Threshold,Tier 2: Specialist,8.0,0.0,Non-T1 Stable/Transition
+4838,Keemo Paul,10.0,2.0,14.0,2.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+4840,Odean Smith,25.0,7.0,25.0,5.0,Below Threshold,Below Threshold,0.0,-2.0,Non-T1 Stable/Transition
+4842,Shamar Springer,20.0,5.0,23.0,4.0,Below Threshold,Below Threshold,3.0,-1.0,Non-T1 Stable/Transition
+4853,Glenn Phillips,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4854,Rachin Ravindra,9.0,2.0,2.0,2.0,Below Threshold,Below Threshold,-7.0,0.0,Non-T1 Stable/Transition
+4856,Benjamin Sears,29.0,4.0,26.0,6.0,Below Threshold,Below Threshold,-3.0,2.0,Non-T1 Stable/Transition
+4857,Nathan Smith,7.0,2.0,10.0,3.0,Below Threshold,Below Threshold,3.0,1.0,Non-T1 Stable/Transition
+4867,Wesley Madhevere,3.0,2.0,6.0,2.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+4870,Kundai Matigimu,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4871,Brandon Mavuta,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4874,Richard Ngarava,92.0,19.0,93.0,18.0,Tier 1: Qualified,Tier 1: Qualified,1.0,-1.0,Retained in T1
+4876,Milton Shumba,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4881,Dipendra Airee,2.0,1.0,2.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4882,Kushal Bhurtel,3.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+4895,Charith Asalanka,20.0,2.0,18.0,2.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+4900,Wanindu Hasaranga,198.0,34.0,155.0,30.0,Tier 1: Qualified,Tier 1: Qualified,-43.0,-4.0,Retained in T1
+4901,Asitha Fernando,30.0,3.0,26.0,2.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+4903,Lahiru Kumara,7.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-5.0,0.0,Non-T1 Stable/Transition
+4904,Kamindu Mendis,14.0,2.0,8.0,2.0,Below Threshold,Below Threshold,-6.0,0.0,Non-T1 Stable/Transition
+4926,Shadab Khan,67.0,10.0,60.0,12.0,Tier 1: Qualified,Tier 1: Qualified,-7.0,2.0,Retained in T1
+4947,Kasun Rajitha,14.0,2.0,10.0,3.0,Below Threshold,Below Threshold,-4.0,1.0,Non-T1 Stable/Transition
+4974,Mohammad Nadeem,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+4986,Rovman Powell,8.0,3.0,4.0,2.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+5034,Murugan Ashwin,18.0,6.0,22.0,6.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+5041,Mukesh Kumar,171.0,30.0,165.0,32.0,Tier 1: Qualified,Tier 1: Qualified,-6.0,2.0,Retained in T1
+5189,Faheem Ashraf,34.0,7.0,33.0,7.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+5231,Oshane Thomas,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+5379,Mark Adair,71.0,17.0,62.0,17.0,Tier 1: Qualified,Tier 1: Qualified,-9.0,0.0,Retained in T1
+5441,Barry McCarthy,26.0,7.0,44.0,8.0,Below Threshold,Tier 2: Specialist,18.0,1.0,Non-T1 Stable/Transition
+5547,Nosthush Kenjige,21.0,3.0,15.0,2.0,Below Threshold,Below Threshold,-6.0,-1.0,Non-T1 Stable/Transition
+5561,Brad Wheal,4.0,1.0,6.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+5562,Richard Gleeson,10.0,4.0,23.0,7.0,Below Threshold,Below Threshold,13.0,3.0,Non-T1 Stable/Transition
+5577,Sai Kishore,80.0,11.0,60.0,11.0,Tier 1: Qualified,Tier 1: Qualified,-20.0,0.0,Retained in T1
+5665,Sanjay Yadav,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+5738,Xavier Bartlett,69.0,15.0,62.0,13.0,Tier 1: Qualified,Tier 1: Qualified,-7.0,-2.0,Retained in T1
+5750,Ehsan Khan,10.0,2.0,7.0,1.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+5808,Karim Janat,9.0,2.0,5.0,1.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+5809,Naveen ul Haq,75.0,17.0,88.0,19.0,Tier 1: Qualified,Tier 1: Qualified,13.0,2.0,Retained in T1
+5837,Mahedi Hasan,89.0,20.0,74.0,18.0,Tier 1: Qualified,Tier 1: Qualified,-15.0,-2.0,Retained in T1
+5844,Ebadot Hossain,5.0,2.0,6.0,3.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+5866,Patrick Kruger,23.0,5.0,22.0,4.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+5882,Afif Hossain,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+5892,Blair Tickner,11.0,4.0,5.0,3.0,Below Threshold,Below Threshold,-6.0,-1.0,Non-T1 Stable/Transition
+5939,Cameron Green,49.0,12.0,58.0,11.0,Tier 2: Specialist,Tier 1: Qualified,9.0,-1.0,Entrant (Promoted to T1)
+5940,Riley Meredith,0.0,0.0,5.0,1.0,Below Threshold,Below Threshold,5.0,1.0,Non-T1 Stable/Transition
+5944,Mohammed Siraj,330.0,51.0,328.0,50.0,Tier 1: Qualified,Tier 1: Qualified,-2.0,-1.0,Retained in T1
+5977,Khary Pierre,8.0,1.0,5.0,1.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+5979,Abrar Ahmed,52.0,13.0,44.0,11.0,Tier 1: Qualified,Tier 2: Specialist,-8.0,-2.0,Exit (Disqualified from T1)
+6025,Henry Shipley,4.0,2.0,3.0,1.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+6097,Brydon Carse,22.0,6.0,24.0,7.0,Below Threshold,Below Threshold,2.0,1.0,Non-T1 Stable/Transition
+6160,Chamika Karunaratne,9.0,3.0,16.0,4.0,Below Threshold,Below Threshold,7.0,1.0,Non-T1 Stable/Transition
+6161,Rahul Chahar,101.0,17.0,90.0,15.0,Tier 1: Qualified,Tier 1: Qualified,-11.0,-2.0,Retained in T1
+6162,Kulwant Khejroliya,6.0,3.0,0.0,0.0,Below Threshold,Below Threshold,-6.0,-3.0,Non-T1 Stable/Transition
+6166,Jack Edwards,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6180,Praveen Jayawickrama,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6196,Josh Tongue,13.0,2.0,14.0,2.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+6237,Manimaran Siddharth,34.0,6.0,22.0,6.0,Below Threshold,Below Threshold,-12.0,0.0,Non-T1 Stable/Transition
+6256,Varun Chakravarthy,267.0,40.0,262.0,46.0,Tier 1: Qualified,Tier 1: Qualified,-5.0,6.0,Retained in T1
+6272,William Jacks,46.0,11.0,39.0,7.0,Tier 2: Specialist,Below Threshold,-7.0,-4.0,Non-T1 Stable/Transition
+6281,Abhishek Sharma,38.0,12.0,29.0,9.0,Below Threshold,Below Threshold,-9.0,-3.0,Non-T1 Stable/Transition
+6284,Anukul Roy,57.0,13.0,37.0,9.0,Tier 1: Qualified,Below Threshold,-20.0,-4.0,Exit (Disqualified from T1)
+6285,Kamlesh Nagarkoti,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6286,Shivam Mavi,6.0,3.0,3.0,2.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+6287,Yash Thakur,82.0,16.0,81.0,15.0,Tier 1: Qualified,Tier 1: Qualified,-1.0,-1.0,Retained in T1
+6297,Matthew Parkinson,4.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+6350,Matthew Kuhnemann,16.0,3.0,19.0,3.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+6354,Spencer Johnson,76.0,14.0,68.0,12.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,-2.0,Retained in T1
+6355,Shaheen Afridi,117.0,31.0,111.0,27.0,Tier 1: Qualified,Tier 1: Qualified,-6.0,-4.0,Retained in T1
+6356,Khaled Ahmed,9.0,1.0,3.0,1.0,Below Threshold,Below Threshold,-6.0,0.0,Non-T1 Stable/Transition
+6359,Raghu Sharma,2.0,1.0,4.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+6389,Tanvir Islam,13.0,4.0,16.0,5.0,Below Threshold,Below Threshold,3.0,1.0,Non-T1 Stable/Transition
+6396,Tim David,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6398,Aaron Hardie,19.0,5.0,19.0,5.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6423,Riyan Parag,13.0,4.0,6.0,3.0,Below Threshold,Below Threshold,-7.0,-1.0,Non-T1 Stable/Transition
+6436,Qais Ahmad,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6449,Wafadar Momand,9.0,2.0,6.0,2.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+6450,Mujeeb Ur Rahman,86.0,16.0,74.0,17.0,Tier 1: Qualified,Tier 1: Qualified,-12.0,1.0,Retained in T1
+6460,Ayush Badoni,3.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+6464,Arshdeep Singh,427.0,87.0,473.0,79.0,Tier 1: Qualified,Tier 1: Qualified,46.0,-8.0,Retained in T1
+6466,Atharwa Taide,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6489,Darshan Nalkande,1.0,1.0,2.0,2.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+6503,Zahoor Khan,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6506,Mohammad Imran Randhawa,10.0,1.0,3.0,1.0,Below Threshold,Below Threshold,-7.0,0.0,Non-T1 Stable/Transition
+6512,Michael Bracewell,63.0,13.0,42.0,7.0,Tier 1: Qualified,Tier 2: Specialist,-21.0,-6.0,Exit (Disqualified from T1)
+6515,Benjamin Lister,18.0,6.0,14.0,4.0,Below Threshold,Below Threshold,-4.0,-2.0,Non-T1 Stable/Transition
+6518,Daniel Sams,14.0,4.0,23.0,6.0,Below Threshold,Below Threshold,9.0,2.0,Non-T1 Stable/Transition
+6523,Blessing Muzarabani,99.0,17.0,89.0,15.0,Tier 1: Qualified,Tier 1: Qualified,-10.0,-2.0,Retained in T1
+6566,Matthew John Fisher,5.0,3.0,5.0,3.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6574,Alick Athanaze,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6591,KM Asif,2.0,1.0,2.0,2.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+6628,Gerald Coetzee,84.0,15.0,80.0,16.0,Tier 1: Qualified,Tier 1: Qualified,-4.0,1.0,Retained in T1
+6643,Hasan Mahmud,24.0,6.0,24.0,7.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+6651,Towhid Hridoy,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6664,Dion Myers,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6669,Mohsin Khan,94.0,12.0,99.0,13.0,Tier 1: Qualified,Tier 1: Qualified,5.0,1.0,Retained in T1
+6671,Lalit Yadav,40.0,6.0,41.0,7.0,Tier 2: Specialist,Tier 2: Specialist,1.0,1.0,Non-T1 Stable/Transition
+6676,Azmatullah Omarzai,122.0,23.0,96.0,24.0,Tier 1: Qualified,Tier 1: Qualified,-26.0,1.0,Retained in T1
+6677,Mohammad Hasnain,16.0,4.0,12.0,4.0,Below Threshold,Below Threshold,-4.0,0.0,Non-T1 Stable/Transition
+6683,Mayank Markande,55.0,10.0,50.0,10.0,Tier 1: Qualified,Tier 1: Qualified,-5.0,0.0,Retained in T1
+6697,Shams Mulani,3.0,1.0,3.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6725,Sherfane Rutherford,12.0,2.0,8.0,2.0,Below Threshold,Below Threshold,-4.0,0.0,Non-T1 Stable/Transition
+6726,Romario Shepherd,149.0,30.0,152.0,32.0,Tier 1: Qualified,Tier 1: Qualified,3.0,2.0,Retained in T1
+6772,Chetan Sakariya,7.0,3.0,11.0,3.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+6795,Terrance Hinds,0.0,0.0,2.0,1.0,Below Threshold,Below Threshold,2.0,1.0,Non-T1 Stable/Transition
+6797,Dominic Drakes,3.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+6806,Tushar Deshpande,168.0,27.0,172.0,30.0,Tier 1: Qualified,Tier 1: Qualified,4.0,3.0,Retained in T1
+6819,Yashasvi Jaiswal,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6926,Matty Potts,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6932,Pramod Madushan,3.0,1.0,6.0,1.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+6984,Saqib Zulfiqar,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6985,Bas de Leede,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+6995,Saad Zafar,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7001,Dilon Heyliger,3.0,2.0,3.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7002,Nicholas Kirton,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7008,Gus Atkinson,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+7049,Kamil Mishara,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7052,Dunith Wellalage,19.0,3.0,17.0,2.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+7059,Nehal Wadhera,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7060,Arjun Tendulkar,4.0,2.0,9.0,2.0,Below Threshold,Below Threshold,5.0,0.0,Non-T1 Stable/Transition
+7094,Curtis Campher,7.0,2.0,5.0,2.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+7120,Rohit Paudel,3.0,1.0,5.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+7140,Senuran Muthusamy,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7201,Haroon Arshad,7.0,2.0,7.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7227,Nijat Masood,5.0,2.0,7.0,2.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+7240,FazalHaq Farooqi,119.0,28.0,137.0,29.0,Tier 1: Qualified,Tier 1: Qualified,18.0,1.0,Retained in T1
+7241,Ziaur Rahman,3.0,1.0,6.0,1.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+7250,Mukesh Choudhary,88.0,17.0,81.0,16.0,Tier 1: Qualified,Tier 1: Qualified,-7.0,-1.0,Retained in T1
+7269,Sushant Mishra,16.0,1.0,16.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7270,Anrich Nortje,101.0,19.0,103.0,18.0,Tier 1: Qualified,Tier 1: Qualified,2.0,-1.0,Retained in T1
+7312,Nandre Burger,108.0,12.0,100.0,14.0,Tier 1: Qualified,Tier 1: Qualified,-8.0,2.0,Retained in T1
+7322,Yash Dayal,110.0,19.0,119.0,21.0,Tier 1: Qualified,Tier 1: Qualified,9.0,2.0,Retained in T1
+7325,Harpreet Brar,84.0,10.0,77.0,13.0,Tier 1: Qualified,Tier 1: Qualified,-7.0,3.0,Retained in T1
+7327,Rasikh Salam,73.0,14.0,73.0,13.0,Tier 1: Qualified,Tier 1: Qualified,0.0,-1.0,Retained in T1
+7344,Shoriful Islam,61.0,16.0,49.0,14.0,Tier 1: Qualified,Tier 2: Specialist,-12.0,-2.0,Exit (Disqualified from T1)
+7364,Haris Rauf,106.0,19.0,94.0,19.0,Tier 1: Qualified,Tier 1: Qualified,-12.0,0.0,Retained in T1
+7403,Lalit Rajbanshi,5.0,1.0,4.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+7446,Abdul Samad,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7472,Shahbaz Ahmed,72.0,14.0,56.0,13.0,Tier 1: Qualified,Tier 1: Qualified,-16.0,-1.0,Retained in T1
+7473,Akash Deep,44.0,6.0,48.0,7.0,Tier 2: Specialist,Tier 2: Specialist,4.0,1.0,Non-T1 Stable/Transition
+7503,Ravi Bishnoi,231.0,39.0,193.0,40.0,Tier 1: Qualified,Tier 1: Qualified,-38.0,1.0,Retained in T1
+7533,Simarjeet Singh,60.0,9.0,44.0,8.0,Tier 1: Qualified,Tier 2: Specialist,-16.0,-1.0,Exit (Disqualified from T1)
+7544,Venkatesh Iyer,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7545,Kuldeep Sen,2.0,1.0,7.0,3.0,Below Threshold,Below Threshold,5.0,2.0,Non-T1 Stable/Transition
+7574,Kumar Kartikeya Singh,28.0,9.0,14.0,6.0,Below Threshold,Below Threshold,-14.0,-3.0,Non-T1 Stable/Transition
+7625,Suryansh Shedge,4.0,1.0,8.0,1.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+7634,Aaron Jones,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7689,Dilshan Madushanka,51.0,12.0,47.0,10.0,Tier 1: Qualified,Tier 2: Specialist,-4.0,-2.0,Exit (Disqualified from T1)
+7690,Saim Ayub,49.0,8.0,36.0,6.0,Tier 2: Specialist,Below Threshold,-13.0,-2.0,Non-T1 Stable/Transition
+7696,Mohammad Wasim,29.0,8.0,27.0,5.0,Below Threshold,Below Threshold,-2.0,-3.0,Non-T1 Stable/Transition
+7699,Abbas Afridi,36.0,8.0,46.0,8.0,Below Threshold,Tier 2: Specialist,10.0,0.0,Non-T1 Stable/Transition
+7702,Chamindu Wickramasinghe,10.0,2.0,10.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7704,Pavan Rathnayake,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7709,Ainsley Ndlovu,5.0,2.0,5.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7710,Brandon Glover,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7741,Gareth Delany,25.0,7.0,21.0,4.0,Below Threshold,Below Threshold,-4.0,-3.0,Non-T1 Stable/Transition
+7755,Harsh Thaker,1.0,1.0,2.0,1.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+7756,Kaleem Sana,7.0,3.0,7.0,2.0,Below Threshold,Below Threshold,0.0,-1.0,Non-T1 Stable/Transition
+7808,Marco Jansen,178.0,32.0,235.0,34.0,Tier 1: Qualified,Tier 1: Qualified,57.0,2.0,Retained in T1
+7896,Akash Singh,85.0,10.0,79.0,9.0,Tier 1: Qualified,Tier 1: Qualified,-6.0,-1.0,Retained in T1
+7897,Namboori Tilak Varma,3.0,2.0,1.0,1.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+7903,Shamim Hossain,3.0,1.0,6.0,1.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+7905,Tanzim Sakib,49.0,7.0,62.0,9.0,Tier 2: Specialist,Tier 1: Qualified,13.0,2.0,Entrant (Promoted to T1)
+7912,Vikramjit Singh,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7914,Clayton Floyd,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7916,Karima Gore,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7920,Nathan Ellis,66.0,14.0,64.0,16.0,Tier 1: Qualified,Tier 1: Qualified,-2.0,2.0,Retained in T1
+7927,Janak Prakash,8.0,2.0,4.0,1.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+7928,Vinoth Baskaran,8.0,2.0,8.0,1.0,Below Threshold,Below Threshold,0.0,-1.0,Non-T1 Stable/Transition
+7929,Aryaman Sunil Uchil,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7935,Mohammad Ghazanfar,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+7967,Noor Ahmad,177.0,30.0,161.0,30.0,Tier 1: Qualified,Tier 1: Qualified,-16.0,0.0,Retained in T1
+8005,Zawar Farid,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+8009,Junaid Siddique,50.0,12.0,45.0,11.0,Tier 1: Qualified,Tier 2: Specialist,-5.0,-1.0,Exit (Disqualified from T1)
+8049,Naseem Shah,54.0,15.0,57.0,14.0,Tier 1: Qualified,Tier 1: Qualified,3.0,-1.0,Retained in T1
+8093,Nikhil Chaudhary,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8141,Auqib Nabi,51.0,5.0,38.0,4.0,Tier 2: Specialist,Below Threshold,-13.0,-1.0,Non-T1 Stable/Transition
+8177,Akash Madhwal,12.0,4.0,14.0,4.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+8182,Donovan Ferreira,16.0,3.0,8.0,3.0,Below Threshold,Below Threshold,-8.0,0.0,Non-T1 Stable/Transition
+8221,Nitish Reddy,99.0,19.0,84.0,18.0,Tier 1: Qualified,Tier 1: Qualified,-15.0,-1.0,Retained in T1
+8266,Sumit Kumar 1,8.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-6.0,0.0,Non-T1 Stable/Transition
+8295,Matthew Forde,56.0,13.0,40.0,10.0,Tier 1: Qualified,Tier 2: Specialist,-16.0,-3.0,Exit (Disqualified from T1)
+8298,Ramon Simmonds,6.0,1.0,8.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+8311,Dan Mousley,6.0,1.0,8.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+8326,Jayden Seales,30.0,7.0,26.0,6.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+8380,Mohammad Rishad Hossain,57.0,9.0,47.0,14.0,Tier 1: Qualified,Tier 2: Specialist,-10.0,5.0,Exit (Disqualified from T1)
+8424,Tanveer Sangha,23.0,2.0,19.0,3.0,Below Threshold,Below Threshold,-4.0,1.0,Non-T1 Stable/Transition
+8530,Kartik Tyagi,71.0,8.0,73.0,9.0,Tier 1: Qualified,Tier 1: Qualified,2.0,1.0,Retained in T1
+8580,Yudhvir Singh,5.0,4.0,2.0,2.0,Below Threshold,Below Threshold,-3.0,-2.0,Non-T1 Stable/Transition
+8611,Adithya Ashok,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8614,William ORourke,25.0,6.0,26.0,6.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+8623,Kristian Clarke,6.0,1.0,8.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+8634,Ashwani Kumar,19.0,4.0,16.0,5.0,Below Threshold,Below Threshold,-3.0,1.0,Non-T1 Stable/Transition
+8638,Basil Hameed,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8639,Kartik Meiyappan,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+8654,Cooper Connolly,6.0,2.0,8.0,2.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+8661,Matheesha Pathirana,86.0,19.0,86.0,20.0,Tier 1: Qualified,Tier 1: Qualified,0.0,1.0,Retained in T1
+8664,Victor Nyauchi,3.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+8719,Aryan Lakra,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+8723,Mohammed Faraazuddin,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8726,Alishan Sharafu,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8727,Sanchit Sharma,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8746,Vaibhav Arora,183.0,34.0,171.0,32.0,Tier 1: Qualified,Tier 1: Qualified,-12.0,-2.0,Retained in T1
+8763,Duan Jansen,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+8805,Ottneil Baartman,25.0,7.0,31.0,7.0,Below Threshold,Below Threshold,6.0,0.0,Non-T1 Stable/Transition
+15269,Mohammed Aslam,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+15279,Shiraz Khan,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+15280,Sayed Monib,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+16498,Sultan Ahmad,5.0,1.0,6.0,2.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+17424,Graham Hume,17.0,4.0,18.0,4.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+17430,Conor Olphert,11.0,2.0,11.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+17911,Nangeyalia Kharote,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+17918,Abdullah Tarakhail,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+17919,Mohammad Saleem Safi,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+19020,Ateeq Iqbal,6.0,2.0,5.0,2.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+19125,Ayush Shukla,16.0,4.0,14.0,3.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+19145,Aamer Jamal,24.0,4.0,22.0,4.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+19147,Faraz Akram,15.0,3.0,18.0,2.0,Below Threshold,Below Threshold,3.0,-1.0,Non-T1 Stable/Transition
+19307,Tharindu Rathnayake,7.0,2.0,4.0,2.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+19312,Nuwan Thushara,82.0,21.0,84.0,20.0,Tier 1: Qualified,Tier 1: Qualified,2.0,-1.0,Retained in T1
+19315,Vijayakanth Viyaskanth,12.0,1.0,9.0,2.0,Below Threshold,Below Threshold,-3.0,1.0,Non-T1 Stable/Transition
+19316,Maheesh Theekshana,219.0,44.0,233.0,43.0,Tier 1: Qualified,Tier 1: Qualified,14.0,-1.0,Retained in T1
+19530,Shahnawaz Dhani,6.0,2.0,5.0,1.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+19754,Raja Khan,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+19781,Mitchell Owen,2.0,1.0,6.0,1.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+19892,Theo van Woerkom,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+19902,Tim Pringle,2.0,2.0,1.0,1.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+19998,Rajvardhan Hangargekar,2.0,1.0,3.0,1.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+20005,Arshad Khan,49.0,11.0,37.0,6.0,Tier 2: Specialist,Below Threshold,-12.0,-5.0,Non-T1 Stable/Transition
+20006,Ramandeep Singh,4.0,3.0,2.0,1.0,Below Threshold,Below Threshold,-2.0,-2.0,Non-T1 Stable/Transition
+20175,Nandan Yadav,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+20229,Mohammad Ali,12.0,1.0,12.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+20310,Ahmed Daniyal,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+20316,Shahab Alam,2.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+20693,Kuldip Yadav,0.0,0.0,6.0,1.0,Below Threshold,Below Threshold,6.0,1.0,Non-T1 Stable/Transition
+20702,Tristan Stubbs,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+20704,Salman Mirza,21.0,10.0,19.0,9.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+20894,Aman Khan,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+20989,Vivrant Sharma,6.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-6.0,-1.0,Non-T1 Stable/Transition
+21780,Ernest Masuku,2.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+21784,Brad Evans,52.0,11.0,38.0,9.0,Tier 1: Qualified,Below Threshold,-14.0,-2.0,Exit (Disqualified from T1)
+21786,Tanaka Chivanga,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+22134,Luke Jongwe,6.0,3.0,7.0,4.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+22137,Fionn Hand,9.0,2.0,9.0,3.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+22187,Ryan Klein,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+22188,Aryan Dutt,22.0,3.0,16.0,3.0,Below Threshold,Below Threshold,-6.0,0.0,Non-T1 Stable/Transition
+22471,Matthew Humphreys,41.0,7.0,52.0,7.0,Tier 2: Specialist,Tier 1: Qualified,11.0,0.0,Entrant (Promoted to T1)
+22565,Muhammad Waseem,3.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+22920,Jacob Duffy,127.0,27.0,133.0,27.0,Tier 1: Qualified,Tier 1: Qualified,6.0,0.0,Retained in T1
+23311,Jacob Bethell,9.0,2.0,4.0,2.0,Below Threshold,Below Threshold,-5.0,0.0,Non-T1 Stable/Transition
+23467,Gurjapneet Singh,15.0,3.0,20.0,4.0,Below Threshold,Below Threshold,5.0,1.0,Non-T1 Stable/Transition
+24017,Brian Bennett,14.0,5.0,10.0,3.0,Below Threshold,Below Threshold,-4.0,-2.0,Non-T1 Stable/Transition
+24346,Mohamed Shafeeq,6.0,2.0,5.0,1.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+24381,Shariz Ahmad,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+24473,Sonny Baker,4.0,2.0,3.0,2.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+24475,Rehan Ahmed,27.0,4.0,21.0,2.0,Below Threshold,Below Threshold,-6.0,-2.0,Non-T1 Stable/Transition
+24767,Ripon Mondol,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+24779,Ijaz Ahmadzai,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+24812,Chris Greaves,3.0,1.0,3.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+24887,Innocent Kaia,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+24978,Jack Jarvis,6.0,1.0,6.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+25011,Liam Mccarthy,16.0,2.0,16.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+25030,Zaman Khan,15.0,3.0,15.0,4.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+25048,Umran Malik,41.0,9.0,42.0,10.0,Tier 2: Specialist,Tier 2: Specialist,1.0,1.0,Non-T1 Stable/Transition
+25128,Nqabayomzi Peter,11.0,3.0,10.0,3.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+25132,Praful Hinge,39.0,5.0,48.0,6.0,Below Threshold,Tier 2: Specialist,9.0,1.0,Non-T1 Stable/Transition
+25138,Harsh Dubey,61.0,8.0,62.0,7.0,Tier 1: Qualified,Tier 1: Qualified,1.0,-1.0,Retained in T1
+25213,Dewald Brevis,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+25216,Andile Simelane,10.0,2.0,13.0,3.0,Below Threshold,Below Threshold,3.0,1.0,Non-T1 Stable/Transition
+25231,Samay Shrivastava,0.0,0.0,1.0,1.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+25502,Adnan Idrees,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+25507,Edson Silva,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+25809,Juanoy Drysdale,5.0,1.0,5.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+26663,Kwena Maphaka,31.0,8.0,40.0,8.0,Below Threshold,Tier 2: Specialist,9.0,0.0,Non-T1 Stable/Transition
+26795,Joel Davies,0.0,0.0,4.0,1.0,Below Threshold,Below Threshold,4.0,1.0,Non-T1 Stable/Transition
+26834,Raj Bawa,2.0,1.0,2.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+26916,Yasir Mohammad,3.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+26988,Jitenkumar Ramanandi,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+27004,Hassnain Shah,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+27364,Simranjeet Kang,3.0,1.0,3.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+27373,Muhammad Farooq,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+27380,Harshit Kaushik,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+27390,Matiullah Khan,3.0,2.0,6.0,2.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+27460,Ali Naseer,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+27464,Aayan Afzal Khan,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+27466,Dhruv Parashar,23.0,5.0,20.0,4.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+27504,Dushan Hemantha,3.0,1.0,5.0,1.0,Below Threshold,Below Threshold,2.0,0.0,Non-T1 Stable/Transition
+27516,Ihsanullah Ihsanullah,5.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+27743,DT Doram,3.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+27956,Prashant Solanki,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+27959,Hrithik Shokeen,0.0,0.0,3.0,1.0,Below Threshold,Below Threshold,3.0,1.0,Non-T1 Stable/Transition
+27960,Mayank Yadav,58.0,11.0,66.0,11.0,Tier 1: Qualified,Tier 1: Qualified,8.0,0.0,Retained in T1
+27964,Anshul Kamboj,115.0,14.0,99.0,15.0,Tier 1: Qualified,Tier 1: Qualified,-16.0,1.0,Retained in T1
+27970,Gurnoor Brar,5.0,1.0,6.0,1.0,Below Threshold,Below Threshold,1.0,0.0,Non-T1 Stable/Transition
+28018,Ashok Sharma,5.0,2.0,10.0,2.0,Below Threshold,Below Threshold,5.0,0.0,Non-T1 Stable/Transition
+28021,Saurabh Dubey,8.0,2.0,15.0,3.0,Below Threshold,Below Threshold,7.0,1.0,Non-T1 Stable/Transition
+28655,Muhammad Rohid,17.0,3.0,7.0,4.0,Below Threshold,Below Threshold,-10.0,1.0,Non-T1 Stable/Transition
+28756,Haider Ali,28.0,3.0,29.0,4.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+28908,Vincent Masekesa,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+28911,John Masara,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+28915,Trevor Gwandu,6.0,1.0,6.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+29066,Zakary Foulkes,14.0,4.0,14.0,5.0,Below Threshold,Below Threshold,0.0,1.0,Non-T1 Stable/Transition
+29075,Aadil Ansari,0.0,0.0,1.0,1.0,Below Threshold,Below Threshold,1.0,1.0,Non-T1 Stable/Transition
+29080,Muhammad Khan,6.0,3.0,5.0,2.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+29558,Muhammad Arfan,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+29833,Bashir Ahmad,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+29888,Harshit Rana,158.0,30.0,149.0,29.0,Tier 1: Qualified,Tier 1: Qualified,-9.0,-1.0,Retained in T1
+30925,Bradley Currie,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+31107,Yasin Patel,5.0,2.0,3.0,1.0,Below Threshold,Below Threshold,-2.0,-1.0,Non-T1 Stable/Transition
+31227,Vidhwath Kaverappa,6.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-4.0,0.0,Non-T1 Stable/Transition
+31513,Ethan Dsouza,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+31835,Akshay Roopak Puri,5.0,1.0,4.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+32244,Tripurana Vijay,3.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+32401,Akhil Kumar,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+32862,Allah Ghazanfar,51.0,7.0,69.0,7.0,Tier 1: Qualified,Tier 1: Qualified,18.0,0.0,Retained in T1
+33009,John Turner,7.0,1.0,6.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+33440,Adwitya Bhargava,2.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+33443,Sabir Ali,3.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-2.0,0.0,Non-T1 Stable/Transition
+33969,Tinotenda Maposa,15.0,4.0,14.0,5.0,Below Threshold,Below Threshold,-1.0,1.0,Non-T1 Stable/Transition
+34466,Arafat Minhas,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+34485,Sufiyan Muqeem,14.0,4.0,23.0,5.0,Below Threshold,Below Threshold,9.0,1.0,Non-T1 Stable/Transition
+34522,Brandon McMullen,5.0,2.0,2.0,1.0,Below Threshold,Below Threshold,-3.0,-1.0,Non-T1 Stable/Transition
+34527,Jasper John Davidson,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+34969,Manav Suthar,12.0,1.0,9.0,1.0,Below Threshold,Below Threshold,-3.0,0.0,Non-T1 Stable/Transition
+35072,Ramakrishna Ghosh,1.0,1.0,0.0,0.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+35102,Zikria Islam,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+35122,Shah Faisal,2.0,1.0,2.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+35318,Sakib Hussain,49.0,8.0,60.0,8.0,Tier 2: Specialist,Tier 1: Qualified,11.0,0.0,Entrant (Promoted to T1)
+36551,Zishan Motara,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+36553,Jediah Blades,12.0,4.0,17.0,4.0,Below Threshold,Below Threshold,5.0,0.0,Non-T1 Stable/Transition
+36981,Himanshu Sharma,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+36982,Suyash Sharma,113.0,17.0,92.0,19.0,Tier 1: Qualified,Tier 1: Qualified,-21.0,2.0,Retained in T1
+36983,Mohit Rathee,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+36984,Raghav Goyal,6.0,1.0,1.0,1.0,Below Threshold,Below Threshold,-5.0,0.0,Non-T1 Stable/Transition
+37052,Naman Dhir,7.0,4.0,1.0,1.0,Below Threshold,Below Threshold,-6.0,-3.0,Non-T1 Stable/Transition
+37731,Musheer Khan,1.0,1.0,1.0,1.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+37939,Nahid Rana,19.0,4.0,14.0,4.0,Below Threshold,Below Threshold,-5.0,0.0,Non-T1 Stable/Transition
+38044,Mahli Beardman,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+38855,Mohammad Saifuddin,38.0,10.0,32.0,10.0,Below Threshold,Below Threshold,-6.0,0.0,Non-T1 Stable/Transition
+39657,Eshan Malinga,155.0,24.0,180.0,24.0,Tier 1: Qualified,Tier 1: Qualified,25.0,0.0,Retained in T1
+39991,Parveen Kumar,3.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+41503,Yash Punja,54.0,5.0,47.0,6.0,Tier 2: Specialist,Tier 2: Specialist,-7.0,1.0,Non-T1 Stable/Transition
+42548,Muhammad Jawadullah,9.0,3.0,2.0,1.0,Below Threshold,Below Threshold,-7.0,-2.0,Non-T1 Stable/Transition
+43917,Krish Bhagat,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+45381,PV Satyanarayan Raju,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+45457,Zach Lion Cachet,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+45966,Prashant Veer,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+46066,Vipraj Nigam,47.0,9.0,38.0,9.0,Tier 2: Specialist,Below Threshold,-9.0,0.0,Non-T1 Stable/Transition
+46378,Kyle Klein,17.0,3.0,10.0,4.0,Below Threshold,Below Threshold,-7.0,1.0,Non-T1 Stable/Transition
+46929,Dian Forrester,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+47050,Shamar Joseph,44.0,8.0,43.0,8.0,Tier 2: Specialist,Tier 2: Specialist,-1.0,0.0,Non-T1 Stable/Transition
+47371,Zuhaid Zubair,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+47403,Newman Nyamhuri,21.0,3.0,11.0,3.0,Below Threshold,Below Threshold,-10.0,0.0,Non-T1 Stable/Transition
+47724,Jahandad Khan,15.0,3.0,17.0,2.0,Below Threshold,Below Threshold,2.0,-1.0,Non-T1 Stable/Transition
+48557,Vignesh Puthur,7.0,2.0,3.0,1.0,Below Threshold,Below Threshold,-4.0,-1.0,Non-T1 Stable/Transition
+48616,Abdul Saqlain,6.0,1.0,9.0,1.0,Below Threshold,Below Threshold,3.0,0.0,Non-T1 Stable/Transition
+50062,Nqobani Mokoena,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+52338,Usman Tariq,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+56685,Abdullah Ahmadzai,15.0,4.0,14.0,3.0,Below Threshold,Below Threshold,-1.0,-1.0,Non-T1 Stable/Transition
+56817,Shivang Kumar,50.0,8.0,31.0,5.0,Tier 1: Qualified,Below Threshold,-19.0,-3.0,Exit (Disqualified from T1)
+56830,Madhav Tiwari,7.0,2.0,8.0,1.0,Below Threshold,Below Threshold,1.0,-1.0,Non-T1 Stable/Transition
+57747,Charlie Cassell,3.0,1.0,2.0,1.0,Below Threshold,Below Threshold,-1.0,0.0,Non-T1 Stable/Transition
+58134,Digvesh Rathi,120.0,15.0,118.0,17.0,Tier 1: Qualified,Tier 1: Qualified,-2.0,2.0,Retained in T1
+58246,Prince Yadav,80.0,16.0,100.0,18.0,Tier 1: Qualified,Tier 1: Qualified,20.0,2.0,Retained in T1
+58727,Abhinandan Singh,10.0,2.0,10.0,2.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+59045,Jai Moondra,12.0,2.0,16.0,2.0,Below Threshold,Below Threshold,4.0,0.0,Non-T1 Stable/Transition
+60609,Navin Bidaisee,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition
+67036,Brijesh Sharma,65.0,8.0,68.0,9.0,Tier 1: Qualified,Tier 1: Qualified,3.0,1.0,Retained in T1
+67864,Matt Hollard,9.0,1.0,11.0,2.0,Below Threshold,Below Threshold,2.0,1.0,Non-T1 Stable/Transition
+71727,Razaullah Razaullah,0.0,0.0,0.0,0.0,Below Threshold,Below Threshold,0.0,0.0,Non-T1 Stable/Transition

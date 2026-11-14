@@ -1,0 +1,7 @@
+discipline,phase,unweighted_player_mean_pct,unweighted_player_median_pct,tier1_aggregate_delivery_share_pct,full_match_delivery_share_pct,reported_in_step_15_1,audit_interpretation
+"Bowling (Tier 1, N=130)",Powerplay (1-6),59.1,67.68,59.39,58.21,"59.1% (cited as ""share of deliveries"")","Matches unweighted player mean (59.10%) and close to aggregate (59.39%), but should be explicitly documented as player-level mean."
+"Bowling (Tier 1, N=130)",Middle (7-15),34.41,24.25,34.4,35.25,34.4%,Matches unweighted player mean (34.41%). Aggregate share is 34.07%.
+"Bowling (Tier 1, N=130)",Death (16-20),6.49,5.13,6.2,6.53,6.5%,Matches unweighted player mean (6.49%) and full match share (6.53%).
+"Batting (Tier 1, N=146)",Powerplay (1-6),19.38,5.31,17.17,20.55,19.4%,Matches unweighted player mean (19.40%). Aggregate share is 17.15%.
+"Batting (Tier 1, N=146)",Middle (7-15),42.4,43.47,45.49,40.17,42.4%,Matches unweighted player mean (42.38%). Aggregate share is 45.51%.
+"Batting (Tier 1, N=146)",Death (16-20),38.22,36.27,37.34,39.28,38.2%,Matches unweighted player mean (38.22%). Aggregate share is 37.34%.

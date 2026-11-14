@@ -1,0 +1,5 @@
+Discipline,Report_Source,Prior_Denominator,Prior_Value,Out_of_Sample_RMSE,Out_of_Sample_MAE,Status
+Batting (SR),Step 11.2 (Sub-sample Prior),Evaluation Batters Only (N=83),129.1,33.59,27.34,Numerically Verified
+Batting (SR),Step 12.3 (Population Prior),"All Training Deliveries (N=11,353)",117.77,33.05,27.09,Numerically Verified (Better Ground Truth)
+Bowling (Econ),Step 11.2 (Sub-sample Prior),Evaluation Bowlers Only (N=92),8.2,2.1,1.67,Numerically Verified
+Bowling (Econ),Step 12.3 (Population Prior),"All Training Deliveries (N=11,833)",8.35,2.06,1.65,Numerically Verified (Better Ground Truth)

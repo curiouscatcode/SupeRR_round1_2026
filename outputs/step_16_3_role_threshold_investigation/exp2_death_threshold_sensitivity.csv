@@ -1,0 +1,10 @@
+experiment_family,model,phase,total_balls,natural_share_pct,hp_balls,phase_capture_pct,total_hp_balls_model,hp_share_pct,representation_index
+Control,Control (Step 16),PP,57037,31.54,10250,17.97,32708,31.34,0.994
+Control,Control (Step 16),Middle,84038,46.47,14803,17.61,32708,45.26,0.974
+Control,Control (Step 16),Death,39764,21.99,7655,19.25,32708,23.4,1.064
+Exp 2,Exp 2A (Death Z > 1.25),PP,57037,31.54,10250,17.97,30685,33.4,1.059
+Exp 2,Exp 2A (Death Z > 1.25),Middle,84038,46.47,14803,17.61,30685,48.24,1.038
+Exp 2,Exp 2A (Death Z > 1.25),Death,39764,21.99,5632,14.16,30685,18.35,0.834
+Exp 2,Exp 2B (Death Z > 1.50),PP,57037,31.54,10250,17.97,28735,35.67,1.131
+Exp 2,Exp 2B (Death Z > 1.50),Middle,84038,46.47,14803,17.61,28735,51.52,1.109
+Exp 2,Exp 2B (Death Z > 1.50),Death,39764,21.99,3682,9.26,28735,12.81,0.583

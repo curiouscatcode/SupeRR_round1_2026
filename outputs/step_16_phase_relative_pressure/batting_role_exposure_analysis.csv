@@ -1,0 +1,52 @@
+grouping_approach,threshold_name,batting_role,total_deliveries_in_role,natural_share_pct,hp_deliveries,role_capture_rate_pct,total_hp_deliveries_model,hp_deliveries_share_pct,representation_index
+Baseline,PI > 60.0,Top Order (1-3),90068,49.81,2741,3.04,23328,11.75,0.236
+Baseline,PI > 60.0,Middle Order (4-6),64887,35.88,6987,10.77,23328,29.95,0.835
+Baseline,PI > 60.0,Lower Order (7-11),25884,14.31,13600,52.54,23328,58.3,4.074
+Approach A (Phase-only),Z > 0.0,Top Order (1-3),90068,49.81,26653,29.59,83503,31.92,0.641
+Approach A (Phase-only),Z > 0.0,Middle Order (4-6),64887,35.88,34865,53.73,83503,41.75,1.164
+Approach A (Phase-only),Z > 0.0,Lower Order (7-11),25884,14.31,21985,84.94,83503,26.33,1.84
+Approach A (Phase-only),Z > 0.5,Top Order (1-3),90068,49.81,14799,16.43,56181,26.34,0.529
+Approach A (Phase-only),Z > 0.5,Middle Order (4-6),64887,35.88,23062,35.54,56181,41.05,1.144
+Approach A (Phase-only),Z > 0.5,Lower Order (7-11),25884,14.31,18320,70.78,56181,32.61,2.279
+Approach A (Phase-only),Z > 1.0,Top Order (1-3),90068,49.81,6768,7.51,31805,21.28,0.427
+Approach A (Phase-only),Z > 1.0,Middle Order (4-6),64887,35.88,11906,18.35,31805,37.43,1.043
+Approach A (Phase-only),Z > 1.0,Lower Order (7-11),25884,14.31,13131,50.73,31805,41.29,2.885
+Approach A (Phase-only),Z > 1.5,Top Order (1-3),90068,49.81,2505,2.78,14910,16.8,0.337
+Approach A (Phase-only),Z > 1.5,Middle Order (4-6),64887,35.88,4932,7.6,14910,33.08,0.922
+Approach A (Phase-only),Z > 1.5,Lower Order (7-11),25884,14.31,7473,28.87,14910,50.12,3.502
+Approach A (Phase-only),Z_robust > 0.0,Top Order (1-3),90068,49.81,28718,31.88,90390,31.77,0.638
+Approach A (Phase-only),Z_robust > 0.0,Middle Order (4-6),64887,35.88,38877,59.91,90390,43.01,1.199
+Approach A (Phase-only),Z_robust > 0.0,Lower Order (7-11),25884,14.31,22795,88.07,90390,25.22,1.762
+Approach A (Phase-only),Z_robust > 0.5,Top Order (1-3),90068,49.81,14942,16.59,59676,25.04,0.503
+Approach A (Phase-only),Z_robust > 0.5,Middle Order (4-6),64887,35.88,25832,39.81,59676,43.29,1.207
+Approach A (Phase-only),Z_robust > 0.5,Lower Order (7-11),25884,14.31,18902,73.03,59676,31.67,2.213
+Approach A (Phase-only),Z_robust > 1.0,Top Order (1-3),90068,49.81,6020,6.68,33028,18.23,0.366
+Approach A (Phase-only),Z_robust > 1.0,Middle Order (4-6),64887,35.88,13604,20.97,33028,41.19,1.148
+Approach A (Phase-only),Z_robust > 1.0,Lower Order (7-11),25884,14.31,13404,51.78,33028,40.58,2.836
+Approach A (Phase-only),Z_robust > 1.5,Top Order (1-3),90068,49.81,1074,1.19,14022,7.66,0.154
+Approach A (Phase-only),Z_robust > 1.5,Middle Order (4-6),64887,35.88,5285,8.14,14022,37.69,1.05
+Approach A (Phase-only),Z_robust > 1.5,Lower Order (7-11),25884,14.31,7663,29.61,14022,54.65,3.819
+Approach B (Phase x Innings),Z > 0.0,Top Order (1-3),90068,49.81,25338,28.13,83961,30.18,0.606
+Approach B (Phase x Innings),Z > 0.0,Middle Order (4-6),64887,35.88,36212,55.81,83961,43.13,1.202
+Approach B (Phase x Innings),Z > 0.0,Lower Order (7-11),25884,14.31,22411,86.58,83961,26.69,1.865
+Approach B (Phase x Innings),Z > 0.5,Top Order (1-3),90068,49.81,13799,15.32,55968,24.66,0.495
+Approach B (Phase x Innings),Z > 0.5,Middle Order (4-6),64887,35.88,23606,36.38,55968,42.18,1.176
+Approach B (Phase x Innings),Z > 0.5,Lower Order (7-11),25884,14.31,18563,71.72,55968,33.17,2.318
+Approach B (Phase x Innings),Z > 1.0,Top Order (1-3),90068,49.81,6355,7.06,32708,19.43,0.39
+Approach B (Phase x Innings),Z > 1.0,Middle Order (4-6),64887,35.88,12800,19.73,32708,39.13,1.091
+Approach B (Phase x Innings),Z > 1.0,Lower Order (7-11),25884,14.31,13553,52.36,32708,41.44,2.896
+Approach B (Phase x Innings),Z > 1.5,Top Order (1-3),90068,49.81,2634,2.92,16431,16.03,0.322
+Approach B (Phase x Innings),Z > 1.5,Middle Order (4-6),64887,35.88,5561,8.57,16431,33.84,0.943
+Approach B (Phase x Innings),Z > 1.5,Lower Order (7-11),25884,14.31,8236,31.82,16431,50.12,3.502
+Approach B (Phase x Innings),Z_robust > 0.0,Top Order (1-3),90068,49.81,28086,31.18,90376,31.08,0.624
+Approach B (Phase x Innings),Z_robust > 0.0,Middle Order (4-6),64887,35.88,39495,60.87,90376,43.7,1.218
+Approach B (Phase x Innings),Z_robust > 0.0,Lower Order (7-11),25884,14.31,22795,88.07,90376,25.22,1.762
+Approach B (Phase x Innings),Z_robust > 0.5,Top Order (1-3),90068,49.81,14421,16.01,57769,24.96,0.501
+Approach B (Phase x Innings),Z_robust > 0.5,Middle Order (4-6),64887,35.88,25258,38.93,57769,43.72,1.219
+Approach B (Phase x Innings),Z_robust > 0.5,Lower Order (7-11),25884,14.31,18090,69.89,57769,31.31,2.188
+Approach B (Phase x Innings),Z_robust > 1.0,Top Order (1-3),90068,49.81,6139,6.82,32689,18.78,0.377
+Approach B (Phase x Innings),Z_robust > 1.0,Middle Order (4-6),64887,35.88,13547,20.88,32689,41.44,1.155
+Approach B (Phase x Innings),Z_robust > 1.0,Lower Order (7-11),25884,14.31,13003,50.24,32689,39.78,2.78
+Approach B (Phase x Innings),Z_robust > 1.5,Top Order (1-3),90068,49.81,2170,2.41,15128,14.34,0.288
+Approach B (Phase x Innings),Z_robust > 1.5,Middle Order (4-6),64887,35.88,5616,8.66,15128,37.12,1.035
+Approach B (Phase x Innings),Z_robust > 1.5,Lower Order (7-11),25884,14.31,7342,28.37,15128,48.53,3.391

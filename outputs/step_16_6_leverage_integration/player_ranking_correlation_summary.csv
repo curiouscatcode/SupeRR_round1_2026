@@ -1,0 +1,6 @@
+candidate,batting_tier1_qualified,batting_tier2_qualified,batting_spearman_rho_vs_control,batting_score_pearson_r,batting_top10_overlap_count,bowling_tier1_qualified,bowling_tier2_qualified,bowling_spearman_rho_vs_control,bowling_score_pearson_r,bowling_top10_overlap_count
+Candidate 0 (Control),206,35,1.0,1.0,10,174,16,1.0,1.0,10
+Candidate 1A (Additive 70/30),189,31,0.7631,0.7728,5,162,20,0.7637,0.7904,6
+Candidate 1B (Additive 50/50),148,29,0.489,0.4997,2,143,20,0.5464,0.567,5
+Candidate 2 (Multiplicative Gated),204,28,0.7919,0.8014,5,160,21,0.8226,0.8345,6
+Candidate 3 (Convex Composite),155,28,0.5406,0.5501,3,142,21,0.5765,0.6087,5

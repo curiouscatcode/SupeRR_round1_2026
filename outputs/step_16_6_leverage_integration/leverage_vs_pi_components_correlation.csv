@@ -1,0 +1,5 @@
+discipline,pi_metric,pearson_r,spearman_rho,r_squared_pct,redundancy_assessment
+Batting,Raw Batting PI,0.0167,0.0022,0.03,Virtually zero collinearity; orthogonal information dimension.
+Batting,Phase x Innings Batting Z-Score,-0.0522,-0.0814,0.27,Virtually zero collinearity; orthogonal information dimension.
+Bowling,Raw Bowling PI,-0.0582,-0.0018,0.34,Virtually zero collinearity; orthogonal information dimension.
+Bowling,Phase x Innings Bowling Z-Score,-0.0601,-0.0941,0.36,Virtually zero collinearity; orthogonal information dimension.

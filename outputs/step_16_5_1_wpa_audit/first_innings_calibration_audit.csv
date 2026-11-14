@@ -1,0 +1,8 @@
+group_type,group,n_matches,n_balls,mean_predicted_wp,actual_win_pct,calibration_gap_pct,brier_score
+Final Score Tier,<140 (Low),114,13514,31.76,14.36,17.4,0.1704
+Final Score Tier,140-169 (Par-),232,28757,43.03,36.11,6.92,0.2293
+Final Score Tier,170-199 (Par+),233,29284,53.22,58.91,-5.69,0.246
+Final Score Tier,200+ (High),210,26623,65.13,75.17,-10.04,0.2122
+Venue Par Tier,Low-Scoring (<165),133,16326,46.57,46.8,-0.24,0.2238
+Venue Par Tier,Average (165-175),231,28653,48.32,48.7,-0.39,0.2242
+Venue Par Tier,High-Scoring (>175),425,53199,52.9,52.62,0.28,0.2194

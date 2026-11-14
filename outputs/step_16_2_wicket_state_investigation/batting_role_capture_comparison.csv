@@ -1,0 +1,10 @@
+model,batting_role,total_deliveries,natural_share_pct,hp_deliveries,within_role_capture_pct,total_hp_deliveries_model,hp_deliveries_share_pct,representation_index
+Control (Step 16 Phase x Innings),Top Order (1-3),90068,49.81,6355,7.06,32708,19.43,0.39
+Control (Step 16 Phase x Innings),Middle Order (4-6),64887,35.88,12800,19.73,32708,39.13,1.091
+Control (Step 16 Phase x Innings),Lower Order (7-11),25884,14.31,13553,52.36,32708,41.44,2.896
+Exp 1 (5-Group Wicket State),Top Order (1-3),90068,49.81,11056,12.28,32257,34.27,0.688
+Exp 1 (5-Group Wicket State),Middle Order (4-6),64887,35.88,12957,19.97,32257,40.17,1.12
+Exp 1 (5-Group Wicket State),Lower Order (7-11),25884,14.31,8244,31.85,32257,25.56,1.786
+Exp 2 (3-Group Wicket State),Top Order (1-3),90068,49.81,10882,12.08,32203,33.79,0.678
+Exp 2 (3-Group Wicket State),Middle Order (4-6),64887,35.88,13721,21.15,32203,42.61,1.188
+Exp 2 (3-Group Wicket State),Lower Order (7-11),25884,14.31,7600,29.36,32203,23.6,1.649

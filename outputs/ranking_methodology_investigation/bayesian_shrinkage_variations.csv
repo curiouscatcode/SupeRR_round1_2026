@@ -1,0 +1,6 @@
+K_value,Batter_Spearman_rho,Batter_Top10_Overlap,Batter_Max_Rank_Shift,Bowler_Spearman_rho,Bowler_Top10_Overlap,Bowler_Max_Rank_Shift
+20,0.9972,10/10,8,0.9975,10/10,9
+30,0.9988,10/10,5,0.9985,10/10,8
+50,1.0,10/10,0,1.0,10/10,0
+75,0.9986,10/10,8,0.9981,9/10,6
+100,0.9961,10/10,11,0.9955,9/10,8

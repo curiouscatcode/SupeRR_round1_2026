@@ -1,0 +1,8 @@
+scenario_name,match_id,striker,batting_order,match_state,wp_before_pct,batting_pi,expected_leverage_pct,z_control,hp_control,z_cand1a_70_30,hp_cand1a_70_30,z_cand1b_50_50,hp_cand1b_50_50,z_cand2_gated,hp_cand2_gated,z_cand3_composite,hp_cand3_composite
+Scenario 1: Steep Chase in Powerplay,13513,Jason Roy,1,"Inn 2, Over 1.1 | Score: 0/0 | Req: 218.0 off 120b (RRR: 10.9)",15.5,61.5,0.92,1.32,True,0.94,False,0.35,False,1.04,True,0.42,False
+Scenario 2: Comfortable Chase (Blowout Win),13511,Nicholas Pooran,3,"Inn 2, Over 15.1 | Score: 78/1 | Req: 26.0 off 36b (RRR: 4.3)",99.7,14.8,0.06,-1.06,False,-1.58,False,-1.83,False,-0.62,False,-1.68,False
+Scenario 3: Tight Death Chase (Coin-Flip),14097,Rahul Tewatia,6,"Inn 2, Over 19.4 | Score: 141/5 | Req: 18.0 off 9b (RRR: 12.0)",43.6,34.9,13.15,-0.51,False,0.64,False,1.7,True,-0.78,False,1.88,True
+Scenario 4: Difficult First-Innings Collapse,13511,Eoin Morgan,5,"Inn 1, Over 4.1 | Score: 10/3",26.1,69.7,0.98,2.48,True,1.63,True,0.79,False,1.39,True,0.99,False
+Scenario 5: Middle-Over Hopeless Collapse,13512,Odean Smith,8,"Inn 2, Over 12.2 | Score: 55/6 | Req: 117.0 off 53b (RRR: 13.2)",4.1,94.2,0.28,2.52,True,1.86,True,0.93,False,1.65,True,1.13,True
+Scenario 6: High-Lev Low-Difficulty (Parity Routine Ball),13514,Brandon King,1,"Inn 2, Over 10.1 | Score: 69/1 | Req: 125.0 off 66b (RRR: 11.4)",43.6,31.2,2.28,-0.32,False,0.14,False,0.56,False,-0.47,False,0.67,False
+Scenario 7: High-Diff Low-Lev (Hopeless Tailender),13512,Romario Shepherd,7,"Inn 2, Over 19.2 | Score: 132/8 | Req: 40.0 off 11b (RRR: 21.8)",0.9,59.8,0.3,0.51,False,0.26,False,-0.05,False,0.5,False,-0.09,False

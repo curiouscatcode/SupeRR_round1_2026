@@ -1,0 +1,512 @@
+category,phase,role,phase_rank,player_id,player_name,bayesian_metric,phase_rank_exp14_2,bayesian_metric_exp14_2,rank_delta
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,2.0,8,Mahendra Singh Dhoni,179.55,2.0,179.55,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,30.0,152,Ravindra Jadeja,138.76,30.0,138.76,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,54.0,278,Tim Southee,123.08,54.0,123.08,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,29.0,305,Ravichandran Ashwin,138.92,29.0,138.92,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,89.0,360,Bhuvneshwar Kumar,97.64,89.0,97.64,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,66.0,403,Umesh Yadav,115.05,66.0,115.05,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,75.0,479,Adil Rashid,110.83,75.0,110.83,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,41.0,781,Sunil Narine,131.34,41.0,131.34,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,62.0,786,Chris Jordan,119.16,62.0,119.16,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,31.0,796,Matthew Wade,138.29,31.0,138.29,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,22.0,1071,Jaydev Unadkat,141.51,22.0,141.51,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,35.0,1318,Andre Russell,134.53,35.0,134.53,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,55.0,1566,Mohammed Shami,122.02,55.0,122.02,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,25.0,1758,Patrick Cummins,140.71,25.0,140.71,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,81.0,1944,Keshav Maharaj,106.7,81.0,106.7,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,69.0,2261,Harshal Patel,113.8,69.0,113.8,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,56.0,2320,Trent Boult,121.65,56.0,121.65,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,88.0,2399,Dushmantha Chameera,101.31,88.0,101.31,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,6.0,2417,Akeal Hosein,155.78,6.0,155.78,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,10.0,2436,Dasun Shanaka,153.14,10.0,153.14,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,32.0,2490,Mohammad Nawaz,137.34,32.0,137.34,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,53.0,2526,Ish Sodhi,123.08,53.0,123.08,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,4.0,2633,Jason Holder,166.11,4.0,166.11,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,87.0,2636,Adam Zampa,103.37,87.0,103.37,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,14.0,2639,Marcus Stoinis,149.03,14.0,149.03,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,67.0,2681,Taskin Ahmed,114.85,67.0,114.85,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,12.0,2756,Shashank Singh,151.16,12.0,151.16,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,46.0,2847,Shardul Thakur,128.32,46.0,128.32,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,47.0,2876,Axar Patel,127.83,47.0,127.83,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,90.0,3275,Alzarri Joseph,95.62,90.0,95.62,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,38.0,3276,Gudakesh Motie,132.99,38.0,132.99,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,34.0,3281,Mosaddek Hossain,134.94,34.0,134.94,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,51.0,3298,Jofra Archer,124.3,51.0,124.3,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,64.0,3628,Kagiso Rabada,118.16,64.0,118.16,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,57.0,3629,Corbin Bosch,120.78,57.0,120.78,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,91.0,3644,Kuldeep Yadav,95.2,91.0,95.2,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,39.0,3653,Avesh Khan,132.63,39.0,132.63,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,61.0,3697,Kyle Jamieson,119.88,61.0,119.88,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,24.0,3782,M Shahrukh Khan,141.17,24.0,141.17,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,11.0,3926,Rahul Tewatia,151.42,11.0,151.42,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,48.0,4101,Mitchell Santner,125.68,48.0,125.68,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,60.0,4219,Krunal Pandya,119.89,60.0,119.89,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,85.0,4373,Mustafizur Rahman,104.31,85.0,104.31,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,40.0,4639,Wellington Masakadza,131.53,40.0,131.53,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,86.0,4641,Lungi Ngidi,103.7,86.0,103.7,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,1.0,4708,Rinku Singh,186.22,1.0,186.22,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,8.0,4722,Rashid Khan,155.03,8.0,155.03,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,19.0,4823,Washington Sundar,143.24,19.0,143.24,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,76.0,4837,Obed McCoy,110.78,76.0,110.78,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,28.0,4840,Odean Smith,139.04,28.0,139.04,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,70.0,4874,Richard Ngarava,113.76,70.0,113.76,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,68.0,4900,Wanindu Hasaranga,113.8,68.0,113.8,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,3.0,4986,Rovman Powell,166.35,3.0,166.35,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,13.0,5189,Faheem Ashraf,150.19,13.0,150.19,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,18.0,5379,Mark Adair,144.28,18.0,144.28,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,58.0,5441,Barry McCarthy,120.52,58.0,120.52,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,83.0,5944,Mohammed Siraj,105.18,83.0,105.18,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,59.0,6160,Chamika Karunaratne,120.12,59.0,120.12,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,65.0,6161,Rahul Chahar,116.9,65.0,116.9,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,84.0,6355,Shaheen Afridi,104.71,84.0,104.71,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,26.0,6396,Tim David,140.09,26.0,140.09,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,52.0,6450,Mujeeb Ur Rahman,124.02,52.0,124.02,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,36.0,6460,Ayush Badoni,134.2,36.0,134.2,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,79.0,6464,Arshdeep Singh,107.38,79.0,107.38,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,82.0,6523,Blessing Muzarabani,105.73,82.0,105.73,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,42.0,6726,Romario Shepherd,130.61,42.0,130.61,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,92.0,7240,FazalHaq Farooqi,93.53,92.0,93.53,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,33.0,7260,Dhruv Jurel,136.55,33.0,136.55,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,78.0,7270,Anrich Nortje,109.7,78.0,109.7,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,27.0,7325,Harpreet Brar,139.46,27.0,139.46,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,37.0,7344,Shoriful Islam,133.75,37.0,133.75,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,44.0,7364,Haris Rauf,129.85,44.0,129.85,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,15.0,7446,Abdul Samad,147.26,15.0,147.26,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,21.0,7472,Shahbaz Ahmed,141.51,21.0,141.51,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,77.0,7503,Ravi Bishnoi,109.91,77.0,109.91,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,45.0,7741,Gareth Delany,129.54,45.0,129.54,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,23.0,7808,Marco Jansen,141.39,23.0,141.39,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,73.0,7905,Tanzim Sakib,111.82,73.0,111.82,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,72.0,7967,Noor Ahmad,112.46,72.0,112.46,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,7.0,8101,Ashutosh Sharma,155.7,7.0,155.7,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,71.0,8380,Mohammad Rishad Hossain,113.37,71.0,113.37,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,93.0,19316,Maheesh Theekshana,78.51,93.0,78.51,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,16.0,20006,Ramandeep Singh,144.88,16.0,144.88,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,74.0,21784,Brad Evans,110.95,74.0,110.95,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,20.0,22134,Luke Jongwe,141.81,20.0,141.81,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,5.0,25139,Shubham Dubey,156.48,5.0,156.48,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,50.0,27964,Anshul Kamboj,124.66,50.0,124.66,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,63.0,28756,Haider Ali,118.47,63.0,118.47,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,43.0,29066,Zakary Foulkes,130.6,43.0,130.6,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,49.0,29888,Harshit Rana,124.68,49.0,124.68,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,9.0,37052,Naman Dhir,154.51,9.0,154.51,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,80.0,39657,Eshan Malinga,107.04,80.0,107.04,0.0
+Batter_DeathOvers,Death Overs (Overs 16-20),Batter,17.0,46066,Vipraj Nigam,144.75,17.0,144.75,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,86.0,8,Mahendra Singh Dhoni,88.76,86.0,88.76,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,56.0,143,Dinesh Karthik,106.11,56.0,106.11,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,64.0,152,Ravindra Jadeja,103.99,64.0,103.99,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,70.0,360,Bhuvneshwar Kumar,100.14,70.0,100.14,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,76.0,494,Kieron Pollard,96.79,76.0,96.79,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,35.0,838,Glenn Maxwell,112.48,35.0,112.48,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,43.0,1077,David Miller,109.8,43.0,109.8,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,6.0,1101,George Dockrell,132.43,6.0,132.43,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,71.0,1107,Mohammad Nabi,100.1,71.0,100.1,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,53.0,1219,David Willey,106.39,53.0,106.39,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,12.0,1318,Andre Russell,124.38,12.0,124.38,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,18.0,1596,Moeen Ali,120.27,18.0,120.27,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,3.0,1699,Suryakumar Yadav,135.22,3.0,135.22,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,1.0,1758,Patrick Cummins,136.64,1.0,136.64,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,77.0,2261,Harshal Patel,96.48,77.0,96.48,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,8.0,2382,Jamie Overton,129.89,8.0,129.89,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,88.0,2417,Akeal Hosein,86.46,88.0,86.46,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,75.0,2436,Dasun Shanaka,97.18,75.0,97.18,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,13.0,2463,Ryan Burl,124.11,13.0,124.11,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,72.0,2490,Mohammad Nawaz,100.09,72.0,100.09,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,57.0,2633,Jason Holder,106.11,57.0,106.11,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,34.0,2639,Marcus Stoinis,112.49,34.0,112.49,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,69.0,2680,Nurul Hasan,101.26,69.0,101.26,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,23.0,2687,Roston Chase,117.64,23.0,117.64,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,4.0,2756,Shashank Singh,135.05,4.0,135.05,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,55.0,2847,Shardul Thakur,106.23,55.0,106.23,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,19.0,2876,Axar Patel,119.85,19.0,119.85,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,15.0,2877,Vijay Shankar,123.59,15.0,123.59,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,24.0,3056,Iftikhar Ahmed,117.17,24.0,117.17,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,20.0,3125,Nicholas Pooran,119.79,20.0,119.79,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,41.0,3297,Shimron Hetmyer,110.06,41.0,110.06,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,65.0,3298,Jofra Archer,103.42,65.0,103.42,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,37.0,3323,Jimmy Neesham,112.2,37.0,112.2,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,5.0,3330,Hardik Pandya,133.41,5.0,133.41,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,46.0,3605,Aiden Markram,108.67,46.0,108.67,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,48.0,3648,Deepak Hooda,107.48,48.0,107.48,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,58.0,3727,Matthew Short,105.14,58.0,105.14,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,7.0,3782,M Shahrukh Khan,130.97,7.0,130.97,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,14.0,3916,Jitesh Sharma,123.82,14.0,123.82,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,45.0,3926,Rahul Tewatia,109.11,45.0,109.11,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,60.0,4101,Mitchell Santner,104.89,60.0,104.89,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,11.0,4106,Daryl Mitchell,125.1,11.0,125.1,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,59.0,4219,Krunal Pandya,105.11,59.0,105.11,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,10.0,4260,Heinrich Klaasen,125.95,10.0,125.95,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,27.0,4391,Liam Livingstone,115.16,27.0,115.16,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,61.0,4409,Sam Curran,104.48,61.0,104.48,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,92.0,4639,Wellington Masakadza,82.48,92.0,82.48,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,9.0,4703,Rishabh Pant,128.53,9.0,128.53,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,66.0,4708,Rinku Singh,102.81,66.0,102.81,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,38.0,4722,Rashid Khan,111.8,38.0,111.8,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,2.0,4755,Shivam Dube,136.17,2.0,136.17,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,52.0,4773,Jaker Ali Anik,106.72,52.0,106.72,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,68.0,4823,Washington Sundar,102.15,68.0,102.15,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,80.0,4900,Wanindu Hasaranga,94.49,80.0,94.49,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,67.0,4904,Kamindu Mendis,102.34,67.0,102.34,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,40.0,4986,Rovman Powell,111.07,40.0,111.07,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,90.0,5189,Faheem Ashraf,83.46,90.0,83.46,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,63.0,5379,Mark Adair,104.19,63.0,104.19,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,87.0,5837,Mahedi Hasan,87.63,87.0,87.63,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,85.0,6355,Shaheen Afridi,90.61,85.0,90.61,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,21.0,6396,Tim David,119.17,21.0,119.17,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,39.0,6423,Riyan Parag,111.62,39.0,111.62,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,47.0,6460,Ayush Badoni,108.21,47.0,108.21,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,28.0,6628,Gerald Coetzee,114.9,28.0,114.9,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,81.0,6676,Azmatullah Omarzai,94.01,81.0,94.01,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,33.0,6725,Sherfane Rutherford,112.87,33.0,112.87,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,26.0,6726,Romario Shepherd,115.51,26.0,115.51,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,30.0,7059,Nehal Wadhera,114.4,30.0,114.4,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,51.0,7260,Dhruv Jurel,106.79,51.0,106.79,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,31.0,7446,Abdul Samad,114.17,31.0,114.17,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,78.0,7472,Shahbaz Ahmed,95.43,78.0,95.43,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,74.0,7741,Gareth Delany,98.98,74.0,98.98,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,49.0,7808,Marco Jansen,107.46,49.0,107.46,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,25.0,7897,Namboori Tilak Varma,115.89,25.0,115.89,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,83.0,7903,Shamim Hossain,91.6,83.0,91.6,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,79.0,7905,Tanzim Sakib,94.68,79.0,94.68,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,32.0,8101,Ashutosh Sharma,113.07,32.0,113.07,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,54.0,8182,Donovan Ferreira,106.3,54.0,106.3,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,16.0,8221,Nitish Reddy,121.0,16.0,121.0,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,73.0,8295,Matthew Forde,98.99,73.0,98.99,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,29.0,8301,Asif Khan,114.42,29.0,114.42,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,42.0,8380,Mohammad Rishad Hossain,110.01,42.0,110.01,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,50.0,8600,Tadiwanashe Marumani,107.36,50.0,107.36,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,89.0,19316,Maheesh Theekshana,85.26,89.0,85.26,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,44.0,20006,Ramandeep Singh,109.59,44.0,109.59,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,17.0,20702,Tristan Stubbs,120.82,17.0,120.82,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,82.0,21781,Clive Madande,92.26,82.0,92.26,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,62.0,21790,Tashinga Musekiwa,104.47,62.0,104.47,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,84.0,22134,Luke Jongwe,91.23,84.0,91.23,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,91.0,27466,Dhruv Parashar,83.06,91.0,83.06,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,36.0,29888,Harshit Rana,112.33,36.0,112.33,0.0
+Batter_MiddleOvers,Middle Overs (Overs 7-15),Batter,22.0,37052,Naman Dhir,118.8,22.0,118.8,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,27.0,47,Virat Kohli,113.41,27.0,113.41,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,55.0,126,Rohit Sharma,95.79,55.0,95.79,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,33.0,167,Ajinkya Rahane,109.68,33.0,109.68,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,59.0,220,David Warner,91.86,59.0,91.86,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,9.0,768,Reeza Hendricks,126.51,9.0,126.51,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,12.0,772,Rilee Rossouw,123.08,12.0,123.08,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,18.0,813,Jos Buttler,118.76,18.0,118.76,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,28.0,818,Mitchell Marsh,112.91,28.0,112.91,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,4.0,838,Glenn Maxwell,133.34,4.0,133.34,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,40.0,953,Lokesh Rahul,104.66,40.0,104.66,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,60.0,1077,David Miller,90.11,60.0,90.11,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,52.0,1440,Rahul Tripathi,97.37,52.0,97.37,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,15.0,1699,Suryakumar Yadav,119.62,15.0,119.62,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,25.0,2101,Quinton de Kock,114.71,25.0,114.71,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,35.0,2258,Sanju Samson,107.52,35.0,107.52,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,32.0,2367,Travis Head,111.64,32.0,111.64,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,8.0,2639,Marcus Stoinis,127.96,8.0,127.96,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,22.0,2671,Liton Das,117.05,22.0,117.05,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,30.0,2876,Axar Patel,112.13,30.0,112.13,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,49.0,2921,Fakhar Zaman,100.01,49.0,100.01,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,26.0,2984,Sikandar Raza,114.29,26.0,114.29,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,2.0,3125,Nicholas Pooran,142.46,2.0,142.46,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,11.0,3297,Shimron Hetmyer,124.5,11.0,124.5,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,45.0,3330,Hardik Pandya,101.34,45.0,101.34,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,63.0,3374,Mark Chapman,81.71,63.0,81.71,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,62.0,3489,Salman Agha,85.37,62.0,85.37,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,44.0,3605,Aiden Markram,101.62,44.0,101.62,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,47.0,3639,Brandon King,101.26,47.0,101.26,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,3.0,3647,Shreyas Iyer,136.85,3.0,136.85,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,38.0,3648,Deepak Hooda,106.82,38.0,106.82,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,37.0,4007,Ryan Rickelton,106.9,37.0,106.9,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,19.0,4106,Daryl Mitchell,118.48,19.0,118.48,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,20.0,4117,Ishan Kishan,117.86,20.0,117.86,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,17.0,4246,Nitish Rana,119.17,17.0,119.17,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,53.0,4260,Heinrich Klaasen,96.26,53.0,96.26,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,21.0,4369,Shai Hope,117.21,21.0,117.21,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,54.0,4409,Sam Curran,96.16,54.0,96.16,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,5.0,4703,Rishabh Pant,129.22,5.0,129.22,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,6.0,4736,Josh Inglis,128.41,6.0,128.41,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,43.0,4812,Harry Tector,102.57,43.0,102.57,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,48.0,4853,Glenn Phillips,101.17,48.0,101.17,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,42.0,4986,Rovman Powell,103.58,42.0,103.58,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,31.0,5553,Phil Salt,111.89,31.0,111.89,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,1.0,5939,Cameron Green,143.52,1.0,143.52,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,51.0,6059,Ruturaj Gaikwad,98.81,51.0,98.81,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,46.0,6280,Harry Brook,101.32,46.0,101.32,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,34.0,6281,Abhishek Sharma,108.07,34.0,108.07,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,23.0,6288,Shubman Gill,115.2,23.0,115.2,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,10.0,6423,Riyan Parag,126.14,10.0,126.14,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,57.0,6460,Ayush Badoni,94.81,57.0,94.81,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,61.0,6651,Towhid Hridoy,85.72,61.0,85.72,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,56.0,6674,Rahmanullah Gurbaz,95.07,56.0,95.07,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,24.0,6819,Yashasvi Jaiswal,115.05,24.0,115.05,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,39.0,6931,Pathum Nissanka,105.21,39.0,105.21,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,41.0,7216,Prabhsimran Singh,104.55,41.0,104.55,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,7.0,7260,Dhruv Jurel,128.01,7.0,128.01,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,36.0,7544,Venkatesh Iyer,107.51,36.0,107.51,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,14.0,7897,Namboori Tilak Varma,121.43,14.0,121.43,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,29.0,8221,Nitish Reddy,112.35,29.0,112.35,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,50.0,19714,Abishek Porel,98.81,50.0,98.81,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,16.0,20702,Tristan Stubbs,119.39,16.0,119.39,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,13.0,23450,Sai Sudharsan,122.45,13.0,122.45,0.0
+Batter_Powerplay,Powerplay (Overs 1-6),Batter,58.0,25213,Dewald Brevis,93.03,58.0,93.03,0.0
+Bowler_DeathOvers,,,,278,,,4.0,6.92,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,12.0,360,Bhuvneshwar Kumar,8.52,28.0,8.39,16.0
+Bowler_DeathOvers,,,,786,,,7.0,7.09,
+Bowler_DeathOvers,,,,829,,,33.0,8.93,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,5.0,830,Josh Hazlewood,7.6,18.0,7.98,13.0
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,16.0,1318,Andre Russell,9.1,36.0,9.05,20.0
+Bowler_DeathOvers,,,,1612,,,14.0,7.82,
+Bowler_DeathOvers,,,,1758,,,26.0,8.29,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,15.0,2261,Harshal Patel,8.78,35.0,8.94,20.0
+Bowler_DeathOvers,,,,2315,,,34.0,8.93,
+Bowler_DeathOvers,,,,2320,,,22.0,8.09,
+Bowler_DeathOvers,,,,2411,,,16.0,7.89,
+Bowler_DeathOvers,,,,2633,,,32.0,8.77,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,4.0,2847,Shardul Thakur,7.39,10.0,7.3,6.0
+Bowler_DeathOvers,,,,2876,,,40.0,9.32,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,1.0,2878,Mohit Sharma,6.86,24.0,8.22,23.0
+Bowler_DeathOvers,,,,2933,,,3.0,6.82,
+Bowler_DeathOvers,,,,3628,,,42.0,9.91,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,9.0,3653,Avesh Khan,8.03,41.0,9.51,32.0
+Bowler_DeathOvers,,,,4373,,,12.0,7.67,
+Bowler_DeathOvers,,,,4409,,,25.0,8.25,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,2.0,4489,Prasidh Krishna,7.12,9.0,7.26,7.0
+Bowler_DeathOvers,,,,4641,,,20.0,8.06,
+Bowler_DeathOvers,,,,4692,,,19.0,8.04,
+Bowler_DeathOvers,,,,4722,,,15.0,7.86,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,14.0,5041,Mukesh Kumar,8.71,37.0,9.12,23.0
+Bowler_DeathOvers,,,,5809,,,11.0,7.44,
+Bowler_DeathOvers,,,,5944,,,2.0,6.7,
+Bowler_DeathOvers,,,,6256,,,5.0,7.07,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,3.0,6287,Yash Thakur,7.36,6.0,7.07,3.0
+Bowler_DeathOvers,,,,6355,,,21.0,8.06,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,6.0,6464,Arshdeep Singh,7.64,23.0,8.14,17.0
+Bowler_DeathOvers,,,,6676,,,13.0,7.74,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,13.0,6726,Romario Shepherd,8.66,30.0,8.56,17.0
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,10.0,6806,Tushar Deshpande,8.2,39.0,9.29,29.0
+Bowler_DeathOvers,,,,7240,,,17.0,7.9,
+Bowler_DeathOvers,,,,7322,,,8.0,7.12,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,7.0,7327,Rasikh Salam,7.91,31.0,8.59,24.0
+Bowler_DeathOvers,,,,7364,,,27.0,8.32,
+Bowler_DeathOvers,,,,7503,,,38.0,9.24,
+Bowler_DeathOvers,,,,7808,,,43.0,10.28,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,8.0,7920,Nathan Ellis,8.0,,,
+Bowler_DeathOvers,Death Overs (Overs 16-20),Bowler,11.0,8661,Matheesha Pathirana,8.33,29.0,8.52,18.0
+Bowler_DeathOvers,,,,19316,,,1.0,6.6,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,27.0,23,Piyush Chawla,8.53,52.0,9.25,25.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,26.0,152,Ravindra Jadeja,8.53,4.0,7.48,-22.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,2.0,305,Ravichandran Ashwin,7.06,1.0,7.27,-1.0
+Bowler_MiddleOvers,,,,360,,,62.0,9.44,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,21.0,479,Adil Rashid,8.36,27.0,8.46,6.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,4.0,781,Sunil Narine,7.38,7.0,7.79,3.0
+Bowler_MiddleOvers,,,,829,,,22.0,8.33,
+Bowler_MiddleOvers,,,,830,,,71.0,9.65,
+Bowler_MiddleOvers,,,,1071,,,54.0,9.28,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,59.0,1107,Mohammad Nabi,9.48,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,65.0,1318,Andre Russell,9.7,83.0,10.19,18.0
+Bowler_MiddleOvers,,,,1566,,,90.0,10.72,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,54.0,1612,Yuzvendra Chahal,9.32,43.0,9.15,-11.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,32.0,1758,Patrick Cummins,8.62,20.0,8.29,-12.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,11.0,1944,Keshav Maharaj,7.77,8.0,7.81,-3.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,58.0,2261,Harshal Patel,9.44,75.0,9.73,17.0
+Bowler_MiddleOvers,,,,2315,,,60.0,9.44,
+Bowler_MiddleOvers,,,,2320,,,81.0,9.99,
+Bowler_MiddleOvers,,,,2399,,,70.0,9.64,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,28.0,2417,Akeal Hosein,8.56,38.0,8.97,10.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,38.0,2436,Dasun Shanaka,8.81,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,5.0,2490,Mohammad Nawaz,7.45,11.0,7.91,6.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,50.0,2526,Ish Sodhi,9.24,55.0,9.31,5.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,8.0,2633,Jason Holder,7.65,23.0,8.35,15.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,70.0,2636,Adam Zampa,10.01,85.0,10.21,15.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,67.0,2639,Marcus Stoinis,9.73,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,14.0,2687,Roston Chase,7.84,9.0,7.85,-5.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,49.0,2847,Shardul Thakur,9.22,68.0,9.59,19.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,10.0,2876,Axar Patel,7.71,5.0,7.53,-5.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,25.0,2878,Mohit Sharma,8.44,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,24.0,2933,Jasprit Bumrah,8.41,25.0,8.38,1.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,6.0,2984,Sikandar Raza,7.6,2.0,7.32,-4.0
+Bowler_MiddleOvers,,,,3174,,,63.0,9.45,
+Bowler_MiddleOvers,,,,3275,,,79.0,9.91,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,12.0,3276,Gudakesh Motie,7.82,12.0,7.92,0.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,39.0,3298,Jofra Archer,8.87,18.0,8.16,-21.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,43.0,3330,Hardik Pandya,9.03,30.0,8.74,-13.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,73.0,3605,Aiden Markram,10.9,91.0,10.84,18.0
+Bowler_MiddleOvers,,,,3628,,,78.0,9.81,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,18.0,3644,Kuldeep Yadav,8.21,13.0,7.96,-5.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,7.0,3653,Avesh Khan,7.61,17.0,8.13,10.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,41.0,3697,Kyle Jamieson,8.96,67.0,9.52,26.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,40.0,4101,Mitchell Santner,8.92,26.0,8.44,-14.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,20.0,4219,Krunal Pandya,8.35,16.0,8.03,-4.0
+Bowler_MiddleOvers,,,,4237,,,58.0,9.32,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,34.0,4265,T Natarajan,8.7,72.0,9.67,38.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,71.0,4391,Liam Livingstone,10.01,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,66.0,4409,Sam Curran,9.72,86.0,10.25,20.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,35.0,4487,Vyshak Kumar,8.74,76.0,9.74,41.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,47.0,4489,Prasidh Krishna,9.21,35.0,8.88,-12.0
+Bowler_MiddleOvers,,,,4636,,,24.0,8.36,
+Bowler_MiddleOvers,,,,4641,,,49.0,9.22,
+Bowler_MiddleOvers,,,,4692,,,44.0,9.17,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,9.0,4722,Rashid Khan,7.69,10.0,7.85,1.0
+Bowler_MiddleOvers,,,,4815,,,92.0,11.1,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,53.0,4824,Zeeshan Ansari,9.32,73.0,9.68,20.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,3.0,4900,Wanindu Hasaranga,7.38,31.0,8.8,28.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,69.0,4926,Shadab Khan,9.88,15.0,8.01,-54.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,55.0,5577,Sai Kishore,9.34,89.0,10.41,34.0
+Bowler_MiddleOvers,,,,5939,,,69.0,9.61,
+Bowler_MiddleOvers,,,,5944,,,47.0,9.21,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,19.0,5979,Abrar Ahmed,8.32,6.0,7.73,-13.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,16.0,6161,Rahul Chahar,8.08,29.0,8.65,13.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,68.0,6256,Varun Chakravarthy,9.75,53.0,9.25,-15.0
+Bowler_MiddleOvers,,,,6450,,,45.0,9.2,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,45.0,6464,Arshdeep Singh,9.1,77.0,9.75,32.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,36.0,6512,Michael Bracewell,8.79,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,57.0,6628,Gerald Coetzee,9.4,,,
+Bowler_MiddleOvers,,,,6669,,,59.0,9.43,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,72.0,6683,Mayank Markande,10.17,61.0,9.44,-11.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,23.0,6726,Romario Shepherd,8.39,57.0,9.31,34.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,42.0,6806,Tushar Deshpande,8.97,42.0,9.13,0.0
+Bowler_MiddleOvers,,,,7240,,,80.0,9.99,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,30.0,7270,Anrich Nortje,8.57,39.0,9.0,9.0
+Bowler_MiddleOvers,,,,7312,,,87.0,10.37,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,13.0,7325,Harpreet Brar,7.84,14.0,7.99,1.0
+Bowler_MiddleOvers,,,,7327,,,64.0,9.5,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,46.0,7472,Shahbaz Ahmed,9.15,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,48.0,7503,Ravi Bishnoi,9.21,65.0,9.5,17.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,37.0,7574,Kumar Kartikeya Singh,8.8,,,
+Bowler_MiddleOvers,,,,7699,,,36.0,8.89,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,63.0,7808,Marco Jansen,9.7,82.0,10.01,19.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,31.0,7967,Noor Ahmad,8.59,3.0,7.39,-28.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,62.0,8221,Nitish Reddy,9.68,56.0,9.31,-6.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,33.0,8380,Mohammad Rishad Hossain,8.69,48.0,9.22,15.0
+Bowler_MiddleOvers,,,,8530,,,46.0,9.2,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,15.0,8661,Matheesha Pathirana,7.94,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,1.0,19316,Maheesh Theekshana,6.89,19.0,8.29,18.0
+Bowler_MiddleOvers,,,,22471,,,21.0,8.33,
+Bowler_MiddleOvers,,,,22920,,,84.0,10.19,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,22.0,24475,Rehan Ahmed,8.38,,,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,64.0,25048,Umran Malik,9.7,37.0,8.93,-27.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,61.0,25138,Harsh Dubey,9.56,66.0,9.51,5.0
+Bowler_MiddleOvers,,,,29888,,,88.0,10.38,
+Bowler_MiddleOvers,,,,32862,,,34.0,8.87,
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,56.0,36982,Suyash Sharma,9.39,50.0,9.22,-6.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,17.0,39657,Eshan Malinga,8.14,28.0,8.6,11.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,29.0,41503,Yash Punja,8.57,33.0,8.85,4.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,60.0,46066,Vipraj Nigam,9.49,41.0,9.12,-19.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,51.0,56817,Shivang Kumar,9.25,51.0,9.24,0.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,52.0,58134,Digvesh Rathi,9.3,40.0,9.05,-12.0
+Bowler_MiddleOvers,Middle Overs (Overs 7-15),Bowler,44.0,58246,Prince Yadav,9.04,74.0,9.69,30.0
+Bowler_MiddleOvers,,,,67036,,,32.0,8.8,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,93.0,28,Ishant Sharma,10.07,70.0,9.95,-23.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,2.0,278,Tim Southee,7.31,2.0,7.18,0.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,31.0,305,Ravichandran Ashwin,8.77,24.0,8.6,-7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,21.0,332,Angelo Mathews,8.51,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,23.0,360,Bhuvneshwar Kumar,8.52,16.0,8.44,-7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,18.0,403,Umesh Yadav,8.42,31.0,8.84,13.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,88.0,781,Sunil Narine,9.95,17.0,8.51,-71.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,106.0,829,Mitchell Starc,10.45,80.0,10.29,-26.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,22.0,830,Josh Hazlewood,8.52,15.0,8.37,-7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,50.0,838,Glenn Maxwell,9.24,56.0,9.49,6.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,80.0,1071,Jaydev Unadkat,9.82,55.0,9.43,-25.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,30.0,1171,Chris Woakes,8.77,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,115.0,1487,Adam Milne,12.27,95.0,12.05,-20.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,73.0,1566,Mohammed Shami,9.73,37.0,9.03,-36.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,64.0,1596,Moeen Ali,9.46,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,113.0,1758,Patrick Cummins,11.35,91.0,10.77,-22.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,57.0,1813,Deepak Chahar,9.37,60.0,9.58,3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,114.0,2261,Harshal Patel,11.75,93.0,11.0,-21.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,54.0,2315,Reece Topley,9.33,43.0,9.12,-11.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,6.0,2320,Trent Boult,7.74,6.0,7.77,0.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,83.0,2399,Dushmantha Chameera,9.88,87.0,10.49,4.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,51.0,2411,Sandeep Sharma,9.24,41.0,9.09,-10.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,45.0,2417,Akeal Hosein,9.16,52.0,9.32,7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,76.0,2490,Mohammad Nawaz,9.75,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,100.0,2633,Jason Holder,10.17,63.0,9.63,-37.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,44.0,2681,Taskin Ahmed,9.14,21.0,8.57,-23.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,66.0,2687,Roston Chase,9.57,74.0,10.11,8.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,104.0,2847,Shardul Thakur,10.3,75.0,10.12,-29.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,20.0,2876,Axar Patel,8.51,23.0,8.6,3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,5.0,2933,Jasprit Bumrah,7.73,5.0,7.58,0.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,41.0,2985,Mark Wood,8.99,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,63.0,3174,Matt Henry,9.43,77.0,10.17,14.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,84.0,3275,Alzarri Joseph,9.88,61.0,9.59,-23.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,71.0,3298,Jofra Archer,9.68,42.0,9.12,-29.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,85.0,3330,Hardik Pandya,9.9,48.0,9.25,-37.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,37.0,3628,Kagiso Rabada,8.93,36.0,8.93,-1.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,74.0,3653,Avesh Khan,9.74,68.0,9.88,-6.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,78.0,3660,Luke Wood,9.77,81.0,10.36,3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,112.0,3697,Kyle Jamieson,11.34,94.0,11.17,-18.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,47.0,4101,Mitchell Santner,9.2,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,35.0,4219,Krunal Pandya,8.87,18.0,8.51,-17.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,89.0,4265,T Natarajan,9.97,79.0,10.26,-10.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,32.0,4373,Mustafizur Rahman,8.79,28.0,8.76,-4.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,67.0,4409,Sam Curran,9.58,64.0,9.65,-3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,40.0,4489,Prasidh Krishna,8.96,39.0,9.06,-1.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,12.0,4641,Lungi Ngidi,8.13,8.0,7.91,-4.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,1.0,4658,Nasum Ahmed,7.1,4.0,7.42,3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,48.0,4692,Lockie Ferguson,9.2,33.0,8.87,-15.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,61.0,4722,Rashid Khan,9.39,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,25.0,4816,Khaleel Ahmed,8.67,49.0,9.26,24.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,111.0,4823,Washington Sundar,10.95,92.0,10.9,-19.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,9.0,4874,Richard Ngarava,7.95,7.0,7.88,-2.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,82.0,5041,Mukesh Kumar,9.87,76.0,10.16,-6.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,3.0,5379,Mark Adair,7.39,1.0,6.86,-2.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,36.0,5738,Xavier Bartlett,8.89,45.0,9.15,9.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,109.0,5809,Naveen ul Haq,10.7,90.0,10.69,-19.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,17.0,5837,Mahedi Hasan,8.35,20.0,8.57,3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,42.0,5944,Mohammed Siraj,9.0,50.0,9.3,8.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,69.0,6256,Varun Chakravarthy,9.63,66.0,9.77,-3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,87.0,6284,Anukul Roy,9.95,84.0,10.42,-3.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,98.0,6287,Yash Thakur,10.13,86.0,10.47,-12.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,56.0,6354,Spencer Johnson,9.37,88.0,10.51,32.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,4.0,6355,Shaheen Afridi,7.63,13.0,8.23,9.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,7.0,6450,Mujeeb Ur Rahman,7.77,14.0,8.35,7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,70.0,6464,Arshdeep Singh,9.64,65.0,9.73,-5.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,75.0,6512,Michael Bracewell,9.74,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,15.0,6523,Blessing Muzarabani,8.27,34.0,8.89,19.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,96.0,6628,Gerald Coetzee,10.1,47.0,9.23,-49.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,59.0,6669,Mohsin Khan,9.37,9.0,7.94,-50.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,110.0,6671,Lalit Yadav,10.88,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,43.0,6676,Azmatullah Omarzai,9.09,22.0,8.59,-21.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,86.0,6726,Romario Shepherd,9.91,67.0,9.79,-19.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,33.0,6806,Tushar Deshpande,8.84,26.0,8.7,-7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,29.0,7240,FazalHaq Farooqi,8.75,54.0,9.35,25.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,77.0,7250,Mukesh Choudhary,9.76,30.0,8.8,-47.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,105.0,7270,Anrich Nortje,10.37,59.0,9.58,-46.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,46.0,7312,Nandre Burger,9.17,19.0,8.52,-27.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,107.0,7322,Yash Dayal,10.55,58.0,9.56,-49.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,19.0,7325,Harpreet Brar,8.44,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,72.0,7327,Rasikh Salam,9.72,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,10.0,7344,Shoriful Islam,7.99,11.0,7.97,1.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,16.0,7364,Haris Rauf,8.33,10.0,7.95,-6.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,49.0,7472,Shahbaz Ahmed,9.23,32.0,8.84,-17.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,108.0,7473,Akash Deep,10.59,89.0,10.64,-19.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,28.0,7503,Ravi Bishnoi,8.7,35.0,8.9,7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,8.0,7533,Simarjeet Singh,7.87,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,62.0,7689,Dilshan Madushanka,9.4,53.0,9.33,-9.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,26.0,7690,Saim Ayub,8.67,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,94.0,7808,Marco Jansen,10.07,85.0,10.43,-9.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,55.0,7896,Akash Singh,9.33,62.0,9.61,7.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,91.0,7905,Tanzim Sakib,10.03,83.0,10.37,-8.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,27.0,7920,Nathan Ellis,8.68,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,39.0,8009,Junaid Siddique,8.96,29.0,8.78,-10.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,65.0,8049,Naseem Shah,9.49,57.0,9.52,-8.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,95.0,8141,Auqib Nabi,10.1,72.0,10.04,-23.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,68.0,8221,Nitish Reddy,9.62,38.0,9.06,-30.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,24.0,8295,Matthew Forde,8.55,51.0,9.31,27.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,99.0,8530,Kartik Tyagi,10.16,78.0,10.18,-21.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,58.0,8746,Vaibhav Arora,9.37,46.0,9.19,-12.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,38.0,19312,Nuwan Thushara,8.95,27.0,8.74,-11.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,11.0,19316,Maheesh Theekshana,8.13,25.0,8.65,14.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,97.0,20005,Arshad Khan,10.12,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,13.0,21784,Brad Evans,8.21,12.0,8.14,-1.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,102.0,22920,Jacob Duffy,10.18,71.0,10.0,-31.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,52.0,25138,Harsh Dubey,9.31,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,79.0,27960,Mayank Yadav,9.82,44.0,9.13,-35.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,92.0,27964,Anshul Kamboj,10.05,69.0,9.93,-23.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,14.0,29888,Harshit Rana,8.24,3.0,7.32,-11.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,53.0,32862,Allah Ghazanfar,9.32,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,90.0,35318,Sakib Hussain,9.99,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,34.0,38855,Mohammad Saifuddin,8.84,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,81.0,39657,Eshan Malinga,9.83,82.0,10.36,1.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,116.0,47050,Shamar Joseph,12.44,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,60.0,58134,Digvesh Rathi,9.38,40.0,9.09,-20.0
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,103.0,58246,Prince Yadav,10.18,,,
+Bowler_Powerplay,Powerplay (Overs 1-6),Bowler,101.0,67036,Brijesh Sharma,10.17,73.0,10.09,-28.0

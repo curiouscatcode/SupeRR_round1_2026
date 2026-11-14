@@ -1,0 +1,11 @@
+candidate_col,total_evaluated,step_16_6_hp_count,recalculated_hp_count,mismatch_count,concordance_pct
+hp_cand0_bat,180839,32708,32708,0,100.0
+hp_cand1a_bat,180839,29655,29655,0,100.0
+hp_cand1b_bat,180839,23102,23102,0,100.0
+hp_cand2_bat,180839,31681,31681,0,100.0
+hp_cand3_bat,180839,24157,24157,0,100.0
+hp_cand0_bowl,180041,31550,31550,0,100.0
+hp_cand1a_bowl,180041,29083,29083,0,100.0
+hp_cand1b_bowl,180041,24148,24148,0,100.0
+hp_cand2_bowl,180041,28655,28655,0,100.0
+hp_cand3_bowl,180041,24606,24606,0,100.0

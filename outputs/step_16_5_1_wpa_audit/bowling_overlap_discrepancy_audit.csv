@@ -1,0 +1,4 @@
+phase,legal_balls,hp_balls,hp_pct,hl_balls_at_114,hl_pct_at_114,overlap_at_114,overlap_pct_of_hp_at_114,hl_balls_at_150,hl_pct_at_150,overlap_at_150,overlap_pct_of_hp_at_150,mean_leverage,mean_abs_wpa
+PP,56796,10231,18.01,45787,80.62,7598,74.26,19679,34.65,3720,36.36,1.402,1.39
+Middle,83786,14475,17.28,22691,27.08,3686,25.46,18189,21.71,3037,20.98,1.111,1.085
+Death,39459,6844,17.34,21832,55.33,1632,23.85,7627,19.33,431,6.3,1.722,1.713

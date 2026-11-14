@@ -1,0 +1,4 @@
+bowling_phase,total_legal_balls,pct_of_all_balls,hp_bowling_balls,hp_bowling_capture_pct,high_leverage_balls_count,high_leverage_pct,hp_and_high_leverage_overlap_count,overlap_pct_of_hp,overlap_pct_of_high_leverage,mean_expected_leverage,median_expected_leverage,iqr_expected_leverage,mean_bowler_wpa,median_bowler_wpa,mean_absolute_wpa,median_absolute_wpa
+PP,56796,31.55,10231,18.01,45640,80.36,7565,73.94,16.58,1.4,1.32,1.20-1.73,-0.034,0.03,1.39,0.68
+Middle,83786,46.54,14475,17.28,22632,27.01,3680,25.42,16.26,1.11,0.97,0.78-1.28,0.059,0.013,1.09,0.4
+Death,39459,21.92,6844,17.34,21715,55.03,1621,23.68,7.46,1.72,1.2,0.74-1.36,0.083,-0.0,1.71,0.53

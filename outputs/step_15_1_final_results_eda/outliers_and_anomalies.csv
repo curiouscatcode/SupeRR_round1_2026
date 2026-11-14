@@ -1,0 +1,25 @@
+discipline,player_id,player_name,tier,tier_rank,score,sample_deliveries,matches,anomaly_category,details
+Batting,2382,Jamie Overton,Tier 1: Qualified,7.0,78.19,59,14,High Score with Boundary Sample (N in 50-65),"BRS3=78.19, N=59, M=14, SR*=145.0, Diff*=+16.1"
+Bowling,278,Tim Southee,Tier 1: Qualified,1.0,90.69,64,19,High Score with Boundary Sample (N in 50-65),"BoRS=90.69, N=64, M=19, Econ*=6.87, Dot*=49.7%"
+Bowling,4658,Nasum Ahmed,Tier 1: Qualified,2.0,88.84,55,10,High Score with Boundary Sample (N in 50-65),"BoRS=88.84, N=55, M=10, Econ*=6.43, Dot*=52.1%"
+Batting,6651,Towhid Hridoy,Tier 1: Qualified,70.0,54.99,68,14,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=4.7% (Score 82.4) but SR*=108.5 (Score 35.6)
+Batting,3629,Corbin Bosch,Tier 1: Qualified,75.0,53.95,52,12,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=4.5% (Score 84.4) but SR*=109.8 (Score 37.3)
+Batting,7472,Shahbaz Ahmed,Tier 1: Qualified,76.0,53.22,103,26,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.6% (Score 75.3) but SR*=110.5 (Score 38.1)
+Batting,2680,Nurul Hasan,Tier 1: Qualified,78.0,52.71,72,15,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=4.5% (Score 83.7) but SR*=107.4 (Score 34.2)
+Batting,6460,Ayush Badoni,Tier 1: Qualified,79.0,52.6,119,29,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.1% (Score 79.6) but SR*=111.8 (Score 39.8)
+Batting,7741,Gareth Delany,Tier 1: Qualified,80.0,52.53,77,22,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.2% (Score 78.8) but SR*=110.3 (Score 37.8)
+Batting,1077,David Miller,Tier 1: Qualified,87.0,49.67,201,43,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=4.6% (Score 83.2) but SR*=110.0 (Score 37.5)
+Batting,3374,Mark Chapman,Tier 1: Qualified,95.0,47.47,58,19,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=4.2% (Score 86.3) but SR*=103.7 (Score 29.7)
+Batting,2258,Sanju Samson,Tier 1: Qualified,105.0,44.32,91,50,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.3% (Score 77.2) but SR*=106.4 (Score 33.0)
+Batting,27466,Dhruv Parashar,Tier 1: Qualified,114.0,39.85,54,9,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.3% (Score 77.4) but SR*=91.4 (Score 14.2)
+Batting,4641,Lungi Ngidi,Tier 1: Qualified,120.0,37.88,59,15,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.1% (Score 79.3) but SR*=94.5 (Score 18.1)
+Batting,25213,Dewald Brevis,Tier 1: Qualified,133.0,33.47,54,18,Ultra Anchor / Sub-Par Acceleration Conflict,Out*=5.3% (Score 77.4) but SR*=91.4 (Score 14.2)
+Bowling,5379,Mark Adair,Tier 1: Qualified,6.0,74.7,71,17,Elite Economy / Low Wicket Strike Conflict,Econ*=6.87 (Score 85.6) but Wk*=4.5% (Score 39.6)
+Bowling,19316,Maheesh Theekshana,Tier 1: Qualified,14.0,65.45,219,44,Elite Economy / Low Wicket Strike Conflict,Econ*=7.28 (Score 78.6) but Wk*=4.2% (Score 36.5)
+Bowling,2933,Jasprit Bumrah,Tier 1: Qualified,28.0,59.29,168,31,Elite Economy / Low Wicket Strike Conflict,Econ*=7.42 (Score 76.4) but Wk*=3.4% (Score 25.3)
+Bowling,7250,Mukesh Choudhary,Tier 1: Qualified,22.0,61.26,88,17,Wicket-Taker / Expensive Economy Conflict,Wk*=7.5% (Score 80.6) but Econ*=9.63 (Score 39.5)
+Bowling,6628,Gerald Coetzee,Tier 1: Qualified,31.0,58.83,84,15,Wicket-Taker / Expensive Economy Conflict,Wk*=7.8% (Score 83.6) but Econ*=9.65 (Score 39.2)
+Bowling,22920,Jacob Duffy,Tier 1: Qualified,39.0,57.6,127,27,Wicket-Taker / Expensive Economy Conflict,Wk*=8.7% (Score 96.1) but Econ*=9.75 (Score 37.6)
+Bowling,7503,Ravi Bishnoi,Tier 1: Qualified,41.0,57.12,231,39,Wicket-Taker / Expensive Economy Conflict,Wk*=7.6% (Score 81.6) but Econ*=9.06 (Score 48.9)
+Bowling,32862,Allah Ghazanfar,Tier 1: Qualified,46.0,56.24,51,7,Wicket-Taker / Expensive Economy Conflict,Wk*=7.3% (Score 77.8) but Econ*=9.18 (Score 47.0)
+Bowling,5577,Sai Kishore,Tier 1: Qualified,59.0,51.67,80,11,Wicket-Taker / Expensive Economy Conflict,Wk*=8.0% (Score 86.8) but Econ*=9.67 (Score 38.9)

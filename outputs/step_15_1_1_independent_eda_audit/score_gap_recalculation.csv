@@ -1,0 +1,5 @@
+comparison,player_a,player_b,reported_gap,audited_exact_gap,discrepancy,verdict
+Batting Rank 1 (Dhoni) vs Rank 2 (Dube),MS Dhoni (93.2062),Shivam Dube (82.0110),11.2,11.1952,0.0048,Verified (exact rounding)
+Bowling Rank 1 (Southee) vs Rank 2 (Nasum),Tim Southee (90.6924),Nasum Ahmed (88.8416),1.85,1.8509,-0.0009,Verified (exact rounding)
+Bowling Rank 2 (Nasum) vs Rank 3 (Maharaj),Nasum Ahmed (88.8416),Keshav Maharaj (79.9386),8.9,8.903,-0.003,Verified (exact rounding)
+Batting Median Consecutive Rank Gap (Ranks 20-80),"Rank 20 (Sai Sudharsan, 68.3037)","Rank 80 (Gareth Delany, 52.5284)",0.18,0.159,0.021,Minor Overstatement (Actual 0.1590 vs Reported 0.18)
