@@ -1,0 +1,6 @@
+case_label,match_id,innings,over_ball,state,pre_wp,T_bat,T_bowl,raw_L,L_norm,P_bat,P_bowl
+Powerplay Opening Ball,13511,1,1.1,"Score=0/0, BallsRem=120, Req=nan",0.5251,50.0,52.06,0.01237,83.34,64.55,65.87
+Middle Overs Collapse,13511,1,4.1,"Score=10/3, BallsRem=102, Req=nan",0.2663,78.68,22.44,0.00934,28.25,47.14,25.18
+Death Climax Finish,13512,2,20.8,"Score=162/8, BallsRem=1, Req=10.0",0.0,99.96,0.26,0.0,0.11,3.34,0.17
+Comfortable Chase,17558,2,15.1,"Score=166/2, BallsRem=36, Req=4.0",0.9992,14.63,87.08,0.00026,3.27,6.92,16.88
+Impossible Blowout,13514,2,19.1,"Score=142/5, BallsRem=12, Req=52.0",0.0011,98.64,2.95,0.00052,4.83,21.83,3.77

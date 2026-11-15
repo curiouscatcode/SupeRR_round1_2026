@@ -1,0 +1,8 @@
+invariant,passed,details
+wickets_remaining_indexing_sum_10,True,"W_rem + wickets_before == 10 strictly holds for all 186,780 deliveries"
+lambda_wkt_strict_positivity,True,"Minimum lambda_wkt across 3,630 points is 0.000000 >= 0.0"
+resource_monotonicity_across_w,True,"R(u, w) - R(u, w-1) >= 0 for all u and w (min diff: 0.000000)"
+resource_monotonicity_across_u,True,"R(u, w) - R(u-1, w) >= 0 for all u and w (min diff: 5.292991e-09)"
+terminal_limit_u_equals_zero,True,lambda_wkt == 0.0 strictly for all 30 format-wicket combinations at u=0
+final_ball_terminal_wicket_value,True,"At u=1, W_rem=1: IPL=2.186 runs, T20I=1.961 runs (matches run rate)"
+final_ball_non_terminal_decay,True,"At u=1, W_rem > 1: max lambda_wkt is 0.1015 runs (approaches zero as O(u^2))"

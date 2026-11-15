@@ -1,0 +1,68 @@
+{
+  "calibration_matches": 782,
+  "innings_1_deliveries": 97443,
+  "ipl_parameters": {
+    "b": 2.313963936440232,
+    "Z0": [
+      20.1,
+      23.1,
+      38.67,
+      61.84,
+      106.81,
+      129.82,
+      177.35,
+      219.35,
+      261.37,
+      322.66
+    ],
+    "rmse": 22.054321651930195
+  },
+  "t20i_parameters": {
+    "b": 2.1277866207280813,
+    "Z0": [
+      12.83,
+      33.82,
+      53.25,
+      72.58,
+      107.35,
+      145.68,
+      172.18,
+      216.63,
+      258.67,
+      292.87
+    ],
+    "rmse": 24.084778591507074
+  },
+  "pooled_parameters": {
+    "b": 2.24001824284192,
+    "Z0": [
+      16.48,
+      27.32,
+      45.58,
+      66.43,
+      104.1,
+      135.05,
+      169.79,
+      212.1,
+      253.79,
+      301.41
+    ],
+    "rmse": 23.501479061140135
+  },
+  "cross_validation_results": {
+    "format_stratified_dls_rmse": 23.280489456254703,
+    "format_stratified_dls_mae": 16.757928317788295,
+    "format_stratified_dls_bias": -0.04540895841139272,
+    "pooled_dls_rmse": 23.523383495755773,
+    "pooled_dls_mae": 16.99799704569037,
+    "pooled_dls_bias": -0.0262976971285644,
+    "unsmoothed_grid_rmse": 23.58750338332911
+  },
+  "validation_checks": {
+    "positivity_verified": true,
+    "monotonicity_verified": true,
+    "u_to_zero_verified": true,
+    "min_lambda_wkt": 0.0,
+    "max_lambda_wkt": 37.72642657996022
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "step": "Step 8.1",
+  "execution_timestamp": "2026-11-14 21:36:12",
+  "population_metrics": {
+    "batting": {
+      "count": 297,
+      "mean_shrunk": 0.004147384215286928,
+      "median_shrunk": -0.005617307771361116,
+      "std_shrunk": 0.0717968119775406,
+      "iqr_25_75": [
+        -0.0417205902100994,
+        0.03723220116601272
+      ],
+      "min_shrunk": -0.16856968476776185,
+      "max_shrunk": 0.3487107045089484,
+      "top10_mean_shrunk": 0.22247136876212176,
+      "top10_mean_ess": 1244.8953272065446,
+      "top10_mean_p50_opps": 642.5
+    },
+    "bowling": {
+      "count": 292,
+      "mean_shrunk": -0.030739683160117905,
+      "median_shrunk": -0.03147141877493386,
+      "std_shrunk": 0.07147466933644826,
+      "iqr_25_75": [
+        -0.08243708290900977,
+        0.01549395306869931
+      ],
+      "min_shrunk": -0.26740748628541877,
+      "max_shrunk": 0.17562544160432444,
+      "top10_mean_shrunk": 0.12452276781958356,
+      "top10_mean_ess": 1323.2704812312165,
+      "top10_mean_p50_opps": 667.1
+    }
+  },
+  "pressure_delivery_distribution": {
+    "total_deliveries": 186780,
+    "batting_mean_p": 47.34884509387853,
+    "batting_climax_share_ge_75_pct": 6.044544383766999,
+    "bowling_mean_p": 45.146834112373156,
+    "bowling_climax_share_ge_75_pct": 0.884998393832316
+  },
+  "phase_specialization_findings": {
+    "batting_death_specialists": [
+      "Heinrich Klaasen",
+      "Tim David",
+      "Andre Russell"
+    ],
+    "batting_pp_specialists": [
+      "Phil Salt",
+      "Travis Head",
+      "Abhishek Sharma"
+    ],
+    "bowling_death_specialists": [
+      "Jasprit Bumrah",
+      "Josh Hazlewood",
+      "Bhuvneshwar Kumar"
+    ],
+    "bowling_middle_specialists": [
+      "Rashid Khan",
+      "Sunil Narine",
+      "Wanindu Hasaranga"
+    ]
+  },
+  "cross_format_consistency": {
+    "batting_dual_players_count": 91,
+    "batting_ipl_t20i_correlation": 0.114823264273874,
+    "bowling_dual_players_count": 97,
+    "bowling_ipl_t20i_correlation": 0.2338155111599684
+  },
+  "figures_generated": [
+    "fig01_batting_top20_rankings.png",
+    "fig02_bowling_top20_rankings.png",
+    "fig03_batting_score_vs_sample_size.png",
+    "fig04_bowling_score_vs_sample_size.png",
+    "fig05_batting_uncertainty_top10.png",
+    "fig06_bowling_uncertainty_top10.png",
+    "fig07_alpha_sensitivity_slope.png",
+    "fig08_pressure_distribution_deliveries.png",
+    "fig09_top_players_pressure_exposure.png",
+    "fig10_batting_phase_heatmap.png",
+    "fig11_bowling_phase_heatmap.png",
+    "fig12_format_comparison_dual_players.png",
+    "fig13_population_score_distributions.png",
+    "fig14_multidimensional_correlations.png"
+  ]
+}

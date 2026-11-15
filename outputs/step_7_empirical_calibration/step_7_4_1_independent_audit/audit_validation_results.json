@@ -1,0 +1,61 @@
+{
+  "audit_step": "Step 7.4.1",
+  "execution_timestamp": "2026-11-14 21:23:02",
+  "overall_verdict": "PASS WITH CONDITIONS",
+  "verdicts_by_dimension": {
+    "batting_scores_and_rankings": "PASS - Formulas, eligibility, baselines, and shrinkage independently reproduced to < 1e-16",
+    "bowling_scores_and_rankings": "PASS - SBVA quota accounting, legal-ball denominator, extras handling, and shrinkage verified",
+    "bootstrap_uncertainty": "PASS - Match block clustering preserved; presence rates verified (1000/1000 for top 19); prior mean imputation valid",
+    "alpha_sensitivity": "PASS - Correctly isolated to pressure exponent; 0.9978 (bat) and 0.9981 (bowl) correlations verified",
+    "player_metadata": "PASS WITH CONDITIONS - Labeling in Step 7.4 mixed single primary teams with dual-format tags; separated IPL and International entities provided in audit"
+  },
+  "dataset_integrity": {
+    "delivery_pressure_v3.parquet": {
+      "rows": 186780,
+      "sha256": "98d19786fcaaee41b2f5bb570ad4ad902b9356665690329c8d869bcd8dff13cd",
+      "status": "PASS"
+    },
+    "batting_pressure_deliveries.parquet": {
+      "rows": 186780,
+      "sha256": "39ad240c4885e90ec33ba2662a69de6727fd26dd893002e30e512e9ac10ddacc",
+      "status": "PASS"
+    },
+    "bowling_pressure_deliveries.parquet": {
+      "rows": 186780,
+      "sha256": "c9c62723df8e6fe130b730ea40f911177bfd7d846f2ca529fbfe60dd00a35ee3",
+      "status": "PASS"
+    }
+  },
+  "recalculation_audit": {
+    "evaluated_players_count": 10,
+    "max_shrunk_difference": 5.551115123125783e-17,
+    "max_ess_difference": 9.094947017729282e-13,
+    "status": "PASS"
+  },
+  "bootstrap_audit": {
+    "replicates": 1000,
+    "top20_batters_presence_rate": 100.0,
+    "top20_bowlers_presence_rate": 100.0,
+    "mean_batting_presence": 998.8350168350169,
+    "mean_bowling_presence": 998.7602739726027,
+    "missing_player_imputation_assessment": "Statistically sound. Setting shrunk score to 0.0 under N_eff=0 matches Empirical Bayes prior expectation mu_0=0.0."
+  },
+  "ranking_cutoff_summary": {
+    "batting_rank_10_vs_11_delta": 0.002045128515101108,
+    "bowling_rank_10_vs_11_delta": 0.0023589892943192137,
+    "bowling_rank_10_vs_13_delta": 0.0035371110302045983,
+    "interpretation": "Boundary between rank 10 and 11 is statistically narrow (delta < 0.0024 runs/ball). Confidence intervals overlap extensively. Rankings represent an elite shortlist rather than deterministic rank orders."
+  },
+  "alpha_sensitivity_audit": {
+    "batting_spearman": 0.9977779793216034,
+    "bowling_spearman": 0.9981139741836661,
+    "batting_top10_retention": 10,
+    "bowling_top10_retention": 9,
+    "bowling_alpha_125_entrant": "Mohammed Shami (climbs from Rank 13 to Rank 7 due to high-leverage death wickets)"
+  },
+  "metadata_audit_summary": {
+    "total_audited_players": 589,
+    "mixed_affiliation_flags": 241,
+    "recommendation": "In public presentation, display both IPL Franchise and International Team separately rather than collapsing into single primary team."
+  }
+}

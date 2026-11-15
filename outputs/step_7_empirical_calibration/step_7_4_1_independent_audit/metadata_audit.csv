@@ -1,0 +1,590 @@
+discipline,player_id,player_name,official_rank,formats_played,ipl_franchises,international_teams,step_7_4_label,metadata_issue_flag,reconciled_display_affiliation
+Batting,50284,Vaibhav Sooryavanshi,1,IPL & T20I,Rajasthan Royals,India,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / India [T20I]
+Batting,1699,Suryakumar Yadav,2,IPL & T20I,Mumbai Indians,India,India (IPL & T20I),True,Mumbai Indians [IPL] / India [T20I]
+Batting,6281,Abhishek Sharma,3,IPL & T20I,Sunrisers Hyderabad,India,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / India [T20I]
+Batting,6396,Tim David,4,IPL & T20I,"Mumbai Indians, Royal Challengers Bengaluru",Australia,Australia (IPL & T20I),True,"Mumbai Indians, Royal Challengers Bengaluru [IPL] / Australia [T20I]"
+Batting,4260,Heinrich Klaasen,5,IPL & T20I,Sunrisers Hyderabad,South Africa,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / South Africa [T20I]
+Batting,5553,Phil Salt,6,IPL & T20I,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",England,England (IPL & T20I),True,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru [IPL] / England [T20I]"
+Batting,7897,Namboori Tilak Varma,7,IPL & T20I,Mumbai Indians,India,Mumbai Indians (IPL & T20I),False,Mumbai Indians [IPL] / India [T20I]
+Batting,2367,Travis Head,8,IPL & T20I,Sunrisers Hyderabad,Australia,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / Australia [T20I]
+Batting,1318,Andre Russell,9,IPL & T20I,Kolkata Knight Riders,West Indies,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / West Indies [T20I]
+Batting,768,Reeza Hendricks,10,T20I,None,South Africa,South Africa (T20I),False,South Africa [T20I]
+Batting,5039,Rajat Patidar,11,IPL,Royal Challengers Bengaluru,None,Royal Challengers Bengaluru (IPL),False,Royal Challengers Bengaluru [IPL]
+Batting,4736,Josh Inglis,12,IPL & T20I,"Lucknow Super Giants, Punjab Kings",Australia,Australia (IPL & T20I),True,"Lucknow Super Giants, Punjab Kings [IPL] / Australia [T20I]"
+Batting,143,Dinesh Karthik,13,IPL & T20I,Royal Challengers Bengaluru,India,Royal Challengers Bengaluru (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / India [T20I]
+Batting,3647,Shreyas Iyer,14,IPL & T20I,"Kolkata Knight Riders, Punjab Kings",India,India (IPL & T20I),True,"Kolkata Knight Riders, Punjab Kings [IPL] / India [T20I]"
+Batting,2756,Shashank Singh,15,IPL,"Punjab Kings, Sunrisers Hyderabad",None,Punjab Kings (IPL),False,"Punjab Kings, Sunrisers Hyderabad [IPL]"
+Batting,8101,Ashutosh Sharma,16,IPL,"Delhi Capitals, Punjab Kings",None,Delhi Capitals (IPL),False,"Delhi Capitals, Punjab Kings [IPL]"
+Batting,813,Jos Buttler,17,IPL & T20I,"Gujarat Titans, Rajasthan Royals",England,Rajasthan Royals (IPL & T20I),True,"Gujarat Titans, Rajasthan Royals [IPL] / England [T20I]"
+Batting,6726,Romario Shepherd,18,IPL & T20I,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad",West Indies,West Indies (IPL & T20I),True,"Lucknow Super Giants, Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / West Indies [T20I]"
+Batting,818,Mitchell Marsh,19,IPL & T20I,"Delhi Capitals, Lucknow Super Giants",Australia,Lucknow Super Giants (IPL & T20I),True,"Delhi Capitals, Lucknow Super Giants [IPL] / Australia [T20I]"
+Batting,5939,Cameron Green,20,IPL & T20I,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",Australia,Australia (IPL & T20I),True,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru [IPL] / Australia [T20I]"
+Batting,23450,Sai Sudharsan,21,IPL,Gujarat Titans,None,Gujarat Titans (IPL),False,Gujarat Titans [IPL]
+Batting,3125,Nicholas Pooran,22,IPL & T20I,"Lucknow Super Giants, Sunrisers Hyderabad",West Indies,Lucknow Super Giants (IPL & T20I),True,"Lucknow Super Giants, Sunrisers Hyderabad [IPL] / West Indies [T20I]"
+Batting,4847,Finn Allen,23,IPL & T20I,Kolkata Knight Riders,New Zealand,New Zealand (IPL & T20I),True,Kolkata Knight Riders [IPL] / New Zealand [T20I]
+Batting,4853,Glenn Phillips,24,IPL & T20I,"Gujarat Titans, Sunrisers Hyderabad",New Zealand,New Zealand (IPL & T20I),True,"Gujarat Titans, Sunrisers Hyderabad [IPL] / New Zealand [T20I]"
+Batting,4708,Rinku Singh,25,IPL & T20I,Kolkata Knight Riders,India,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / India [T20I]
+Batting,4986,Rovman Powell,26,IPL & T20I,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",West Indies,West Indies (IPL & T20I),True,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals [IPL] / West Indies [T20I]"
+Batting,6819,Yashasvi Jaiswal,27,IPL & T20I,Rajasthan Royals,India,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / India [T20I]
+Batting,4106,Daryl Mitchell,28,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",New Zealand,New Zealand (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / New Zealand [T20I]"
+Batting,22565,Muhammad Waseem,29,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,6280,Harry Brook,30,IPL & T20I,Sunrisers Hyderabad,England,England (IPL & T20I),True,Sunrisers Hyderabad [IPL] / England [T20I]
+Batting,6288,Shubman Gill,31,IPL & T20I,Gujarat Titans,India,Gujarat Titans (IPL & T20I),True,Gujarat Titans [IPL] / India [T20I]
+Batting,48504,Ayush Mhatre,32,IPL,Chennai Super Kings,None,Chennai Super Kings (IPL),False,Chennai Super Kings [IPL]
+Batting,37052,Naman Dhir,33,IPL & T20I,Mumbai Indians,India,Mumbai Indians (IPL & T20I),False,Mumbai Indians [IPL] / India [T20I]
+Batting,47,Virat Kohli,34,IPL & T20I,Royal Challengers Bengaluru,India,Royal Challengers Bengaluru (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / India [T20I]
+Batting,20702,Tristan Stubbs,35,IPL & T20I,"Delhi Capitals, Mumbai Indians",South Africa,Delhi Capitals (IPL & T20I),True,"Delhi Capitals, Mumbai Indians [IPL] / South Africa [T20I]"
+Batting,25669,Priyansh Arya,36,IPL,Punjab Kings,None,Punjab Kings (IPL),False,Punjab Kings [IPL]
+Batting,4007,Ryan Rickelton,37,IPL & T20I,Mumbai Indians,South Africa,Mumbai Indians (IPL & T20I),True,Mumbai Indians [IPL] / South Africa [T20I]
+Batting,2485,Babar Azam,38,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,4755,Shivam Dube,39,IPL & T20I,Chennai Super Kings,India,Chennai Super Kings (IPL & T20I),True,Chennai Super Kings [IPL] / India [T20I]
+Batting,220,David Warner,40,IPL & T20I,Delhi Capitals,Australia,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / Australia [T20I]
+Batting,3374,Mark Chapman,41,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,3024,Mohammad Rizwan,42,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,1205,Jonny Bairstow,43,IPL & T20I,"Mumbai Indians, Punjab Kings",England,Punjab Kings (IPL & T20I),True,"Mumbai Indians, Punjab Kings [IPL] / England [T20I]"
+Batting,2258,Sanju Samson,44,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",India,Rajasthan Royals (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / India [T20I]"
+Batting,953,Lokesh Rahul,45,IPL & T20I,"Delhi Capitals, Lucknow Super Giants",India,Lucknow Super Giants (IPL & T20I),True,"Delhi Capitals, Lucknow Super Giants [IPL] / India [T20I]"
+Batting,838,Glenn Maxwell,46,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru",Australia,Royal Challengers Bengaluru (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru [IPL] / Australia [T20I]"
+Batting,5189,Faheem Ashraf,47,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,1107,Mohammad Nabi,48,IPL & T20I,Mumbai Indians,Afghanistan,Afghanistan (IPL & T20I),True,Mumbai Indians [IPL] / Afghanistan [T20I]
+Batting,6423,Riyan Parag,49,IPL & T20I,Rajasthan Royals,India,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / India [T20I]
+Batting,2436,Dasun Shanaka,50,IPL & T20I,"Gujarat Titans, Rajasthan Royals",Sri Lanka,Sri Lanka (IPL & T20I),True,"Gujarat Titans, Rajasthan Royals [IPL] / Sri Lanka [T20I]"
+Batting,6931,Pathum Nissanka,51,IPL & T20I,Delhi Capitals,Sri Lanka,Sri Lanka (IPL & T20I),True,Delhi Capitals [IPL] / Sri Lanka [T20I]
+Batting,4229,George Linde,52,IPL & T20I,Lucknow Super Giants,South Africa,South Africa (IPL & T20I),True,Lucknow Super Giants [IPL] / South Africa [T20I]
+Batting,3700,Tim Seifert,53,IPL & T20I,"Delhi Capitals, Kolkata Knight Riders",New Zealand,New Zealand (IPL & T20I),True,"Delhi Capitals, Kolkata Knight Riders [IPL] / New Zealand [T20I]"
+Batting,2379,Ben Duckett,54,T20I,None,England,England (T20I),False,England [T20I]
+Batting,7216,Prabhsimran Singh,55,IPL,Punjab Kings,None,Punjab Kings (IPL),False,Punjab Kings [IPL]
+Batting,4722,Rashid Khan,56,IPL & T20I,Gujarat Titans,Afghanistan,Afghanistan (IPL & T20I),True,Gujarat Titans [IPL] / Afghanistan [T20I]
+Batting,6273,Tom Banton,57,T20I,None,England,England (T20I),False,England [T20I]
+Batting,4686,Joshua Clarkson,58,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,4391,Liam Livingstone,59,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",England,Punjab Kings (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / England [T20I]"
+Batting,4823,Washington Sundar,60,IPL & T20I,"Gujarat Titans, Sunrisers Hyderabad",India,Gujarat Titans (IPL & T20I),True,"Gujarat Titans, Sunrisers Hyderabad [IPL] / India [T20I]"
+Batting,25213,Dewald Brevis,61,IPL & T20I,"Chennai Super Kings, Mumbai Indians",South Africa,Chennai Super Kings (IPL & T20I),True,"Chennai Super Kings, Mumbai Indians [IPL] / South Africa [T20I]"
+Batting,2490,Mohammad Nawaz,62,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,4369,Shai Hope,63,IPL & T20I,Delhi Capitals,West Indies,West Indies (IPL & T20I),True,Delhi Capitals [IPL] / West Indies [T20I]
+Batting,2417,Akeal Hosein,64,IPL & T20I,"Chennai Super Kings, Sunrisers Hyderabad",West Indies,West Indies (IPL & T20I),True,"Chennai Super Kings, Sunrisers Hyderabad [IPL] / West Indies [T20I]"
+Batting,3297,Shimron Hetmyer,65,IPL & T20I,Rajasthan Royals,West Indies,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / West Indies [T20I]
+Batting,1101,George Dockrell,66,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,2921,Fakhar Zaman,67,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,332,Angelo Mathews,68,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,2984,Sikandar Raza,69,IPL & T20I,Punjab Kings,Zimbabwe,Zimbabwe (IPL & T20I),True,Punjab Kings [IPL] / Zimbabwe [T20I]
+Batting,3056,Iftikhar Ahmed,70,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,772,Rilee Rossouw,71,IPL & T20I,"Delhi Capitals, Punjab Kings",South Africa,South Africa (IPL & T20I),True,"Delhi Capitals, Punjab Kings [IPL] / South Africa [T20I]"
+Batting,47370,Aniket Verma,72,IPL,Sunrisers Hyderabad,None,Sunrisers Hyderabad (IPL),False,Sunrisers Hyderabad [IPL]
+Batting,2639,Marcus Stoinis,73,IPL & T20I,"Lucknow Super Giants, Punjab Kings",Australia,Lucknow Super Giants (IPL & T20I),True,"Lucknow Super Giants, Punjab Kings [IPL] / Australia [T20I]"
+Batting,8221,Nitish Reddy,74,IPL & T20I,Sunrisers Hyderabad,India,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / India [T20I]
+Batting,3782,M Shahrukh Khan,75,IPL,"Gujarat Titans, Punjab Kings",None,Gujarat Titans (IPL),False,"Gujarat Titans, Punjab Kings [IPL]"
+Batting,4904,Kamindu Mendis,76,IPL & T20I,Sunrisers Hyderabad,Sri Lanka,Sri Lanka (IPL & T20I),True,Sunrisers Hyderabad [IPL] / Sri Lanka [T20I]
+Batting,1758,Patrick Cummins,77,IPL & T20I,"Kolkata Knight Riders, Sunrisers Hyderabad",Australia,Sunrisers Hyderabad (IPL & T20I),True,"Kolkata Knight Riders, Sunrisers Hyderabad [IPL] / Australia [T20I]"
+Batting,1077,David Miller,78,IPL & T20I,"Delhi Capitals, Gujarat Titans, Lucknow Super Giants",South Africa,Gujarat Titans (IPL & T20I),True,"Delhi Capitals, Gujarat Titans, Lucknow Super Giants [IPL] / South Africa [T20I]"
+Batting,7059,Nehal Wadhera,79,IPL,"Mumbai Indians, Punjab Kings",None,Punjab Kings (IPL),False,"Mumbai Indians, Punjab Kings [IPL]"
+Batting,796,Matthew Wade,80,IPL & T20I,Gujarat Titans,Australia,Australia (IPL & T20I),True,Gujarat Titans [IPL] / Australia [T20I]
+Batting,4773,Jaker Ali Anik,81,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,8301,Asif Khan,82,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,19714,Abishek Porel,83,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Batting,4102,George Munsey,84,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Batting,3672,Kusal Mendis,85,IPL & T20I,Gujarat Titans,Sri Lanka,Sri Lanka (IPL & T20I),True,Gujarat Titans [IPL] / Sri Lanka [T20I]
+Batting,23311,Jacob Bethell,86,IPL & T20I,Royal Challengers Bengaluru,England,England (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / England [T20I]
+Batting,5379,Mark Adair,87,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,8238,Sameer Rizvi,88,IPL,"Chennai Super Kings, Delhi Capitals",None,Delhi Capitals (IPL),False,"Chennai Super Kings, Delhi Capitals [IPL]"
+Batting,6725,Sherfane Rutherford,89,IPL & T20I,"Gujarat Titans, Mumbai Indians, Royal Challengers Bengaluru",West Indies,West Indies (IPL & T20I),True,"Gujarat Titans, Mumbai Indians, Royal Challengers Bengaluru [IPL] / West Indies [T20I]"
+Batting,3091,Sahibzada Farhan,90,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,3578,Imad Wasim,91,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,4117,Ishan Kishan,92,IPL & T20I,"Mumbai Indians, Sunrisers Hyderabad",India,India (IPL & T20I),True,"Mumbai Indians, Sunrisers Hyderabad [IPL] / India [T20I]"
+Batting,8,Mahendra Singh Dhoni,93,IPL,Chennai Super Kings,None,Chennai Super Kings (IPL),False,Chennai Super Kings [IPL]
+Batting,728,Dawid Malan,94,T20I,None,England,England (T20I),False,England [T20I]
+Batting,2876,Axar Patel,95,IPL & T20I,Delhi Capitals,India,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / India [T20I]
+Batting,3916,Jitesh Sharma,96,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru",India,Punjab Kings (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru [IPL] / India [T20I]"
+Batting,930,Karun Nair,97,IPL,"Delhi Capitals, Rajasthan Royals",None,Delhi Capitals (IPL),False,"Delhi Capitals, Rajasthan Royals [IPL]"
+Batting,4926,Shadab Khan,98,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,5839,Yasir Ali Chowdhury,99,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,28967,Tim Robinson,100,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,19781,Mitchell Owen,101,IPL & T20I,Punjab Kings,Australia,Australia (IPL & T20I),True,Punjab Kings [IPL] / Australia [T20I]
+Batting,8295,Matthew Forde,102,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,45749,Mukul Choudhary,103,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Batting,2214,Gulbadin Naib,104,IPL & T20I,Delhi Capitals,Afghanistan,Afghanistan (IPL & T20I),True,Delhi Capitals [IPL] / Afghanistan [T20I]
+Batting,7260,Dhruv Jurel,105,IPL & T20I,Rajasthan Royals,India,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / India [T20I]
+Batting,7406,Rizwan CP,106,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,26906,Angkrish Raghuvanshi,107,IPL,Kolkata Knight Riders,None,Kolkata Knight Riders (IPL),False,Kolkata Knight Riders [IPL]
+Batting,3605,Aiden Markram,108,IPL & T20I,"Lucknow Super Giants, Sunrisers Hyderabad",South Africa,Sunrisers Hyderabad (IPL & T20I),True,"Lucknow Super Giants, Sunrisers Hyderabad [IPL] / South Africa [T20I]"
+Batting,6985,Bas de Leede,109,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Batting,8739,Muhammad Irfan,110,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,8182,Donovan Ferreira,111,IPL & T20I,"Delhi Capitals, Rajasthan Royals",South Africa,Rajasthan Royals (IPL & T20I),True,"Delhi Capitals, Rajasthan Royals [IPL] / South Africa [T20I]"
+Batting,2382,Jamie Overton,112,IPL & T20I,Chennai Super Kings,England,Chennai Super Kings (IPL & T20I),True,Chennai Super Kings [IPL] / England [T20I]
+Batting,1210,James Vince,113,T20I,None,England,England (T20I),False,England [T20I]
+Batting,88,Faf du Plessis,114,IPL,"Delhi Capitals, Royal Challengers Bengaluru",None,Royal Challengers Bengaluru (IPL),False,"Delhi Capitals, Royal Challengers Bengaluru [IPL]"
+Batting,27469,Aryansh Sharma,115,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,3669,Sadeera Samarawickrama,116,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,2533,Najibullah Zadran,117,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Batting,3415,Matthew Cross,118,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Batting,6574,Alick Athanaze,119,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,2463,Ryan Burl,120,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,152,Ravindra Jadeja,121,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",India,Chennai Super Kings (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / India [T20I]"
+Batting,2681,Taskin Ahmed,122,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,1924,Sam Billings,123,IPL & T20I,Kolkata Knight Riders,England,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / England [T20I]
+Batting,8726,Alishan Sharafu,124,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,3926,Rahul Tewatia,125,IPL,Gujarat Titans,None,Gujarat Titans (IPL),False,Gujarat Titans [IPL]
+Batting,2416,Kyle Mayers,126,IPL & T20I,Lucknow Super Giants,West Indies,West Indies (IPL & T20I),True,Lucknow Super Giants [IPL] / West Indies [T20I]
+Batting,1183,Alex Hales,127,T20I,None,England,England (T20I),False,England [T20I]
+Batting,7741,Gareth Delany,128,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,5882,Afif Hossain,129,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,3330,Hardik Pandya,130,IPL & T20I,"Gujarat Titans, Mumbai Indians",India,India (IPL & T20I),True,"Gujarat Titans, Mumbai Indians [IPL] / India [T20I]"
+Batting,17432,Ross Adair,131,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,1481,Kusal Perera,132,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,7544,Venkatesh Iyer,133,IPL & T20I,"Kolkata Knight Riders, Royal Challengers Bengaluru",India,Kolkata Knight Riders (IPL & T20I),True,"Kolkata Knight Riders, Royal Challengers Bengaluru [IPL] / India [T20I]"
+Batting,27137,Hammad Mirza,134,T20I,None,Oman,Oman (T20I),False,Oman [T20I]
+Batting,3323,Jimmy Neesham,135,IPL & T20I,Rajasthan Royals,New Zealand,New Zealand (IPL & T20I),True,Rajasthan Royals [IPL] / New Zealand [T20I]
+Batting,7341,Jake McGurk,136,IPL & T20I,Delhi Capitals,Australia,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / Australia [T20I]
+Batting,3871,Aamir Kaleem,137,T20I,None,Oman,Oman (T20I),False,Oman [T20I]
+Batting,499,Shakib Al Hasan,138,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,507,Mohammad Mahmudullah,139,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,6059,Ruturaj Gaikwad,140,IPL & T20I,Chennai Super Kings,India,Chennai Super Kings (IPL & T20I),True,Chennai Super Kings [IPL] / India [T20I]
+Batting,1596,Moeen Ali,141,IPL & T20I,"Chennai Super Kings, Kolkata Knight Riders",England,England (IPL & T20I),True,"Chennai Super Kings, Kolkata Knight Riders [IPL] / England [T20I]"
+Batting,6398,Aaron Hardie,142,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Batting,6272,William Jacks,143,IPL & T20I,"Mumbai Indians, Royal Challengers Bengaluru",England,England (IPL & T20I),True,"Mumbai Indians, Royal Challengers Bengaluru [IPL] / England [T20I]"
+Batting,43250,Dilpreet Singh Bajwa,144,T20I,None,Canada,Canada (T20I),False,Canada [T20I]
+Batting,3639,Brandon King,145,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,7903,Shamim Hossain,146,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,7446,Abdul Samad,147,IPL,"Lucknow Super Giants, Sunrisers Hyderabad",None,Sunrisers Hyderabad (IPL),False,"Lucknow Super Giants, Sunrisers Hyderabad [IPL]"
+Batting,4246,Nitish Rana,148,IPL,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals",None,Kolkata Knight Riders (IPL),False,"Delhi Capitals, Kolkata Knight Riders, Rajasthan Royals [IPL]"
+Batting,2003,Bhanuka Rajapaksa,149,IPL & T20I,Punjab Kings,Sri Lanka,Sri Lanka (IPL & T20I),True,Punjab Kings [IPL] / Sri Lanka [T20I]
+Batting,7355,Tayyab Tahir,150,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,7690,Saim Ayub,151,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,3489,Salman Agha,152,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,2334,Dwaine Pretorius,153,IPL & T20I,Chennai Super Kings,South Africa,South Africa (IPL & T20I),True,Chennai Super Kings [IPL] / South Africa [T20I]
+Batting,4703,Rishabh Pant,154,IPL & T20I,"Delhi Capitals, Lucknow Super Giants",India,Delhi Capitals (IPL & T20I),True,"Delhi Capitals, Lucknow Super Giants [IPL] / India [T20I]"
+Batting,20327,Usman Khan,155,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,7046,Tinashe Kamunhukamwe,156,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,1219,David Willey,157,IPL & T20I,Royal Challengers Bengaluru,England,Royal Challengers Bengaluru (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / England [T20I]
+Batting,3276,Gudakesh Motie,158,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,223,Steven Smith,159,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Batting,6671,Lalit Yadav,160,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Batting,2407,Dhananjaya de Silva,161,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,3298,Jofra Archer,162,IPL & T20I,"Mumbai Indians, Rajasthan Royals",England,Rajasthan Royals (IPL & T20I),True,"Mumbai Indians, Rajasthan Royals [IPL] / England [T20I]"
+Batting,3628,Kagiso Rabada,163,IPL & T20I,"Gujarat Titans, Punjab Kings",South Africa,Punjab Kings (IPL & T20I),True,"Gujarat Titans, Punjab Kings [IPL] / South Africa [T20I]"
+Batting,7094,Curtis Campher,164,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,6512,Michael Bracewell,165,IPL & T20I,Royal Challengers Bengaluru,New Zealand,New Zealand (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / New Zealand [T20I]
+Batting,6651,Towhid Hridoy,166,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,3282,Mehidy Hasan Miraz,167,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,126,Rohit Sharma,168,IPL & T20I,Mumbai Indians,India,Mumbai Indians (IPL & T20I),False,Mumbai Indians [IPL] / India [T20I]
+Batting,4639,Wellington Masakadza,169,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,3689,Mark Watt,170,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Batting,8638,Basil Hameed,171,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,6676,Azmatullah Omarzai,172,IPL & T20I,"Gujarat Titans, Punjab Kings",Afghanistan,Afghanistan (IPL & T20I),True,"Gujarat Titans, Punjab Kings [IPL] / Afghanistan [T20I]"
+Batting,15551,Ackeem Auguste,173,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,25139,Shubham Dubey,174,IPL,Rajasthan Royals,None,Rajasthan Royals (IPL),False,Rajasthan Royals [IPL]
+Batting,2680,Nurul Hasan,175,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,7325,Harpreet Brar,176,IPL,Punjab Kings,None,Punjab Kings (IPL),False,Punjab Kings [IPL]
+Batting,4780,Mohammad Saif Hassan,177,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,8654,Cooper Connolly,178,IPL & T20I,Punjab Kings,Australia,Punjab Kings (IPL & T20I),True,Punjab Kings [IPL] / Australia [T20I]
+Batting,5738,Xavier Bartlett,179,IPL & T20I,Punjab Kings,Australia,Australia (IPL & T20I),True,Punjab Kings [IPL] / Australia [T20I]
+Batting,274,Martin Guptill,180,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,6433,Darwish Rasooli,181,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Batting,6460,Ayush Badoni,182,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Batting,7900,Tanzid Hasan,183,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,2101,Quinton de Kock,184,IPL & T20I,"Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",South Africa,Lucknow Super Giants (IPL & T20I),True,"Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians [IPL] / South Africa [T20I]"
+Batting,49003,Hasan Nawaz,185,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,1327,Johnson Charles,186,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,4821,Mahipal Lomror,187,IPL,Royal Challengers Bengaluru,None,Royal Challengers Bengaluru (IPL),False,Royal Challengers Bengaluru [IPL]
+Batting,3539,Ben McDermott,188,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Batting,4409,Sam Curran,189,IPL & T20I,"Chennai Super Kings, Punjab Kings",England,Punjab Kings (IPL & T20I),True,"Chennai Super Kings, Punjab Kings [IPL] / England [T20I]"
+Batting,7152,Hazratullah Zazai,190,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Batting,3727,Matthew Short,191,IPL & T20I,"Chennai Super Kings, Punjab Kings",Australia,Australia (IPL & T20I),True,"Chennai Super Kings, Punjab Kings [IPL] / Australia [T20I]"
+Batting,5837,Mahedi Hasan,192,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,167,Ajinkya Rahane,193,IPL,"Chennai Super Kings, Kolkata Knight Riders",None,Kolkata Knight Riders (IPL),False,"Chennai Super Kings, Kolkata Knight Riders [IPL]"
+Batting,7049,Kamil Mishara,194,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,7905,Tanzim Sakib,195,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,418,Richard Berrington,196,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Batting,4695,Nick Kelly,197,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,5029,Prerak Mankad,198,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Batting,3648,Deepak Hooda,199,IPL & T20I,"Chennai Super Kings, Lucknow Super Giants",India,Lucknow Super Giants (IPL & T20I),True,"Chennai Super Kings, Lucknow Super Giants [IPL] / India [T20I]"
+Batting,22134,Luke Jongwe,200,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,250,Aaron Finch,201,IPL & T20I,Kolkata Knight Riders,Australia,Australia (IPL & T20I),True,Kolkata Knight Riders [IPL] / Australia [T20I]
+Batting,4840,Odean Smith,202,IPL & T20I,Punjab Kings,West Indies,West Indies (IPL & T20I),True,Punjab Kings [IPL] / West Indies [T20I]
+Batting,4814,Lorcan Tucker,203,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,4412,Max ODowd,204,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Batting,443,Paul Stirling,205,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,6160,Chamika Karunaratne,206,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,4854,Rachin Ravindra,207,IPL & T20I,Chennai Super Kings,New Zealand,Chennai Super Kings (IPL & T20I),True,Chennai Super Kings [IPL] / New Zealand [T20I]
+Batting,3377,Babar Hayat,208,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Batting,7894,Tony Munyonga,209,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,2246,Tom Latham,210,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,1187,Jason Roy,211,IPL & T20I,Kolkata Knight Riders,England,England (IPL & T20I),True,Kolkata Knight Riders [IPL] / England [T20I]
+Batting,24017,Brian Bennett,212,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,6881,Scott Edwards,213,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Batting,535,Ambati Rayudu,214,IPL,Chennai Super Kings,None,Chennai Super Kings (IPL),False,Chennai Super Kings [IPL]
+Batting,21784,Brad Evans,215,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,4812,Harry Tector,216,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,7901,Parvez Emon,217,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,7912,Vikramjit Singh,218,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Batting,3954,Andrew Balbirnie,219,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Batting,6466,Atharwa Taide,220,IPL,"Punjab Kings, Sunrisers Hyderabad",None,Punjab Kings (IPL),False,"Punjab Kings, Sunrisers Hyderabad [IPL]"
+Batting,4101,Mitchell Santner,221,IPL & T20I,"Chennai Super Kings, Mumbai Indians",New Zealand,New Zealand (IPL & T20I),True,"Chennai Super Kings, Mumbai Indians [IPL] / New Zealand [T20I]"
+Batting,2213,Soumya Sarkar,222,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,2671,Liton Das,223,IPL & T20I,Kolkata Knight Riders,Bangladesh,Bangladesh (IPL & T20I),True,Kolkata Knight Riders [IPL] / Bangladesh [T20I]
+Batting,4219,Krunal Pandya,224,IPL,"Lucknow Super Giants, Royal Challengers Bengaluru",None,Lucknow Super Giants (IPL),False,"Lucknow Super Giants, Royal Challengers Bengaluru [IPL]"
+Batting,21790,Tashinga Musekiwa,225,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,27466,Dhruv Parashar,226,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,29888,Harshit Rana,227,IPL & T20I,Kolkata Knight Riders,India,India (IPL & T20I),True,Kolkata Knight Riders [IPL] / India [T20I]
+Batting,4684,Dane Cleaver,228,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,6464,Arshdeep Singh,229,IPL & T20I,Punjab Kings,India,India (IPL & T20I),True,Punjab Kings [IPL] / India [T20I]
+Batting,2526,Ish Sodhi,230,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,2877,Vijay Shankar,231,IPL,"Chennai Super Kings, Gujarat Titans",None,Gujarat Titans (IPL),False,"Chennai Super Kings, Gujarat Titans [IPL]"
+Batting,26519,Janith Liyanage,232,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,26646,Rahul Chopra,233,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,2930,Rassie van der Dussen,234,IPL & T20I,Rajasthan Royals,South Africa,South Africa (IPL & T20I),True,Rajasthan Royals [IPL] / South Africa [T20I]
+Batting,360,Bhuvneshwar Kumar,235,IPL & T20I,"Royal Challengers Bengaluru, Sunrisers Hyderabad",India,Sunrisers Hyderabad (IPL & T20I),True,"Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / India [T20I]"
+Batting,37201,Jewel Andrew,236,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,8085,Suyash Prabhudessai,237,IPL,Royal Challengers Bengaluru,None,Royal Challengers Bengaluru (IPL),False,Royal Challengers Bengaluru [IPL]
+Batting,2573,Evin Lewis,238,IPL & T20I,Lucknow Super Giants,West Indies,West Indies (IPL & T20I),True,Lucknow Super Giants [IPL] / West Indies [T20I]
+Batting,1440,Rahul Tripathi,239,IPL & T20I,"Chennai Super Kings, Sunrisers Hyderabad",India,Sunrisers Hyderabad (IPL & T20I),True,"Chennai Super Kings, Sunrisers Hyderabad [IPL] / India [T20I]"
+Batting,6448,Ibrahim Zadran,240,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Batting,24887,Innocent Kaia,241,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,7503,Ravi Bishnoi,242,IPL & T20I,"Lucknow Super Giants, Rajasthan Royals",India,India (IPL & T20I),True,"Lucknow Super Giants, Rajasthan Royals [IPL] / India [T20I]"
+Batting,142,Shikhar Dhawan,243,IPL,Punjab Kings,None,Punjab Kings (IPL),False,Punjab Kings [IPL]
+Batting,494,Kieron Pollard,244,IPL & T20I,Mumbai Indians,West Indies,Mumbai Indians (IPL & T20I),True,Mumbai Indians [IPL] / West Indies [T20I]
+Batting,169,Robin Uthappa,245,IPL,Chennai Super Kings,None,Chennai Super Kings (IPL),False,Chennai Super Kings [IPL]
+Batting,786,Chris Jordan,246,IPL & T20I,"Chennai Super Kings, Mumbai Indians",England,England (IPL & T20I),True,"Chennai Super Kings, Mumbai Indians [IPL] / England [T20I]"
+Batting,8741,Mohammad Haris,247,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,3644,Kuldeep Yadav,248,IPL & T20I,Delhi Capitals,India,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / India [T20I]
+Batting,6355,Shaheen Afridi,249,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Batting,4784,Tony de Zorzi,250,T20I,None,South Africa,South Africa (T20I),False,South Africa [T20I]
+Batting,3645,Sarfaraz Khan,251,IPL,"Chennai Super Kings, Delhi Capitals",None,Delhi Capitals (IPL),False,"Chennai Super Kings, Delhi Capitals [IPL]"
+Batting,1941,Devon Conway,252,IPL & T20I,Chennai Super Kings,New Zealand,Chennai Super Kings (IPL & T20I),True,Chennai Super Kings [IPL] / New Zealand [T20I]
+Batting,21781,Clive Madande,253,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,5928,Prithvi Shaw,254,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Batting,3280,Nazmul Hossain Shanto,255,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,8637,Vriitya Aravind,256,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,7911,Oliver Hairs,257,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Batting,2361,Temba Bavuma,258,T20I,None,South Africa,South Africa (T20I),False,South Africa [T20I]
+Batting,4895,Charith Asalanka,259,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,1541,Sean Williams,260,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,39374,Muhammad Zohaib,261,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Batting,4494,Abhinav Manohar,262,IPL,"Gujarat Titans, Sunrisers Hyderabad",None,Gujarat Titans (IPL),False,"Gujarat Titans, Sunrisers Hyderabad [IPL]"
+Batting,3382,Nizakat Khan,263,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Batting,2687,Roston Chase,264,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,7472,Shahbaz Ahmed,265,IPL,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad",None,Royal Challengers Bengaluru (IPL),False,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL]"
+Batting,5808,Karim Janat,266,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Batting,2661,Shamarh Brooks,267,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Batting,2351,Danushka Gunathilaka,268,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Batting,2633,Jason Holder,269,IPL & T20I,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals",West Indies,West Indies (IPL & T20I),True,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals [IPL] / West Indies [T20I]"
+Batting,2261,Harshal Patel,270,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",India,India (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / India [T20I]"
+Batting,20006,Ramandeep Singh,271,IPL & T20I,"Kolkata Knight Riders, Mumbai Indians",India,Kolkata Knight Riders (IPL & T20I),True,"Kolkata Knight Riders, Mumbai Indians [IPL] / India [T20I]"
+Batting,4817,Anmolpreet Singh,272,IPL,"Mumbai Indians, Sunrisers Hyderabad",None,Sunrisers Hyderabad (IPL),False,"Mumbai Indians, Sunrisers Hyderabad [IPL]"
+Batting,305,Ravichandran Ashwin,273,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",India,Rajasthan Royals (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / India [T20I]"
+Batting,2218,Anamul Haque,274,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,781,Sunil Narine,275,IPL,Kolkata Knight Riders,None,Kolkata Knight Riders (IPL),False,Kolkata Knight Riders [IPL]
+Batting,2523,Will Young,276,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,8380,Mohammad Rishad Hossain,277,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Batting,25534,Chad Bowes,278,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Batting,7808,Marco Jansen,279,IPL & T20I,"Punjab Kings, Sunrisers Hyderabad",South Africa,South Africa (IPL & T20I),True,"Punjab Kings, Sunrisers Hyderabad [IPL] / South Africa [T20I]"
+Batting,198,Manish Pandey,280,IPL,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",None,Delhi Capitals (IPL),False,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants [IPL]"
+Batting,4900,Wanindu Hasaranga,281,IPL & T20I,"Rajasthan Royals, Royal Challengers Bengaluru",Sri Lanka,Sri Lanka (IPL & T20I),True,"Rajasthan Royals, Royal Challengers Bengaluru [IPL] / Sri Lanka [T20I]"
+Batting,1116,Craig Ervine,282,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,2847,Shardul Thakur,283,IPL,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",None,Delhi Capitals (IPL),False,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians [IPL]"
+Batting,6314,Devdutt Padikkal,284,IPL,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bengaluru",None,Rajasthan Royals (IPL),False,"Lucknow Super Giants, Rajasthan Royals, Royal Challengers Bengaluru [IPL]"
+Batting,6342,Matthew Breetzke,285,IPL & T20I,Lucknow Super Giants,South Africa,South Africa (IPL & T20I),True,Lucknow Super Giants [IPL] / South Africa [T20I]
+Batting,1568,Kane Williamson,286,IPL & T20I,"Gujarat Titans, Sunrisers Hyderabad",New Zealand,New Zealand (IPL & T20I),True,"Gujarat Titans, Sunrisers Hyderabad [IPL] / New Zealand [T20I]"
+Batting,4779,Pieter Willem Mulder,287,IPL & T20I,Sunrisers Hyderabad,South Africa,South Africa (IPL & T20I),True,Sunrisers Hyderabad [IPL] / South Africa [T20I]
+Batting,5608,Narayan Jagadeesan,288,IPL,"Chennai Super Kings, Kolkata Knight Riders",None,Kolkata Knight Riders (IPL),False,"Chennai Super Kings, Kolkata Knight Riders [IPL]"
+Batting,6674,Rahmanullah Gurbaz,289,IPL & T20I,Kolkata Knight Riders,Afghanistan,Afghanistan (IPL & T20I),True,Kolkata Knight Riders [IPL] / Afghanistan [T20I]
+Batting,8647,Sediqullah Atal,290,IPL & T20I,Delhi Capitals,Afghanistan,Afghanistan (IPL & T20I),True,Delhi Capitals [IPL] / Afghanistan [T20I]
+Batting,6664,Dion Myers,291,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,6467,Anuj Rawat,292,IPL,Royal Challengers Bengaluru,None,Royal Challengers Bengaluru (IPL),False,Royal Challengers Bengaluru [IPL]
+Batting,19316,Maheesh Theekshana,293,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",Sri Lanka,Sri Lanka (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / Sri Lanka [T20I]"
+Batting,992,Mayank Agarwal,294,IPL,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",None,Sunrisers Hyderabad (IPL),False,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL]"
+Batting,4867,Wesley Madhevere,295,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Batting,109,Wriddhiman Saha,296,IPL,Gujarat Titans,None,Gujarat Titans (IPL),False,Gujarat Titans [IPL]
+Batting,8600,Tadiwanashe Marumani,297,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,4722,Rashid Khan,1,IPL & T20I,Gujarat Titans,Afghanistan,Gujarat Titans (IPL & T20I),True,Gujarat Titans [IPL] / Afghanistan [T20I]
+Bowling,2933,Jasprit Bumrah,2,IPL & T20I,Mumbai Indians,India,Mumbai Indians (IPL & T20I),False,Mumbai Indians [IPL] / India [T20I]
+Bowling,781,Sunil Narine,3,IPL,Kolkata Knight Riders,None,Kolkata Knight Riders (IPL),False,Kolkata Knight Riders [IPL]
+Bowling,830,Josh Hazlewood,4,IPL & T20I,Royal Challengers Bengaluru,Australia,Royal Challengers Bengaluru (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / Australia [T20I]
+Bowling,4900,Wanindu Hasaranga,5,IPL & T20I,"Rajasthan Royals, Royal Challengers Bengaluru",Sri Lanka,Sri Lanka (IPL & T20I),True,"Rajasthan Royals, Royal Challengers Bengaluru [IPL] / Sri Lanka [T20I]"
+Bowling,360,Bhuvneshwar Kumar,6,IPL & T20I,"Royal Challengers Bengaluru, Sunrisers Hyderabad",India,Sunrisers Hyderabad (IPL & T20I),True,"Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / India [T20I]"
+Bowling,5979,Abrar Ahmed,7,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,3644,Kuldeep Yadav,8,IPL & T20I,Delhi Capitals,India,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / India [T20I]
+Bowling,5837,Mahedi Hasan,9,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,6450,Mujeeb Ur Rahman,10,IPL & T20I,Mumbai Indians,Afghanistan,Afghanistan (IPL & T20I),True,Mumbai Indians [IPL] / Afghanistan [T20I]
+Bowling,3281,Mosaddek Hossain,11,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,6523,Blessing Muzarabani,12,IPL & T20I,Kolkata Knight Riders,Zimbabwe,Zimbabwe (IPL & T20I),True,Kolkata Knight Riders [IPL] / Zimbabwe [T20I]
+Bowling,1566,Mohammed Shami,13,IPL & T20I,"Gujarat Titans, Lucknow Super Giants, Sunrisers Hyderabad",India,Gujarat Titans (IPL & T20I),True,"Gujarat Titans, Lucknow Super Giants, Sunrisers Hyderabad [IPL] / India [T20I]"
+Bowling,6669,Mohsin Khan,14,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Bowling,28756,Haider Ali,15,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,2320,Trent Boult,16,IPL & T20I,"Mumbai Indians, Rajasthan Royals",New Zealand,Rajasthan Royals (IPL & T20I),True,"Mumbai Indians, Rajasthan Royals [IPL] / New Zealand [T20I]"
+Bowling,6256,Varun Chakravarthy,17,IPL & T20I,Kolkata Knight Riders,India,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / India [T20I]
+Bowling,34485,Sufiyan Muqeem,18,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,2490,Mohammad Nawaz,19,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,2364,Ashton Agar,20,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Bowling,4499,Saqib Mahmood,21,T20I,None,England,England (T20I),False,England [T20I]
+Bowling,23,Piyush Chawla,22,IPL,Mumbai Indians,None,Mumbai Indians (IPL),False,Mumbai Indians [IPL]
+Bowling,4219,Krunal Pandya,23,IPL,"Lucknow Super Giants, Royal Challengers Bengaluru",None,Lucknow Super Giants (IPL),False,"Lucknow Super Giants, Royal Challengers Bengaluru [IPL]"
+Bowling,20704,Salman Mirza,24,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,1159,Tendai Chatara,25,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,30925,Bradley Currie,26,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Bowling,1101,George Dockrell,27,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,3578,Imad Wasim,28,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,7967,Noor Ahmad,29,IPL & T20I,"Chennai Super Kings, Gujarat Titans",Afghanistan,Chennai Super Kings (IPL & T20I),True,"Chennai Super Kings, Gujarat Titans [IPL] / Afghanistan [T20I]"
+Bowling,3772,Logan van Beek,30,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Bowling,7325,Harpreet Brar,31,IPL,Punjab Kings,None,Punjab Kings (IPL),False,Punjab Kings [IPL]
+Bowling,5750,Ehsan Khan,32,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Bowling,278,Tim Southee,33,IPL & T20I,Kolkata Knight Riders,New Zealand,New Zealand (IPL & T20I),True,Kolkata Knight Riders [IPL] / New Zealand [T20I]
+Bowling,2984,Sikandar Raza,34,IPL & T20I,Punjab Kings,Zimbabwe,Zimbabwe (IPL & T20I),True,Punjab Kings [IPL] / Zimbabwe [T20I]
+Bowling,4807,Joshua Little,35,IPL & T20I,Gujarat Titans,Ireland,Ireland (IPL & T20I),True,Gujarat Titans [IPL] / Ireland [T20I]
+Bowling,4812,Harry Tector,36,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,4101,Mitchell Santner,37,IPL & T20I,"Chennai Super Kings, Mumbai Indians",New Zealand,New Zealand (IPL & T20I),True,"Chennai Super Kings, Mumbai Indians [IPL] / New Zealand [T20I]"
+Bowling,7690,Saim Ayub,38,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,7741,Gareth Delany,39,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,4373,Mustafizur Rahman,40,IPL & T20I,"Chennai Super Kings, Delhi Capitals",Bangladesh,Bangladesh (IPL & T20I),True,"Chennai Super Kings, Delhi Capitals [IPL] / Bangladesh [T20I]"
+Bowling,27464,Aayan Afzal Khan,41,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,6512,Michael Bracewell,42,IPL & T20I,Royal Challengers Bengaluru,New Zealand,New Zealand (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / New Zealand [T20I]
+Bowling,2463,Ryan Burl,43,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,499,Shakib Al Hasan,44,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,152,Ravindra Jadeja,45,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",India,Chennai Super Kings (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,6355,Shaheen Afridi,46,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,22920,Jacob Duffy,47,IPL & T20I,Royal Challengers Bengaluru,New Zealand,New Zealand (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / New Zealand [T20I]
+Bowling,1596,Moeen Ali,48,IPL & T20I,"Chennai Super Kings, Kolkata Knight Riders",England,England (IPL & T20I),True,"Chennai Super Kings, Kolkata Knight Riders [IPL] / England [T20I]"
+Bowling,2985,Mark Wood,49,IPL & T20I,Lucknow Super Giants,England,England (IPL & T20I),True,Lucknow Super Giants [IPL] / England [T20I]
+Bowling,722,Liam Dawson,50,T20I,None,England,England (T20I),False,England [T20I]
+Bowling,7364,Haris Rauf,51,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,3628,Kagiso Rabada,52,IPL & T20I,"Gujarat Titans, Punjab Kings",South Africa,Punjab Kings (IPL & T20I),True,"Gujarat Titans, Punjab Kings [IPL] / South Africa [T20I]"
+Bowling,6772,Chetan Sakariya,53,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Bowling,8614,William ORourke,54,IPL & T20I,Lucknow Super Giants,New Zealand,New Zealand (IPL & T20I),True,Lucknow Super Giants [IPL] / New Zealand [T20I]
+Bowling,2681,Taskin Ahmed,55,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,3629,Corbin Bosch,56,IPL & T20I,Mumbai Indians,South Africa,South Africa (IPL & T20I),True,Mumbai Indians [IPL] / South Africa [T20I]
+Bowling,3771,Vivian Kingma,57,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Bowling,7920,Nathan Ellis,58,IPL & T20I,"Chennai Super Kings, Punjab Kings",Australia,Australia (IPL & T20I),True,"Chennai Super Kings, Punjab Kings [IPL] / Australia [T20I]"
+Bowling,6272,William Jacks,59,IPL & T20I,"Mumbai Indians, Royal Challengers Bengaluru",England,England (IPL & T20I),True,"Mumbai Indians, Royal Challengers Bengaluru [IPL] / England [T20I]"
+Bowling,818,Mitchell Marsh,60,IPL & T20I,Delhi Capitals,Australia,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / Australia [T20I]
+Bowling,5944,Mohammed Siraj,61,IPL & T20I,"Gujarat Titans, Royal Challengers Bengaluru",India,Royal Challengers Bengaluru (IPL & T20I),True,"Gujarat Titans, Royal Challengers Bengaluru [IPL] / India [T20I]"
+Bowling,6932,Pramod Madushan,62,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,19902,Tim Pringle,63,T20I,None,Netherlands,Netherlands (T20I),False,Netherlands [T20I]
+Bowling,1813,Deepak Chahar,64,IPL & T20I,"Chennai Super Kings, Mumbai Indians",India,Mumbai Indians (IPL & T20I),False,"Chennai Super Kings, Mumbai Indians [IPL] / India [T20I]"
+Bowling,158,Amit Mishra,65,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Bowling,2876,Axar Patel,66,IPL & T20I,Delhi Capitals,India,India (IPL & T20I),True,Delhi Capitals [IPL] / India [T20I]
+Bowling,403,Umesh Yadav,67,IPL & T20I,"Gujarat Titans, Kolkata Knight Riders",India,Kolkata Knight Riders (IPL & T20I),True,"Gujarat Titans, Kolkata Knight Riders [IPL] / India [T20I]"
+Bowling,332,Angelo Mathews,68,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,8661,Matheesha Pathirana,69,IPL & T20I,"Chennai Super Kings, Kolkata Knight Riders",Sri Lanka,Chennai Super Kings (IPL & T20I),True,"Chennai Super Kings, Kolkata Knight Riders [IPL] / Sri Lanka [T20I]"
+Bowling,4658,Nasum Ahmed,70,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,4874,Richard Ngarava,71,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,6161,Rahul Chahar,72,IPL,"Chennai Super Kings, Punjab Kings, Sunrisers Hyderabad",None,Punjab Kings (IPL),False,"Chennai Super Kings, Punjab Kings, Sunrisers Hyderabad [IPL]"
+Bowling,2054,Jason Behrendorff,73,IPL & T20I,Mumbai Indians,Australia,Mumbai Indians (IPL & T20I),True,Mumbai Indians [IPL] / Australia [T20I]
+Bowling,8009,Junaid Siddique,74,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,37939,Nahid Rana,75,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,35122,Shah Faisal,76,T20I,None,Oman,Oman (T20I),False,Oman [T20I]
+Bowling,3056,Iftikhar Ahmed,77,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,1219,David Willey,78,IPL & T20I,Royal Challengers Bengaluru,England,England (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / England [T20I]
+Bowling,3550,Sharafuddin Ashraf,79,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Bowling,19020,Ateeq Iqbal,80,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Bowling,4903,Lahiru Kumara,81,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,7699,Abbas Afridi,82,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,8005,Zawar Farid,83,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,7756,Kaleem Sana,84,T20I,None,Canada,Canada (T20I),False,Canada [T20I]
+Bowling,24473,Sonny Baker,85,T20I,None,England,England (T20I),False,England [T20I]
+Bowling,3276,Gudakesh Motie,86,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,22471,Matthew Humphreys,87,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,5189,Faheem Ashraf,88,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,6518,Daniel Sams,89,IPL & T20I,Mumbai Indians,Australia,Mumbai Indians (IPL & T20I),True,Mumbai Indians [IPL] / Australia [T20I]
+Bowling,6097,Brydon Carse,90,T20I,None,England,England (T20I),False,England [T20I]
+Bowling,5892,Blair Tickner,91,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Bowling,5809,Naveen ul Haq,92,IPL & T20I,Lucknow Super Giants,Afghanistan,Lucknow Super Giants (IPL & T20I),True,Lucknow Super Giants [IPL] / Afghanistan [T20I]
+Bowling,25030,Zaman Khan,93,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,3282,Mehidy Hasan Miraz,94,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,19316,Maheesh Theekshana,95,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",Sri Lanka,Sri Lanka (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / Sri Lanka [T20I]"
+Bowling,2972,Yasim Murtaza,96,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Bowling,7574,Kumar Kartikeya Singh,97,IPL,"Mumbai Indians, Rajasthan Royals",None,Mumbai Indians (IPL),False,"Mumbai Indians, Rajasthan Royals [IPL]"
+Bowling,7696,Mohammad Wasim,98,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,161,Dwayne Bravo,99,IPL,Chennai Super Kings,None,Chennai Super Kings (IPL),False,Chennai Super Kings [IPL]
+Bowling,5577,Sai Kishore,100,IPL,Gujarat Titans,None,Gujarat Titans (IPL),False,Gujarat Titans [IPL]
+Bowling,2636,Adam Zampa,101,IPL & T20I,"Rajasthan Royals, Sunrisers Hyderabad",Australia,Australia (IPL & T20I),True,"Rajasthan Royals, Sunrisers Hyderabad [IPL] / Australia [T20I]"
+Bowling,8580,Yudhvir Singh,102,IPL,"Lucknow Super Giants, Rajasthan Royals",None,Lucknow Super Giants (IPL),False,"Lucknow Super Giants, Rajasthan Royals [IPL]"
+Bowling,7896,Akash Singh,103,IPL,"Chennai Super Kings, Lucknow Super Giants",None,Chennai Super Kings (IPL),False,"Chennai Super Kings, Lucknow Super Giants [IPL]"
+Bowling,3641,Ben Dwarshuis,104,IPL & T20I,Punjab Kings,Australia,Australia (IPL & T20I),True,Punjab Kings [IPL] / Australia [T20I]
+Bowling,4229,George Linde,105,IPL & T20I,Lucknow Super Giants,South Africa,South Africa (IPL & T20I),True,Lucknow Super Giants [IPL] / South Africa [T20I]
+Bowling,7250,Mukesh Choudhary,106,IPL,Chennai Super Kings,None,Chennai Super Kings (IPL),False,Chennai Super Kings [IPL]
+Bowling,4856,Benjamin Sears,107,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Bowling,4823,Washington Sundar,108,IPL & T20I,"Gujarat Titans, Sunrisers Hyderabad",India,India (IPL & T20I),True,"Gujarat Titans, Sunrisers Hyderabad [IPL] / India [T20I]"
+Bowling,5034,Murugan Ashwin,109,IPL,"Mumbai Indians, Rajasthan Royals",None,Mumbai Indians (IPL),False,"Mumbai Indians, Rajasthan Royals [IPL]"
+Bowling,4692,Lockie Ferguson,110,IPL & T20I,"Gujarat Titans, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bengaluru",New Zealand,New Zealand (IPL & T20I),True,"Gujarat Titans, Kolkata Knight Riders, Punjab Kings, Royal Challengers Bengaluru [IPL] / New Zealand [T20I]"
+Bowling,5379,Mark Adair,111,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,914,Krishnappa Gowtham,112,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Bowling,2687,Roston Chase,113,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,42548,Muhammad Jawadullah,114,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,479,Adil Rashid,115,IPL & T20I,Sunrisers Hyderabad,England,England (IPL & T20I),True,Sunrisers Hyderabad [IPL] / England [T20I]
+Bowling,28,Ishant Sharma,116,IPL,"Delhi Capitals, Gujarat Titans",None,Delhi Capitals (IPL),False,"Delhi Capitals, Gujarat Titans [IPL]"
+Bowling,4895,Charith Asalanka,117,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,8805,Ottneil Baartman,118,T20I,None,South Africa,South Africa (T20I),False,South Africa [T20I]
+Bowling,3298,Jofra Archer,119,IPL & T20I,"Mumbai Indians, Rajasthan Royals",England,Rajasthan Royals (IPL & T20I),True,"Mumbai Indians, Rajasthan Royals [IPL] / England [T20I]"
+Bowling,1612,Yuzvendra Chahal,120,IPL & T20I,"Punjab Kings, Rajasthan Royals",India,Rajasthan Royals (IPL & T20I),True,"Punjab Kings, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,838,Glenn Maxwell,121,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru",Australia,Royal Challengers Bengaluru (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru [IPL] / Australia [T20I]"
+Bowling,4505,Jhye Richardson,122,IPL & T20I,Delhi Capitals,Australia,Australia (IPL & T20I),True,Delhi Capitals [IPL] / Australia [T20I]
+Bowling,24017,Brian Bennett,123,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,19125,Ayush Shukla,124,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Bowling,28655,Muhammad Rohid,125,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,6389,Tanvir Islam,126,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,4276,Basil Thampi,127,IPL,Mumbai Indians,None,Mumbai Indians (IPL),False,Mumbai Indians [IPL]
+Bowling,56685,Abdullah Ahmadzai,128,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Bowling,2417,Akeal Hosein,129,IPL & T20I,"Chennai Super Kings, Sunrisers Hyderabad",West Indies,West Indies (IPL & T20I),True,"Chennai Super Kings, Sunrisers Hyderabad [IPL] / West Indies [T20I]"
+Bowling,19312,Nuwan Thushara,130,IPL & T20I,"Mumbai Indians, Royal Challengers Bengaluru",Sri Lanka,Sri Lanka (IPL & T20I),True,"Mumbai Indians, Royal Challengers Bengaluru [IPL] / Sri Lanka [T20I]"
+Bowling,8177,Akash Madhwal,131,IPL,"Mumbai Indians, Rajasthan Royals",None,Mumbai Indians (IPL),False,"Mumbai Indians, Rajasthan Royals [IPL]"
+Bowling,4947,Kasun Rajitha,132,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,7545,Kuldeep Sen,133,IPL,Rajasthan Royals,None,Rajasthan Royals (IPL),False,Rajasthan Royals [IPL]
+Bowling,28915,Trevor Gwandu,134,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,6284,Anukul Roy,135,IPL,Kolkata Knight Riders,None,Kolkata Knight Riders (IPL),False,Kolkata Knight Riders [IPL]
+Bowling,7052,Dunith Wellalage,136,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,7240,FazalHaq Farooqi,137,IPL & T20I,"Rajasthan Royals, Sunrisers Hyderabad",Afghanistan,Afghanistan (IPL & T20I),True,"Rajasthan Royals, Sunrisers Hyderabad [IPL] / Afghanistan [T20I]"
+Bowling,305,Ravichandran Ashwin,138,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",India,Rajasthan Royals (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,3686,CB Sole,139,T20I,None,Scotland,Scotland (T20I),False,Scotland [T20I]
+Bowling,35318,Sakib Hussain,140,IPL,Sunrisers Hyderabad,None,Sunrisers Hyderabad (IPL),False,Sunrisers Hyderabad [IPL]
+Bowling,7344,Shoriful Islam,141,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,5977,Khary Pierre,142,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,4639,Wellington Masakadza,143,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,3720,Craig Young,144,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,3077,Usama Mir,145,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,6797,Dominic Drakes,146,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,6503,Zahoor Khan,147,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,6398,Aaron Hardie,148,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Bowling,286,Kane Richardson,149,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Bowling,24475,Rehan Ahmed,150,T20I,None,England,England (T20I),False,England [T20I]
+Bowling,6423,Riyan Parag,151,IPL & T20I,Rajasthan Royals,India,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / India [T20I]
+Bowling,5562,Richard Gleeson,152,IPL & T20I,"Chennai Super Kings, Mumbai Indians",England,England (IPL & T20I),True,"Chennai Super Kings, Mumbai Indians [IPL] / England [T20I]"
+Bowling,27960,Mayank Yadav,153,IPL & T20I,Lucknow Super Giants,India,India (IPL & T20I),True,Lucknow Super Giants [IPL] / India [T20I]
+Bowling,6643,Hasan Mahmud,154,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,3373,Aizaz Khan,155,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Bowling,29888,Harshit Rana,156,IPL & T20I,Kolkata Knight Riders,India,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / India [T20I]
+Bowling,7060,Arjun Tendulkar,157,IPL,"Lucknow Super Giants, Mumbai Indians",None,Mumbai Indians (IPL),False,"Lucknow Super Giants, Mumbai Indians [IPL]"
+Bowling,4716,Mayank Dagar,158,IPL,"Royal Challengers Bengaluru, Sunrisers Hyderabad",None,Royal Challengers Bengaluru (IPL),False,"Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL]"
+Bowling,295,Wayne Parnell,159,IPL & T20I,Royal Challengers Bengaluru,South Africa,South Africa (IPL & T20I),True,Royal Challengers Bengaluru [IPL] / South Africa [T20I]
+Bowling,1171,Chris Woakes,160,T20I,None,England,England (T20I),False,England [T20I]
+Bowling,17424,Graham Hume,161,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,36553,Jediah Blades,162,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,2382,Jamie Overton,163,IPL & T20I,Chennai Super Kings,England,England (IPL & T20I),True,Chennai Super Kings [IPL] / England [T20I]
+Bowling,5940,Riley Meredith,164,IPL & T20I,Mumbai Indians,Australia,Mumbai Indians (IPL & T20I),True,Mumbai Indians [IPL] / Australia [T20I]
+Bowling,4816,Khaleel Ahmed,165,IPL & T20I,"Chennai Super Kings, Delhi Capitals",India,Delhi Capitals (IPL & T20I),True,"Chennai Super Kings, Delhi Capitals [IPL] / India [T20I]"
+Bowling,4641,Lungi Ngidi,166,IPL & T20I,"Delhi Capitals, Royal Challengers Bengaluru",South Africa,South Africa (IPL & T20I),True,"Delhi Capitals, Royal Challengers Bengaluru [IPL] / South Africa [T20I]"
+Bowling,4288,Navdeep Saini,167,IPL,"Kolkata Knight Riders, Rajasthan Royals",None,Rajasthan Royals (IPL),False,"Kolkata Knight Riders, Rajasthan Royals [IPL]"
+Bowling,25138,Harsh Dubey,168,IPL,Sunrisers Hyderabad,None,Sunrisers Hyderabad (IPL),False,Sunrisers Hyderabad [IPL]
+Bowling,7503,Ravi Bishnoi,169,IPL & T20I,"Lucknow Super Giants, Rajasthan Royals",India,Lucknow Super Giants (IPL & T20I),True,"Lucknow Super Giants, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,6237,Manimaran Siddharth,170,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Bowling,8049,Naseem Shah,171,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,22137,Fionn Hand,172,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,8182,Donovan Ferreira,173,IPL & T20I,Rajasthan Royals,South Africa,South Africa (IPL & T20I),True,Rajasthan Royals [IPL] / South Africa [T20I]
+Bowling,1772,Sheldon Cottrell,174,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,1758,Patrick Cummins,175,IPL & T20I,"Kolkata Knight Riders, Sunrisers Hyderabad",Australia,Sunrisers Hyderabad (IPL & T20I),True,"Kolkata Knight Riders, Sunrisers Hyderabad [IPL] / Australia [T20I]"
+Bowling,4489,Prasidh Krishna,176,IPL & T20I,"Gujarat Titans, Rajasthan Royals",India,Gujarat Titans (IPL & T20I),True,"Gujarat Titans, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,4837,Obed McCoy,177,IPL & T20I,Rajasthan Royals,West Indies,West Indies (IPL & T20I),True,Rajasthan Royals [IPL] / West Indies [T20I]
+Bowling,46066,Vipraj Nigam,178,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Bowling,6286,Shivam Mavi,179,IPL & T20I,Kolkata Knight Riders,India,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / India [T20I]
+Bowling,4926,Shadab Khan,180,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,4779,Pieter Willem Mulder,181,IPL & T20I,Sunrisers Hyderabad,South Africa,South Africa (IPL & T20I),True,Sunrisers Hyderabad [IPL] / South Africa [T20I]
+Bowling,6287,Yash Thakur,182,IPL & T20I,"Lucknow Super Giants, Punjab Kings",India,Lucknow Super Giants (IPL & T20I),True,"Lucknow Super Giants, Punjab Kings [IPL] / India [T20I]"
+Bowling,7533,Simarjeet Singh,183,IPL,"Chennai Super Kings, Sunrisers Hyderabad",None,Chennai Super Kings (IPL),False,"Chennai Super Kings, Sunrisers Hyderabad [IPL]"
+Bowling,6350,Matthew Kuhnemann,184,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Bowling,56817,Shivang Kumar,185,IPL,Sunrisers Hyderabad,None,Sunrisers Hyderabad (IPL),False,Sunrisers Hyderabad [IPL]
+Bowling,2399,Dushmantha Chameera,186,IPL & T20I,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",Sri Lanka,Sri Lanka (IPL & T20I),True,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants [IPL] / Sri Lanka [T20I]"
+Bowling,27959,Hrithik Shokeen,187,IPL,Mumbai Indians,None,Mumbai Indians (IPL),False,Mumbai Indians [IPL]
+Bowling,4265,T Natarajan,188,IPL,"Delhi Capitals, Sunrisers Hyderabad",None,Sunrisers Hyderabad (IPL),False,"Delhi Capitals, Sunrisers Hyderabad [IPL]"
+Bowling,3660,Luke Wood,189,IPL & T20I,Mumbai Indians,England,England (IPL & T20I),True,Mumbai Indians [IPL] / England [T20I]
+Bowling,32862,Allah Ghazanfar,190,IPL & T20I,Mumbai Indians,Afghanistan,Mumbai Indians (IPL & T20I),True,Mumbai Indians [IPL] / Afghanistan [T20I]
+Bowling,1944,Keshav Maharaj,191,IPL & T20I,Rajasthan Royals,South Africa,South Africa (IPL & T20I),True,Rajasthan Royals [IPL] / South Africa [T20I]
+Bowling,6515,Benjamin Lister,192,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Bowling,3323,Jimmy Neesham,193,IPL & T20I,Rajasthan Royals,New Zealand,New Zealand (IPL & T20I),True,Rajasthan Royals [IPL] / New Zealand [T20I]
+Bowling,8380,Mohammad Rishad Hossain,194,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,3272,Fabian Allen,195,IPL & T20I,Mumbai Indians,West Indies,West Indies (IPL & T20I),True,Mumbai Indians [IPL] / West Indies [T20I]
+Bowling,19530,Shahnawaz Dhani,196,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,6671,Lalit Yadav,197,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Bowling,47724,Jahandad Khan,198,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,470,Mohammad Amir,199,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,58134,Digvesh Rathi,200,IPL,Lucknow Super Giants,None,Lucknow Super Giants (IPL),False,Lucknow Super Giants [IPL]
+Bowling,6160,Chamika Karunaratne,201,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,7322,Yash Dayal,202,IPL,"Gujarat Titans, Royal Challengers Bengaluru",None,Royal Challengers Bengaluru (IPL),False,"Gujarat Titans, Royal Challengers Bengaluru [IPL]"
+Bowling,829,Mitchell Starc,203,IPL & T20I,"Delhi Capitals, Kolkata Knight Riders",Australia,Delhi Capitals (IPL & T20I),True,"Delhi Capitals, Kolkata Knight Riders [IPL] / Australia [T20I]"
+Bowling,6628,Gerald Coetzee,204,IPL & T20I,"Gujarat Titans, Mumbai Indians",South Africa,South Africa (IPL & T20I),True,"Gujarat Titans, Mumbai Indians [IPL] / South Africa [T20I]"
+Bowling,6025,Henry Shipley,205,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Bowling,4842,Shamar Springer,206,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,38855,Mohammad Saifuddin,207,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,8654,Cooper Connolly,208,T20I,None,Australia,Australia (T20I),False,Australia [T20I]
+Bowling,58246,Prince Yadav,209,IPL & T20I,Lucknow Super Giants,India,Lucknow Super Giants (IPL & T20I),True,Lucknow Super Giants [IPL] / India [T20I]
+Bowling,21784,Brad Evans,210,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,22134,Luke Jongwe,211,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,1487,Adam Milne,212,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",New Zealand,New Zealand (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / New Zealand [T20I]"
+Bowling,7312,Nandre Burger,213,IPL & T20I,Rajasthan Royals,South Africa,Rajasthan Royals (IPL & T20I),True,Rajasthan Royals [IPL] / South Africa [T20I]
+Bowling,2315,Reece Topley,214,IPL & T20I,"Mumbai Indians, Royal Challengers Bengaluru",England,England (IPL & T20I),True,"Mumbai Indians, Royal Challengers Bengaluru [IPL] / England [T20I]"
+Bowling,7327,Rasikh Salam,215,IPL,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru",None,Royal Challengers Bengaluru (IPL),False,"Delhi Capitals, Kolkata Knight Riders, Royal Challengers Bengaluru [IPL]"
+Bowling,6683,Mayank Markande,216,IPL,"Mumbai Indians, Sunrisers Hyderabad",None,Sunrisers Hyderabad (IPL),False,"Mumbai Indians, Sunrisers Hyderabad [IPL]"
+Bowling,6676,Azmatullah Omarzai,217,IPL & T20I,"Gujarat Titans, Punjab Kings",Afghanistan,Afghanistan (IPL & T20I),True,"Gujarat Titans, Punjab Kings [IPL] / Afghanistan [T20I]"
+Bowling,2633,Jason Holder,218,IPL & T20I,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals",West Indies,West Indies (IPL & T20I),True,"Gujarat Titans, Lucknow Super Giants, Rajasthan Royals [IPL] / West Indies [T20I]"
+Bowling,5738,Xavier Bartlett,219,IPL & T20I,Punjab Kings,Australia,Australia (IPL & T20I),True,Punjab Kings [IPL] / Australia [T20I]
+Bowling,6677,Mohammad Hasnain,220,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,2416,Kyle Mayers,221,IPL & T20I,Lucknow Super Giants,West Indies,West Indies (IPL & T20I),True,Lucknow Super Giants [IPL] / West Indies [T20I]
+Bowling,3664,Binura Fernando,222,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,39657,Eshan Malinga,223,IPL & T20I,Sunrisers Hyderabad,Sri Lanka,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / Sri Lanka [T20I]
+Bowling,8634,Ashwani Kumar,224,IPL,Mumbai Indians,None,Mumbai Indians (IPL),False,Mumbai Indians [IPL]
+Bowling,3727,Matthew Short,225,IPL & T20I,"Chennai Super Kings, Punjab Kings",Australia,Australia (IPL & T20I),True,"Chennai Super Kings, Punjab Kings [IPL] / Australia [T20I]"
+Bowling,25048,Umran Malik,226,IPL & T20I,Sunrisers Hyderabad,India,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / India [T20I]
+Bowling,2526,Ish Sodhi,227,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Bowling,395,Karn Sharma,228,IPL,"Mumbai Indians, Royal Challengers Bengaluru",None,Royal Challengers Bengaluru (IPL),False,"Mumbai Indians, Royal Challengers Bengaluru [IPL]"
+Bowling,4815,Benjamin White,229,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,4636,Bjorn Fortuin,230,T20I,None,South Africa,South Africa (T20I),False,South Africa [T20I]
+Bowling,6464,Arshdeep Singh,231,IPL & T20I,Punjab Kings,India,India (IPL & T20I),True,Punjab Kings [IPL] / India [T20I]
+Bowling,2411,Sandeep Sharma,232,IPL,"Punjab Kings, Rajasthan Royals",None,Rajasthan Royals (IPL),False,"Punjab Kings, Rajasthan Royals [IPL]"
+Bowling,4901,Asitha Fernando,233,T20I,None,Sri Lanka,Sri Lanka (T20I),False,Sri Lanka [T20I]
+Bowling,67036,Brijesh Sharma,234,IPL,Rajasthan Royals,None,Rajasthan Royals (IPL),False,Rajasthan Royals [IPL]
+Bowling,4487,Vyshak Kumar,235,IPL,"Punjab Kings, Royal Challengers Bengaluru",None,Punjab Kings (IPL),False,"Punjab Kings, Royal Challengers Bengaluru [IPL]"
+Bowling,27964,Anshul Kamboj,236,IPL,"Chennai Super Kings, Mumbai Indians",None,Chennai Super Kings (IPL),False,"Chennai Super Kings, Mumbai Indians [IPL]"
+Bowling,2261,Harshal Patel,237,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad",India,Royal Challengers Bengaluru (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / India [T20I]"
+Bowling,3653,Avesh Khan,238,IPL & T20I,"Lucknow Super Giants, Rajasthan Royals",India,Lucknow Super Giants (IPL & T20I),True,"Lucknow Super Giants, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,8530,Kartik Tyagi,239,IPL,"Gujarat Titans, Kolkata Knight Riders, Sunrisers Hyderabad",None,Kolkata Knight Riders (IPL),False,"Gujarat Titans, Kolkata Knight Riders, Sunrisers Hyderabad [IPL]"
+Bowling,2334,Dwaine Pretorius,240,IPL & T20I,Chennai Super Kings,South Africa,South Africa (IPL & T20I),True,Chennai Super Kings [IPL] / South Africa [T20I]
+Bowling,2639,Marcus Stoinis,241,IPL & T20I,"Lucknow Super Giants, Punjab Kings",Australia,Australia (IPL & T20I),True,"Lucknow Super Giants, Punjab Kings [IPL] / Australia [T20I]"
+Bowling,1389,Sean Abbott,242,IPL & T20I,Sunrisers Hyderabad,Australia,Australia (IPL & T20I),True,Sunrisers Hyderabad [IPL] / Australia [T20I]
+Bowling,8326,Jayden Seales,243,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,29066,Zakary Foulkes,244,T20I,None,New Zealand,New Zealand (T20I),False,New Zealand [T20I]
+Bowling,6354,Spencer Johnson,245,IPL & T20I,"Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders",Australia,Australia (IPL & T20I),True,"Chennai Super Kings, Gujarat Titans, Kolkata Knight Riders [IPL] / Australia [T20I]"
+Bowling,7201,Haroon Arshad,246,T20I,None,Hong Kong,Hong Kong (T20I),False,Hong Kong [T20I]
+Bowling,5808,Karim Janat,247,IPL & T20I,Gujarat Titans,Afghanistan,Afghanistan (IPL & T20I),True,Gujarat Titans [IPL] / Afghanistan [T20I]
+Bowling,47050,Shamar Joseph,248,IPL & T20I,Lucknow Super Giants,West Indies,West Indies (IPL & T20I),True,Lucknow Super Giants [IPL] / West Indies [T20I]
+Bowling,8746,Vaibhav Arora,249,IPL,"Kolkata Knight Riders, Punjab Kings",None,Kolkata Knight Riders (IPL),False,"Kolkata Knight Riders, Punjab Kings [IPL]"
+Bowling,8295,Matthew Forde,250,T20I,None,West Indies,West Indies (T20I),False,West Indies [T20I]
+Bowling,28018,Ashok Sharma,251,IPL & T20I,Gujarat Titans,India,Gujarat Titans (IPL & T20I),True,Gujarat Titans [IPL] / India [T20I]
+Bowling,2878,Mohit Sharma,252,IPL,"Delhi Capitals, Gujarat Titans",None,Gujarat Titans (IPL),False,"Delhi Capitals, Gujarat Titans [IPL]"
+Bowling,7808,Marco Jansen,253,IPL & T20I,"Punjab Kings, Sunrisers Hyderabad",South Africa,Punjab Kings (IPL & T20I),True,"Punjab Kings, Sunrisers Hyderabad [IPL] / South Africa [T20I]"
+Bowling,1071,Jaydev Unadkat,254,IPL,"Lucknow Super Giants, Mumbai Indians, Sunrisers Hyderabad",None,Sunrisers Hyderabad (IPL),False,"Lucknow Super Giants, Mumbai Indians, Sunrisers Hyderabad [IPL]"
+Bowling,7689,Dilshan Madushanka,255,IPL & T20I,Sunrisers Hyderabad,Sri Lanka,Sri Lanka (IPL & T20I),True,Sunrisers Hyderabad [IPL] / Sri Lanka [T20I]
+Bowling,4391,Liam Livingstone,256,IPL & T20I,"Punjab Kings, Royal Challengers Bengaluru",England,England (IPL & T20I),True,"Punjab Kings, Royal Challengers Bengaluru [IPL] / England [T20I]"
+Bowling,8141,Auqib Nabi,257,IPL,Delhi Capitals,None,Delhi Capitals (IPL),False,Delhi Capitals [IPL]
+Bowling,1107,Mohammad Nabi,258,IPL & T20I,Mumbai Indians,Afghanistan,Afghanistan (IPL & T20I),True,Mumbai Indians [IPL] / Afghanistan [T20I]
+Bowling,7094,Curtis Campher,259,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,4201,Fareed Malik,260,T20I,None,Afghanistan,Afghanistan (T20I),False,Afghanistan [T20I]
+Bowling,7905,Tanzim Sakib,261,T20I,None,Bangladesh,Bangladesh (T20I),False,Bangladesh [T20I]
+Bowling,3623,Hasan Ali,262,T20I,None,Pakistan,Pakistan (T20I),False,Pakistan [T20I]
+Bowling,2436,Dasun Shanaka,263,IPL & T20I,Rajasthan Royals,Sri Lanka,Sri Lanka (IPL & T20I),True,Rajasthan Royals [IPL] / Sri Lanka [T20I]
+Bowling,36982,Suyash Sharma,264,IPL,"Kolkata Knight Riders, Royal Challengers Bengaluru",None,Royal Challengers Bengaluru (IPL),False,"Kolkata Knight Riders, Royal Challengers Bengaluru [IPL]"
+Bowling,26663,Kwena Maphaka,265,IPL & T20I,"Mumbai Indians, Rajasthan Royals",South Africa,South Africa (IPL & T20I),True,"Mumbai Indians, Rajasthan Royals [IPL] / South Africa [T20I]"
+Bowling,27466,Dhruv Parashar,266,T20I,None,United Arab Emirates,United Arab Emirates (T20I),False,United Arab Emirates [T20I]
+Bowling,5441,Barry McCarthy,267,T20I,None,Ireland,Ireland (T20I),False,Ireland [T20I]
+Bowling,2483,Lizaad Williams,268,IPL & T20I,Delhi Capitals,South Africa,South Africa (IPL & T20I),True,Delhi Capitals [IPL] / South Africa [T20I]
+Bowling,5041,Mukesh Kumar,269,IPL & T20I,Delhi Capitals,India,Delhi Capitals (IPL & T20I),True,Delhi Capitals [IPL] / India [T20I]
+Bowling,1318,Andre Russell,270,IPL & T20I,Kolkata Knight Riders,West Indies,Kolkata Knight Riders (IPL & T20I),True,Kolkata Knight Riders [IPL] / West Indies [T20I]
+Bowling,4840,Odean Smith,271,IPL & T20I,Punjab Kings,West Indies,West Indies (IPL & T20I),True,Punjab Kings [IPL] / West Indies [T20I]
+Bowling,33969,Tinotenda Maposa,272,T20I,None,Zimbabwe,Zimbabwe (T20I),False,Zimbabwe [T20I]
+Bowling,4755,Shivam Dube,273,IPL & T20I,Chennai Super Kings,India,India (IPL & T20I),True,Chennai Super Kings [IPL] / India [T20I]
+Bowling,4237,Tabraiz Shamsi,274,T20I,None,South Africa,South Africa (T20I),False,South Africa [T20I]
+Bowling,3605,Aiden Markram,275,IPL & T20I,"Lucknow Super Giants, Sunrisers Hyderabad",South Africa,South Africa (IPL & T20I),True,"Lucknow Super Giants, Sunrisers Hyderabad [IPL] / South Africa [T20I]"
+Bowling,6806,Tushar Deshpande,276,IPL & T20I,"Chennai Super Kings, Rajasthan Royals",India,Chennai Super Kings (IPL & T20I),True,"Chennai Super Kings, Rajasthan Royals [IPL] / India [T20I]"
+Bowling,6281,Abhishek Sharma,277,IPL & T20I,Sunrisers Hyderabad,India,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / India [T20I]
+Bowling,20005,Arshad Khan,278,IPL,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians",None,Gujarat Titans (IPL),False,"Gujarat Titans, Lucknow Super Giants, Mumbai Indians [IPL]"
+Bowling,3275,Alzarri Joseph,279,IPL & T20I,"Gujarat Titans, Royal Challengers Bengaluru",West Indies,West Indies (IPL & T20I),True,"Gujarat Titans, Royal Challengers Bengaluru [IPL] / West Indies [T20I]"
+Bowling,5939,Cameron Green,280,IPL & T20I,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru",Australia,Mumbai Indians (IPL & T20I),True,"Kolkata Knight Riders, Mumbai Indians, Royal Challengers Bengaluru [IPL] / Australia [T20I]"
+Bowling,3174,Matt Henry,281,IPL & T20I,"Chennai Super Kings, Lucknow Super Giants",New Zealand,New Zealand (IPL & T20I),True,"Chennai Super Kings, Lucknow Super Giants [IPL] / New Zealand [T20I]"
+Bowling,2304,Tymal Mills,282,IPL & T20I,Mumbai Indians,England,England (IPL & T20I),True,Mumbai Indians [IPL] / England [T20I]
+Bowling,7473,Akash Deep,283,IPL,"Lucknow Super Giants, Royal Challengers Bengaluru",None,Royal Challengers Bengaluru (IPL),False,"Lucknow Super Giants, Royal Challengers Bengaluru [IPL]"
+Bowling,3330,Hardik Pandya,284,IPL & T20I,"Gujarat Titans, Mumbai Indians",India,India (IPL & T20I),True,"Gujarat Titans, Mumbai Indians [IPL] / India [T20I]"
+Bowling,786,Chris Jordan,285,IPL & T20I,"Chennai Super Kings, Mumbai Indians",England,England (IPL & T20I),True,"Chennai Super Kings, Mumbai Indians [IPL] / England [T20I]"
+Bowling,4409,Sam Curran,286,IPL & T20I,"Chennai Super Kings, Punjab Kings",England,England (IPL & T20I),True,"Chennai Super Kings, Punjab Kings [IPL] / England [T20I]"
+Bowling,3697,Kyle Jamieson,287,IPL & T20I,"Delhi Capitals, Punjab Kings",New Zealand,New Zealand (IPL & T20I),True,"Delhi Capitals, Punjab Kings [IPL] / New Zealand [T20I]"
+Bowling,2847,Shardul Thakur,288,IPL & T20I,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians",India,Delhi Capitals (IPL & T20I),True,"Chennai Super Kings, Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants, Mumbai Indians [IPL] / India [T20I]"
+Bowling,7270,Anrich Nortje,289,IPL & T20I,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants",South Africa,Delhi Capitals (IPL & T20I),True,"Delhi Capitals, Kolkata Knight Riders, Lucknow Super Giants [IPL] / South Africa [T20I]"
+Bowling,7472,Shahbaz Ahmed,290,IPL,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad",None,Royal Challengers Bengaluru (IPL),False,"Lucknow Super Giants, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL]"
+Bowling,8221,Nitish Reddy,291,IPL & T20I,Sunrisers Hyderabad,India,Sunrisers Hyderabad (IPL & T20I),True,Sunrisers Hyderabad [IPL] / India [T20I]
+Bowling,6726,Romario Shepherd,292,IPL & T20I,"Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad",West Indies,West Indies (IPL & T20I),True,"Mumbai Indians, Royal Challengers Bengaluru, Sunrisers Hyderabad [IPL] / West Indies [T20I]"

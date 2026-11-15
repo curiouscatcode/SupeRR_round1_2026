@@ -1,0 +1,28 @@
+audit_item,candidate_M,reported_in_report,reported_in_csv,recalculated_value,abs_diff_report,abs_diff_csv,audit_verdict,audit_notes
+Ball 0.1 Pre-Delivery WP (M=0),0,0.5151,0.5151,0.5151,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Raw Consequence L (M=0),0,0.02263,0.02263,0.02263,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Wicket Swing (M=0),0,-0.08253,-0.08253,-0.08253,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Six Swing (M=0),0,0.08351,0.08351,0.08351,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Pre-Delivery WP (M=12),12,0.5252,0.5252,0.5252,2e-06,2e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Raw Consequence L (M=12),12,0.01271,0.01271,0.01271,4e-06,4e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Whole ECDF Pct (M=12),12,88.49,88.49,88.55126,0.061256,0.061256,MISMATCH,"Discrepancy detected: Recalc=88.55125560584136, Report=88.49, CSV=88.49."
+Ball 0.1 Batting Pressure P_bat (M=12),12,66.52,66.52,66.53993,0.019934,0.019934,VERIFIED MINOR ROUNDING,Matches within normal floating point/rounding tolerance (diff = 0.01993).
+Ball 0.1 Pre-Delivery WP (M=18),18,0.5251,0.5251,0.52507,2.9e-05,2.9e-05,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Raw Consequence L (M=18),18,0.01247,0.01247,0.01247,2e-06,2e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Whole ECDF Pct (M=18),18,85.52,85.52,85.48587,0.034126,0.034126,VERIFIED MINOR ROUNDING,Matches within normal floating point/rounding tolerance (diff = 0.03413).
+Ball 0.1 Batting Pressure P_bat (M=18),18,65.39,65.39,65.37808,0.011917,0.011917,VERIFIED MINOR ROUNDING,Matches within normal floating point/rounding tolerance (diff = 0.01192).
+Ball 0.1 Wicket Swing (M=18),18,-0.08269,-0.08269,-0.08269,1e-06,1e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Six Swing (M=18),18,0.03526,0.03526,0.03526,2e-06,2e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Pre-Delivery WP (M=24),24,0.525,0.525,0.52499,1.2e-05,1.2e-05,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Raw Consequence L (M=24),24,0.01233,0.01233,0.01233,1e-06,1e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Ball 0.1 Whole ECDF Pct (M=24),24,83.71,83.71,83.67045,0.039547,0.039547,VERIFIED MINOR ROUNDING,Matches within normal floating point/rounding tolerance (diff = 0.03955).
+Ball 0.1 Batting Pressure P_bat (M=24),24,64.7,64.7,64.68016,0.019843,0.019843,VERIFIED MINOR ROUNDING,Matches within normal floating point/rounding tolerance (diff = 0.01984).
+Early Collapse 15/3 Pre-Delivery WP (M=18),18,0.3038,0.3038,0.30376,3.6e-05,3.6e-05,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Early Collapse 15/3 Raw Consequence L (M=18),18,0.01012,0.01012,0.01012,2e-06,2e-06,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Early Collapse 15/3 Whole ECDF Pct (M=18),18,52.28,52.28,50.18113,2.098868,2.098868,MISMATCH,"Discrepancy detected: Recalc=50.181131533306655, Report=52.28, CSV=52.28."
+Early Collapse 15/3 Batting Pressure P_bat (M=18),18,64.93,64.93,63.61294,1.317058,1.317058,MISMATCH,"Discrepancy detected: Recalc=63.61294244763285, Report=64.93, CSV=64.93."
+Powerplay Raw L Mean (M=18),18,0.01187,0.01187,0.01187,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Powerplay Batting Pressure Mean P_bat (M=18),18,58.67,58.67,58.67,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Middle Overs Batting Pressure Mean P_bat (M=18),18,35.32,35.32,35.32,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Death Overs Batting Pressure Mean P_bat (M=18),18,54.08,54.08,54.08,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).
+Overall Innings 1 Batting Pressure Mean P_bat (M=18),18,47.05,47.05,47.05,0.0,0.0,VERIFIED EXACT,Matches report and underlying CSV exactly (discrepancy < 0.0001).

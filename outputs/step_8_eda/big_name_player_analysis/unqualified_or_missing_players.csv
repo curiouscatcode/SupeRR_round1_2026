@@ -1,0 +1,12 @@
+Player Name,Status,Reason,Batting Balls Faced,Batting P>=50 Opps,Bowling Legal Balls,Bowling P>=50 Opps,Dataset Presence
+Ben Stokes,Unqualified in both disciplines,Failed qualification threshold N(P>=50) >= 50 in both batting and bowling.,34,12,30,24,"Present in 2021-2024 tracking data, but limited appearances due to injuries/workload"
+Steve Smith,Completely Absent from Dataset,Zero deliveries faced or bowled in the competition dataset period (2021-2024 IPL & select T20I matches).,0,0,0,0,Absent (did not play eligible T20 tournament matches in window)
+Shan Masood,Unqualified in Batting (Agonizing Near-Miss),"Accumulated 176 balls faced, but only 47 were at P>=50 (missed qualification threshold by exactly 3 balls).",176,47,0,0,Present in Pakistan T20I matches
+Kieron Pollard,Unqualified in Bowling (Near-Miss),"Bowled 185 legal balls, but only 45 were at P>=50 (missed bowling qualification by exactly 5 balls). Retired from IPL after 2022.",622,275,185,45,Qualified as Batter (#144); Unqualified as Bowler
+Alzarri Joseph,Unqualified in Batting (Near-Miss),"Faced 130 balls, but exactly 49 were at P>=50 (missed batting qualification by 1 ball). Qualified in bowling (Rank 135).",130,49,1361,704,Qualified as Bowler (#135); Unqualified as Batter
+Rishi Dhawan,Unqualified in Bowling (Near-Miss),"Bowled 168 legal balls, but exactly 49 were at P>=50 (missed bowling qualification by 1 ball).",122,55,168,49,Qualified as Batter (#223); Unqualified as Bowler
+Mosaddek Hossain,Unqualified in Batting (Near-Miss),"Faced 113 balls, with 47 at P>=50 (missed batting qualification by 3 balls). Highly prominent in bowling (Rank 11).",113,47,159,50,Qualified as Bowler (#11); Unqualified as Batter
+Haris Rauf,Unqualified in Batting,"Tailender batter: faced 103 balls, 38 at P>=50. Qualified in bowling (Rank 107).",103,38,1483,770,Qualified as Bowler (#107); Unqualified as Batter
+Gerald Coetzee,Unqualified in Batting,"Faced 97 balls, 40 at P>=50. Qualified in bowling (Rank 220).",97,40,616,328,Qualified as Bowler (#220); Unqualified as Batter
+Rachin Ravindra,Unqualified in Bowling,"Part-time bowler: bowled 132 legal balls, only 19 at P>=50. Qualified in batting (Rank 133).",585,267,132,19,Qualified as Batter (#133); Unqualified as Bowler
+Glenn Phillips,Unqualified in Bowling,"Part-time bowler: bowled 111 legal balls, 37 at P>=50. Qualified in batting (Rank 24).",1051,329,111,37,Qualified as Batter (#24); Unqualified as Bowler

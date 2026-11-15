@@ -1,0 +1,14 @@
+{
+  "verdict": "PASS",
+  "checks": {
+    "Check 1: Batting Pressure Validity": "PASS",
+    "Check 2: Bowling Pressure Validity": "PASS",
+    "Check 3: Player Metadata Coverage": "PASS",
+    "Check 4: Zero Duplicate Records": "PASS",
+    "Check 5: Match & Innings Consistency": "PASS",
+    "Check 6: Exclusions Maintained": "PASS",
+    "Check 7: Bit-for-Bit Pressure Identity": "PASS",
+    "Check 8: Source Reconciliation": "PASS",
+    "Check 9: Documented Missing Values": "PASS"
+  }
+}

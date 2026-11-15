@@ -1,0 +1,13 @@
+item,status,details
+batting_eligibility_filter,PASS,"Filtered strictly to is_batter_ball_faced == True (179,590 deliveries). Wides excluded; no-balls faced retained."
+batting_runs_accounting,PASS,"Evaluated strictly on batter_runs. Byes, leg-byes, and wides carry zero weight in batter ledger."
+batting_dismissals_accounting,PASS,Evaluated strictly on is_striker_dismissed. Non-striker run outs do not penalize striker.
+bowling_runs_conceded_accounting,PASS,Evaluated on bowler_runs_conceded. Byes and leg-byes are excluded; wide and no-ball runs included.
+bowling_wickets_accounting,PASS,"Evaluated strictly on is_bowler_wicket (bowled, caught, lbw, stumped, hit wicket). Run outs excluded."
+bowling_quota_denominator,PASS,Evaluated strictly on legal balls quota: sum(w_t * is_legal_ball). Complies with Step 6.2 Approach B.
+illegal_delivery_numerator_treatment,PASS,Wides and no-balls debit bowler runs conceded in numerator without advancing the legal-ball denominator.
+second_innings_non_terminal_cap,PASS,"Step 7.2.1 Condition 1 strictly applied: lambda_eff = min(lambda_wkt, runs_required) for W_rem >= 2."
+second_innings_terminal_wicket_exception,PASS,Step 7.2.1 Condition 2 strictly applied: lambda_eff = lambda_wkt (uncapped) for W_rem == 1.
+format_parameter_separation,PASS,Step 7.2.1 Condition 3 strictly applied: IPL deliveries use IPL DLS parameters; T20I use T20I parameters.
+temporal_integrity_no_future_leakage,PASS,"Pre-delivery pressure, score_before, and W_rem use strictly pre-delivery state. No future match leakage."
+player_identity_orthogonality,PASS,No player IDs or individual performance metrics enter situational baselines or pressure calculations.

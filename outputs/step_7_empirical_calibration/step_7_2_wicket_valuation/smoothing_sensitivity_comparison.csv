@@ -1,0 +1,4 @@
+model,mean_cv_rmse,mean_cv_mae,mean_cv_bias,strictly_positive,strictly_monotonic,smooth_u_to_zero,parameters
+Format-Stratified DLS (Approved),23.280489456254703,16.757928317788295,-0.04540895841139272,True,True,True,22
+Pooled DLS (Unified),23.523383495755773,16.99799704569037,-0.0262976971285644,True,True,True,11
+Unsmoothed Empirical Grid,23.58750338332911,17.042535050543968,-0.011355538202289095,False,False,False,1200

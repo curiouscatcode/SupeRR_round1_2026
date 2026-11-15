@@ -1,0 +1,32 @@
+{
+  "step": "Step 7.3",
+  "final_verdict": "PASS",
+  "selected_parameters": {
+    "K_bat": 600,
+    "K_bowl": 500,
+    "alpha": 1.0
+  },
+  "evidence_summary": {
+    "batting_k_cv_min_mse": 0.07646,
+    "batting_k_cv_zero_mse": 0.14627,
+    "batting_error_reduction_pct": 47.73,
+    "batting_k_mom": 616.082095054455,
+    "bowling_k_cv_min_mse": 0.08484,
+    "bowling_k_cv_zero_mse": 0.11054,
+    "bowling_error_reduction_pct": 23.25,
+    "bowling_k_mom": 784.9980006179773,
+    "alpha_kish_efficiency_bat": 86.95,
+    "alpha_kish_efficiency_bowl": 85.86,
+    "alpha_rank_correlation_1_0_vs_1_25_bat": 0.9970006055902473,
+    "alpha_rank_correlation_1_0_vs_1_25_bowl": 0.9984316410803624
+  },
+  "bootstrap_diagnostics": {
+    "replicates": 1000,
+    "resampled_matches": 782,
+    "qualifying_batters": 295,
+    "qualifying_bowlers": 309,
+    "mean_batting_se": 0.04878773928052422,
+    "mean_bowling_se": 0.05414826420537416
+  },
+  "clearance_for_step_7_4": true
+}

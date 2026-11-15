@@ -1,0 +1,15 @@
+dimension,batting_pwsva,bowling_sbva
+Target Population,295 Qualifying Batters (N >= 100 balls faced),309 Qualifying Bowlers (N >= 100 legal balls)
+Delivery Unit of Observation,"Balls faced by batter (excludes wides, includes no-balls)",All balls bowled (legal balls quota accounting)
+Within-Player Delivery Variance (sigma2),7.136 runs^2 / ball,6.858 runs^2 / ball
+Between-Player Skill Variance (tau2),0.0116 runs^2 / ball,0.0087 runs^2 / ball
+Empirical Bayes Variance Ratio (K_mom),616.1 balls,785.0 balls
+Cross-Validation Minimum MSE (K_cv),600 balls (MSE: 0.07646),500 balls (MSE: 0.08484)
+Final Calibrated Shrinkage Parameter,K_bat = 600,K_bowl = 500
+Shrinkage Half-Life (50% Shrinkage Point),600 effective balls (~30 innings),500 effective balls (~21 matches)
+Calibrated Pressure Weight Exponent,alpha = 1.00,alpha = 1.00
+Kish Design Efficiency at alpha=1.00,86.95%,85.86%
+Extreme Climax Weight Share (P >= 75),10.25%,1.50%
+Second-Innings Wicket Capping Rule,"min(lambda_wkt, runs_required) for W_rem >= 2","min(lambda_wkt, runs_required) for W_rem >= 2"
+Second-Innings Terminal Wicket Rule,Uncapped lambda_wkt for W_rem = 1,Uncapped lambda_wkt for W_rem = 1
+Treatment of Illegal Deliveries (Wides/NB),Wides excluded; No-balls faced included in N,Debited in numerator; denominator advances only on legal balls

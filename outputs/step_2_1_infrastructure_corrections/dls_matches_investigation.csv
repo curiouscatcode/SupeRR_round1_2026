@@ -1,0 +1,5 @@
+match_id,comp_name,match_date,home_team,away_team,result_string,win_team_id,first_inn_revised_overs,second_inn_revised_overs,revised_target,inn1_deliveries,inn1_legal_balls,inn1_score,inn1_wickets,inn2_deliveries,inn2_legal_balls,inn2_score,inn2_wickets
+20182,IPL 2023,2023-04-01,Punjab Kings,Kolkata Knight Riders,Punjab Kings Won by 7 Runs(D/L Method),4.0,,,,123,120,191,5,99,96,146,7
+23674,Afghanistan in Bangladesh T20I Series 2023,2023-07-16,Bangladesh,Afghanistan,Bangladesh Won by 6 Wickets(D/L Method),21.0,,,,108,102,116,7,103,97,116,4
+24822,India in Ireland T20I Series 2023,2023-08-18,Ireland,India,India Won by 2 Runs (DLS method),18.0,,,,127,120,139,7,43,41,47,2
+28334,Bangladesh in New Zealand T20I Series 2023,2023-12-31,New Zealand,Bangladesh,New Zealand won by 17runs (DLS Method),17.0,,,,125,116,110,10,93,88,94,5

@@ -1,0 +1,17 @@
+metric,value
+total_innings_2_deliveries,89337.0
+total_innings_2_matches,782.0
+chase_won_matches,294.0
+chase_won_pct,37.59590792838875
+bowled_out_matches,159.0
+bowled_out_pct,20.33248081841432
+batted_20_overs_matches,225.0
+batted_20_overs_pct,28.77237851662404
+other_shortened_matches,104.0
+deliveries_where_lambda_gt_runs_required,232.0
+deliveries_where_lambda_gt_runs_required_pct,0.2596908335851887
+wickets_on_overflow_deliveries,14.0
+corr_predicted_resource_vs_actual_inn2_runs,0.8621539201302115
+mean_unconstrained_lambda_wkt_inn2,7.902966296470593
+mean_target_capped_lambda_wkt_inn2,7.897012917261057
+aggregate_capping_impact_runs,0.005953379209536536

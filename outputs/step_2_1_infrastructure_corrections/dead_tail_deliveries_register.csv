@@ -1,0 +1,234 @@
+match_id,innings,overid,over_ball_num,innings_ball_num,striker_name,bowler_name,score_before,wickets_before,legal_balls_before,balls_remaining,runs_required,required_run_rate,runs,extras_type,team_runs_added,is_wicket
+13522,2,19,4,115,Suryakumar Yadav,Fabian Allen,155,4,111,9,-1.0,-0.67,1,,1,False
+13522,2,19,5,116,Venkatesh Iyer,Fabian Allen,156,4,112,8,-2.0,-1.5,6,,6,False
+14096,2,19,5,124,M Shahrukh Khan,Harshal Patel,195,5,111,9,0.0,0.0,0,,0,False
+14096,2,19,6,125,M Shahrukh Khan,Harshal Patel,195,5,112,8,0.0,0.0,0,,0,False
+14096,2,19,7,126,M Shahrukh Khan,Harshal Patel,195,5,113,7,0.0,0.0,4,,4,False
+14100,2,20,4,128,Ayush Badoni,Mukesh Choudhary,207,4,115,5,-2.0,-2.4,0,,0,False
+14100,2,20,5,129,Ayush Badoni,Mukesh Choudhary,207,4,116,4,-2.0,-3.0,1,,1,False
+14114,2,19,2,113,Nicholas Pooran,Mohammed Shami,151,2,109,11,0.0,0.0,1,,1,False
+14114,2,19,3,114,Aiden Markram,Mohammed Shami,152,2,110,10,-1.0,-0.6,1,,1,False
+14114,2,19,4,115,Nicholas Pooran,Mohammed Shami,153,2,111,9,-2.0,-1.33,4,,4,False
+14114,2,19,5,116,Nicholas Pooran,Mohammed Shami,157,2,112,8,-6.0,-4.5,1,,1,False
+14114,2,19,6,117,Aiden Markram,Mohammed Shami,158,2,113,7,-7.0,-6.0,4,,4,False
+14114,2,20,1,118,Nicholas Pooran,Darshan Nalkande,162,2,114,6,-11.0,-11.0,6,,6,False
+14129,2,8,5,48,Kane Williamson,Harshal Patel,65,1,46,74,0.0,0.0,1,,1,False
+14129,2,8,6,49,Rahul Tripathi,Harshal Patel,66,1,47,73,-1.0,-0.08,6,,6,False
+14133,2,20,6,125,Rashid Khan,Marco Jansen,188,5,119,1,0.0,0.0,6,,6,False
+14153,2,15,5,94,Tim David,Moeen Ali,93,5,88,32,0.0,0.0,6,,6,False
+14164,2,16,1,95,Prerak Mankad,Umran Malik,156,5,90,30,-3.0,-0.6,4,,4,False
+15189,2,18,5,107,Jos Buttler,Glenn Maxwell,152,3,106,14,0.0,0.0,2,,2,False
+15189,2,18,6,108,Jos Buttler,Glenn Maxwell,154,3,107,13,-2.0,-0.92,1,,1,False
+15189,2,19,1,109,Jos Buttler,Harshal Patel,155,3,108,12,-3.0,-1.5,6,,6,False
+15458,2,14,6,87,Aaron Finch,Dushmantha Chameera,128,0,83,37,-3.0,-0.49,6,,6,False
+15795,2,10,2,64,Deepak Hooda,Joshua Little,107,3,55,65,-1.0,-0.09,4,,4,False
+16063,2,20,3,119,Devon Thomas,Avesh Khan,137,5,115,5,-2.0,-2.4,4,,4,False
+16657,2,20,3,126,Asitha Fernando,Mahedi Hasan,179,8,116,4,-1.0,-1.5,2,Overstep,3,False
+16659,2,19,2,113,Bhanuka Rajapaksa,Naveen ul Haq,172,5,109,11,0.0,0.0,2,,2,False
+16659,2,19,3,114,Bhanuka Rajapaksa,Naveen ul Haq,174,5,110,10,-2.0,-1.2,0,,0,True
+16659,2,19,4,115,Chamika Karunaratne,Naveen ul Haq,174,6,111,9,-2.0,-1.33,1,,1,False
+16659,2,19,5,116,Wanindu Hasaranga,Naveen ul Haq,175,6,112,8,-3.0,-2.25,0,,0,False
+16659,2,19,6,117,Wanindu Hasaranga,Naveen ul Haq,175,6,113,7,-3.0,-2.57,0,,0,False
+16659,2,20,1,118,Chamika Karunaratne,FazalHaq Farooqi,175,6,114,6,-3.0,-3.0,4,,4,False
+16660,2,20,1,121,Khushdil Shah,Arshdeep Singh,175,4,114,6,0.0,0.0,1,,1,False
+16660,2,20,2,122,Asif Ali,Arshdeep Singh,176,4,115,5,-1.0,-1.2,4,,4,False
+16660,2,20,3,123,Asif Ali,Arshdeep Singh,180,4,116,4,-5.0,-7.5,0,,0,False
+16660,2,20,4,124,Asif Ali,Arshdeep Singh,180,4,117,3,-5.0,-10.0,0,,0,True
+16660,2,20,5,125,Iftikhar Ahmed,Arshdeep Singh,180,5,118,2,-5.0,-15.0,2,,2,False
+16664,2,17,2,99,Dasun Shanaka,Mohammad Hasnain,113,4,97,23,0.0,0.0,0,,0,True
+16664,2,17,3,100,Pathum Nissanka,Mohammad Hasnain,113,5,98,22,0.0,0.0,0,legbyes,1,False
+16664,2,17,4,101,Wanindu Hasaranga,Mohammad Hasnain,114,5,99,21,-1.0,-0.29,4,,4,False
+16664,2,17,5,102,Wanindu Hasaranga,Mohammad Hasnain,118,5,100,20,-5.0,-1.5,2,,2,False
+16664,2,17,6,103,Wanindu Hasaranga,Mohammad Hasnain,120,5,101,19,-7.0,-2.21,4,,4,False
+16750,2,20,5,122,George Dockrell,Naveen ul Haq,167,3,118,2,-1.0,-3.0,4,,4,False
+17554,2,20,3,122,Babar Azam,David Willey,199,0,116,4,0.0,0.0,4,,4,False
+19691,2,19,6,116,Curtis Campher,Tendai Chatara,140,4,113,7,0.0,0.0,2,,2,False
+19691,2,20,1,117,George Dockrell,Brad Evans,142,4,114,6,-2.0,-2.0,1,,1,False
+19691,2,20,2,118,Curtis Campher,Brad Evans,143,4,115,5,-3.0,-3.6,0,,0,False
+19691,2,20,3,119,Curtis Campher,Brad Evans,143,4,116,4,-3.0,-4.5,0,legbyes,1,False
+19691,2,20,4,120,George Dockrell,Brad Evans,144,4,117,3,-4.0,-8.0,6,,6,False
+19716,2,20,4,124,Hardik Pandya,Blair Tickner,96,4,117,3,0.0,0.0,1,,1,False
+19716,2,20,5,125,Suryakumar Yadav,Blair Tickner,97,4,118,2,-1.0,-3.0,4,,4,False
+20187,2,18,4,111,David Miller,Khaleel Ahmed,156,4,104,16,-2.0,-0.75,1,,1,False
+20187,2,18,5,112,Sai Sudharsan,Khaleel Ahmed,157,4,105,15,-3.0,-1.2,2,,2,False
+20187,2,18,6,113,Sai Sudharsan,Khaleel Ahmed,159,4,106,14,-5.0,-2.14,1,,1,False
+20187,2,18,7,114,David Miller,Khaleel Ahmed,160,4,107,13,-6.0,-2.77,1,,1,False
+20187,2,19,1,115,David Miller,Mitchell Marsh,161,4,108,12,-7.0,-3.5,2,,2,False
+20193,2,20,6,123,Rinku Singh,Yash Dayal,201,7,119,1,0.0,0.0,6,,6,False
+20202,2,18,2,107,Nehal Wadhera,Lockie Ferguson,183,4,103,17,-1.0,-0.35,0,,0,True
+20202,2,18,3,108,Cameron Green,Lockie Ferguson,183,5,104,16,-1.0,-0.38,1,,1,False
+20202,2,18,4,109,Tim David,Lockie Ferguson,184,5,105,15,-2.0,-0.8,1,,1,False
+20222,2,20,3,125,Tim David,Jason Holder,208,4,116,4,-2.0,-3.0,6,,6,False
+20229,2,18,3,108,Shivam Dube,Arshad Khan,138,4,104,16,-2.0,-0.75,1,,1,False
+20229,2,18,4,109,Mahendra Singh Dhoni,Arshad Khan,139,4,105,15,-3.0,-1.2,1,,1,False
+20233,2,20,5,122,Andre Russell,Arshdeep Singh,178,4,118,2,-1.0,-3.0,0,,0,True
+20233,2,20,6,123,Rinku Singh,Arshdeep Singh,178,5,119,1,-1.0,-6.0,4,,4,False
+20249,2,18,5,112,Cameron Green,Bhuvneshwar Kumar,200,2,106,14,0.0,0.0,0,,0,False
+20249,2,18,6,113,Cameron Green,Bhuvneshwar Kumar,200,2,107,13,0.0,0.0,1,,1,False
+24354,2,18,3,108,Shai Hope,Yashasvi Jaiswal,163,2,104,16,0.0,0.0,1,,1,False
+24354,2,18,4,109,Brandon King,Yashasvi Jaiswal,164,2,105,15,-1.0,-0.4,0,,0,False
+24354,2,18,5,110,Brandon King,Yashasvi Jaiswal,164,2,106,14,-1.0,-0.43,1,,1,False
+24354,2,18,6,111,Shai Hope,Yashasvi Jaiswal,165,2,107,13,-2.0,-0.92,6,,6,False
+25156,2,15,4,91,Mitchell Marsh,Lungi Ngidi,164,2,87,33,-2.0,-0.36,0,,0,False
+25156,2,15,5,92,Mitchell Marsh,Lungi Ngidi,164,2,88,32,-2.0,-0.38,4,,4,False
+25161,2,18,1,104,Rachin Ravindra,Moeen Ali,175,4,102,18,-3.0,-1.0,0,,0,False
+25161,2,18,2,105,Rachin Ravindra,Moeen Ali,175,4,103,17,-3.0,-1.06,4,,4,False
+27062,2,20,6,128,Glenn Maxwell,Prasidh Krishna,217,5,119,1,-2.0,-12.0,4,,4,False
+28063,2,18,6,112,Rovman Powell,Adil Rashid,168,6,107,13,0.0,0.0,0,,0,False
+28063,2,19,1,113,Andre Russell,Sam Curran,168,6,108,12,0.0,0.0,4,,4,False
+28065,2,20,5,123,Harry Brook,Andre Russell,220,3,118,2,-1.0,-3.0,6,,6,False
+28958,2,20,4,124,Luke Jongwe,Angelo Mathews,171,6,116,4,-1.0,-1.5,0,,0,False
+28958,2,20,5,125,Luke Jongwe,Angelo Mathews,171,6,117,3,-1.0,-2.0,1,,1,False
+28958,2,20,6,126,Clive Madande,Angelo Mathews,172,6,118,2,-2.0,-6.0,6,,6,False
+28961,2,15,6,92,Rinku Singh,Karim Janat,170,4,89,31,0.0,0.0,1,,1,False
+28961,2,16,1,93,Rinku Singh,FazalHaq Farooqi,171,4,90,30,-1.0,-0.2,0,,0,False
+28961,2,16,2,94,Rinku Singh,FazalHaq Farooqi,171,4,91,29,-1.0,-0.21,1,,1,False
+28961,2,16,3,95,Shivam Dube,FazalHaq Farooqi,172,4,92,28,-2.0,-0.43,0,,0,False
+28961,2,16,4,96,Shivam Dube,FazalHaq Farooqi,172,4,93,27,-2.0,-0.44,0,legbyes,1,False
+28962,2,20,7,128,Gulbadin Naib,Mukesh Kumar,207,6,118,2,-1.0,-3.0,2,,2,False
+28962,2,20,8,129,Gulbadin Naib,Mukesh Kumar,209,6,119,1,-3.0,-18.0,2,,2,False
+29926,2,20,6,126,Kamindu Mendis,Wafadar Momand,200,6,118,2,0.0,0.0,0,,0,False
+29926,2,20,7,127,Kamindu Mendis,Wafadar Momand,200,6,119,1,0.0,0.0,6,,6,False
+30072,2,20,6,123,Shashank Singh,Darshan Nalkande,197,7,118,2,0.0,0.0,0,legbyes,1,False
+30074,2,19,5,115,Shimron Hetmyer,Mohammed Siraj,180,4,112,8,0.0,0.0,0,wide,1,False
+30074,2,19,6,116,Shimron Hetmyer,Mohammed Siraj,181,4,112,8,-1.0,-0.75,1,,1,False
+30074,2,19,7,117,Jos Buttler,Mohammed Siraj,182,4,113,7,-2.0,-1.71,1,,1,False
+30074,2,20,1,118,Jos Buttler,Cameron Green,183,4,114,6,-3.0,-3.0,6,,6,False
+31240,2,18,2,107,Mahendra Singh Dhoni,Anukul Roy,135,3,103,17,0.0,0.0,0,,0,False
+31240,2,18,3,108,Mahendra Singh Dhoni,Anukul Roy,135,3,104,16,0.0,0.0,1,,1,False
+31240,2,18,4,109,Ruturaj Gaikwad,Anukul Roy,136,3,105,15,-1.0,-0.4,4,,4,False
+31250,2,20,2,126,Jos Buttler,Varun Chakravarthy,216,8,115,5,-2.0,-2.4,0,,0,False
+31250,2,20,3,127,Jos Buttler,Varun Chakravarthy,216,8,116,4,-2.0,-3.0,0,,0,False
+31250,2,20,4,128,Jos Buttler,Varun Chakravarthy,216,8,117,3,-2.0,-4.0,0,,0,False
+31250,2,20,5,129,Jos Buttler,Varun Chakravarthy,216,8,118,2,-2.0,-6.0,2,,2,False
+31250,2,20,6,130,Jos Buttler,Varun Chakravarthy,218,8,119,1,-4.0,-24.0,1,,1,False
+31256,2,19,4,117,Yashasvi Jaiswal,Namboori Tilak Varma,179,1,111,9,0.0,0.0,4,,4,False
+31262,2,19,5,115,Sanju Samson,Yash Thakur,189,3,112,8,0.0,0.0,4,,4,False
+31262,2,19,6,116,Sanju Samson,Yash Thakur,193,3,113,7,-4.0,-3.43,6,,6,False
+31265,2,17,1,99,Venkatesh Iyer,Rasikh Salam,151,3,96,24,-1.0,-0.25,0,,0,False
+31265,2,17,2,100,Venkatesh Iyer,Rasikh Salam,151,3,97,23,-1.0,-0.26,0,,0,False
+31265,2,17,3,101,Venkatesh Iyer,Rasikh Salam,151,3,98,22,-1.0,-0.27,6,,6,False
+31267,2,18,2,112,Sam Curran,Richard Gleeson,156,3,102,18,0.0,0.0,0,,0,False
+31267,2,18,3,113,Sam Curran,Richard Gleeson,156,3,103,17,0.0,0.0,4,,4,False
+31267,2,18,4,114,Sam Curran,Richard Gleeson,160,3,104,16,-4.0,-1.5,0,,0,False
+31267,2,18,5,115,Sam Curran,Richard Gleeson,160,3,105,15,-4.0,-1.6,0,legbyes,1,False
+31267,2,18,6,116,Shashank Singh,Richard Gleeson,161,3,106,14,-5.0,-2.14,2,,2,False
+32135,2,20,4,121,Blessing Muzarabani,Shakib Al Hasan,137,8,117,3,0.0,0.0,0,wide,1,True
+32135,2,20,5,122,Richard Ngarava,Shakib Al Hasan,138,9,117,3,-1.0,-2.0,0,,0,True
+33806,2,15,7,93,Yashasvi Jaiswal,Brian Bennett,149,0,89,31,-4.0,-0.77,0,,0,False
+33806,2,16,1,94,Shubman Gill,Blessing Muzarabani,149,0,90,30,-4.0,-0.8,1,,1,False
+33806,2,16,2,95,Yashasvi Jaiswal,Blessing Muzarabani,150,0,91,29,-5.0,-1.03,4,,4,False
+35423,2,16,2,94,Michael Levitt,Saad Zafar,147,3,91,29,0.0,0.0,0,,0,False
+35423,2,16,3,95,Michael Levitt,Saad Zafar,147,3,92,28,0.0,0.0,0,,0,False
+35423,2,16,4,96,Michael Levitt,Saad Zafar,147,3,93,27,0.0,0.0,1,,1,False
+35423,2,16,5,97,Zach Lion Cachet,Saad Zafar,148,3,94,26,-1.0,-0.23,0,,0,True
+35423,2,16,6,98,Ryan Klein,Saad Zafar,148,4,95,25,-1.0,-0.24,0,,0,True
+35423,2,17,1,99,Michael Levitt,Kaleem Sana,148,5,96,24,-1.0,-0.25,1,,1,False
+37014,2,17,6,107,Matthew Breetzke,Fionn Hand,167,2,101,19,-2.0,-0.63,0,,0,False
+37014,2,18,1,108,Aiden Markram,Mark Adair,167,2,102,18,-2.0,-0.67,0,,0,False
+37014,2,18,2,109,Aiden Markram,Mark Adair,167,2,103,17,-2.0,-0.71,1,,1,False
+37014,2,18,3,110,Matthew Breetzke,Mark Adair,168,2,104,16,-3.0,-1.12,0,wide,1,False
+37014,2,18,4,111,Matthew Breetzke,Mark Adair,169,2,104,16,-4.0,-1.5,0,,0,False
+37014,2,18,5,112,Matthew Breetzke,Mark Adair,169,2,105,15,-4.0,-1.6,4,,4,False
+37276,2,12,5,72,Hardik Pandya,Taskin Ahmed,126,3,70,50,-1.0,-0.12,6,,6,False
+37350,2,15,5,95,Liam Livingstone,Romario Shepherd,148,3,88,32,-3.0,-0.56,6,,6,False
+37351,2,19,6,119,Rehan Ahmed,Akeal Hosein,143,7,113,7,0.0,0.0,0,,0,False
+37351,2,20,1,120,Jamie Overton,Terrance Hinds,143,7,114,6,0.0,0.0,1,,1,False
+37351,2,20,2,121,Rehan Ahmed,Terrance Hinds,144,7,115,5,-1.0,-1.2,4,,4,False
+37555,2,18,3,107,Kusal Perera,Alzarri Joseph,158,1,104,16,-3.0,-1.12,1,,1,False
+37555,2,18,4,108,Kusal Mendis,Alzarri Joseph,159,1,105,15,-4.0,-1.6,0,wide,1,False
+37555,2,18,5,109,Kusal Mendis,Alzarri Joseph,160,1,105,15,-5.0,-2.0,0,,0,False
+37555,2,18,6,110,Kusal Mendis,Alzarri Joseph,160,1,106,14,-5.0,-2.14,1,,1,False
+37555,2,18,7,111,Kusal Perera,Alzarri Joseph,161,1,107,13,-6.0,-2.77,4,,4,False
+37894,2,19,5,115,Dunith Wellalage,Jacob Duffy,134,6,112,8,-1.0,-0.75,0,,0,False
+37894,2,19,6,116,Dunith Wellalage,Jacob Duffy,134,6,113,7,-1.0,-0.86,6,,6,False
+37895,2,20,5,126,Maheesh Theekshana,Glenn Phillips,100,9,118,2,0.0,0.0,0,,0,True
+37941,2,19,6,118,Tristan Stubbs,Arshdeep Singh,124,7,113,7,-2.0,-1.71,4,,4,False
+39808,2,11,1,61,Tim Robinson,Abrar Ahmed,90,1,60,60,0.0,0.0,2,,2,False
+39812,2,10,6,62,Tim Seifert,Shadab Khan,125,2,59,61,0.0,0.0,6,,6,False
+40706,2,16,6,99,Nehal Wadhera,Shardul Thakur,170,2,95,25,0.0,0.0,0,,0,False
+40706,2,17,1,100,Shreyas Iyer,Abdul Samad,170,2,96,24,0.0,0.0,0,,0,False
+40706,2,17,2,101,Shreyas Iyer,Abdul Samad,170,2,97,23,0.0,0.0,6,,6,False
+40717,2,18,5,109,Lokesh Rahul,Yash Dayal,158,4,106,14,-1.0,-0.43,0,wide,1,False
+40717,2,18,6,110,Lokesh Rahul,Yash Dayal,159,4,106,14,-2.0,-0.86,6,,6,False
+40720,2,19,2,119,Ishan Kishan,Yash Thakur,242,2,109,11,0.0,0.0,1,,1,False
+40720,2,19,3,120,Heinrich Klaasen,Yash Thakur,243,2,110,10,-1.0,-0.6,4,,4,False
+40742,2,20,3,119,Suryansh Shedge,Khaleel Ahmed,190,5,115,5,0.0,0.0,0,,0,True
+40742,2,20,4,120,Marco Jansen,Khaleel Ahmed,190,6,116,4,0.0,0.0,0,,0,False
+40742,2,20,5,121,Marco Jansen,Khaleel Ahmed,190,6,117,3,0.0,0.0,4,,4,False
+40764,2,10,4,58,Rajat Patidar,Musheer Khan,95,2,57,63,0.0,0.0,1,,1,False
+40764,2,10,5,59,Phil Salt,Musheer Khan,96,2,58,62,-1.0,-0.1,1,,1,False
+40764,2,10,6,60,Rajat Patidar,Musheer Khan,97,2,59,61,-2.0,-0.2,6,,6,False
+41508,2,19,4,129,Xavier Bartlett,Romario Shepherd,202,6,111,9,0.0,0.0,1,,1,False
+41508,2,19,5,130,Cameron Green,Romario Shepherd,203,6,112,8,-1.0,-0.75,0,,0,True
+41508,2,19,6,131,Cameron Green,Romario Shepherd,203,7,113,7,-1.0,-0.86,1,,1,False
+41508,2,20,1,132,Cameron Green,Akeal Hosein,204,7,114,6,-2.0,-2.0,1,,1,False
+41508,2,20,2,133,Sean Abbott,Akeal Hosein,205,7,115,5,-3.0,-3.6,1,,1,False
+42744,2,18,2,106,Salman Agha,Towhid Hridoy,196,3,103,17,0.0,0.0,1,,1,False
+43592,2,19,5,113,Avishka Fernando,Tanzim Sakib,152,3,112,8,0.0,0.0,1,,1,False
+43592,2,19,6,114,Charith Asalanka,Tanzim Sakib,153,3,113,7,-1.0,-0.86,6,,6,False
+45391,2,19,5,120,Jacob Bethell,Arshdeep Singh,187,6,112,8,0.0,0.0,1,,1,False
+45391,2,19,6,121,Jofra Archer,Arshdeep Singh,188,6,113,7,-1.0,-0.86,2,,2,False
+45490,2,12,8,75,William Jacks,Dushmantha Chameera,143,4,71,49,0.0,0.0,1,,1,False
+45490,2,13,1,76,William Jacks,Eshan Malinga,144,4,72,48,-1.0,-0.12,0,wide,1,False
+45490,2,13,2,77,William Jacks,Eshan Malinga,145,4,72,48,-2.0,-0.25,1,,1,False
+45502,2,19,5,114,Wanindu Hasaranga,Ateeq Iqbal,149,6,112,8,-2.0,-1.5,4,,4,False
+45903,2,19,5,117,Dushan Hemantha,Richard Ngarava,171,6,112,8,0.0,0.0,0,,0,False
+45903,2,19,6,118,Dushan Hemantha,Richard Ngarava,171,6,113,7,0.0,0.0,0,legbyes,1,False
+45903,2,20,1,119,Dushan Hemantha,Blessing Muzarabani,172,6,114,6,-1.0,-1.0,4,,4,False
+46007,2,18,4,110,Jamie Overton,Barry McCarthy,193,6,104,16,0.0,0.0,0,,0,False
+46007,2,18,5,111,Jamie Overton,Barry McCarthy,193,6,105,15,0.0,0.0,4,,4,False
+46312,2,18,3,107,Sean Abbott,Jacob Duffy,150,7,104,16,0.0,0.0,0,,0,False
+46312,2,18,4,108,Sean Abbott,Jacob Duffy,150,7,105,15,0.0,0.0,1,,1,False
+46312,2,18,5,109,Mitchell Marsh,Jacob Duffy,151,7,106,14,-1.0,-0.43,1,,1,False
+46312,2,18,6,110,Sean Abbott,Jacob Duffy,152,7,107,13,-2.0,-0.92,4,,4,False
+47982,2,19,1,111,Babar Azam,Dushmantha Chameera,112,4,108,12,0.0,0.0,1,,1,False
+47982,2,19,2,112,Usman Khan,Dushmantha Chameera,113,4,109,11,-1.0,-0.55,0,,0,False
+47982,2,19,3,113,Usman Khan,Dushmantha Chameera,113,4,110,10,-1.0,-0.6,1,,1,False
+47982,2,19,4,114,Babar Azam,Dushmantha Chameera,114,4,111,9,-2.0,-1.33,4,,4,False
+48592,2,15,6,98,Suryakumar Yadav,Jacob Duffy,206,3,88,32,0.0,0.0,0,,0,False
+48592,2,15,7,99,Suryakumar Yadav,Jacob Duffy,206,3,89,31,0.0,0.0,1,,1,False
+48592,2,16,1,100,Suryakumar Yadav,Daryl Mitchell,207,3,90,30,-1.0,-0.2,1,,1,False
+48592,2,16,2,101,Shivam Dube,Daryl Mitchell,208,3,91,29,-2.0,-0.41,1,,1,False
+48593,2,10,6,62,Suryakumar Yadav,Glenn Phillips,151,2,59,61,0.0,0.0,4,,4,False
+50129,2,17,5,112,Sameer Rizvi,Anrich Nortje,133,4,99,21,0.0,0.0,0,,0,False
+50129,2,17,6,113,Sameer Rizvi,Anrich Nortje,133,4,100,20,0.0,0.0,1,,1,False
+50129,2,17,7,114,Tristan Stubbs,Anrich Nortje,134,4,101,19,-1.0,-0.32,0,,0,False
+50129,2,18,1,115,Sameer Rizvi,Abdul Samad,134,4,102,18,-1.0,-0.33,6,,6,False
+50131,2,19,4,119,Shashank Singh,Anshul Kamboj,205,5,110,10,0.0,0.0,1,,1,False
+50131,2,19,5,120,Marcus Stoinis,Anshul Kamboj,206,5,111,9,-1.0,-0.67,4,,4,False
+50139,2,20,6,127,Mukul Choudhary,Vaibhav Arora,181,7,119,1,0.0,0.0,0,byes,1,False
+50140,2,18,5,109,Dhruv Jurel,Romario Shepherd,195,4,106,14,0.0,0.0,6,,6,False
+50140,2,18,6,110,Dhruv Jurel,Romario Shepherd,201,4,107,13,-6.0,-2.77,1,,1,False
+50143,2,19,3,114,Washington Sundar,Aiden Markram,164,3,110,10,0.0,0.0,0,,0,False
+50143,2,19,4,115,Washington Sundar,Aiden Markram,164,3,111,9,0.0,0.0,1,,1,False
+50345,2,17,4,108,Marcus Stoinis,Deepak Chahar,193,3,98,22,0.0,0.0,0,wide,1,False
+50345,2,17,5,109,Marcus Stoinis,Deepak Chahar,194,3,98,22,-1.0,-0.27,4,,4,False
+50346,2,20,4,121,Rahul Tewatia,Ramandeep Singh,178,5,116,4,0.0,0.0,1,,1,False
+50346,2,20,5,122,M Shahrukh Khan,Ramandeep Singh,179,5,117,3,-1.0,-2.0,2,,2,False
+50355,2,19,5,116,Krunal Pandya,Jason Holder,205,5,112,8,0.0,0.0,1,,1,False
+50358,2,17,2,100,Sai Sudharsan,Akeal Hosein,155,1,97,23,0.0,0.0,0,,0,True
+50358,2,17,3,101,Washington Sundar,Akeal Hosein,155,2,98,22,0.0,0.0,1,,1,False
+50358,2,17,4,102,Jos Buttler,Akeal Hosein,156,2,99,21,-1.0,-0.29,6,,6,False
+50361,2,19,5,118,Donovan Ferreira,Lockie Ferguson,219,4,112,8,-2.0,-1.5,1,,1,False
+50361,2,19,6,119,Shubham Dubey,Lockie Ferguson,220,4,113,7,-3.0,-2.57,1,,1,False
+50361,2,20,1,120,Shubham Dubey,Marco Jansen,221,4,114,6,-4.0,-4.0,1,,1,False
+50361,2,20,2,121,Donovan Ferreira,Marco Jansen,222,4,115,5,-5.0,-6.0,6,,6,False
+50379,2,20,5,122,Namboori Tilak Varma,Xavier Bartlett,199,4,118,2,-1.0,-3.0,6,,6,False
+50404,2,15,4,89,Shreyas Iyer,Roston Chase,171,2,87,33,-2.0,-0.36,1,,1,False
+50597,2,18,6,108,Joel Davies,Mohammad Saif Hassan,129,5,107,13,0.0,0.0,0,,0,False
+50597,2,19,1,109,Matthew Renshaw,Abdul Saqlain,129,5,108,12,0.0,0.0,0,,0,True
+50597,2,19,2,110,Xavier Bartlett,Abdul Saqlain,129,6,109,11,0.0,0.0,4,,4,False
+54408,2,14,2,86,Namboori Tilak Varma,Rashid Khan,149,3,79,41,0.0,0.0,1,,1,False
+54408,2,14,3,87,Shreyas Iyer,Rashid Khan,150,3,80,40,-1.0,-0.15,1,,1,False
+54408,2,14,4,88,Namboori Tilak Varma,Rashid Khan,151,3,81,39,-2.0,-0.31,2,,2,False
+55078,2,18,2,106,Sahibzada Farhan,Nuwan Thushara,169,4,103,17,-1.0,-0.35,0,,0,False
+55078,2,18,3,107,Sahibzada Farhan,Nuwan Thushara,169,4,104,16,-1.0,-0.38,4,,4,False
+55078,2,18,4,108,Sahibzada Farhan,Nuwan Thushara,173,4,105,15,-5.0,-2.0,6,,6,False
+55078,2,18,5,109,Sahibzada Farhan,Nuwan Thushara,179,4,106,14,-11.0,-4.71,0,,0,True
+55078,2,18,6,110,Shadab Khan,Nuwan Thushara,179,5,107,13,-11.0,-5.08,0,,0,False
+55078,2,19,1,111,Khawaja Nafay,Eshan Malinga,179,5,108,12,-11.0,-5.5,1,,1,False
+55078,2,19,2,112,Shadab Khan,Eshan Malinga,180,5,109,11,-12.0,-6.55,0,,0,True
+55078,2,19,3,113,Mohammad Imran Randhawa,Eshan Malinga,180,6,110,10,-12.0,-7.2,0,,0,False
+55078,2,19,4,114,Mohammad Imran Randhawa,Eshan Malinga,180,6,111,9,-12.0,-8.0,0,legbyes,1,False
+55078,2,19,5,115,Khawaja Nafay,Eshan Malinga,181,6,112,8,-13.0,-9.75,6,,6,False

@@ -1,0 +1,22 @@
+{
+  "cohort_matches": 782,
+  "ipl_matches": 355,
+  "t20i_matches": 427,
+  "batting_balls_faced": 179590,
+  "bowling_legal_balls": 178798,
+  "total_cells": 36,
+  "min_cell_samples_bat": 1394,
+  "max_cell_samples_bat": 10365,
+  "median_cell_samples_bat": 4014.5,
+  "min_cell_samples_bowl": 1388,
+  "max_cell_samples_bowl": 10339,
+  "median_cell_samples_bowl": 3984.5,
+  "mean_cv_bat_run_rmse": 1.7350267004897564,
+  "mean_cv_bat_run_bias": -0.00014132721442892057,
+  "mean_cv_bat_wkt_brier": 0.0510103472830141,
+  "mean_cv_bat_wkt_bias": 6.20735436610989e-05,
+  "mean_cv_bowl_run_rmse": 1.7341196111582327,
+  "mean_cv_bowl_run_bias": -0.0001478339841081401,
+  "mean_cv_bowl_wkt_brier": 0.04979692150598061,
+  "mean_cv_bowl_wkt_bias": 5.40333102730349e-05
+}

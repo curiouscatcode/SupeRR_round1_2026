@@ -1,0 +1,91 @@
+match_id,dead_tail_count,winning_ball_overid,winning_ball_over_ball_num,winning_ball_striker,winning_ball_runs,winning_ball_team_runs_added,winning_ball_extras_type,winning_ball_score_before,winning_ball_req_before,first_dead_req,dead_balls_overs
+13522,2,19,3,Suryakumar Yadav,4,4,,151,3.0,-1.0,"[np.int64(19), np.int64(19)]"
+14096,3,19,4,M Shahrukh Khan,6,6,,189,6.0,0.0,"[np.int64(19), np.int64(19), np.int64(19)]"
+14100,2,20,3,Ayush Badoni,6,6,,201,4.0,-2.0,"[np.int64(20), np.int64(20)]"
+14114,6,19,1,Aiden Markram,1,1,,150,1.0,0.0,"[np.int64(19), np.int64(19), np.int64(19), np.int64(19), np.int64(19), np.int64(20)]"
+14129,2,8,4,Rahul Tripathi,1,1,,64,1.0,0.0,"[np.int64(8), np.int64(8)]"
+14133,1,20,5,Rashid Khan,6,6,,182,6.0,0.0,[np.int64(20)]
+14153,1,15,4,Namboori Tilak Varma,1,1,,92,1.0,0.0,[np.int64(15)]
+14164,1,15,7,Liam Livingstone,6,6,,150,3.0,-3.0,[np.int64(16)]
+15189,3,18,4,Shimron Hetmyer,1,1,,151,1.0,0.0,"[np.int64(18), np.int64(18), np.int64(19)]"
+15458,1,14,5,Aaron Finch,4,4,,124,1.0,-3.0,[np.int64(14)]
+15795,1,10,1,Deepak Hooda,4,4,,103,3.0,-1.0,[np.int64(10)]
+16063,1,20,2,Devon Thomas,6,6,,131,4.0,-2.0,[np.int64(20)]
+16657,1,20,2,Asitha Fernando,4,4,,175,3.0,-1.0,[np.int64(20)]
+16659,6,19,1,Bhanuka Rajapaksa,4,4,,168,4.0,0.0,"[np.int64(19), np.int64(19), np.int64(19), np.int64(19), np.int64(19), np.int64(20)]"
+16660,5,19,8,Asif Ali,4,4,,171,4.0,0.0,"[np.int64(20), np.int64(20), np.int64(20), np.int64(20), np.int64(20)]"
+16664,5,17,1,Dasun Shanaka,6,6,,107,6.0,0.0,"[np.int64(17), np.int64(17), np.int64(17), np.int64(17), np.int64(17)]"
+16750,1,20,4,George Dockrell,4,4,,163,3.0,-1.0,[np.int64(20)]
+17554,1,20,2,Mohammad Rizwan,1,1,,198,1.0,0.0,[np.int64(20)]
+19691,5,19,5,Curtis Campher,4,4,,136,4.0,0.0,"[np.int64(19), np.int64(20), np.int64(20), np.int64(20), np.int64(20)]"
+19716,2,20,3,Suryakumar Yadav,1,1,,95,1.0,0.0,"[np.int64(20), np.int64(20)]"
+20187,5,18,3,David Miller,4,4,,152,2.0,-2.0,"[np.int64(18), np.int64(18), np.int64(18), np.int64(18), np.int64(19)]"
+20193,1,20,5,Rinku Singh,6,6,,195,6.0,0.0,[np.int64(20)]
+20202,3,18,1,Nehal Wadhera,4,4,,179,3.0,-1.0,"[np.int64(18), np.int64(18), np.int64(18)]"
+20222,1,20,2,Tim David,6,6,,202,4.0,-2.0,[np.int64(20)]
+20229,2,18,2,Shivam Dube,6,6,,132,4.0,-2.0,"[np.int64(18), np.int64(18)]"
+20233,2,20,4,Andre Russell,2,2,,176,1.0,-1.0,"[np.int64(20), np.int64(20)]"
+20249,2,18,4,Suryakumar Yadav,1,1,,199,1.0,0.0,"[np.int64(18), np.int64(18)]"
+24354,4,18,2,Shai Hope,2,2,,161,2.0,0.0,"[np.int64(18), np.int64(18), np.int64(18), np.int64(18)]"
+25156,2,15,3,Mitchell Marsh,4,4,,160,2.0,-2.0,"[np.int64(15), np.int64(15)]"
+25161,2,17,6,Mark Chapman,4,4,,171,1.0,-3.0,"[np.int64(18), np.int64(18)]"
+27062,1,20,5,Glenn Maxwell,4,4,,213,2.0,-2.0,[np.int64(20)]
+28063,2,18,5,Andre Russell,1,1,,167,1.0,0.0,"[np.int64(18), np.int64(19)]"
+28065,1,20,4,Harry Brook,2,2,,218,1.0,-1.0,[np.int64(20)]
+28958,3,20,3,Luke Jongwe,6,6,,165,5.0,-1.0,"[np.int64(20), np.int64(20), np.int64(20)]"
+28961,5,15,5,Shivam Dube,1,1,,169,1.0,0.0,"[np.int64(15), np.int64(16), np.int64(16), np.int64(16), np.int64(16)]"
+28962,2,20,6,Gulbadin Naib,6,6,,201,5.0,-1.0,"[np.int64(20), np.int64(20)]"
+29926,2,20,5,Kamindu Mendis,0,1,wide,199,1.0,0.0,"[np.int64(20), np.int64(20)]"
+30072,1,20,5,Shashank Singh,4,4,,193,4.0,0.0,[np.int64(20)]
+30074,4,19,4,Shimron Hetmyer,4,4,,176,4.0,0.0,"[np.int64(19), np.int64(19), np.int64(19), np.int64(20)]"
+31240,3,18,1,Ruturaj Gaikwad,1,1,,134,1.0,0.0,"[np.int64(18), np.int64(18), np.int64(18)]"
+31250,5,20,1,Jos Buttler,6,6,,210,4.0,-2.0,"[np.int64(20), np.int64(20), np.int64(20), np.int64(20), np.int64(20)]"
+31256,1,19,3,Sanju Samson,1,1,,178,1.0,0.0,[np.int64(19)]
+31262,2,19,4,Dhruv Jurel,1,1,,188,1.0,0.0,"[np.int64(19), np.int64(19)]"
+31265,3,16,6,Shreyas Iyer,6,6,,145,5.0,-1.0,"[np.int64(17), np.int64(17), np.int64(17)]"
+31267,5,18,1,Sam Curran,0,1,other,155,1.0,0.0,"[np.int64(18), np.int64(18), np.int64(18), np.int64(18), np.int64(18)]"
+32135,2,20,3,Blessing Muzarabani,6,6,,131,6.0,0.0,"[np.int64(20), np.int64(20)]"
+33806,3,15,6,Yashasvi Jaiswal,6,6,,143,2.0,-4.0,"[np.int64(15), np.int64(16), np.int64(16)]"
+35423,6,16,1,Michael Levitt,4,4,,143,4.0,0.0,"[np.int64(16), np.int64(16), np.int64(16), np.int64(16), np.int64(16), np.int64(17)]"
+37014,6,17,5,Matthew Breetzke,6,6,,161,4.0,-2.0,"[np.int64(17), np.int64(18), np.int64(18), np.int64(18), np.int64(18), np.int64(18)]"
+37276,1,12,4,Hardik Pandya,4,4,,122,3.0,-1.0,[np.int64(12)]
+37350,1,15,4,Liam Livingstone,4,4,,144,1.0,-3.0,[np.int64(15)]
+37351,3,19,5,Jamie Overton,1,1,,142,1.0,0.0,"[np.int64(19), np.int64(20), np.int64(20)]"
+37555,5,18,2,Kusal Perera,4,4,,154,1.0,-3.0,"[np.int64(18), np.int64(18), np.int64(18), np.int64(18), np.int64(18)]"
+37894,2,19,4,Dunith Wellalage,4,4,,130,3.0,-1.0,"[np.int64(19), np.int64(19)]"
+37895,1,20,4,Nuwan Thushara,1,1,,99,1.0,0.0,[np.int64(20)]
+37941,1,19,5,Tristan Stubbs,4,4,,120,2.0,-2.0,[np.int64(19)]
+39808,1,10,6,Finn Allen,4,4,,86,4.0,0.0,[np.int64(11)]
+39812,1,10,5,Tim Seifert,6,6,,119,6.0,0.0,[np.int64(10)]
+40706,3,16,5,Nehal Wadhera,4,4,,166,4.0,0.0,"[np.int64(16), np.int64(17), np.int64(17)]"
+40717,2,18,4,Lokesh Rahul,4,4,,154,3.0,-1.0,"[np.int64(18), np.int64(18)]"
+40720,2,19,1,Ishan Kishan,2,2,,240,2.0,0.0,"[np.int64(19), np.int64(19)]"
+40742,3,20,2,Suryansh Shedge,0,1,wide,189,1.0,0.0,"[np.int64(20), np.int64(20), np.int64(20)]"
+40764,3,10,3,Rajat Patidar,4,4,,91,4.0,0.0,"[np.int64(10), np.int64(10), np.int64(10)]"
+41508,5,19,3,Xavier Bartlett,4,4,,198,4.0,0.0,"[np.int64(19), np.int64(19), np.int64(19), np.int64(20), np.int64(20)]"
+42744,1,18,1,Salman Agha,4,4,,192,4.0,0.0,[np.int64(18)]
+43592,2,19,4,Charith Asalanka,1,1,,151,1.0,0.0,"[np.int64(19), np.int64(19)]"
+45391,2,19,4,Jofra Archer,1,1,,186,1.0,0.0,"[np.int64(19), np.int64(19)]"
+45490,3,12,7,William Jacks,0,1,wide,142,1.0,0.0,"[np.int64(12), np.int64(13), np.int64(13)]"
+45502,1,19,4,Wanindu Hasaranga,4,4,,145,2.0,-2.0,[np.int64(19)]
+45903,3,19,4,Kamindu Mendis,1,1,,170,1.0,0.0,"[np.int64(19), np.int64(19), np.int64(20)]"
+46007,2,18,3,Jamie Overton,0,1,wide,192,1.0,0.0,"[np.int64(18), np.int64(18)]"
+46312,4,18,2,Mitchell Marsh,1,1,,149,1.0,0.0,"[np.int64(18), np.int64(18), np.int64(18), np.int64(18)]"
+47982,4,18,6,Babar Azam,1,1,,111,1.0,0.0,"[np.int64(19), np.int64(19), np.int64(19), np.int64(19)]"
+48592,4,15,5,Shivam Dube,1,1,,205,1.0,0.0,"[np.int64(15), np.int64(15), np.int64(16), np.int64(16)]"
+48593,1,10,5,Suryakumar Yadav,4,4,,147,4.0,0.0,[np.int64(10)]
+50129,4,17,4,Sameer Rizvi,0,1,wide,132,1.0,0.0,"[np.int64(17), np.int64(17), np.int64(17), np.int64(18)]"
+50131,2,19,3,Shashank Singh,0,1,wide,204,1.0,0.0,"[np.int64(19), np.int64(19)]"
+50139,1,20,5,Mukul Choudhary,6,6,,175,6.0,0.0,[np.int64(20)]
+50140,2,18,4,Ravindra Jadeja,1,1,,194,1.0,0.0,"[np.int64(18), np.int64(18)]"
+50143,2,19,2,Rahul Tewatia,1,1,,163,1.0,0.0,"[np.int64(19), np.int64(19)]"
+50345,2,17,3,Marcus Stoinis,4,4,,189,4.0,0.0,"[np.int64(17), np.int64(17)]"
+50346,2,20,3,M Shahrukh Khan,1,1,,177,1.0,0.0,"[np.int64(20), np.int64(20)]"
+50355,1,19,4,Krunal Pandya,4,4,,201,4.0,0.0,[np.int64(19)]
+50358,3,17,1,Jos Buttler,1,1,,154,1.0,0.0,"[np.int64(17), np.int64(17), np.int64(17)]"
+50361,4,19,4,Donovan Ferreira,4,4,,215,2.0,-2.0,"[np.int64(19), np.int64(19), np.int64(20), np.int64(20)]"
+50379,1,20,4,Namboori Tilak Varma,6,6,,193,5.0,-1.0,[np.int64(20)]
+50404,1,15,3,Shreyas Iyer,6,6,,165,4.0,-2.0,[np.int64(15)]
+50597,3,18,5,Matthew Renshaw,1,1,,128,1.0,0.0,"[np.int64(18), np.int64(19), np.int64(19)]"
+54408,3,14,1,Shreyas Iyer,1,1,,148,1.0,0.0,"[np.int64(14), np.int64(14), np.int64(14)]"
+55078,10,18,1,Sahibzada Farhan,4,4,,165,3.0,-1.0,"[np.int64(18), np.int64(18), np.int64(18), np.int64(18), np.int64(18), np.int64(19), np.int64(19), np.int64(19), np.int64(19), np.int64(19)]"

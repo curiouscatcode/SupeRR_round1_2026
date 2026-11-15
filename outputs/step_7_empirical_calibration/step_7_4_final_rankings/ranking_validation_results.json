@@ -1,0 +1,303 @@
+{
+  "step": "Step 7.4",
+  "verdict": "PASS",
+  "execution_timestamp": "2026-11-14 21:07:36",
+  "population_counts": {
+    "qualifying_batters": 297,
+    "qualifying_bowlers": 292,
+    "eligibility_rule_batting": "N(P_bat >= 50) >= 50 balls faced",
+    "eligibility_rule_bowling": "N_leg(P_bowl >= 50) >= 50 legal balls bowled"
+  },
+  "frozen_parameters": {
+    "K_bat": 600,
+    "K_bowl": 500,
+    "alpha_official": 1.0,
+    "alpha_sensitivity": 1.25,
+    "bootstrap_replicates": 1000,
+    "bootstrap_seed": 42
+  },
+  "top10_batting_summary": [
+    {
+      "rank": 1,
+      "player": "Vaibhav Sooryavanshi",
+      "team_format": "Rajasthan Royals (IPL & T20I)",
+      "shrunk_score": 0.3487107045089484,
+      "raw_score": 0.7614376375442666,
+      "kish_ess": 506.9366836970268,
+      "ci_95": "[0.1422, 0.5226]",
+      "alpha_125_rank": 1
+    },
+    {
+      "rank": 2,
+      "player": "Suryakumar Yadav",
+      "team_format": "India (IPL & T20I)",
+      "shrunk_score": 0.28187619863787217,
+      "raw_score": 0.3558192137736491,
+      "kish_ess": 2287.244019900571,
+      "ci_95": "[0.1826, 0.3700]",
+      "alpha_125_rank": 2
+    },
+    {
+      "rank": 3,
+      "player": "Abhishek Sharma",
+      "team_format": "Sunrisers Hyderabad (IPL & T20I)",
+      "shrunk_score": 0.2703235458578676,
+      "raw_score": 0.35465372024517516,
+      "kish_ess": 1923.3225674336113,
+      "ci_95": "[0.1295, 0.3993]",
+      "alpha_125_rank": 3
+    },
+    {
+      "rank": 4,
+      "player": "Tim David",
+      "team_format": "Australia (IPL & T20I)",
+      "shrunk_score": 0.2570851670860142,
+      "raw_score": 0.4143914319843088,
+      "kish_ess": 980.5782392159563,
+      "ci_95": "[0.1292, 0.3780]",
+      "alpha_125_rank": 4
+    },
+    {
+      "rank": 5,
+      "player": "Heinrich Klaasen",
+      "team_format": "Sunrisers Hyderabad (IPL & T20I)",
+      "shrunk_score": 0.22010337007667657,
+      "raw_score": 0.33574413926904995,
+      "kish_ess": 1142.0022797177623,
+      "ci_95": "[0.1238, 0.3072]",
+      "alpha_125_rank": 5
+    },
+    {
+      "rank": 6,
+      "player": "Phil Salt",
+      "team_format": "England (IPL & T20I)",
+      "shrunk_score": 0.19539575849659044,
+      "raw_score": 0.2813011590895538,
+      "kish_ess": 1364.727412813641,
+      "ci_95": "[0.0633, 0.3033]",
+      "alpha_125_rank": 6
+    },
+    {
+      "rank": 7,
+      "player": "Namboori Tilak Varma",
+      "team_format": "Mumbai Indians (IPL & T20I)",
+      "shrunk_score": 0.1744998578284838,
+      "raw_score": 0.227676752427526,
+      "kish_ess": 1968.8986257384074,
+      "ci_95": "[0.0802, 0.2667]",
+      "alpha_125_rank": 7
+    },
+    {
+      "rank": 8,
+      "player": "Travis Head",
+      "team_format": "Sunrisers Hyderabad (IPL & T20I)",
+      "shrunk_score": 0.1624853274478671,
+      "raw_score": 0.26109607954576675,
+      "kish_ess": 988.6467184829103,
+      "ci_95": "[0.0017, 0.3203]",
+      "alpha_125_rank": 8
+    },
+    {
+      "rank": 9,
+      "player": "Andre Russell",
+      "team_format": "Kolkata Knight Riders (IPL & T20I)",
+      "shrunk_score": 0.15788103540199017,
+      "raw_score": 0.3238608353330751,
+      "kish_ess": 570.7237945853987,
+      "ci_95": "[0.0300, 0.2855]",
+      "alpha_125_rank": 10
+    },
+    {
+      "rank": 10,
+      "player": "Reeza Hendricks",
+      "team_format": "South Africa (T20I)",
+      "shrunk_score": 0.1563527222789074,
+      "raw_score": 0.2873978133461472,
+      "kish_ess": 715.8729304801603,
+      "ci_95": "[0.0071, 0.2869]",
+      "alpha_125_rank": 9
+    }
+  ],
+  "top10_bowling_summary": [
+    {
+      "rank": 1,
+      "player": "Rashid Khan",
+      "team_format": "Gujarat Titans (IPL & T20I)",
+      "shrunk_score": 0.17562544160432444,
+      "raw_score": 0.2147237728081211,
+      "kish_ess": 2245.94549430885,
+      "ci_95": "[0.0810, 0.2784]",
+      "alpha_125_rank": 1
+    },
+    {
+      "rank": 2,
+      "player": "Jasprit Bumrah",
+      "team_format": "Mumbai Indians (IPL & T20I)",
+      "shrunk_score": 0.15409580696100247,
+      "raw_score": 0.21034701633234942,
+      "kish_ess": 1369.711057621236,
+      "ci_95": "[0.0237, 0.2784]",
+      "alpha_125_rank": 2
+    },
+    {
+      "rank": 3,
+      "player": "Sunil Narine",
+      "team_format": "Kolkata Knight Riders (IPL)",
+      "shrunk_score": 0.14417054265155965,
+      "raw_score": 0.20201174070085162,
+      "kish_ess": 1246.2617261895089,
+      "ci_95": "[0.0555, 0.2334]",
+      "alpha_125_rank": 3
+    },
+    {
+      "rank": 4,
+      "player": "Josh Hazlewood",
+      "team_format": "Royal Challengers Bengaluru (IPL & T20I)",
+      "shrunk_score": 0.13303833160933828,
+      "raw_score": 0.19040895521994336,
+      "kish_ess": 1159.4638792173234,
+      "ci_95": "[0.0021, 0.2830]",
+      "alpha_125_rank": 4
+    },
+    {
+      "rank": 5,
+      "player": "Wanindu Hasaranga",
+      "team_format": "Sri Lanka (IPL & T20I)",
+      "shrunk_score": 0.11835813991169378,
+      "raw_score": 0.15368046791822784,
+      "kish_ess": 1675.4011781131674,
+      "ci_95": "[0.0365, 0.2000]",
+      "alpha_125_rank": 5
+    },
+    {
+      "rank": 6,
+      "player": "Bhuvneshwar Kumar",
+      "team_format": "Sunrisers Hyderabad (IPL & T20I)",
+      "shrunk_score": 0.10650424670398968,
+      "raw_score": 0.13489445790462937,
+      "kish_ess": 1875.7212820873615,
+      "ci_95": "[-0.0086, 0.2189]",
+      "alpha_125_rank": 6
+    },
+    {
+      "rank": 7,
+      "player": "Abrar Ahmed",
+      "team_format": "Pakistan (T20I)",
+      "shrunk_score": 0.10579662887385037,
+      "raw_score": 0.1932800464931675,
+      "kish_ess": 604.6667571574703,
+      "ci_95": "[-0.0250, 0.2277]",
+      "alpha_125_rank": 10
+    },
+    {
+      "rank": 8,
+      "player": "Kuldeep Yadav",
+      "team_format": "Delhi Capitals (IPL & T20I)",
+      "shrunk_score": 0.10269614232577189,
+      "raw_score": 0.13461710130443313,
+      "kish_ess": 1608.600518462227,
+      "ci_95": "[0.0085, 0.2104]",
+      "alpha_125_rank": 8
+    },
+    {
+      "rank": 9,
+      "player": "Mahedi Hasan",
+      "team_format": "Bangladesh (T20I)",
+      "shrunk_score": 0.10253975975308147,
+      "raw_score": 0.16997210240562796,
+      "kish_ess": 760.3158641649918,
+      "ci_95": "[-0.0435, 0.2474]",
+      "alpha_125_rank": 13
+    },
+    {
+      "rank": 10,
+      "player": "Mujeeb Ur Rahman",
+      "team_format": "Afghanistan (IPL & T20I)",
+      "shrunk_score": 0.10240263780122347,
+      "raw_score": 0.1769730530399698,
+      "kish_ess": 686.6170549900311,
+      "ci_95": "[-0.0117, 0.2149]",
+      "alpha_125_rank": 9
+    }
+  ],
+  "alpha_sensitivity_summary": {
+    "spearman_batting": 0.9977779793216034,
+    "spearman_bowling": 0.9981139741836661,
+    "batting_top10_overlap": 10,
+    "bowling_top10_overlap": 9
+  },
+  "spot_checks": [
+    {
+      "discipline": "Batting",
+      "player_id": 50284,
+      "player_name": "Vaibhav Sooryavanshi",
+      "official_rank": 1,
+      "table_shrunk": 0.3487107045089484,
+      "recomputed_shrunk": 0.3487107045089485,
+      "shrunk_abs_diff": 5.551115123125783e-17,
+      "table_neff": 506.9366836970268,
+      "recomputed_neff": 506.9366836970268,
+      "status": "PASS"
+    },
+    {
+      "discipline": "Batting",
+      "player_id": 2756,
+      "player_name": "Shashank Singh",
+      "official_rank": 15,
+      "table_shrunk": 0.13425218290367424,
+      "recomputed_shrunk": 0.13425218290367427,
+      "shrunk_abs_diff": 2.7755575615628914e-17,
+      "table_neff": 463.44401713409746,
+      "recomputed_neff": 463.44401713409763,
+      "status": "PASS"
+    },
+    {
+      "discipline": "Batting",
+      "player_id": 7355,
+      "player_name": "Tayyab Tahir",
+      "official_rank": 150,
+      "table_shrunk": -0.006327929087395273,
+      "recomputed_shrunk": -0.006327929087395274,
+      "shrunk_abs_diff": 8.673617379884035e-19,
+      "table_neff": 100.29657528235674,
+      "recomputed_neff": 100.29657528235676,
+      "status": "PASS"
+    },
+    {
+      "discipline": "Bowling",
+      "player_id": 4722,
+      "player_name": "Rashid Khan",
+      "official_rank": 1,
+      "table_shrunk": 0.17562544160432444,
+      "recomputed_shrunk": 0.17562544160432447,
+      "shrunk_abs_diff": 2.7755575615628914e-17,
+      "table_neff": 2245.94549430885,
+      "recomputed_neff": 2245.945494308849,
+      "status": "PASS"
+    },
+    {
+      "discipline": "Bowling",
+      "player_id": 28756,
+      "player_name": "Haider Ali",
+      "official_rank": 15,
+      "table_shrunk": 0.0944318805112066,
+      "recomputed_shrunk": 0.09443188051120657,
+      "shrunk_abs_diff": 2.7755575615628914e-17,
+      "table_neff": 249.58305065680895,
+      "recomputed_neff": 249.583050656809,
+      "status": "PASS"
+    },
+    {
+      "discipline": "Bowling",
+      "player_id": 24475,
+      "player_name": "Rehan Ahmed",
+      "official_rank": 150,
+      "table_shrunk": -0.03395672984941311,
+      "recomputed_shrunk": -0.03395672984941311,
+      "shrunk_abs_diff": 0.0,
+      "table_neff": 176.9012783311949,
+      "recomputed_neff": 176.9012783311949,
+      "status": "PASS"
+    }
+  ]
+}

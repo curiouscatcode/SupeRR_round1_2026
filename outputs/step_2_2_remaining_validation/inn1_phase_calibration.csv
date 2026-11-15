@@ -1,0 +1,4 @@
+dimension,stratum,deliveries,mean_pred_wp,actual_win_rate,gap_pp,brier
+Phase,Powerplay (PP),30485,50.84,50.8,0.04,0.2312
+Phase,Middle Overs,45148,50.72,50.76,-0.04,0.2241
+Phase,Death Overs,22062,50.59,50.55,0.04,0.2138

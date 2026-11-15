@@ -1,0 +1,9 @@
+innings,model_name,cv_brier,brier_skill_pct,features
+2,Naive Mean Baseline,0.2503,0.0,Mean batting win rate
+2,Wickets-Only Baseline,0.2224,11.17,Wickets Remaining
+2,RRR-Only Baseline,0.1539,38.54,Required Run Rate
+2,Full Target Chase Model,0.136,45.68,"RRR, Wk_rem, Balls_rem, RRR x Wk_lost + Terminal Snaps"
+1,Naive Mean Baseline,0.251,0.0,Mean batting win rate
+1,Wickets-Only Baseline,0.2451,2.35,Wickets Remaining
+1,Fixed Par 160 Baseline,0.2251,10.33,"Score diff from 160, Wk_rem, Balls_bowled, Interaction"
+1,Venue-Adjusted Production Model,0.224,10.75,"Score diff from Venue Par, Wk_rem, Balls_bowled, Interaction, CRR"

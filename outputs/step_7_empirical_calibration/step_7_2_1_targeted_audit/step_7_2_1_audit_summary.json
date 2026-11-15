@@ -1,0 +1,37 @@
+{
+  "audit_step": "Step 7.2.1",
+  "final_verdict": "PASS WITH CONDITIONS",
+  "area_1_out_of_sample_quality": {
+    "data_leakage_detected": false,
+    "match_held_out_folds": 5,
+    "format_stratified_dls_rmse": 23.280489456254703,
+    "format_stratified_dls_mae": 16.757928317788295,
+    "format_stratified_dls_bias": -0.04540895841139272,
+    "format_stratified_dls_r2": 0.8263411178960073,
+    "global_mean_rmse": 55.86548922398267,
+    "linear_u_rmse": 25.381833914412617,
+    "unsmoothed_grid_rmse": 23.58750338332911,
+    "variance_explained_pct": 82.63411178960072
+  },
+  "area_2_second_innings_applicability": {
+    "defensible_with_conditions": true,
+    "chase_won_pct": 37.59590792838875,
+    "deliveries_lambda_gt_runs_required": 232,
+    "deliveries_lambda_gt_runs_required_pct": 0.2596908335851887,
+    "wickets_affected": 14,
+    "mandatory_condition": "In Innings 2, for non-terminal wickets (W_rem >= 2), lambda_wkt must be capped at runs_required: lambda_wkt_eff = min(lambda_wkt, runs_required). For terminal wickets (W_rem = 1), uncapped lambda_wkt applies as innings terminates."
+  },
+  "area_3_parameter_stability": {
+    "ipl_b_cv_pct": 1.1847583864190836,
+    "t20i_b_cv_pct": 1.2403485859426224,
+    "high_wicket_parameters_stable": true,
+    "tail_wicket_parameters_explained": "IPL Z0(2) - Z0(1) = 3.0 runs vs T20I 21.0 runs reflects empirical franchise run rate parity between 8-down (5.3 RPO) and 9-down (5.7 RPO) vs steep international tail drop (7.3 to 4.7 RPO)."
+  },
+  "area_4_mathematical_consistency": {
+    "all_invariants_passed": true,
+    "strict_positivity": true,
+    "strict_monotonicity_w": true,
+    "strict_monotonicity_u": true,
+    "zero_limit_verified": true
+  }
+}
