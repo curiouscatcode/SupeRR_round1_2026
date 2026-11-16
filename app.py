@@ -370,7 +370,8 @@ with nav_col:
             data=pdf_data,
             file_name="SupeRR_Selector_Methodology_Report.pdf",
             mime="application/pdf",
-            use_container_width=True
+            use_container_width=True,
+            key="nav_pdf_download"
         )
 
     # Batting CSV
@@ -383,7 +384,8 @@ with nav_col:
             data=bat_csv,
             file_name="final_batting_rankings.csv",
             mime="text/csv",
-            use_container_width=True
+            use_container_width=True,
+            key="nav_bat_csv_download"
         )
 
     # Bowling CSV
@@ -396,7 +398,8 @@ with nav_col:
             data=bowl_csv,
             file_name="final_bowling_rankings.csv",
             mime="text/csv",
-            use_container_width=True
+            use_container_width=True,
+            key="nav_bowl_csv_download"
         )
 
     st.link_button(
@@ -444,10 +447,11 @@ with main_col:
                     data=pdf_data,
                     file_name="SupeRR_Selector_Methodology_Report.pdf",
                     mime="application/pdf",
-                    use_container_width=True
+                    use_container_width=True,
+                    key="exec_pdf_download"
                 )
             else:
-                st.button("📄 PDF Report Pending", disabled=True, use_container_width=True)
+                st.button("📄 PDF Report Pending", disabled=True, use_container_width=True, key="exec_pdf_pending_btn")
 
         with dcol2:
             if os.path.exists(bat_rank_path):
@@ -458,7 +462,8 @@ with main_col:
                     data=bat_csv,
                     file_name="final_batting_rankings.csv",
                     mime="text/csv",
-                    use_container_width=True
+                    use_container_width=True,
+                    key="exec_bat_csv_download"
                 )
 
         with dcol3:
@@ -470,7 +475,8 @@ with main_col:
                     data=bowl_csv,
                     file_name="final_bowling_rankings.csv",
                     mime="text/csv",
-                    use_container_width=True
+                    use_container_width=True,
+                    key="exec_bowl_csv_download"
                 )
 
         with dcol4:
@@ -672,7 +678,8 @@ with main_col:
                 ["Batting", "Bowling"],
                 index=0,
                 horizontal=True,
-                label_visibility="collapsed"
+                label_visibility="collapsed",
+                key="leaderboard_discipline_radio"
             )
         with d_badge_col:
             desc_text = "Pressure-Weighted Score Value Added (PWSVA) measuring runs above replacement conditioned on leverage, wickets & shrinkage." if discipline == "Batting" else "Standardized Bowler Value Added (SBVA) measuring run suppression and dismissals above replacement across 36 state cells."
@@ -742,11 +749,11 @@ with main_col:
         # Full Cohort Search & Filter Controls
         fcol1, fcol2, fcol3 = st.columns([2, 1, 1])
         with fcol1:
-            search_query = st.text_input("🔍 Search Athlete Name:", "", placeholder="Type name (e.g., Klaasen, Bumrah, David)...")
+            search_query = st.text_input("🔍 Search Athlete Name:", "", placeholder="Type name (e.g., Klaasen, Bumrah, David)...", key="leaderboard_search_input")
         with fcol2:
-            min_ess = st.slider("Min Kish ESS:", min_value=100, max_value=2500, value=100, step=50)
+            min_ess = st.slider("Min Kish ESS:", min_value=100, max_value=2500, value=100, step=50, key="leaderboard_min_ess_slider")
         with fcol3:
-            format_filter = st.selectbox("Tournament Filter:", ["All", "IPL & T20I", "IPL Only", "T20I Only"])
+            format_filter = st.selectbox("Tournament Filter:", ["All", "IPL & T20I", "IPL Only", "T20I Only"], key="leaderboard_format_filter_select")
 
         # Filter logic
         filtered_df = metrics_df[metrics_df['Kish ESS'] >= min_ess].copy()
@@ -799,7 +806,8 @@ with main_col:
             label=f"📥 Download Filtered {discipline} Cohort ({len(filtered_df)} Athletes) as CSV",
             data=csv_bytes,
             file_name=f"supeRR_selector_{discipline.lower()}_rankings.csv",
-            mime="text/csv"
+            mime="text/csv",
+            key=f"leaderboard_filtered_csv_{discipline.lower()}"
         )
 
     # =============================================================================
@@ -969,8 +977,8 @@ with main_col:
         st.caption("Adjust Difficulty and Leverage to observe real-time geometric gating and quadrant resolution.")
         sb1, sb2 = st.columns([1, 1])
         with sb1:
-            sim_t = st.slider("Task Difficulty: T(St)", min_value=0.0, max_value=100.0, value=75.0, step=1.0, help="Tactical requirement based on RRR, wickets, balls left.")
-            sim_l = st.slider("Consequence Leverage: Lnorm(St)", min_value=0.0, max_value=100.0, value=85.0, step=1.0, help="Percentile win probability consequence across 9 outcomes.")
+            sim_t = st.slider("Task Difficulty: T(St)", min_value=0.0, max_value=100.0, value=75.0, step=1.0, help="Tactical requirement based on RRR, wickets, balls left.", key="formula_sim_t")
+            sim_l = st.slider("Consequence Leverage: Lnorm(St)", min_value=0.0, max_value=100.0, value=85.0, step=1.0, help="Percentile win probability consequence across 9 outcomes.", key="formula_sim_l")
             calc_p = (sim_t * sim_l) ** 0.5
             st.metric(label="Computed Master Pressure: P(St)", value=f"{calc_p:.1f} / 100", delta=f"{'🔥 HIGH PRESSURE (CRUCIBLE)' if calc_p>=50 else '⚡ ROUTINE / DECAY'}")
         with sb2:
@@ -1036,20 +1044,20 @@ with main_col:
         # Sliders
         scol1, scol2, scol3, scol4 = st.columns(4)
         with scol1:
-            sim_inn = st.selectbox("Innings:", [1, 2], index=default_inn-1)
+            sim_inn = st.selectbox("Innings:", [1, 2], index=default_inn-1, key="sim_inn_select")
         with scol2:
-            sim_brem = st.slider("Balls Remaining:", 1, 120, default_brem)
+            sim_brem = st.slider("Balls Remaining:", 1, 120, default_brem, key="sim_brem_slider")
         with scol3:
-            sim_score = st.number_input("Current Score:", 0, 300, default_score)
+            sim_score = st.number_input("Current Score:", 0, 300, default_score, key="sim_score_input")
         with scol4:
-            sim_wkts = st.slider("Wickets Lost:", 0, 9, default_wkts)
+            sim_wkts = st.slider("Wickets Lost:", 0, 9, default_wkts, key="sim_wkts_slider")
 
         if sim_inn == 2:
             scol5, scol6 = st.columns(2)
             with scol5:
-                sim_target = st.number_input("Target Score to Chase:", 50, 300, default_target)
+                sim_target = st.number_input("Target Score to Chase:", 50, 300, default_target, key="sim_target_input")
             with scol6:
-                sim_par = st.number_input("Venue Par Score:", 120.0, 220.0, 176.68)
+                sim_par = st.number_input("Venue Par Score:", 120.0, 220.0, 176.68, key="sim_par_input")
         else:
             sim_target = None
             sim_par = st.number_input("Venue Par Score:", 120.0, 220.0, 176.68)
@@ -1188,13 +1196,13 @@ with main_col:
         with dcol1:
             d_disc = st.radio("Select Discipline:", ["Batting", "Bowling"], key="dd_disc", horizontal=True)
         with dcol2:
-            analysis_mode = st.radio("Analysis Mode:", ["Single Player Dossier", "Head-to-Head Comparison"], horizontal=True)
+            analysis_mode = st.radio("Analysis Mode:", ["Single Player Dossier", "Head-to-Head Comparison"], horizontal=True, key="player_analysis_mode_radio")
 
         d_df = load_full_metrics(d_disc)
         player_names = d_df['Player'].tolist()
 
         if analysis_mode == "Single Player Dossier":
-            selected_player = st.selectbox("Choose Athlete to Inspect:", player_names, index=0)
+            selected_player = st.selectbox("Choose Athlete to Inspect:", player_names, index=0, key="dossier_player_select")
             p_data = d_df[d_df['Player'] == selected_player].iloc[0]
 
             # Top Metric Row for Dossier
@@ -1227,9 +1235,9 @@ with main_col:
         else: # Head-to-Head Comparison Mode
             c1, c2 = st.columns(2)
             with c1:
-                p1_name = st.selectbox("Select Athlete A:", player_names, index=0)
+                p1_name = st.selectbox("Select Athlete A:", player_names, index=0, key="h2h_player_a_select")
             with c2:
-                p2_name = st.selectbox("Select Athlete B:", player_names, index=1 if len(player_names) > 1 else 0)
+                p2_name = st.selectbox("Select Athlete B:", player_names, index=1 if len(player_names) > 1 else 0, key="h2h_player_b_select")
 
             p1_data = d_df[d_df['Player'] == p1_name].iloc[0]
             p2_data = d_df[d_df['Player'] == p2_name].iloc[0]
@@ -1420,7 +1428,8 @@ with main_col:
                     data=pdf_data,
                     file_name="SupeRR_Selector_Methodology_Report.pdf",
                     mime="application/pdf",
-                    use_container_width=True
+                    use_container_width=True,
+                    key="audit_pdf_download"
                 )
 
         bat_rank_path = os.path.join(os.path.dirname(__file__), 'outputs', 'step_7_empirical_calibration', 'step_7_4_final_rankings', 'final_batting_rankings.csv')
@@ -1433,7 +1442,8 @@ with main_col:
                     data=bat_csv,
                     file_name="final_batting_rankings.csv",
                     mime="text/csv",
-                    use_container_width=True
+                    use_container_width=True,
+                    key="audit_bat_csv_download"
                 )
 
         bowl_rank_path = os.path.join(os.path.dirname(__file__), 'outputs', 'step_7_empirical_calibration', 'step_7_4_final_rankings', 'final_bowling_rankings.csv')
@@ -1446,5 +1456,6 @@ with main_col:
                     data=bowl_csv,
                     file_name="final_bowling_rankings.csv",
                     mime="text/csv",
-                    use_container_width=True
+                    use_container_width=True,
+                    key="audit_bowl_csv_download"
                 )
