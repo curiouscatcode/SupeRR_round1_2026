@@ -1,5 +1,0 @@
-group,player_count,mean_hp_balls,median_hp_balls,min_hp_balls,max_hp_balls,mean_hp_matches,median_hp_matches,min_hp_matches,max_hp_matches,corr_balls_vs_score,corr_matches_vs_score
-Full Population,589,33.8,9.0,0,427,6.6,2.0,0,87,0.036,0.061
-Tier 1: Qualified,130,119.2,95.0,50,427,22.1,18.5,7,87,0.073,0.119
-Tier 2: Specialist,19,46.3,47.0,40,54,8.2,8.0,5,15,0.25,-0.31
-Below Threshold,440,8.0,4.0,0,39,2.0,1.0,0,12,-0.01,0.08

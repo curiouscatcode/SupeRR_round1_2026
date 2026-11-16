@@ -1,0 +1,21 @@
+match_id,season,comp_id,comp_name,match_number,match_date,metadata_stage,exact_knockout_stage,home_team,away_team,result,in_competition_dataset,status_explanation,batting_total_rows,batter_balls_faced,batting_pressure_ge_50,batting_climax_ge_75,bowling_total_rows,bowler_legal_balls,bowling_pressure_ge_50,bowling_climax_ge_75
+15187,2022,1358,IPL 2022,71,2022-05-24,Qualifier,Qualifier 1,Gujarat Titans,Rajasthan Royals,Gujarat Titans Won by 7 Wickets,True,Included in Active Dataset,252,239,172,35,252,237,195,22
+15188,2022,1358,IPL 2022,72,2022-05-25,Eliminator,Eliminator,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru Won by 14 Runs,True,Included in Active Dataset,256,241,141,42,256,240,137,0
+15189,2022,1358,IPL 2022,73,2022-05-27,Qualifier,Qualifier 2,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals won by 7 wickets,True,Included in Active Dataset,233,226,63,4,233,226,112,1
+15190,2022,1358,IPL 2022,74,2022-05-29,Final,Final,Gujarat Titans,Rajasthan Royals,Gujarat Titans Won by 7 Wickets,True,Included in Active Dataset,233,229,67,0,233,229,135,0
+21583,2023,1715,IPL 2023,71,2023-05-23,Qualifier,Qualifier 1,Gujarat Titans,Chennai Super Kings,Chennai Super Kings Won by 15 runs,True,Included in Active Dataset,254,242,168,18,254,240,143,0
+21584,2023,1715,IPL 2023,72,2023-05-24,Eliminator,Eliminator,Lucknow Super Giants,Mumbai Indians,Mumbai Indians won by 81 runs,True,Included in Active Dataset,228,219,136,1,228,219,109,1
+21585,2023,1715,IPL 2023,73,2023-05-26,Qualifier,Qualifier 2,Gujarat Titans,Mumbai Indians,Gujarat Titans won by 62 runs,True,Included in Active Dataset,242,233,66,0,242,230,59,0
+21586,2023,1715,IPL 2023,74,2023-05-29,Final,Final,Chennai Super Kings,Gujarat Titans,Chennai Super Kings Won by 5 wickets  (DLS method),False,Excluded upstream in Step 4: Rain-shortened 15-over DLS match (revised target 171 in 15 ov),0,0,0,0,0,0,0,0
+31289,2024,2193,IPL 2024,71,2024-05-21,Qualifier,Qualifier 1,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders Won by 8 wickets,True,Included in Active Dataset,208,201,44,6,208,199,68,0
+31290,2024,2193,IPL 2024,72,2024-05-22,Eliminator,Eliminator,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals Won by 4 wickets,True,Included in Active Dataset,241,234,151,16,241,234,196,6
+31291,2024,2193,IPL 2024,73,2024-05-24,Qualifier,Qualifier 2,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad Won by 36 runs,True,Included in Active Dataset,251,241,174,9,251,240,133,0
+31292,2024,2193,IPL 2024,74,2024-05-26,Final,Final,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders Won by 8 wickets,True,Included in Active Dataset,184,174,32,0,184,174,5,0
+40764,2025,2725,IPL 2025,72,2025-05-29,Qualifier,Qualifier 1,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru Won by 8 wickets,True,Included in Active Dataset,144,143,36,0,144,142,22,0
+40765,2025,2725,IPL 2025,73,2025-05-30,Eliminator,Eliminator,Gujarat Titans,Mumbai Indians,Mumbai Indians Won by 20 runs,True,Included in Active Dataset,248,240,98,38,248,240,84,0
+40766,2025,2725,IPL 2025,74,2025-06-01,Qualifier,Qualifier 2,Punjab Kings,Mumbai Indians,Punjab Kings Won by 5 wickets,True,Included in Active Dataset,244,237,151,35,244,234,138,2
+40767,2025,2725,IPL 2025,75,2025-06-03,Final,Final,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru Won by 6 runs,True,Included in Active Dataset,252,240,179,7,252,240,152,0
+50942,2026,3298,IPL 2026,71,2026-05-26,Qualifier,Qualifier 1,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru Won by 92 runs,True,Included in Active Dataset,249,240,43,0,249,237,38,4
+50943,2026,3298,IPL 2026,72,2026-05-27,Eliminator,Eliminator,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals Won by 47 runs,True,Included in Active Dataset,252,238,15,0,252,236,24,0
+50944,2026,3298,IPL 2026,73,2026-05-29,Qualifier,Qualifier 2,Gujarat Titans,Rajasthan Royals,Gujarat Titans Won by 7 wickets,True,Included in Active Dataset,241,232,112,0,241,232,111,0
+50945,2026,3298,IPL 2026,74,2026-05-31,Final,Final,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru Won by 5 wickets,True,Included in Active Dataset,233,228,74,0,233,228,103,0

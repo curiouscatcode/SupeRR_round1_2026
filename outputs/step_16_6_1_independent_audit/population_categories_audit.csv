@@ -1,7 +1,0 @@
-category_name,description,total_deliveries,pct_of_all_batting,mean_pi,mean_z_pi,mean_leverage_pct,mean_z_lev,mean_wp_before,control_hp_pct,cand1a_hp_pct,cand2_hp_pct,cand3_hp_pct
-Category A: 1st Innings PP Collapse,"Inn 1, PP, 3+ wkts down (e.g. 20/3 in over 4)",1575,0.87,48.78,1.184,1.04,-1.005,0.312,59.49,35.3,34.1,2.98
-Category B: Lost-Cause Chase / Blowout,"Inn 2, Over 13+, WP < 5%, RRR > 12 (e.g. 60/7 chasing 190)",8240,4.56,70.5,1.07,0.356,-0.726,0.013,52.34,35.3,41.77,10.17
-Category C: Competitive Death Thriller,"Inn 2, Over 18+, WP 30-70%, <= 12 balls rem (e.g. 10 off 6)",452,0.25,44.3,-0.125,14.627,3.092,0.501,1.33,48.67,18.58,85.4
-Category D: Tight Middle-Over Squeeze,"Inn 2, Over 10-16, WP 40-60%, 3-5 down, RRR 9-12",1860,1.03,43.61,0.197,2.951,1.439,0.497,16.72,36.51,26.34,61.77
-Category E: High Leverage / Low Difficulty,"Z_Lev > 1.5 but Z_PI < 0 (Close game, easy tactical state)",1333,0.74,33.62,-0.298,6.872,2.307,0.578,0.0,10.8,0.0,89.12
-Category F: High Difficulty / Low Leverage,Z_PI > 1.0 but Z_Lev < -1.0 (Extreme tactical stress in decided match),8584,4.75,68.17,1.754,0.435,-1.639,0.125,100.0,48.87,56.49,5.99

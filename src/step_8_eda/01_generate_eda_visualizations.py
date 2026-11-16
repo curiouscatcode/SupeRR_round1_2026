@@ -149,7 +149,9 @@ def main():
     # Cutoff line between rank 10 and 11
     cutoff_y = 9.5
     ax.axhline(cutoff_y, color='#d62728', linestyle='--', linewidth=1.5, alpha=0.8)
-    ax.text(0.24, cutoff_y + 0.15, "Top 10 Official Cutoff (Rank 10 Reeza Hendricks: +0.156 vs Rank 11 Rajat Patidar: +0.154)", color='#d62728', fontsize=8.5, fontweight='bold')
+    ax.text(0.388, cutoff_y + 0.35, "Top 10 Official Cutoff (#10 Reeza Hendricks: +0.156 vs #11 Rajat Patidar: +0.154)", 
+            color='#d62728', fontsize=8.5, fontweight='bold', ha='right', va='center',
+            bbox=dict(boxstyle='round,pad=0.3', facecolor='#ffffff', edgecolor='#d62728', alpha=0.95, linewidth=0.9))
     
     ax.set_xlim(-0.02, 0.40)
     ax.grid(axis='x', linestyle='--', alpha=0.6)
@@ -180,7 +182,9 @@ def main():
         
     cutoff_y = 9.5
     ax.axhline(cutoff_y, color='#d62728', linestyle='--', linewidth=1.5, alpha=0.8)
-    ax.text(0.11, cutoff_y + 0.15, "Top 10 Official Cutoff (Rank 10 Mujeeb: +0.102 vs Rank 11 Mosaddek: +0.100)", color='#d62728', fontsize=8.5, fontweight='bold')
+    ax.text(0.192, cutoff_y + 0.35, "Top 10 Official Cutoff (#10 Mujeeb: +0.102 vs #11 Mosaddek: +0.100)", 
+            color='#d62728', fontsize=8.5, fontweight='bold', ha='right', va='center',
+            bbox=dict(boxstyle='round,pad=0.3', facecolor='#ffffff', edgecolor='#d62728', alpha=0.95, linewidth=0.9))
     
     ax.set_xlim(-0.01, 0.20)
     ax.grid(axis='x', linestyle='--', alpha=0.6)
@@ -201,14 +205,23 @@ def main():
     top10_b_all = bat_df.head(10)
     ax.scatter(top10_b_all['Raw opportunities'], top10_b_all['Shrunk score'], color='#1f77b4', edgecolors='black', s=95, linewidth=1.2, zorder=5, label='Top 10 Batters')
     
-    # Annotate top 5
+    # Distinct quadrant offsets to guarantee zero overlap between Tim David (#4) and Heinrich Klaasen (#5)
+    offsets_bat = {
+        1: (50, 0.015),       # Vaibhav: top-right
+        2: (-200, 0.018),     # Surya: top-left
+        3: (50, 0.015),       # Abhishek: top-right
+        4: (-210, 0.024),     # Tim David: top-left (1163b, +0.257) -> moves away from Klaasen
+        5: (45, -0.028),      # Heinrich Klaasen: bottom-right (1409b, +0.220) -> moves away from David
+    }
     for _, r in top10_b_all.head(5).iterrows():
-        offset_y = 0.018 if r['Rank'] != 4 else -0.022
+        rk = int(r['Rank'])
+        dx, dy = offsets_bat.get(rk, (40, 0.018))
         ax.annotate(
-            f"#{r['Rank']} {r['Player']}\n(+{r['Shrunk score']:.3f})",
+            f"#{rk} {r['Player']}\n(+{r['Shrunk score']:.3f})",
             (r['Raw opportunities'], r['Shrunk score']),
-            xytext=(r['Raw opportunities'] + 40, r['Shrunk score'] + offset_y),
+            xytext=(r['Raw opportunities'] + dx, r['Shrunk score'] + dy),
             fontsize=8.5, fontweight='bold',
+            bbox=dict(boxstyle='round,pad=0.22', facecolor='white', edgecolor='#cccccc', alpha=0.88),
             arrowprops=dict(arrowstyle='->', color='#333333', lw=0.9)
         )
         
@@ -233,13 +246,23 @@ def main():
     top10_bw_all = bowl_df.head(10)
     ax.scatter(top10_bw_all['Raw opportunities'], top10_bw_all['Shrunk score'], color='#2ca02c', edgecolors='black', s=95, linewidth=1.2, zorder=5, label='Top 10 Bowlers')
     
+    # Distinct quadrant offsets to guarantee zero overlap between Josh Hazlewood (#4) and Sunil Narine (#3)
+    offsets_bowl = {
+        1: (-210, 0.014),     # Rashid: top-left
+        2: (50, 0.014),       # Bumrah: top-right
+        3: (45, 0.016),       # Sunil Narine: top-right (1464b, +0.144) -> moves away from Hazlewood
+        4: (-230, -0.022),    # Josh Hazlewood: bottom-left (1368b, +0.133) -> moves away from Narine
+        5: (50, -0.016),      # Wanindu Hasaranga: bottom-right (1932b, +0.118)
+    }
     for _, r in top10_bw_all.head(5).iterrows():
-        offset_y = 0.012 if r['Rank'] != 3 else -0.018
+        rk = int(r['Rank'])
+        dx, dy = offsets_bowl.get(rk, (50, 0.012))
         ax.annotate(
-            f"#{r['Rank']} {r['Player']}\n(+{r['Shrunk score']:.3f})",
+            f"#{rk} {r['Player']}\n(+{r['Shrunk score']:.3f})",
             (r['Raw opportunities'], r['Shrunk score']),
-            xytext=(r['Raw opportunities'] + 50, r['Shrunk score'] + offset_y),
+            xytext=(r['Raw opportunities'] + dx, r['Shrunk score'] + dy),
             fontsize=8.5, fontweight='bold',
+            bbox=dict(boxstyle='round,pad=0.22', facecolor='white', edgecolor='#cccccc', alpha=0.88),
             arrowprops=dict(arrowstyle='->', color='#333333', lw=0.9)
         )
         

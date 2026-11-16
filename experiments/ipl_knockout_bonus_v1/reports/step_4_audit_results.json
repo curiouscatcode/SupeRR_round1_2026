@@ -1,0 +1,367 @@
+{
+  "status": "Complete",
+  "audit_timestamp": "2026-11-15T14:15:00+05:30",
+  "reproduction_results": {
+    "1.00x": {
+      "batting": {
+        "count": 297,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      },
+      "bowling": {
+        "count": 292,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      }
+    },
+    "1.10x": {
+      "batting": {
+        "count": 297,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      },
+      "bowling": {
+        "count": 292,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      }
+    },
+    "1.20x": {
+      "batting": {
+        "count": 297,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      },
+      "bowling": {
+        "count": 292,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      }
+    },
+    "1.25x": {
+      "batting": {
+        "count": 297,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      },
+      "bowling": {
+        "count": 292,
+        "max_diff_shrunk": 0.0,
+        "max_diff_raw": 0.0,
+        "max_diff_ess": 0.0,
+        "max_diff_rank": 0,
+        "verified": true
+      }
+    }
+  },
+  "zero_knockout_invariance": {
+    "batting_players_count": 206,
+    "bowling_players_count": 210,
+    "max_score_diff_batting": 0.0,
+    "max_score_diff_bowling": 0.0,
+    "max_ess_diff_batting": 0.0,
+    "max_ess_diff_bowling": 0.0,
+    "verified": true
+  },
+  "score_decompositions": {
+    "Rajat Patidar": {
+      "discipline": "Batting",
+      "K": 600.0,
+      "raw_base": 0.27450269586065285,
+      "raw_1_20": 0.283780103926176,
+      "delta_raw": 0.00927740806552313,
+      "ess_base": 770.2855993556564,
+      "ess_1_20": 766.7872707098395,
+      "delta_ess": -3.498328645816855,
+      "beta_base": 0.5621350758687566,
+      "beta_1_20": 0.5610143488617723,
+      "delta_beta": -0.00112072700698429,
+      "exact_delta_beta_check": -0.001120727006984208,
+      "shrunk_base": 0.1543075937638063,
+      "shrunk_1_20": 0.15920471022406968,
+      "delta_shrunk": 0.00489711646026339,
+      "baseline_referenced": {
+        "reweighting_effect": 0.005215156486778259,
+        "shrinkage_ess_effect": -0.00030764258474102834,
+        "interaction_term": -1.0397441773845648e-05,
+        "reconciled_sum": 0.004897116460263385,
+        "residual_error": -5.204170427930421e-18
+      },
+      "midpoint_shapley": {
+        "reweighting_effect": 0.005209957765891335,
+        "shrinkage_ess_effect": -0.0003128413056279512,
+        "reconciled_sum": 0.004897116460263384,
+        "residual_error": -6.071532165918825e-18
+      }
+    },
+    "Travis Head": {
+      "discipline": "Batting",
+      "K": 600.0,
+      "raw_base": 0.26109607954576675,
+      "raw_1_20": 0.25216838826390664,
+      "delta_raw": -0.008927691281860106,
+      "ess_base": 988.6467184829103,
+      "ess_1_20": 986.5838116302615,
+      "delta_ess": -2.06290685264878,
+      "beta_base": 0.6223200583116589,
+      "beta_1_20": 0.6218289915718461,
+      "delta_beta": -0.0004910667398128066,
+      "exact_delta_beta_check": -0.0004910667398126943,
+      "shrunk_base": 0.1624853274478671,
+      "shrunk_1_20": 0.15680561458044281,
+      "delta_shrunk": -0.005679712867424275,
+      "baseline_referenced": {
+        "reweighting_effect": -0.005555881359115671,
+        "shrinkage_ess_effect": -0.0001282156005604449,
+        "interaction_term": 4.3840922518382586e-06,
+        "reconciled_sum": -0.005679712867424277,
+        "residual_error": -2.6020852139652106e-18
+      },
+      "midpoint_shapley": {
+        "reweighting_effect": -0.005553689312989751,
+        "shrinkage_ess_effect": -0.00012602355443452575,
+        "reconciled_sum": -0.0056797128674242765,
+        "residual_error": -1.734723475976807e-18
+      }
+    },
+    "Ayush Badoni": {
+      "discipline": "Batting",
+      "K": 600.0,
+      "raw_base": -0.04090289272299261,
+      "raw_1_20": -0.045651499941298586,
+      "delta_raw": -0.004748607218305972,
+      "ess_base": 695.3705781734668,
+      "ess_1_20": 694.8971539862637,
+      "delta_ess": -0.47342418720313617,
+      "beta_base": 0.5368120828820829,
+      "beta_1_20": 0.5366427378784981,
+      "delta_beta": -0.00016934500358478655,
+      "exact_delta_beta_check": -0.00016934500358488675,
+      "shrunk_base": -0.02195716703853206,
+      "shrunk_1_20": -0.024498545916758572,
+      "delta_shrunk": -0.0025413788782265127,
+      "baseline_referenced": {
+        "reweighting_effect": -0.002549109731647723,
+        "shrinkage_ess_effect": 6.9267005148033236e-06,
+        "interaction_term": 8.041529064067682e-07,
+        "reconciled_sum": -0.0025413788782265127,
+        "residual_error": 0.0
+      },
+      "midpoint_shapley": {
+        "reweighting_effect": -0.0025487076551945196,
+        "shrinkage_ess_effect": 7.328776968006708e-06,
+        "reconciled_sum": -0.0025413788782265127,
+        "residual_error": 0.0
+      }
+    },
+    "Mitchell Starc": {
+      "discipline": "Bowling",
+      "K": 500.0,
+      "raw_base": -0.1264050262688951,
+      "raw_1_20": -0.10710975600334721,
+      "delta_raw": 0.019295270265547892,
+      "ess_base": 644.7320047145516,
+      "ess_1_20": 645.613103647716,
+      "delta_ess": 0.8810989331643668,
+      "beta_base": 0.5632165450596629,
+      "beta_1_20": 0.5635524782250104,
+      "delta_beta": 0.00033593316534752393,
+      "exact_delta_beta_check": 0.00033593316534734845,
+      "shrunk_base": -0.07119340217334304,
+      "shrunk_1_20": -0.06036196843776251,
+      "delta_shrunk": 0.010831433735580528,
+      "baseline_referenced": {
+        "reweighting_effect": 0.010867415454954328,
+        "shrinkage_ess_effect": -4.2463640590346843e-05,
+        "interaction_term": 6.481921216541462e-06,
+        "reconciled_sum": 0.010831433735580522,
+        "residual_error": -6.938893903907228e-18
+      },
+      "midpoint_shapley": {
+        "reweighting_effect": 0.010870656415562598,
+        "shrinkage_ess_effect": -3.922267998207612e-05,
+        "reconciled_sum": 0.010831433735580522,
+        "residual_error": -6.938893903907228e-18
+      }
+    },
+    "Akash Madhwal": {
+      "discipline": "Bowling",
+      "K": 500.0,
+      "raw_base": -0.056662681461723596,
+      "raw_1_20": -0.03415671667034074,
+      "delta_raw": 0.02250596479138286,
+      "ess_base": 300.00911758971523,
+      "ess_1_20": 299.6804828584319,
+      "delta_ess": -0.32863473128333,
+      "beta_base": 0.3750071230357839,
+      "beta_1_20": 0.37475027749487366,
+      "delta_beta": -0.00025684554091021106,
+      "exact_delta_beta_check": -0.0002568455409102333,
+      "shrunk_base": -0.02124890915845401,
+      "shrunk_1_20": -0.012800239050523968,
+      "delta_shrunk": 0.008448670107930042,
+      "baseline_referenced": {
+        "reweighting_effect": 0.008439897107561132,
+        "shrinkage_ess_effect": 1.4553557069459385e-05,
+        "interaction_term": -5.780556700548895e-06,
+        "reconciled_sum": 0.008448670107930042,
+        "residual_error": 0.0
+      },
+      "midpoint_shapley": {
+        "reweighting_effect": 0.008437006829210857,
+        "shrinkage_ess_effect": 1.1663278719184937e-05,
+        "reconciled_sum": 0.008448670107930042,
+        "residual_error": 0.0
+      }
+    },
+    "Josh Hazlewood": {
+      "discipline": "Bowling",
+      "K": 500.0,
+      "raw_base": 0.19040895521994336,
+      "raw_1_20": 0.19477749338395556,
+      "delta_raw": 0.004368538164012198,
+      "ess_base": 1159.4638792173234,
+      "ess_1_20": 1161.811110708479,
+      "delta_ess": 2.347231491155526,
+      "beta_base": 0.6986978708835638,
+      "beta_1_20": 0.6991234462340096,
+      "delta_beta": 0.00042557535044573935,
+      "exact_delta_beta_check": 0.000425575350445693,
+      "shrunk_base": 0.13303833160933828,
+      "shrunk_1_20": 0.136173512423413,
+      "delta_shrunk": 0.0031351808140747117,
+      "baseline_referenced": {
+        "reweighting_effect": 0.0030522883140689156,
+        "shrinkage_ess_effect": 8.103335784573448e-05,
+        "interaction_term": 1.8591421600850779e-06,
+        "reconciled_sum": 0.0031351808140747356,
+        "residual_error": 2.3852447794681098e-17
+      },
+      "midpoint_shapley": {
+        "reweighting_effect": 0.0030532178851489585,
+        "shrinkage_ess_effect": 8.196292892577704e-05,
+        "reconciled_sum": 0.0031351808140747356,
+        "residual_error": 2.3852447794681098e-17
+      }
+    }
+  },
+  "specific_player_ranks": {
+    "Travis Head": {
+      "rank_base": 8,
+      "rank_1_10": 8,
+      "rank_1_20": 10,
+      "rank_1_25": 11,
+      "shrunk_base": 0.1624853274478671,
+      "shrunk_1_20": 0.15680561458044281,
+      "shrunk_1_25": 0.15537329797445928
+    },
+    "Reeza Hendricks": {
+      "rank_base": 10,
+      "rank_1_10": 11,
+      "rank_1_20": 11,
+      "rank_1_25": 10,
+      "shrunk_base": 0.1563527222789074,
+      "shrunk_1_20": 0.1563527222789074,
+      "shrunk_1_25": 0.1563527222789074
+    },
+    "Rajat Patidar": {
+      "rank_base": 11,
+      "rank_1_10": 10,
+      "rank_1_20": 8,
+      "rank_1_25": 8,
+      "shrunk_base": 0.1543075937638063,
+      "shrunk_1_20": 0.15920471022406968,
+      "shrunk_1_25": 0.16023730304529474
+    },
+    "Andre Russell": {
+      "rank_base": 9,
+      "rank_1_10": 9,
+      "rank_1_20": 9,
+      "rank_1_25": 9,
+      "shrunk_base": 0.15788103540199017,
+      "shrunk_1_20": 0.15788103540199017,
+      "shrunk_1_25": 0.15788103540199017
+    }
+  },
+  "top10_retention_audit": {
+    "batting": {
+      "1.10x": {
+        "retention_pct": 90.0,
+        "exited": "Reeza Hendricks",
+        "entered": "Rajat Patidar"
+      },
+      "1.20x": {
+        "retention_pct": 90.0,
+        "exited": "Reeza Hendricks",
+        "entered": "Rajat Patidar"
+      },
+      "1.25x": {
+        "retention_pct": 90.0,
+        "exited": "Travis Head",
+        "entered": "Rajat Patidar",
+        "restored_to_top10": "Reeza Hendricks"
+      }
+    },
+    "bowling": {
+      "1.10x": {
+        "retention_pct": 100.0,
+        "exited": null,
+        "entered": null
+      },
+      "1.20x": {
+        "retention_pct": 100.0,
+        "exited": null,
+        "entered": null
+      },
+      "1.25x": {
+        "retention_pct": 100.0,
+        "exited": null,
+        "entered": null
+      }
+    }
+  },
+  "reporting_discrepancies": [
+    {
+      "id": "DISC-01",
+      "item": "Travis Head vs. Reeza Hendricks 1.25x Top 10 Displacement",
+      "report_claim": "Experiment report narrative claimed Reeza Hendricks is the sole player displaced from the Top 10 across all multipliers.",
+      "audit_finding": "At 1.25x, Travis Head drops to Rank 11 (shrunk_score = +0.155373), while Reeza Hendricks is restored to Rank 10 (shrunk_score = +0.156353). Thus at 1.25x, Travis Head is the displaced player, NOT Hendricks.",
+      "classification": "Incorrect"
+    },
+    {
+      "id": "DISC-02",
+      "item": "Andre Russell vs. Rajat Patidar Overtaking Claim",
+      "report_claim": "Patidar overtook Andre Russell, but Russell remained at Rank 9 in all regimes.",
+      "audit_finding": "Pairwise score comparison confirms Patidar (+0.159205) surpassed Russell (+0.157881), jumping from #11 to #8. Russell did not lose a rank position because Travis Head simultaneously fell from #8 to #10 (below Russell). Thus Russell experienced a compensatory rank cancellation (+1 from Head drop, -1 from Patidar surge), keeping him net 0 at Rank 9.",
+      "classification": "Verified with qualification"
+    },
+    {
+      "id": "DISC-03",
+      "item": "Missing Rank 11 Bowler in Table 3 of experiment_report.md",
+      "report_claim": "Table 3 showed Top 12 bowlers sorted by Baseline rank, listing Mosaddek Hossain as 1.20x Rank 12 and Blessing Muzarabani as Rank 13, creating a missing slot at Rank 11 in the 1.20x column.",
+      "audit_finding": "Mohsin Khan rose from Baseline Rank 14 to Rank 11 under 1.20x and 1.25x (+3 rank delta). Because Table 3 fixed rows to baseline ranks 1-12, Mohsin Khan was excluded, causing an apparent hole at Rank 11 in the display table.",
+      "classification": "Incorrect"
+    }
+  ]
+}

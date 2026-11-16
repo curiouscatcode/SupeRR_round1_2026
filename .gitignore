@@ -35,6 +35,12 @@ secrets*
 Thumbs.db
 desktop.ini
 
+# Temporary scratch binaries and test renders
+scratch/*.pdf
+scratch/*.png
+scratch/*.html
+scratch/pdf_pages_*/
+
 # Large Raw and Intermediate Delivery-Level Datasets (>40 MB)
 # Excluded from version control due to repository size best practices.
 #

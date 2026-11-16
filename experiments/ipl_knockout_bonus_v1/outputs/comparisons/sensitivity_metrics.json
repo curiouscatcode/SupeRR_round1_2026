@@ -1,0 +1,48 @@
+{
+  "batting": {
+    "1.10x": {
+      "spearman_correlation": 0.9998983119788489,
+      "top10_retention_pct": 90.0,
+      "max_positive_rank_change": 7,
+      "max_negative_rank_change": -8,
+      "mean_abs_score_change": 0.00028425450488464874
+    },
+    "1.20x": {
+      "spearman_correlation": 0.9997489863261676,
+      "top10_retention_pct": 90.0,
+      "max_positive_rank_change": 11,
+      "max_negative_rank_change": -9,
+      "mean_abs_score_change": 0.0005627880536345134
+    },
+    "1.25x": {
+      "spearman_correlation": 0.9996308083556408,
+      "top10_retention_pct": 90.0,
+      "max_positive_rank_change": 15,
+      "max_negative_rank_change": -11,
+      "mean_abs_score_change": 0.0006998985240862457
+    }
+  },
+  "bowling": {
+    "1.10x": {
+      "spearman_correlation": 0.9998968541976245,
+      "top10_retention_pct": 100.0,
+      "max_positive_rank_change": 10,
+      "max_negative_rank_change": -5,
+      "mean_abs_score_change": 0.0003129587002613066
+    },
+    "1.20x": {
+      "spearman_correlation": 0.9996462195376465,
+      "top10_retention_pct": 100.0,
+      "max_positive_rank_change": 17,
+      "max_negative_rank_change": -11,
+      "mean_abs_score_change": 0.0006259291399711163
+    },
+    "1.25x": {
+      "spearman_correlation": 0.9994298061485503,
+      "top10_retention_pct": 100.0,
+      "max_positive_rank_change": 19,
+      "max_negative_rank_change": -15,
+      "mean_abs_score_change": 0.000782179713030001
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-11-15 08:18:35",
+  "reproduction_status": "PERFECT_MATCH",
+  "tolerance": 1e-12,
+  "batting": {
+    "eligible_count": 297,
+    "max_rank_diff": 0,
+    "max_shrunk_diff": 0.0,
+    "max_raw_diff": 0.0,
+    "max_ess_diff": 0.0,
+    "top10_recalc": [
+      {
+        "rank": 1,
+        "player_name": "Vaibhav Sooryavanshi",
+        "shrunk_score": 0.3487107045089484,
+        "raw_score": 0.7614376375442666,
+        "n_eff": 506.9366836970268
+      },
+      {
+        "rank": 2,
+        "player_name": "Suryakumar Yadav",
+        "shrunk_score": 0.28187619863787217,
+        "raw_score": 0.3558192137736491,
+        "n_eff": 2287.244019900571
+      },
+      {
+        "rank": 3,
+        "player_name": "Abhishek Sharma",
+        "shrunk_score": 0.2703235458578676,
+        "raw_score": 0.35465372024517516,
+        "n_eff": 1923.3225674336113
+      },
+      {
+        "rank": 4,
+        "player_name": "Tim David",
+        "shrunk_score": 0.2570851670860142,
+        "raw_score": 0.4143914319843088,
+        "n_eff": 980.5782392159563
+      },
+      {
+        "rank": 5,
+        "player_name": "Heinrich Klaasen",
+        "shrunk_score": 0.22010337007667657,
+        "raw_score": 0.33574413926904995,
+        "n_eff": 1142.0022797177623
+      },
+      {
+        "rank": 6,
+        "player_name": "Phil Salt",
+        "shrunk_score": 0.19539575849659044,
+        "raw_score": 0.2813011590895538,
+        "n_eff": 1364.727412813641
+      },
+      {
+        "rank": 7,
+        "player_name": "Namboori Tilak Varma",
+        "shrunk_score": 0.1744998578284838,
+        "raw_score": 0.227676752427526,
+        "n_eff": 1968.8986257384074
+      },
+      {
+        "rank": 8,
+        "player_name": "Travis Head",
+        "shrunk_score": 0.1624853274478671,
+        "raw_score": 0.26109607954576675,
+        "n_eff": 988.6467184829103
+      },
+      {
+        "rank": 9,
+        "player_name": "Andre Russell",
+        "shrunk_score": 0.15788103540199017,
+        "raw_score": 0.3238608353330751,
+        "n_eff": 570.7237945853987
+      },
+      {
+        "rank": 10,
+        "player_name": "Reeza Hendricks",
+        "shrunk_score": 0.1563527222789074,
+        "raw_score": 0.2873978133461472,
+        "n_eff": 715.8729304801603
+      }
+    ]
+  },
+  "bowling": {
+    "eligible_count": 292,
+    "max_rank_diff": 0,
+    "max_shrunk_diff": 0.0,
+    "max_raw_diff": 0.0,
+    "max_ess_diff": 0.0,
+    "top10_recalc": [
+      {
+        "rank": 1,
+        "player_name": "Rashid Khan",
+        "shrunk_score": 0.17562544160432444,
+        "raw_score": 0.2147237728081211,
+        "n_eff": 2245.94549430885
+      },
+      {
+        "rank": 2,
+        "player_name": "Jasprit Bumrah",
+        "shrunk_score": 0.15409580696100247,
+        "raw_score": 0.21034701633234942,
+        "n_eff": 1369.711057621236
+      },
+      {
+        "rank": 3,
+        "player_name": "Sunil Narine",
+        "shrunk_score": 0.14417054265155965,
+        "raw_score": 0.20201174070085162,
+        "n_eff": 1246.2617261895089
+      },
+      {
+        "rank": 4,
+        "player_name": "Josh Hazlewood",
+        "shrunk_score": 0.13303833160933828,
+        "raw_score": 0.19040895521994336,
+        "n_eff": 1159.4638792173234
+      },
+      {
+        "rank": 5,
+        "player_name": "Wanindu Hasaranga",
+        "shrunk_score": 0.11835813991169378,
+        "raw_score": 0.15368046791822784,
+        "n_eff": 1675.4011781131674
+      },
+      {
+        "rank": 6,
+        "player_name": "Bhuvneshwar Kumar",
+        "shrunk_score": 0.10650424670398968,
+        "raw_score": 0.13489445790462937,
+        "n_eff": 1875.7212820873615
+      },
+      {
+        "rank": 7,
+        "player_name": "Abrar Ahmed",
+        "shrunk_score": 0.10579662887385037,
+        "raw_score": 0.1932800464931675,
+        "n_eff": 604.6667571574703
+      },
+      {
+        "rank": 8,
+        "player_name": "Kuldeep Yadav",
+        "shrunk_score": 0.10269614232577189,
+        "raw_score": 0.13461710130443313,
+        "n_eff": 1608.600518462227
+      },
+      {
+        "rank": 9,
+        "player_name": "Mahedi Hasan",
+        "shrunk_score": 0.10253975975308147,
+        "raw_score": 0.16997210240562796,
+        "n_eff": 760.3158641649918
+      },
+      {
+        "rank": 10,
+        "player_name": "Mujeeb Ur Rahman",
+        "shrunk_score": 0.10240263780122347,
+        "raw_score": 0.1769730530399698,
+        "n_eff": 686.6170549900311
+      }
+    ]
+  }
+}

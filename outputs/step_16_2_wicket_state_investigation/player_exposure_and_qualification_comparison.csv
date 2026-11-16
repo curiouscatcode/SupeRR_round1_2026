@@ -1,4 +1,0 @@
-model,total_batters,pathway1_n60,pathway2_n50_m6,tier1_rule_b,tier2,total_qualified_n40,excluded_n_less_40,mean_sample_tier1,median_sample_tier1
-Control (Step 16),816,174,32,206,35,241,575,116.6,95.0
-Exp 1 (5-Group),816,161,23,184,27,211,605,132.9,110.0
-Exp 2 (3-Group),816,162,22,184,35,219,597,128.4,107.0

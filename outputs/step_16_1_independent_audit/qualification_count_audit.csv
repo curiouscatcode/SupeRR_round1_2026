@@ -1,5 +1,0 @@
-discipline,model,total_players_in_population,pathway1_n60,pathway2_n50_m6,total_tier1_rule_b,tier2_count,total_qualified_n40,excluded_count,step16_reported_t1,t1_diff
-Batting,Baseline (PI > 60.0),816,116,30,146,42,188,628,146,0
-Batting,Proposed (App B Z > 1.0),816,174,32,206,35,241,575,206,0
-Bowling,Baseline (PI > 60.0),589,113,17,130,19,149,440,130,0
-Bowling,Proposed (App B Z > 1.0),589,160,14,174,16,190,399,174,0

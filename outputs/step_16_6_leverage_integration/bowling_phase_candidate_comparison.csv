@@ -1,4 +1,0 @@
-bowling_phase,total_legal_balls,mean_leverage,mean_pi,Control (Candidate 0) HP %,Control (Candidate 0) HP Count,Additive 70/30 (Candidate 1A) HP %,Additive 70/30 (Candidate 1A) HP Count,Additive 50/50 (Candidate 1B) HP %,Additive 50/50 (Candidate 1B) HP Count,Multiplicative Gated (Candidate 2) HP %,Multiplicative Gated (Candidate 2) HP Count,Convex Composite (Candidate 3) HP %,Convex Composite (Candidate 3) HP Count
-PP,56796,1.4,50.0,18.01,10231,17.32,9838,15.14,8600,15.5,8803,16.03,9106
-Middle,83786,1.11,40.4,17.28,14475,15.6,13071,13.89,11637,15.69,13144,14.01,11742
-Death,39459,1.72,29.3,17.34,6844,15.65,6174,9.91,3911,17.0,6708,9.52,3758

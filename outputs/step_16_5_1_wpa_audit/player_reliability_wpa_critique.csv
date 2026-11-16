@@ -1,5 +1,0 @@
-dimension,metric,batting_correlation,bowling_correlation,flaw_description
-Opportunity Volume Confounding,Total Signed WPA vs Balls Faced,0.561,0.474,Cumulative sum conflates player execution with career length / team usage. High-usage average players accumulate more WPA than elite low-volume players.
-Context Leverage Asymmetry,WPA Variance vs Leverage Faced,0.68,0.62,"Batters entering at 50/4 in tight chases accumulate massive swings, whereas top-order openers in easy chases accumulate negligible WPA regardless of batting quality."
-Sample Size Distortion,Per-100 Rate Extremes at Low Volume,-0.74,-0.71,"Un-shrunk per-100 balls WPA rates are dominated by small-sample anomalies (e.g. 5 balls, 1 lucky six = +25.0 WPA/100)."
-Match-Level Reliability / Variance,Match WPA Std Deviation (sigma_match),0.81,0.77,"True reliability requires measuring match-to-match consistency and downside mitigation, which cumulative WPA ignores."

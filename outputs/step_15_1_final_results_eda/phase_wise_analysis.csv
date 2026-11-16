@@ -1,7 +1,0 @@
-discipline,phase,mean_hp_deliveries,median_hp_deliveries,mean_share_pct,median_share_pct,corr_share_with_score
-"Batting (Tier 1, N=146)",Powerplay (Overs 1-6),17.0,6.0,19.4,5.4,0.235
-"Batting (Tier 1, N=146)",Middle Overs (Overs 7-15),45.1,37.5,42.4,43.4,0.278
-"Batting (Tier 1, N=146)",Death Overs (Overs 16-20),37.0,33.0,38.2,36.2,-0.435
-"Bowling (Tier 1, N=130)",Powerplay (Overs 1-6),70.8,56.5,59.1,67.6,0.224
-"Bowling (Tier 1, N=130)",Middle Overs (Overs 7-15),41.0,24.0,34.4,24.2,-0.243
-"Bowling (Tier 1, N=130)",Death Overs (Overs 16-20),7.4,5.5,6.5,5.2,0.087

@@ -1,3 +1,0 @@
-model_name,observations,unique_matches,in_sample_brier,cv_5fold_brier,overfitting_gap,primary_features
-Innings 2 Win Probability (Target Chase),89919,789,0.1341,0.1351,0.001,"RRR, Wickets Remaining, Balls Remaining, RRR x Wickets Lost"
-Innings 1 Win Probability (Venue-Adjusted Par),98178,789,0.2215,0.2227,0.0011,"Score diff from Venue Par, Wickets Remaining, Balls Bowled, Resource Interaction, CRR"

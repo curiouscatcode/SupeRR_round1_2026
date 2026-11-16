@@ -1,5 +1,0 @@
-role,total_balls,natural_share_pct,hp_balls,within_role_capture_pct,hp_share_pct,representation_index,pp_balls_total,pp_hp_balls,pp_capture_pct,middle_balls_total,middle_hp_balls,middle_capture_pct,death_balls_total,death_hp_balls,death_capture_pct
-Powerplay Specialist,26129,14.51,4792,18.34,15.19,1.047,15432,2995,19.41,6042,1022,16.91,4655,775,16.65
-Middle Overs Specialist,69029,38.34,12059,17.47,38.22,0.997,8846,1534,17.34,52035,9346,17.96,8148,1179,14.47
-Death Overs Specialist,14837,8.24,2717,18.31,8.61,1.045,2793,497,17.79,6125,938,15.31,5919,1282,21.66
-Multi-Phase Bowler,70046,38.91,11982,17.11,37.98,0.976,29725,5205,17.51,19584,3169,16.18,20737,3608,17.4

@@ -1,5 +1,0 @@
-role,metric,reported_pearson,recalc_pearson,reported_spearman,recalc_spearman
-Batting,Expected Leverage,-0.0522,-0.0522,-0.0814,-0.0814
-Batting,Absolute WPA,-0.0444,-0.0444,-0.0329,-0.0329
-Bowling,Expected Leverage,-0.0601,-0.0601,-0.0941,-0.0941
-Bowling,Absolute WPA,-0.0161,-0.0161,-0.0221,-0.0221

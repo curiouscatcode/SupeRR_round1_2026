@@ -1,7 +1,0 @@
-test_id,mutation_description,target_variable,max_abs_diff_batting_pi,max_abs_diff_bowling_pi,invariant_passed
-MUT-01,Random permutation of striker_id across all rows,striker_id,0.0,0.0,True
-MUT-02,Inversion of batting_order (Order = 12 - Order),batting_order,0.0,0.0,True
-MUT-03,Constant batting_order = 11 for all deliveries,batting_order,0.0,0.0,True
-MUT-04,"Uniform constant striker_name (""Mutated_Player_X"")",striker_name,0.0,0.0,True
-MUT-05,Injection of synthetic career strike rate metadata column,career_sr,0.0,0.0,True
-MUT-06,Random permutation of bowler_id across all rows,bowler_id,0.0,0.0,True

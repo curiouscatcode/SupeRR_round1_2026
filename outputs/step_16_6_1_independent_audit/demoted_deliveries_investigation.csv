@@ -1,4 +1,0 @@
-cohort,count,pct_of_total_batting,mean_leverage_pct,median_leverage_pct,p25_leverage_pct,p75_leverage_pct,mean_pi,mean_z_pi,mean_z_cand2,mean_wickets_lost,mean_balls_faced,mean_rrr_inn2,pct_innings_2,pct_top_order_1_3,pct_middle_order_4_6,pct_lower_order_7_11,pct_powerplay,pct_middle_phase,pct_death,pct_blowout_game_state,pct_competitive_game_state
-Retained_HP,26272,14.53,1.149,0.996,0.703,1.354,66.72,1.654,1.638,4.15,1.6,17.22,45.32,18.16,38.57,43.26,29.02,45.49,25.49,17.59,62.83
-Demoted_from_HP,6436,3.56,0.657,0.652,0.352,0.963,57.5,1.235,0.834,3.97,5.4,15.94,46.32,24.63,41.42,33.95,40.8,44.31,14.89,24.18,35.64
-Promoted_to_HP,5409,2.99,2.207,1.793,1.288,2.132,52.19,0.829,1.193,2.76,3.9,9.98,64.74,32.02,53.1,14.88,32.93,53.63,13.44,0.5,90.31
