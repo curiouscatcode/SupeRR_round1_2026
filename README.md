@@ -1,3 +1,14 @@
+---
+title: SupeRR Selector 2.0
+emoji: 🏏
+colorFrom: pink
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.35.0
+app_file: app.py
+pinned: false
+---
+
 # SupeRR Selector: T20 Player Performance & Reliability Under Pressure
 
 ## Overview
