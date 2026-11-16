@@ -8,10 +8,10 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-COLOR_PRIMARY = "#3B82F6"   # Electric Blue
-COLOR_ACCENT = "#EC4899"    # Magenta / Crimson
+COLOR_PRIMARY = "#EA1B86"   # Rajasthan Royals Royal Pink
+COLOR_ACCENT = "#F472B6"    # Rose / Light Pink Highlight
 COLOR_SUCCESS = "#10B981"   # Emerald Green
-COLOR_WARNING = "#F59E0B"   # Amber
+COLOR_WARNING = "#F59E0B"   # Amber / Gold
 COLOR_BG_DARK = "#1E293B"   # Slate 800
 COLOR_CARD = "#0F172A"      # Slate 900
 COLOR_TEXT = "#F8FAFC"      # Off white
@@ -36,7 +36,7 @@ def create_top10_bar(df: pd.DataFrame, discipline: str):
     df_sorted['err_minus'] = df_sorted['Shrunk score'] - df_sorted['ci_lower']
     df_sorted['err_plus'] = df_sorted['ci_upper'] - df_sorted['Shrunk score']
 
-    color = '#2563EB' if discipline.lower() == 'batting' else '#D97706'
+    color = '#EA1B86' if discipline.lower() == 'batting' else '#D97706'
 
     fig = go.Figure()
     fig.add_trace(go.Bar(
@@ -45,7 +45,7 @@ def create_top10_bar(df: pd.DataFrame, discipline: str):
         orientation='h',
         marker=dict(
             color=df_sorted['Shrunk score'],
-            colorscale='Blues' if discipline.lower() == 'batting' else 'YlOrBr',
+            colorscale='PuRd' if discipline.lower() == 'batting' else 'YlOrBr',
             line=dict(color='white', width=1)
         ),
         error_x=dict(
@@ -97,7 +97,7 @@ def create_pressure_lift_chart(df: pd.DataFrame, discipline: str):
     ))
 
     # Pressure situation bar (P >= 50)
-    bar_color = '#38BDF8' if discipline.lower() == 'batting' else '#F59E0B'
+    bar_color = '#EA1B86' if discipline.lower() == 'batting' else '#F59E0B'
     fig.add_trace(go.Bar(
         name='High Pressure (P ≥ 50)',
         x=top10['Player'],
@@ -242,8 +242,8 @@ def create_player_radar(p1: pd.Series, p2: pd.Series, discipline: str):
         r=v1_closed,
         theta=categories_closed,
         fill='toself',
-        fillcolor='rgba(59, 130, 246, 0.35)',
-        line=dict(color='#3B82F6', width=2),
+        fillcolor='rgba(234, 27, 134, 0.35)',
+        line=dict(color='#EA1B86', width=2),
         name=f"{p1['Player']} (#{p1['Rank']})"
     ))
 
@@ -251,8 +251,8 @@ def create_player_radar(p1: pd.Series, p2: pd.Series, discipline: str):
         r=v2_closed,
         theta=categories_closed,
         fill='toself',
-        fillcolor='rgba(236, 72, 153, 0.35)',
-        line=dict(color='#EC4899', width=2),
+        fillcolor='rgba(56, 189, 248, 0.35)',
+        line=dict(color='#38BDF8', width=2),
         name=f"{p2['Player']} (#{p2['Rank']})"
     ))
 
@@ -271,7 +271,7 @@ def create_player_radar(p1: pd.Series, p2: pd.Series, discipline: str):
     )
     return fig
 
-def create_gauge(value: float, title: str, min_val=0, max_val=100, color='#3B82F6'):
+def create_gauge(value: float, title: str, min_val=0, max_val=100, color='#EA1B86'):
     """Speedometer gauge chart for pressure and task difficulty."""
     fig = go.Figure(go.Indicator(
         mode="gauge+number",

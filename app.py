@@ -79,9 +79,9 @@ st.markdown("""
         background-color: transparent;
     }
     .stTabs [aria-selected="true"] {
-        background-color: #2563EB !important;
+        background-color: #EA1B86 !important;
         color: #FFFFFF !important;
-        box-shadow: 0 4px 12px rgba(37, 99, 235, 0.35);
+        box-shadow: 0 4px 14px rgba(234, 27, 134, 0.45);
     }
     
     /* 5. Executive Metric Cards Styling */
@@ -133,7 +133,7 @@ st.markdown("""
     .hero-stat {
         font-size: 24px;
         font-weight: 800;
-        color: #38BDF8;
+        color: #F472B6;
         margin-bottom: 4px;
     }
     .hero-desc {
@@ -216,14 +216,14 @@ with tabs[0]:
     hcol1, hcol2, hcol3, hcol4 = st.columns(4)
     with hcol1:
         st.markdown("""
-        <div class="hero-card">
-            <span class="hero-badge" style="background-color:rgba(16,185,129,0.2); color:#10B981;">#1 Batting Phenom</span>
+        <div class="hero-card" style="border-color:rgba(234,27,134,0.4);">
+            <span class="hero-badge" style="background-color:rgba(234,27,134,0.22); color:#F472B6; border:1px solid rgba(234,27,134,0.4);">#1 Batting Phenom (RR)</span>
             <div class="hero-title">Vaibhav Sooryavanshi</div>
             <div class="hero-stat">+0.3487 <span style="font-size:13px; color:#94A3B8;">SVA</span></div>
             <div class="hero-desc">
                 <b>Rajasthan Royals (IPL & T20I)</b><br>
                 Raw SVA: <b>0.7614</b> | Kish ESS: <b>506.9</b><br>
-                Pressure Lift: <b style="color:#10B981;">+0.207</b> elevation under pressure. 38% boundary conversion in high-leverage chases.
+                Pressure Lift: <b style="color:#F472B6;">+0.207</b> elevation under pressure. 38% boundary conversion in high-leverage chases.
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -420,7 +420,7 @@ with tabs[1]:
         st.markdown("""
         <div style="background:#0F172A; border:1px solid #1E293B; border-radius:10px; padding:14px; text-align:center;">
             <div style="font-size:12px; color:#94A3B8; font-weight:700; text-transform:uppercase;">Master Pressure Formula</div>
-            <div style="font-size:20px; font-weight:800; color:#38BDF8; margin:6px 0;">P = [ T × L<sub>norm</sub> ]<sup>1/2</sup></div>
+            <div style="font-size:20px; font-weight:800; color:#F472B6; margin:6px 0;">P = [ T × L<sub>norm</sub> ]<sup>1/2</sup></div>
             <div style="font-size:11px; color:#94A3B8;">Orthogonal Geometric Mean ∈ [0, 100]</div>
         </div>
         """, unsafe_allow_html=True)
@@ -505,7 +505,7 @@ with tabs[1]:
     st.markdown("##### 📊 Live Simulation Diagnostic Gauges")
     gcol1, gcol2, gcol3, gcol4 = st.columns(4)
     with gcol1:
-        st.plotly_chart(create_gauge(sim_res['pressure_batting'], "🏏 Batting Pressure P_bat", color='#3B82F6'), use_container_width=True, config={'displayModeBar': False})
+        st.plotly_chart(create_gauge(sim_res['pressure_batting'], "🏏 Batting Pressure P_bat", color='#EA1B86'), use_container_width=True, config={'displayModeBar': False})
     with gcol2:
         st.plotly_chart(create_gauge(sim_res['pressure_bowling'], "🎯 Bowling Pressure P_bowl", color='#F59E0B'), use_container_width=True, config={'displayModeBar': False})
     with gcol3:
