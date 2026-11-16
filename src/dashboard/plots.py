@@ -114,22 +114,43 @@ def create_pressure_lift_chart(df: pd.DataFrame, discipline: str):
         name='Normal / Routine (P < 50)',
         x=top10['Player'],
         y=top10['SVA_P_lt_50'],
-        marker_color='#64748B',
+        marker=dict(
+            color='#64748B',
+            line=dict(color='#94A3B8', width=1)
+        ),
         text=[f"{v:+.3f}" for v in top10['SVA_P_lt_50']],
         textposition='auto',
-        textfont=dict(size=11)
+        textfont=dict(size=11, color='#FFFFFF'),
+        hoverlabel=dict(
+            bgcolor='#0F172A',
+            font_color='#FFFFFF',
+            font_size=12,
+            bordercolor='#38BDF8'
+        ),
+        hovertemplate="<b>%{x}</b><br><span style='color:#38BDF8'>● Normal / Routine (P < 50):</span> <b style='color:#FFFFFF'>%{y:+.4f} SVA</b><extra></extra>"
     ))
 
     # Pressure situation bar (P >= 50)
     bar_color = '#EA1B86' if discipline.lower() == 'batting' else '#F59E0B'
+    accent_color = '#F472B6' if discipline.lower() == 'batting' else '#FDE68A'
     fig.add_trace(go.Bar(
         name='High Pressure (P ≥ 50)',
         x=top10['Player'],
         y=top10['SVA_P_ge_50'],
-        marker_color=bar_color,
+        marker=dict(
+            color=bar_color,
+            line=dict(color=accent_color, width=1)
+        ),
         text=[f"{v:+.3f}" for v in top10['SVA_P_ge_50']],
         textposition='auto',
-        textfont=dict(size=11, color='white')
+        textfont=dict(size=11, color='#FFFFFF'),
+        hoverlabel=dict(
+            bgcolor='#0F172A',
+            font_color='#FFFFFF',
+            font_size=12,
+            bordercolor=bar_color
+        ),
+        hovertemplate=f"<b>%{{x}}</b><br><span style='color:{accent_color}'>● High Pressure (P ≥ 50):</span> <b style='color:#FFFFFF'>%{{y:+.4f}} SVA</b><extra></extra>"
     ))
 
     fig.update_layout(
@@ -140,8 +161,22 @@ def create_pressure_lift_chart(df: pd.DataFrame, discipline: str):
         plot_bgcolor='rgba(15,23,42,0.6)',
         margin=dict(l=20, r=20, t=60, b=40),
         height=420,
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-        xaxis=dict(tickangle=-25, tickfont=dict(size=11)),
+        hoverlabel=dict(
+            bgcolor='#0F172A',
+            font_color='#FFFFFF',
+            font_size=12,
+            font_family='system-ui, -apple-system, sans-serif',
+            bordercolor='#475569'
+        ),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="right",
+            x=1,
+            font=dict(color='#F8FAFC', size=12)
+        ),
+        xaxis=dict(tickangle=-25, tickfont=dict(size=11, color='#F8FAFC')),
         yaxis=dict(title="Score Value Added (SVA) per Opportunity", showgrid=True, gridcolor='#334155')
     )
     return fig
@@ -159,7 +194,9 @@ def create_lift_waterfall(df: pd.DataFrame, discipline: str):
         marker_color=colors,
         text=[f"{x:+.4f}" for x in top10['Pressure_Lift']],
         textposition='outside',
-        textfont=dict(color='white', size=11)
+        textfont=dict(color='white', size=11),
+        hoverlabel=dict(bgcolor='#0F172A', font_color='#FFFFFF', font_size=12),
+        hovertemplate="<b>%{y}</b><br>Net Pressure Lift Δ: <b>%{x:+.4f}</b><extra></extra>"
     ))
 
     fig.update_layout(
@@ -171,8 +208,9 @@ def create_lift_waterfall(df: pd.DataFrame, discipline: str):
         plot_bgcolor='rgba(15,23,42,0.6)',
         margin=dict(l=20, r=40, t=60, b=40),
         height=380,
+        hoverlabel=dict(bgcolor='#0F172A', font_color='#FFFFFF', font_size=12, bordercolor='#475569'),
         xaxis=dict(showgrid=True, gridcolor='#334155'),
-        yaxis=dict(tickfont=dict(size=12))
+        yaxis=dict(tickfont=dict(size=12, color='#F8FAFC'))
     )
     return fig
 
@@ -215,7 +253,9 @@ def create_phase_bar(player_row: pd.Series):
         marker_color=colors,
         text=[f"{v:+.3f}" for v in sva_vals],
         textposition='outside',
-        textfont=dict(color='white', size=12)
+        textfont=dict(color='white', size=12),
+        hoverlabel=dict(bgcolor='#0F172A', font_color='#FFFFFF', font_size=12),
+        hovertemplate="<b>%{x}</b><br>Phase SVA: <b>%{y:+.4f}</b><extra></extra>"
     ))
 
     fig.update_layout(
@@ -227,6 +267,7 @@ def create_phase_bar(player_row: pd.Series):
         plot_bgcolor='rgba(15,23,42,0.6)',
         margin=dict(l=20, r=20, t=50, b=30),
         height=300,
+        hoverlabel=dict(bgcolor='#0F172A', font_color='#FFFFFF', font_size=12, bordercolor='#475569'),
         yaxis=dict(showgrid=True, gridcolor='#334155')
     )
     return fig
