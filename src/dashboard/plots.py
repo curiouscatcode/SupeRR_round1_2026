@@ -277,19 +277,31 @@ def create_gauge(value: float, title: str, min_val=0, max_val=100, color='#3B82F
         mode="gauge+number",
         value=value,
         domain={'x': [0, 1], 'y': [0, 1]},
-        title={'text': title, 'font': {'size': 14, 'color': '#E2E8F0'}},
-        number={'font': {'size': 24, 'color': '#FFFFFF'}, 'valueformat': '.1f'},
+        title={
+            'text': f"<b>{title}</b>",
+            'font': {'size': 14, 'color': '#F8FAFC'},
+            'align': 'center'
+        },
+        number={
+            'font': {'size': 26, 'color': '#FFFFFF', 'family': 'system-ui, -apple-system, sans-serif'},
+            'valueformat': '.1f'
+        },
         gauge={
-            'axis': {'range': [min_val, max_val], 'tickwidth': 1, 'tickcolor': '#64748B'},
-            'bar': {'color': color, 'thickness': 0.3},
+            'axis': {
+                'range': [min_val, max_val],
+                'tickwidth': 1,
+                'tickcolor': '#64748B',
+                'tickfont': {'size': 11, 'color': '#94A3B8'}
+            },
+            'bar': {'color': color, 'thickness': 0.32},
             'bgcolor': 'rgba(30,41,59,0.8)',
             'borderwidth': 1,
             'bordercolor': '#475569',
             'steps': [
-                {'range': [0, 30], 'color': 'rgba(100, 116, 139, 0.3)'},
-                {'range': [30, 50], 'color': 'rgba(2, 132, 199, 0.3)'},
-                {'range': [50, 75], 'color': 'rgba(245, 158, 11, 0.3)'},
-                {'range': [75, 100], 'color': 'rgba(239, 68, 68, 0.3)'}
+                {'range': [0, 30], 'color': 'rgba(100, 116, 139, 0.25)'},
+                {'range': [30, 50], 'color': 'rgba(2, 132, 199, 0.25)'},
+                {'range': [50, 75], 'color': 'rgba(245, 158, 11, 0.25)'},
+                {'range': [75, 100], 'color': 'rgba(239, 68, 68, 0.25)'}
             ]
         }
     ))
@@ -297,7 +309,7 @@ def create_gauge(value: float, title: str, min_val=0, max_val=100, color='#3B82F
         template="plotly_dark",
         paper_bgcolor='rgba(0,0,0,0)',
         plot_bgcolor='rgba(0,0,0,0)',
-        margin=dict(l=15, r=15, t=35, b=15),
-        height=170
+        margin=dict(l=20, r=20, t=65, b=25),
+        height=225
     )
     return fig

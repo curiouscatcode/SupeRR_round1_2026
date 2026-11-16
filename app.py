@@ -444,13 +444,13 @@ with tabs[1]:
     st.markdown("### 📊 Live Simulation Diagnostic Gauges")
     gcol1, gcol2, gcol3, gcol4 = st.columns(4)
     with gcol1:
-        st.plotly_chart(create_gauge(sim_res['pressure_batting'], "🏏 Batting Pressure P_bat", color='#3B82F6'), use_container_width=True)
+        st.plotly_chart(create_gauge(sim_res['pressure_batting'], "🏏 Batting Pressure P_bat", color='#3B82F6'), use_container_width=True, config={'displayModeBar': False})
     with gcol2:
-        st.plotly_chart(create_gauge(sim_res['pressure_bowling'], "🎯 Bowling Pressure P_bowl", color='#F59E0B'), use_container_width=True)
+        st.plotly_chart(create_gauge(sim_res['pressure_bowling'], "🎯 Bowling Pressure P_bowl", color='#F59E0B'), use_container_width=True, config={'displayModeBar': False})
     with gcol3:
-        st.plotly_chart(create_gauge(sim_res['task_difficulty_bat'], "⚙️ Batting Task Diff T_B", color='#8B5CF6'), use_container_width=True)
+        st.plotly_chart(create_gauge(sim_res['task_difficulty_bat'], "⚙️ Batting Task Diff T_B", color='#8B5CF6'), use_container_width=True, config={'displayModeBar': False})
     with gcol4:
-        st.plotly_chart(create_gauge(sim_res['normalized_consequence_L'], "⚡ Leverage L_norm", color='#EC4899'), use_container_width=True)
+        st.plotly_chart(create_gauge(sim_res['normalized_consequence_L'], "⚡ Leverage L_norm", color='#EC4899'), use_container_width=True, config={'displayModeBar': False})
 
     # Detailed diagnostic breakdown
     rcol1, rcol2 = st.columns(2)
