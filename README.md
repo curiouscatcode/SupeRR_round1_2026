@@ -92,3 +92,4 @@ python src/experimental_model_validation/run_validation.py
 - **Official Model Status (v2.0)**: The official Pressure Index engine (`calculate_pressure_index.py`) and official rankings (`data/processed/batter_reliability_rankings.csv` and `bowler_reliability_rankings.csv`) represent the approved baseline.
 - **Experimental Models Status (M1–M4)**: Models evaluated during Step 9 and Step 10 (Bowler Workload, Phase-Relative Cutoffs, 2nd Innings Powerplay Floor, and Combined System) are **experimental prototypes**. They are computationally verified but **NOT APPROVED** as new production models.
 - **Settled Batter Trap (Variant 2)**: Permanently rejected due to simulation evidence showing it penalizes set batters keeping chases alive.
+"# SupeRR_round1_2026" 
