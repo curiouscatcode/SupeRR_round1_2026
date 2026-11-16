@@ -36,7 +36,31 @@ def create_top10_bar(df: pd.DataFrame, discipline: str):
     df_sorted['err_minus'] = df_sorted['Shrunk score'] - df_sorted['ci_lower']
     df_sorted['err_plus'] = df_sorted['ci_upper'] - df_sorted['Shrunk score']
 
-    color = '#EA1B86' if discipline.lower() == 'batting' else '#D97706'
+    # Curated high-contrast gradients tailored to Rajasthan Royals branding:
+    # Batting: Rich Royal Pink gradient from vibrant soft rose (Rank 10) to deep royal crimson (Rank 1)
+    # Bowling: Warm Royal Amber gradient from warm soft gold (Rank 10) to deep royal bronze (Rank 1)
+    if discipline.lower() == 'batting':
+        colorscale = [
+            [0.0, '#FDA4AF'],   # Soft rose pink (Rank 10)
+            [0.35, '#FB7185'],  # Rose 400
+            [0.65, '#EA1B86'],  # RR Royal Pink
+            [1.0, '#831843']    # Deep Royal Crimson (Rank 1)
+        ]
+    else:
+        colorscale = [
+            [0.0, '#FDE68A'],   # Soft warm gold (Rank 10)
+            [0.35, '#F59E0B'],  # Amber 500
+            [0.65, '#D97706'],  # Rich Bronze Gold
+            [1.0, '#78350F']    # Deep Royal Amber (Rank 1)
+        ]
+
+    # Calculate dynamic per-bar text color:
+    # Lighter/pastel bars (Ranks 5-10) use bold Midnight Navy (#0F172A) for max contrast (>12:1)
+    # Saturated/dark bars (Ranks 1-4) use crisp White (#FFFFFF) for max contrast (>10:1)
+    s_min = df_sorted['Shrunk score'].min()
+    s_max = df_sorted['Shrunk score'].max()
+    norms = (df_sorted['Shrunk score'] - s_min) / (s_max - s_min + 1e-9)
+    text_colors = ['#0F172A' if n < 0.48 else '#FFFFFF' for n in norms]
 
     fig = go.Figure()
     fig.add_trace(go.Bar(
@@ -45,8 +69,8 @@ def create_top10_bar(df: pd.DataFrame, discipline: str):
         orientation='h',
         marker=dict(
             color=df_sorted['Shrunk score'],
-            colorscale='PuRd' if discipline.lower() == 'batting' else 'YlOrBr',
-            line=dict(color='white', width=1)
+            colorscale=colorscale,
+            line=dict(color='#334155', width=1)
         ),
         error_x=dict(
             type='data',
@@ -57,10 +81,10 @@ def create_top10_bar(df: pd.DataFrame, discipline: str):
             thickness=2,
             width=5
         ),
-        text=[f"#{r['Rank']}  {r['Shrunk score']:.4f} (ESS: {r['Kish ESS']:.0f})" for _, r in df_sorted.iterrows()],
+        text=[f"<b>#{r['Rank']}  {r['Shrunk score']:.4f} (ESS: {r['Kish ESS']:.0f})</b>" for _, r in df_sorted.iterrows()],
         textposition='inside',
         insidetextanchor='start',
-        textfont=dict(color='white', size=12, family='sans-serif'),
+        textfont=dict(color=text_colors, size=12, family='system-ui, -apple-system, sans-serif'),
         hovertemplate="<b>%{y}</b><br>Shrunk Score: %{x:.4f}<br>95% CI: [%{customdata[0]:.4f}, %{customdata[1]:.4f}]<br>Kish ESS: %{customdata[2]:.1f}<extra></extra>",
         customdata=df_sorted[['ci_lower', 'ci_upper', 'Kish ESS']]
     ))
@@ -276,7 +300,7 @@ def create_gauge(value: float, title: str, min_val=0, max_val=100, color='#EA1B8
     fig = go.Figure(go.Indicator(
         mode="gauge+number",
         value=value,
-        domain={'x': [0, 1], 'y': [0, 1]},
+        domain={'x': [0, 1], 'y': [0, 0.78]},
         title={
             'text': f"<b>{title}</b>",
             'font': {'size': 14, 'color': '#F8FAFC'},
@@ -309,7 +333,7 @@ def create_gauge(value: float, title: str, min_val=0, max_val=100, color='#EA1B8
         template="plotly_dark",
         paper_bgcolor='rgba(0,0,0,0)',
         plot_bgcolor='rgba(0,0,0,0)',
-        margin=dict(l=20, r=20, t=65, b=25),
-        height=225
+        margin=dict(l=15, r=15, t=50, b=15),
+        height=240
     )
     return fig
