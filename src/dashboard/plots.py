@@ -12,8 +12,8 @@ COLOR_PRIMARY = "#EA1B86"   # Rajasthan Royals Royal Pink
 COLOR_ACCENT = "#F472B6"    # Rose / Light Pink Highlight
 COLOR_SUCCESS = "#10B981"   # Emerald Green
 COLOR_WARNING = "#F59E0B"   # Amber / Gold
-COLOR_BG_DARK = "#1E293B"   # Slate 800
-COLOR_CARD = "#0F172A"      # Slate 900
+COLOR_BG_DARK = "#160D27"   # Royal Obsidian Plum
+COLOR_CARD = "#110B1D"      # Deep Royal Velvet Plum
 COLOR_TEXT = "#F8FAFC"      # Off white
 
 def create_top10_bar(df: pd.DataFrame, discipline: str):
@@ -95,10 +95,10 @@ def create_top10_bar(df: pd.DataFrame, discipline: str):
         yaxis_title="",
         template="plotly_dark",
         paper_bgcolor='rgba(0,0,0,0)',
-        plot_bgcolor='rgba(15,23,42,0.6)',
+        plot_bgcolor='rgba(17,11,29,0.7)',
         margin=dict(l=20, r=30, t=60, b=40),
         height=450,
-        xaxis=dict(showgrid=True, gridcolor='#334155'),
+        xaxis=dict(showgrid=True, gridcolor='#28163D'),
         yaxis=dict(tickfont=dict(size=13, color='#F8FAFC', family='sans-serif'))
     )
     return fig
@@ -158,15 +158,15 @@ def create_pressure_lift_chart(df: pd.DataFrame, discipline: str):
         barmode='group',
         template="plotly_dark",
         paper_bgcolor='rgba(0,0,0,0)',
-        plot_bgcolor='rgba(15,23,42,0.6)',
+        plot_bgcolor='rgba(17,11,29,0.7)',
         margin=dict(l=20, r=20, t=60, b=40),
         height=420,
         hoverlabel=dict(
-            bgcolor='#0F172A',
+            bgcolor='#110B1D',
             font_color='#FFFFFF',
             font_size=12,
             font_family='system-ui, -apple-system, sans-serif',
-            bordercolor='#475569'
+            bordercolor='#3D1F5C'
         ),
         legend=dict(
             orientation="h",
@@ -177,7 +177,7 @@ def create_pressure_lift_chart(df: pd.DataFrame, discipline: str):
             font=dict(color='#F8FAFC', size=12)
         ),
         xaxis=dict(tickangle=-25, tickfont=dict(size=11, color='#F8FAFC')),
-        yaxis=dict(title="Score Value Added (SVA) per Opportunity", showgrid=True, gridcolor='#334155')
+        yaxis=dict(title="Score Value Added (SVA) per Opportunity", showgrid=True, gridcolor='#28163D')
     )
     return fig
 
@@ -205,11 +205,11 @@ def create_lift_waterfall(df: pd.DataFrame, discipline: str):
         yaxis_title="",
         template="plotly_dark",
         paper_bgcolor='rgba(0,0,0,0)',
-        plot_bgcolor='rgba(15,23,42,0.6)',
+        plot_bgcolor='rgba(17,11,29,0.7)',
         margin=dict(l=20, r=40, t=60, b=40),
         height=380,
-        hoverlabel=dict(bgcolor='#0F172A', font_color='#FFFFFF', font_size=12, bordercolor='#475569'),
-        xaxis=dict(showgrid=True, gridcolor='#334155'),
+        hoverlabel=dict(bgcolor='#110B1D', font_color='#FFFFFF', font_size=12, bordercolor='#3D1F5C'),
+        xaxis=dict(showgrid=True, gridcolor='#28163D'),
         yaxis=dict(tickfont=dict(size=12, color='#F8FAFC'))
     )
     return fig
@@ -264,11 +264,11 @@ def create_phase_bar(player_row: pd.Series):
         yaxis_title="SVA / Ball",
         template="plotly_dark",
         paper_bgcolor='rgba(0,0,0,0)',
-        plot_bgcolor='rgba(15,23,42,0.6)',
+        plot_bgcolor='rgba(17,11,29,0.7)',
         margin=dict(l=20, r=20, t=50, b=30),
         height=300,
-        hoverlabel=dict(bgcolor='#0F172A', font_color='#FFFFFF', font_size=12, bordercolor='#475569'),
-        yaxis=dict(showgrid=True, gridcolor='#334155')
+        hoverlabel=dict(bgcolor='#110B1D', font_color='#FFFFFF', font_size=12, bordercolor='#3D1F5C'),
+        yaxis=dict(showgrid=True, gridcolor='#28163D')
     )
     return fig
 
