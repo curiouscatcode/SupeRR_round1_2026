@@ -11,6 +11,26 @@ pinned: false
 
 # SupeRR Selector: T20 Player Performance & Reliability Under Pressure
 
+> 🚀 **Live Interactive Dashboard:** [https://rr-superr-selector.streamlit.app/](https://rr-superr-selector.streamlit.app/)  
+> *Official 24/7 executive analytics portal featuring real-time match scenario simulation, empirical Bayes pressure leaderboards, and diagnostic telemetry.*
+
+---
+
+## Executive Summary & Live App
+
+The **SupeRR Selector 2.0** dashboard is deployed live on Streamlit Community Cloud:
+* **Production URL:** **[https://rr-superr-selector.streamlit.app/](https://rr-superr-selector.streamlit.app/)**
+* **Local Run:** `streamlit run app.py` (after `pip install -r requirements.txt`)
+* **Core Capabilities:**
+  1. **Official Top 10 Batting & Bowling Leaderboards:** Empirical Bayes shrunk scores (PWSVA / SBVA), 95% bootstrap confidence intervals, and Kish effective sample sizes ($N_{\text{eff}}$).
+  2. **Tactical Phase Breakdown:** Powerplay, Middle, and Death overs performance across all 297 batters and 292 bowlers.
+  3. **Head-to-Head Radar Comparison:** Standardized 6-axis player diagnostics across clutch lift and phase value-added.
+  4. **Live One-Click Match Scenario Simulator:** Real-time Win Probability, Logistic Task Difficulty ($T$), Normalized Leverage ($L_{\text{norm}}$), and Orthogonal Pressure ($P = \sqrt{T \cdot L_{\text{norm}}}$) with speedometer gauges.
+  5. **Sensitivity & Model Validation:** Empirical Bayes shrinkage parameter ($\alpha$) sensitivity sweeps and Kish weight decay analysis.
+  6. **Step 8 Publication Figures Gallery:** Complete 14-figure high-resolution exploratory data analysis suite.
+
+---
+
 ## Overview
 
 **SupeRR Selector** is a sports analytics project designed to evaluate how professional T20 cricket players (batters and bowlers) perform under pressure and to rank the most reliable clutch performers.
@@ -103,4 +123,3 @@ python src/experimental_model_validation/run_validation.py
 - **Official Model Status (v2.0)**: The official Pressure Index engine (`calculate_pressure_index.py`) and official rankings (`data/processed/batter_reliability_rankings.csv` and `bowler_reliability_rankings.csv`) represent the approved baseline.
 - **Experimental Models Status (M1–M4)**: Models evaluated during Step 9 and Step 10 (Bowler Workload, Phase-Relative Cutoffs, 2nd Innings Powerplay Floor, and Combined System) are **experimental prototypes**. They are computationally verified but **NOT APPROVED** as new production models.
 - **Settled Batter Trap (Variant 2)**: Permanently rejected due to simulation evidence showing it penalizes set batters keeping chases alive.
-"# SupeRR_round1_2026" 
